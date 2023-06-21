@@ -21,21 +21,20 @@ class JsonParser:
     
     def serialize_from_json(self, obj, schema, header=[]):
         if isinstance(obj, str) and obj != "":
-            
-            current_header = " ".join(header) + ":"  
+            current_header = " ".join(header) + ":"
             clean_obj = self.cleaner.sub("", obj) if self.list_item == [] else ",".join(self.list_item)
             require_obj_len = 128-len(current_header)
             
             if len(clean_obj) <= require_obj_len:
                 self.parse_data.append(current_header + clean_obj)
-              
+
             else:
                 for idx in range(0, len(clean_obj), require_obj_len-self.overlap_len):
                     self.parse_data.append(current_header + clean_obj[idx:idx+require_obj_len])
 
         if isinstance(obj, dict) and isinstance(schema, dict):
             for key, value in schema.items():  
-                if key in obj.keys():
+                if key in obj.keys() and key != "":
                     if value == "前綴":
                         header = header+[self.cleaner.sub("", obj[key])]
 
@@ -46,10 +45,12 @@ class JsonParser:
                         self.serialize_from_json(obj[key], schema=schema[key], header=header)
 
         if isinstance(obj, list) and isinstance(schema, list):
-
             for idx in range(len(obj)):
-                idx_for_schema = 0 if len(schema) < idx + 1 else idx
-                self.serialize_from_json(obj[idx], schema=schema[idx_for_schema], header=header)
+                if len(schema) < len(obj):
+                    for schema_try in schema:
+                        self.serialize_from_json(obj[idx], schema=schema_try, header=header)
+                else:
+                    self.serialize_from_json(obj[idx], schema=schema[idx], header=header)
 
             if len(self.list_item) > 0:
                 self.serialize_from_json("。", "", header=header)
@@ -58,15 +59,14 @@ class JsonParser:
 def main(args):
     
                 
-    data_path = [
-                 ["cubcardlist.txt", "cubcardlist.json", "cubcardlist.txt"],
+    data_path = [["cubcardlist.txt", "cubcardlist.json", "cubcardlist.txt"],
                  ["cube卡.txt", "cube卡.json", "cube卡.txt"],
+                 ["overview_creditcard.txt", "overview_creditcard.json", "overview_creditcard.txt"],
                  ["eva.txt", "eva.json", "eva.txt"],
                  ["shopee.txt", "shopee.json", "shopee.txt"],
-                 ["world.txt", "world.json", "world.txt"],
-                ]
+                 ["world.txt", "world.json", "world.txt"]]
     
-    meta_data = ["CUBE卡", "CUBE卡", "長榮航空聯名卡", "蝦皮購物聯名卡","世界卡"]
+    meta_data = ["CUBE卡", "CUBE卡", "CUBE卡" ,"長榮航空聯名卡", "蝦皮購物聯名卡","世界卡"]
 
     all_parse_data = []
     for idx in range(len(data_path)):
