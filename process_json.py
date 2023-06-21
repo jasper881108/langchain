@@ -26,11 +26,15 @@ class JsonParser:
             require_obj_len = 128-len(current_header)
             
             if len(clean_obj) <= require_obj_len:
-                self.parse_data.append(current_header + clean_obj)
+                parse_data = current_header + clean_obj
+                if parse_data not in self.parse_data:
+                    self.parse_data.append(parse_data)
 
             else:
                 for idx in range(0, len(clean_obj), require_obj_len-self.overlap_len):
-                    self.parse_data.append(current_header + clean_obj[idx:idx+require_obj_len])
+                    parse_data = current_header + clean_obj[idx:idx+require_obj_len]
+                    if parse_data not in self.parse_data:
+                        self.parse_data.append(parse_data)
 
         if isinstance(obj, dict) and isinstance(schema, dict):
             for key, value in schema.items():  
@@ -46,11 +50,11 @@ class JsonParser:
 
         if isinstance(obj, list) and isinstance(schema, list):
             for idx in range(len(obj)):
-                if len(schema) < len(obj):
-                    for schema_try in schema:
-                        self.serialize_from_json(obj[idx], schema=schema_try, header=header)
-                else:
+                if len(schema) >= len(obj):
                     self.serialize_from_json(obj[idx], schema=schema[idx], header=header)
+                else:
+                    for schema_try in schema:
+                        self.serialize_from_json(obj[idx], schema=schema_try, header=header)                    
 
             if len(self.list_item) > 0:
                 self.serialize_from_json("。", "", header=header)
