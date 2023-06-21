@@ -1,0 +1,64 @@
+{
+    "Items":[{
+        "children":[{},{},
+            {
+               "Main Title":"前綴",
+               "children":[{
+                  "Category Name":"前綴",
+                  "children": {
+                      "children":[{
+                          "Item Text":"序列",
+                  }]
+                  }
+               }]
+            },
+            {
+               "Main Title":"前綴",
+               "children":[{
+                  "Category Name":"前綴",
+                  "children": {
+                      "children":[{
+                          "Item Text":"序列",
+                  }]
+                  }
+               }]
+            },
+            {
+               "Main Title":"前綴",
+               "children":[{
+                  "Category Name":"前綴",
+                  "children": {
+                      "children":[{
+                          "Item Text":"序列",
+                  }]
+                  }
+               }]
+            },
+            {
+               "Main Title":"前綴",
+               "children":[{
+                  "Category Name":"前綴",
+                  "children": {
+                      "children":[{
+                          "Item Text":"序列",
+                  }]
+                  }
+               }]
+            },
+            {
+               "Main Title":"前綴",
+               "children":{
+                  "children":[{
+                     "Title":"序列",
+                  }]
+               }
+            },
+            {
+               "Title":"前綴",
+               "Detail":str,
+
+            },
+
+                    ]
+    }]
+}

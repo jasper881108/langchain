@@ -12,7 +12,8 @@ from utils import (
 def main(args):
     ## nghuyong/ernie-3.0-base-zh
     ## Chinese Model: shibing624/text2vec-base-chinese, GanymedeNil/text2vec-large-chinese, hfl/chinese-macbert-base
-    os.environ["OPENAI_API_KEY"] = "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"
+  
+    os.environ["OPENAI_API_KEY"] = open("openai_api.txt", "r").readline()
     openai.api_key_path = "openai_api.txt"
     public = args.public
     top_k = args.top_k
@@ -47,6 +48,6 @@ if __name__ == '__main__':
     parser.add_argument('--answer_file_path', type=str, default='data/answer.txt')
     parser.add_argument('--question_file_path', type=str, default='data/question.txt')
     parser.add_argument('--db_persist_directory', type=str, default='vectordb')
-    parser.add_argument('--embeddings_model_name', type=str, default='nghuyong/ernie-3.0-base-zh')
+    parser.add_argument('--embeddings_model_name', type=str, default='moka-ai/m3e-base')
     args = parser.parse_args()
     main(args)

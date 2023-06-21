@@ -1,0 +1,2045 @@
+{
+    "ReturnCode": "0000",
+    "ReturnMsg": "查詢成功",
+    "Items": [
+        {
+            "ItemId": "1a93ba0f-7d8c-4248-9488-6a4f135f8031",
+            "ItemName": "CUBE List",
+            "children": [
+                {
+                    "Title": "CUBE卡權益",
+                    "PC Background Image Alt": "",
+                    "PC Background Image": "https://www.cathaybk.com.tw/cathaybk/-/media/512d2a66df1a46b7861f46bd6e2d3db6?v=1",
+                    "Mobile Background Image Alt": "",
+                    "Mobile Background Image": "https://www.cathaybk.com.tw/cathaybk/-/media/d601f39b53214135b24482a19db5bb56?v=1",
+                    "ItemId": "7676f552-30a2-4c37-8842-035c53f2a7f1",
+                    "ItemName": "SearchKV"
+                },
+                {
+                    "Button Link": "https://www.cathaybk.com.tw/cathaybk/onlineservice/CreditCard/CreditCardApply/cardgrade-s2.aspx?CardMain=24",
+                    "Button Text": "立即申辦",
+                    "Rejection": "",
+                    "ItemId": "bf59a637-5925-449f-a494-16a6ff917505",
+                    "ItemName": "AnchorMenu",
+                    "children": [
+                        {
+                            "Title": "玩數位",
+                            "Anchor Target": "digital",
+                            "ItemId": "a2d3e9ee-acaa-4b58-8911-1efa82f19f2f",
+                            "ItemName": "AnchorMenu Item 1"
+                        },
+                        {
+                            "Title": "樂饗購",
+                            "Anchor Target": "shopdine",
+                            "ItemId": "a991ed19-2f6c-41a8-9431-9f31582a857a",
+                            "ItemName": "AnchorMenu Item 2"
+                        },
+                        {
+                            "Title": "趣旅行",
+                            "Anchor Target": "travel",
+                            "ItemId": "b6b5dae1-11dc-4daf-ae54-3d9be129896f",
+                            "ItemName": "AnchorMenu Item 3"
+                        },
+                        {
+                            "Title": "集精選",
+                            "Anchor Target": "select",
+                            "Rejection": "",
+                            "ItemId": "cf17898f-5984-415f-bd0e-d13ebfa73bf2",
+                            "ItemName": "AnchorMenu Item 7"
+                        },
+                        {
+                            "Title": "限時優惠",
+                            "Anchor Target": "blockname04",
+                            "ItemId": "e02bfb60-3289-4dce-b8ad-476f572dd825",
+                            "ItemName": "AnchorMenu Item 4"
+                        },
+                        {
+                            "Title": "權益切換",
+                            "Anchor Target": "blockname05",
+                            "Rejection": "",
+                            "ItemId": "054766b7-4b4c-458b-a390-92585b80afc6",
+                            "ItemName": "AnchorMenu Item 5"
+                        },
+                        {
+                            "Title": "CUBE卡介紹",
+                            "Anchor Target": "",
+                            "Link": "https://www.cathaybk.com.tw/cathaybk/personal/product/credit-card/cards/cube",
+                            "Rejection": "",
+                            "ItemId": "18a7f16a-502d-46d6-8a8b-4bffb6041f4e",
+                            "ItemName": "AnchorMenu Item 8"
+                        },
+                        {
+                            "Title": "注意事項",
+                            "Anchor Target": "blockname06",
+                            "ItemId": "1aa076eb-5331-4822-95f6-26c433a55677",
+                            "ItemName": "AnchorMenu Item 6"
+                        }
+                    ]
+                },
+                {
+                    "Anchor Key": "digital",
+                    "Main Title": "<p class=\"cubre-a-blockTitle\">玩數位&nbsp;<img alt=\"\" width=\"36\" class=\"cubre-a-image\" src=\"-/media/e4e8446ed40d43958cfc3c06294b8980\" style=\"padding-bottom : 5px;\" />\n<stlye class=\"cubre-m-cubeInfo__title\"><span style=\"color: #4a7056;\">3%</span></stlye></p>",
+                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                    "Notice Title": "注意事項",
+                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">指定線上消費</p>\n</div>\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">「網購平台」</p>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n蝦皮購物包含全站消費，惟不包含LINE PAY交易、街口支付及shopeeads(蝦皮加值服務中心)等任何形式廣告購買消費。momo購物網僅限網路購物並以momo-EC請款之款項，不包含momo購物台、momo-TV等。PChome線上購物各通路含線上購物、24h購物、購物中心、APP、商店街，不含支付連PChomePay。亦不包含使用任何平台代扣繳費、購買廣告等。Yahoo奇摩購物中心含超級商城與拍賣。\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">「 Apple 媒體服務」</p>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li>持卡人持CUBE卡於 Apple 媒體服務刷卡消費且該筆消費適用「玩數位」或「集精選」權益方案，即享刷卡金額之3%小樹點(信用卡) 回饋；若該筆消費適用其他權益方案，將依一般消費計算回饋。</li>\n    <li>Apple 媒體服務消費認列通路含 App Store , Apple Music , iCloud , Apple TV+ , Apple Arcade , Apple One , iTunes 等 Apple 媒體服務訂閱及購買之交易(包括於 App Store , iTunes 商店內購買App/Game，及於App內透過 Apple ID 綁定國泰世華CUBE卡付款之消費，如購買LINE代幣等)，不含 Apple Store 之交易。實際回饋以本行系統判定為 Apple 媒體服務為準。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">「 Facebook」</p>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li>限帳單商店名稱包含可辨認FB相關字樣才符合指定消費回饋。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>",
+                    "Rejection": "0",
+                    "Advertising": "0",
+                    "ItemId": "b53ad5d1-4fd0-4e89-bc5e-c033cf8a3cc6",
+                    "ItemName": "Card Right List 1",
+                    "children": [
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/f67dc70025af4eeb959d6e65be3fdcfb?v=2",
+                            "Category Name": "數位/串流平台",
+                            "ItemId": "18fa0b8a-49ba-45f6-908b-65c75af6e0b9",
+                            "ItemName": "Card Right List Item Lv1 1",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "Description": "",
+                                "ItemId": "8e9d8cd9-6ab1-413c-afb9-79f2d0e6b726",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": [
+                                    {
+                                        "Item Text": "Apple 媒體服務",
+                                        "Notice Type": "{0F972286-8B70-46DD-93C9-29FA03960031}",
+                                        "Notice Content": "Apple媒體服務內容含 App Store / Apple Music / iCloud 等服務，不含 Apple Store 之交易",
+                                        "ItemId": "1a5c9918-ae42-4b13-880d-8aede3471d10",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "Google Play",
+                                        "ItemId": "6722848a-6078-4aa2-83a5-1d223d2c34c8",
+                                        "ItemName": "item2"
+                                    },
+                                    {
+                                        "Item Text": "Disney+",
+                                        "ItemId": "82770fc3-c21e-4812-b752-c5fa03d433a4",
+                                        "ItemName": "item3"
+                                    },
+                                    {
+                                        "Item Text": "Netflix",
+                                        "ItemId": "f514b3cd-e97d-4a1d-ab04-3ac6c34df99a",
+                                        "ItemName": "item4"
+                                    },
+                                    {
+                                        "Item Text": "Spotify",
+                                        "ItemId": "1d31a497-5313-4d90-aa39-090199a8c0c0",
+                                        "ItemName": "item5"
+                                    },
+                                    {
+                                        "Item Text": "Facebook",
+                                        "Notice Type": "{0F972286-8B70-46DD-93C9-29FA03960031}",
+                                        "Notice Content": "限帳單商店名稱包含可辨認FB相關字樣才符合指定消費回饋。",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "d22916ee-2155-4c91-bfee-0558cfe3c8f9",
+                                        "ItemName": "item6"
+                                    },
+                                    {
+                                        "Item Text": "KKBOX",
+                                        "Rejection": "",
+                                        "ItemId": "7f90a470-ff0b-4722-8772-475140650fc1",
+                                        "ItemName": "item7"
+                                    },
+                                    {
+                                        "Item Text": "KKTV",
+                                        "Rejection": "",
+                                        "ItemId": "d1d39cb7-8485-4312-9dc8-29510e33183c",
+                                        "ItemName": "item8"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/723358719814481fa338ed8bbe655963?v=2",
+                            "Category Name": "遊戲平台",
+                            "ItemId": "68289a26-c2c8-455d-94a2-8b4131b9eb66",
+                            "ItemName": "Card Right List Item Lv1 2",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "Description": "",
+                                "ItemId": "9253e9e6-51f0-49b8-9467-c420a8c10336",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": [
+                                    {
+                                        "Item Text": "MyCard",
+                                        "ItemId": "202e1f5f-8853-440d-933a-a88a1dd22ab2",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "PlayStation",
+                                        "ItemId": "549207f7-91c0-4c76-8c29-30180f62fbbd",
+                                        "ItemName": "item2"
+                                    },
+                                    {
+                                        "Item Text": "Steam",
+                                        "ItemId": "fa25bf8b-ef11-4738-8f65-b3a1e3bda744",
+                                        "ItemName": "item3"
+                                    },
+                                    {
+                                        "Item Text": "Nintendo",
+                                        "ItemId": "efedf769-9484-4817-b0dc-e1d72ea1e792",
+                                        "ItemName": "item4"
+                                    },
+                                    {
+                                        "Item Text": "Garena",
+                                        "ItemId": "37e188df-3f28-4bc4-abf8-ca124c1898c8",
+                                        "ItemName": "item5"
+                                    },
+                                    {
+                                        "Item Text": "EA",
+                                        "ItemId": "30506643-ea2e-4626-8675-be992278667e",
+                                        "ItemName": "item6"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/11397389c3c34006b960130420dc9910?v=2",
+                            "Category Name": "網購平台",
+                            "ItemId": "4244cae4-9daf-4a73-ada9-afd111fd8267",
+                            "ItemName": "Card Right List Item Lv1 3",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "ItemId": "cf03cf6d-396f-4a73-a9c2-38cc592f7b01",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": [
+                                    {
+                                        "Item Text": "蝦皮購物",
+                                        "ItemId": "ae045392-7911-405e-9c5b-facb5cc0ef45",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "momo購物網",
+                                        "ItemId": "9cbe5139-26c5-482a-88c2-228c1cbe85eb",
+                                        "ItemName": "item2"
+                                    },
+                                    {
+                                        "Item Text": "PChome線上購物",
+                                        "ItemId": "4a188262-a877-4dc5-b9e1-7624ba2eadfd",
+                                        "ItemName": "item3"
+                                    },
+                                    {
+                                        "Item Text": "Yahoo奇摩購物中心",
+                                        "ItemId": "5c8e64f8-457f-417a-8fe7-bfcaec1da74e",
+                                        "ItemName": "item4"
+                                    },
+                                    {
+                                        "Item Text": "小樹購",
+                                        "Rejection": "",
+                                        "ItemId": "64ae0c77-2b2a-42e1-94fc-7ca015e2aab0",
+                                        "ItemName": "item5"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/0582e5cc161943508753b97c93c37cc5?v=2",
+                            "Category Name": "國際電商",
+                            "ItemId": "77781e9a-24b0-45cb-913a-0768e830530d",
+                            "ItemName": "Card Right List Item Lv1 4",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "ItemId": "e83ae0f3-d297-4323-9443-673dc3cb04fb",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": [
+                                    {
+                                        "Item Text": "Amazon",
+                                        "ItemId": "c2130425-8c33-4d36-949e-512eee8a7e69",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "淘寶/天貓",
+                                        "ItemId": "9899c047-6e23-488b-833c-240ade5aea99",
+                                        "ItemName": "item2"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Anchor Key": "shopdine",
+                    "Main Title": "<p class=\"cubre-a-blockTitle\">樂饗購&nbsp;<img alt=\"\" width=\"36\" class=\"cubre-a-image\" src=\"-/media/e4e8446ed40d43958cfc3c06294b8980\" style=\"padding-bottom : 5px;\" />\n<stlye class=\"cubre-m-cubeInfo__title\"><span style=\"color: #4a7056;\">3%</span></stlye></p>",
+                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                    "Notice Title": "注意事項",
+                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">指定美食/購物消費</p>\n<p class=\"cubre-a-blockTitle -textSub\">「遠東SOGO百貨」</p>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li> 切換【樂饗購】或【集精選】權益方案，即享指定消費3%小樹點(信用卡)回饋；若切換其他權益方案，將依一般消費0.3%回饋計算。</li>\n    <li>2023/3/31前 CUBE APP 領取回饋加碼再享1%小樹點(信用卡)。CHANEL、HERMES、LV精品品牌僅適用主權益3%小樹點(信用卡)回饋，不適用領取加碼之1%小樹點(信用卡)回饋。</li>\n    <li>遠東SOGO百貨部分櫃位/購買禮券/商品券及菸類商品/LINE Pay之刷卡消費恕無法參加本活動，請依各櫃位資訊及現場活動公告為準。</li>\n</ol>\n<p class=\"cubre-a-blockTitle -textSub\">&nbsp;</p>\n<p class=\"cubre-a-blockTitle -textSub\">「國內百貨」</p>\n<ol class=\"cubre-m-list\">\n    <li>各權益方案之「指定消費」或「限時回饋加碼」消費，限直接使用CUBE卡刷卡或使用該卡加入Apple Pay /Samsung Pay/Google Pay/Fitbit Pay/Garmin Pay/Hami Pay消費，皆不含透過綁定其他型態支付工具之消費(如：LINE Pay、街口支付、全盈+PAY、全支付、Pi錢包、橘子支付、歐付寶、icash pay、OPEN錢包、My FamiPay、悠遊付、ezPay、GOMAJI Pay、friday wallet、PayPal等)；及皆不含透過綠界支付平台、藍新支付平台之交易。 </li>\n    <li>百貨附設之電影院不適用。 </li>\n    <li>國內百貨回饋資格係以刷卡簽單上之特店名稱認定，不包含店中櫃。請依刷卡簽單或CUBE App消費資訊中查看，非以發票上列示之商家名稱為依據。</li>\n    <p>※例如：台北101之APPLE STORE為百貨公司店中櫃，簽單上之特店名稱為：APPLE STORE，故不符合【樂饗購】指定消費回饋。</p>\n</ol>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">「外送與餐飲平台」</p>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n認列之消費，不包含 Uber Eats 之優饗方案。\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">&nbsp;</p>\n<p class=\"cubre-a-blockTitle -textSub\">「國內餐飲」</p>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li>「國內餐飲<span style=\"background-color: #f9fbf7;\">」</span>認列之餐廳：限交易地點為臺灣之餐飲消費且依收單機構所設定登錄之餐廳分類代碼(MCC code為5811、5812、5814、5462)為判斷依據。</li>\n    <li>不包含餐券/住宿券/飯店/酒店/旅館/KTV/酒吧/商場(如家樂福、車站商場、機場美食街)所設立之餐廳、夜總會、菸酒販賣商以及透過小額支付收費之連鎖速食店(如：麥當勞、肯德基...)。</li>\n    <li>倘因該特約商店登錄於收單機構之代碼與其營業項目不相符，導致未能正確判斷，消費則不列入本回饋計算。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<p class=\"cubre-a-blockTitle -textSub\">&nbsp;</p>\n<p class=\"cubre-a-blockTitle -textSub\">「誠品生活」</p>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n認列之消費，不包含誠品線上購物、誠品書局之消費。\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">&nbsp;</p>\n<p class=\"cubre-a-blockTitle -textSub\">「康是美」</p>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li>持卡人持CUBE卡於康是美刷卡消費且該筆消費適用樂饗購權益方案，即享刷卡金額之3%小樹點(信用卡)回饋；若該筆消費適用其他權益方案，將依一般消費計算回饋。</li>\n    <li>適用於「康是美實體門市及康是美網購eShop」消費，惟實體門市不含百貨、商場門市，實際排外門市請依康是美規定為準。</li>\n    <li>本行並未介入商品之交付或商品瑕疵等買賣之實體關係，相關商品退貨或服務取消之退款事宜，持卡人應先洽康是美尋求解決，如無法解決，得要求本行就該筆交易以「帳款疑義之處理程序」辦理。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+                    "Deletion": "",
+                    "Rejection": "0",
+                    "Advertising": "0",
+                    "Previous state": "{68FE7487-F5EA-49C1-8A10-B4850956F157}",
+                    "ItemId": "68bb672d-1812-491d-81d2-4901b2b80024",
+                    "ItemName": "Card Right List 2",
+                    "children": [
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/1b1790f474564ffd9a898a00e4d0dbde?v=2",
+                            "Category Name": "國內百貨",
+                            "ItemId": "4e446d77-d3cc-419c-b374-8ac2388e5bb9",
+                            "ItemName": "Card Right List Item Lv1 1",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "Description": "使用提醒：<br />\n國內百貨回饋資格係以刷卡簽單上之特店名稱認定，不包含店中櫃。請依刷卡簽單或CUBE App消費資訊中查看，非以發票上列示之商家名稱為依據。<br />\n例如：台北101之APPLE STORE為百貨公司店中櫃，簽單上之特店名稱為：APPLE STORE，故不符合【樂饗購】指定消費回饋。",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "90a17adc-83b6-4d3d-96a1-cf9534ea9232",
+                                "ItemName": "Card Right List Item Lv2 2",
+                                "children": [
+                                    {
+                                        "Item Text": "遠東SOGO百貨",
+                                        "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                        "Notice Content": "<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li> 切換【樂饗購】或【集精選】權益方案，即享指定消費3%小樹點(信用卡)回饋；若切換其他權益方案，將依一般消費0.3%回饋計算。</li>\n    <li>2023/3/31前 CUBE APP 領取回饋加碼再享1%小樹點(信用卡)。CHANEL、HERMES、LV精品品牌僅適用主權益3%小樹點(信用卡)回饋，不適用領取加碼之1%小樹點(信用卡)回饋。</li>\n    <li>遠東SOGO百貨部分櫃位/購買禮券/商品券及菸類商品/LINE Pay之刷卡消費恕無法參加本活動，請依各櫃位資訊及現場活動公告為準。</li>\n</ol>\n</div>\n</div>",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "e7919acb-0c06-49ef-b92c-7051c5dab4a3",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "太平洋百貨",
+                                        "Notice Type": "{0F972286-8B70-46DD-93C9-29FA03960031}",
+                                        "Notice Content": "驛站/轉運站商場不適用。",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "8544d032-d9a6-4b9c-b3c4-d66e9adf8a94",
+                                        "ItemName": "item2"
+                                    },
+                                    {
+                                        "Item Text": "新光三越",
+                                        "Notice Type": "{0F972286-8B70-46DD-93C9-29FA03960031}",
+                                        "Notice Content": "切換【樂饗購】或【集精選】權益方案，即享指定消費3%小樹點(信用卡)回饋；若切換其他權益方案，將依一般消費0.3%回饋計算。",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "19202e90-9fad-48e2-ab45-2fac30e8424e",
+                                        "ItemName": "item3"
+                                    },
+                                    {
+                                        "Item Text": "SKM Park",
+                                        "Rejection": "",
+                                        "ItemId": "8b1f06b8-6d67-4b72-90cd-e42f378b11bc",
+                                        "ItemName": "item4"
+                                    },
+                                    {
+                                        "Item Text": "遠東百貨",
+                                        "ItemId": "c5e3d22d-130f-4cd7-86ad-b16f48b110a8",
+                                        "ItemName": "item5"
+                                    },
+                                    {
+                                        "Item Text": "Big City遠東巨城購物中心",
+                                        "Rejection": "",
+                                        "ItemId": "cd34031f-1f08-4cac-87b7-4a11a955944b",
+                                        "ItemName": "item6"
+                                    },
+                                    {
+                                        "Item Text": "微風廣場",
+                                        "ItemId": "939be09d-c8c7-41a7-b25d-40859bfb703b",
+                                        "ItemName": "item7"
+                                    },
+                                    {
+                                        "Item Text": "誠品生活",
+                                        "Notice Type": "{0F972286-8B70-46DD-93C9-29FA03960031}",
+                                        "Notice Content": "認列之消費不包含誠品線上購物、誠品書局之消費。",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "0310d348-0cbf-4c0d-b5ea-88b31d048e69",
+                                        "ItemName": "item8"
+                                    },
+                                    {
+                                        "Item Text": "環球購物中心",
+                                        "ItemId": "b254cb5a-f6d3-4501-9fe3-086c9eb9a517",
+                                        "ItemName": "item9"
+                                    },
+                                    {
+                                        "Item Text": "CITYLINK",
+                                        "ItemId": "61854857-06d3-4b2f-8ad1-7cec1bf901a1",
+                                        "ItemName": "item10"
+                                    },
+                                    {
+                                        "Item Text": "BELLAVITA",
+                                        "ItemId": "e3bd2dc1-fcb9-4512-9451-4ba78c9cb106",
+                                        "ItemName": "item11"
+                                    },
+                                    {
+                                        "Item Text": "統一時代",
+                                        "ItemId": "08b1e916-6421-4e7d-8097-7761c4ad9b27",
+                                        "ItemName": "item12"
+                                    },
+                                    {
+                                        "Item Text": "台北101",
+                                        "ItemId": "294e1dcb-4ff4-4b64-8ccf-986bf2d829f2",
+                                        "ItemName": "item13"
+                                    },
+                                    {
+                                        "Item Text": "ATT 4 FUN",
+                                        "ItemId": "39a1e664-35ed-4a02-940f-360bc7f55768",
+                                        "ItemName": "item14"
+                                    },
+                                    {
+                                        "Item Text": "明曜百貨",
+                                        "ItemId": "f67ecf16-e534-4634-aad4-19907ee36fc7",
+                                        "ItemName": "item15"
+                                    },
+                                    {
+                                        "Item Text": "京站",
+                                        "ItemId": "a7d4edb2-0ae6-4cc6-9b02-9f1da559490b",
+                                        "ItemName": "item16"
+                                    },
+                                    {
+                                        "Item Text": "美麗華",
+                                        "ItemId": "bae190b4-7900-409b-9ea2-cbb5a9c709c0",
+                                        "ItemName": "item17"
+                                    },
+                                    {
+                                        "Item Text": "大葉高島屋",
+                                        "ItemId": "f1398776-647e-486d-9aab-d7c1fa20c765",
+                                        "ItemName": "item18"
+                                    },
+                                    {
+                                        "Item Text": "遠企購物中心",
+                                        "ItemId": "6e247a6c-c591-423d-9a7c-ef89dcaf9106",
+                                        "ItemName": "item19"
+                                    },
+                                    {
+                                        "Item Text": "比漾廣場",
+                                        "Deletion": "0",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "Previous state": "{68FE7487-F5EA-49C1-8A10-B4850956F157}",
+                                        "ItemId": "f3e42cdf-fe7d-4a3d-8aad-5b4462a32d86",
+                                        "ItemName": "item20"
+                                    },
+                                    {
+                                        "Item Text": "大江國際購物中心",
+                                        "ItemId": "e3b2540e-e679-46f3-8b63-14028a809a43",
+                                        "ItemName": "item21"
+                                    },
+                                    {
+                                        "Item Text": "中友百貨",
+                                        "ItemId": "1ec3cefa-1d42-4d64-8af0-c2d395cdd119",
+                                        "ItemName": "item22"
+                                    },
+                                    {
+                                        "Item Text": "廣三SOGO",
+                                        "ItemId": "cdee4824-692b-4592-8f20-04b9204e9c2b",
+                                        "ItemName": "item23"
+                                    },
+                                    {
+                                        "Item Text": "Tiger City",
+                                        "ItemId": "b787e7b6-55e7-465c-b8f5-64baed95d0b0",
+                                        "ItemName": "item24"
+                                    },
+                                    {
+                                        "Item Text": "勤美誠品綠園道",
+                                        "ItemId": "48bdc95c-e1ea-4614-a23f-35cc93294d85",
+                                        "ItemName": "item25"
+                                    },
+                                    {
+                                        "Item Text": "金典綠園道",
+                                        "ItemId": "d8c37540-990c-443c-904a-f2622e3a6b8d",
+                                        "ItemName": "item26"
+                                    },
+                                    {
+                                        "Item Text": "大魯閣新時代",
+                                        "ItemId": "ba2c50a4-95c4-478b-9159-13c38bb816ef",
+                                        "ItemName": "item27"
+                                    },
+                                    {
+                                        "Item Text": "耐斯廣場",
+                                        "ItemId": "d42e6a3c-17ea-4d9e-921b-8088d3d19be1",
+                                        "ItemName": "item28"
+                                    },
+                                    {
+                                        "Item Text": "南紡購物中心",
+                                        "ItemId": "4533497b-cff4-4a59-934f-f339604ac9f2",
+                                        "ItemName": "item29"
+                                    },
+                                    {
+                                        "Item Text": "德安百貨",
+                                        "ItemId": "d5cf899f-dc93-415f-8a4e-494fa04f12e0",
+                                        "ItemName": "item30"
+                                    },
+                                    {
+                                        "Item Text": "夢時代",
+                                        "ItemId": "7080dd13-dae5-42c7-81e3-8a946ca28f2e",
+                                        "ItemName": "item31"
+                                    },
+                                    {
+                                        "Item Text": "大立百貨",
+                                        "ItemId": "6ad15056-8983-4f7b-8aa4-e5e176b2c37b",
+                                        "ItemName": "item32"
+                                    },
+                                    {
+                                        "Item Text": "大統百貨",
+                                        "Rejection": "",
+                                        "ItemId": "a11032ee-7df3-49ef-b187-1b6c9fcc005b",
+                                        "ItemName": "item33"
+                                    },
+                                    {
+                                        "Item Text": "漢神百貨",
+                                        "ItemId": "73ec13c6-433c-4415-bfd5-97971b24c060",
+                                        "ItemName": "item34"
+                                    },
+                                    {
+                                        "Item Text": "漢神巨蛋",
+                                        "ItemId": "4d66ad3f-66a0-4050-9334-9ddb305213a1",
+                                        "ItemName": "item35"
+                                    },
+                                    {
+                                        "Item Text": "三井OUTLET",
+                                        "ItemId": "4f297d04-f9d3-4064-b562-0f35ef62bcb6",
+                                        "ItemName": "item36"
+                                    },
+                                    {
+                                        "Item Text": "臺中三井Lalaport",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "6251cbe0-e5a9-431d-9627-b676c66d18e1",
+                                        "ItemName": "Lalaport"
+                                    },
+                                    {
+                                        "Item Text": "禮客",
+                                        "ItemId": "86d483d2-ed53-4535-954e-bb395d3beae0",
+                                        "ItemName": "item37"
+                                    },
+                                    {
+                                        "Item Text": "義大世界購物廣場",
+                                        "ItemId": "cbef9ec3-bc04-4ecc-b59c-7a0f2d662de0",
+                                        "ItemName": "item38"
+                                    },
+                                    {
+                                        "Item Text": "華泰名品城",
+                                        "ItemId": "53789991-28bc-44ba-abaf-36c190fc0fc4",
+                                        "ItemName": "item39"
+                                    },
+                                    {
+                                        "Item Text": "義享天地",
+                                        "ItemId": "cb011a8a-cfc8-415d-977d-31a9732026fe",
+                                        "ItemName": "item40"
+                                    },
+                                    {
+                                        "Item Text": "麗寶OUTLET Mall",
+                                        "ItemId": "c853b762-5383-4332-b889-01036c02a928",
+                                        "ItemName": "item41"
+                                    },
+                                    {
+                                        "Item Text": "麗寶百貨廣場",
+                                        "Rejection": "",
+                                        "ItemId": "c5e5448a-7fce-477f-98e0-e2f9c1b9842f",
+                                        "ItemName": "item42"
+                                    },
+                                    {
+                                        "Item Text": "秀泰生活",
+                                        "Rejection": "",
+                                        "ItemId": "97f4bb9a-8b44-4f7a-b5a9-3ae59ff1e460",
+                                        "ItemName": "item43"
+                                    },
+                                    {
+                                        "Item Text": "徐匯廣場",
+                                        "Rejection": "",
+                                        "ItemId": "090906ee-438c-4c91-ba34-a6f53bfb99e5",
+                                        "ItemName": "item44"
+                                    },
+                                    {
+                                        "Item Text": "台茂購物中心",
+                                        "Rejection": "",
+                                        "ItemId": "b66dc729-020a-44c1-b25d-40842ddcce48",
+                                        "ItemName": "item45"
+                                    },
+                                    {
+                                        "Item Text": "桃園統領百貨",
+                                        "Rejection": "",
+                                        "ItemId": "98a7d1d6-027b-43c8-a26d-d5417ea7fe9c",
+                                        "ItemName": "item46"
+                                    },
+                                    {
+                                        "Item Text": "新月廣場",
+                                        "Rejection": "",
+                                        "ItemId": "c224899f-dc0a-4fe2-be07-7263eddd3a64",
+                                        "ItemName": "item47"
+                                    },
+                                    {
+                                        "Item Text": "日曜天地",
+                                        "Rejection": "",
+                                        "ItemId": "7d35ace8-ccf1-4b4d-8513-d94f37703c19",
+                                        "ItemName": "item48"
+                                    },
+                                    {
+                                        "Item Text": "三創生活",
+                                        "Rejection": "",
+                                        "ItemId": "6eed2d40-d8c0-4cd7-8939-4fd8cb4e68d5",
+                                        "ItemName": "item49"
+                                    },
+                                    {
+                                        "Item Text": "6+Plaza廣場",
+                                        "Rejection": "",
+                                        "ItemId": "3a244cb6-45b3-4ec6-b8d9-5ba0b99c033a",
+                                        "ItemName": "item50"
+                                    },
+                                    {
+                                        "Item Text": "iFG遠雄廣場",
+                                        "Rejection": "",
+                                        "ItemId": "4c232360-3d93-452a-9d5c-5571be15ab2b",
+                                        "ItemName": "item51"
+                                    },
+                                    {
+                                        "Item Text": "台南FOCUS",
+                                        "Rejection": "",
+                                        "ItemId": "f639d204-5647-4add-895f-d4b9d135e4ee",
+                                        "ItemName": "item52"
+                                    },
+                                    {
+                                        "Item Text": "悅誠廣場",
+                                        "Rejection": "",
+                                        "ItemId": "cd29d059-d527-470f-99ec-8e4d045aa102",
+                                        "ItemName": "item53"
+                                    },
+                                    {
+                                        "Item Text": "欣欣百貨",
+                                        "Rejection": "",
+                                        "ItemId": "5cac188e-da75-46c8-8d3a-df395ed8d754",
+                                        "ItemName": "item54"
+                                    },
+                                    {
+                                        "Item Text": "宏匯廣場",
+                                        "Rejection": "",
+                                        "ItemId": "859bce08-1700-46ae-bacb-fdbd2d782940",
+                                        "ItemName": "item55"
+                                    },
+                                    {
+                                        "Item Text": "高雄棧貳庫商場",
+                                        "Rejection": "",
+                                        "ItemId": "4720af3e-3592-4e11-b32a-b89b49859d6d",
+                                        "ItemName": "item56"
+                                    },
+                                    {
+                                        "Item Text": "樂購廣場",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "163d1280-8c21-45cf-9e71-b195c0165613",
+                                        "ItemName": "Copy of item56"
+                                    },
+                                    {
+                                        "Item Text": "NOKE忠泰樂生活",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "e35e91bc-a97c-451e-9bcc-8dd9b30c794f",
+                                        "ItemName": "Copy of Copy of item56"
+                                    },
+                                    {
+                                        "Item Text": "昇恆昌",
+                                        "Rejection": "",
+                                        "ItemId": "8f5a4009-153e-4c7c-8ff8-5aa37c2edc2d",
+                                        "ItemName": "item57"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/e78bf5e0816c4d58be17345274d14856?v=2",
+                            "Category Name": "KTV",
+                            "ItemId": "6c9c3a78-8688-42f9-afe8-983ddd7e997c",
+                            "ItemName": "Card Right List Item Lv1 3",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "ItemId": "419f95b7-4514-4525-b430-b6e7f4391951",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": [
+                                    {
+                                        "Item Text": "錢櫃",
+                                        "ItemId": "4ff2edd9-7fd6-43d0-88b6-c0d476c05279",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "好樂迪",
+                                        "ItemId": "69c0dc8b-76bd-4fc3-9b4c-4c175d81a1b0",
+                                        "ItemName": "item2"
+                                    },
+                                    {
+                                        "Item Text": "星聚點",
+                                        "ItemId": "50bcd3be-e2f3-42e2-ae4a-92d16bf513af",
+                                        "ItemName": "item3"
+                                    },
+                                    {
+                                        "Item Text": "享溫馨",
+                                        "ItemId": "180498ac-1b9b-4b03-8fce-d74c59c5476c",
+                                        "ItemName": "item4"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/4179cff75af24b0aa7c54c792fe6ac17?v=2",
+                            "Category Name": "外送與餐飲平台",
+                            "ItemId": "ff1fe2f7-cf59-4a6c-af55-5d8ff006b04f",
+                            "ItemName": "Card Right List Item Lv1 4",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "ItemId": "74b24b2b-dcf6-4601-addb-713607c96bcb",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": [
+                                    {
+                                        "Item Text": "Uber Eats",
+                                        "Notice Type": "{0F972286-8B70-46DD-93C9-29FA03960031}",
+                                        "Notice Content": "不含Uber eats之優饗方案",
+                                        "Rejection": "",
+                                        "ItemId": "dc98ae75-24e5-4e1c-8049-fd3cb5934d88",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "foodpanda",
+                                        "ItemId": "782d6e02-c3a6-4769-8eb3-c779689f0305",
+                                        "ItemName": "item2"
+                                    },
+                                    {
+                                        "Item Text": "foodomo",
+                                        "ItemId": "166aa3fc-1277-4f8f-9280-ce1a5df84eb1",
+                                        "ItemName": "item3"
+                                    },
+                                    {
+                                        "Item Text": "inline",
+                                        "Rejection": "",
+                                        "ItemId": "c1c3ce68-6153-405d-b73e-0541b83f429b",
+                                        "ItemName": "item4"
+                                    },
+                                    {
+                                        "Item Text": "FunNow",
+                                        "ItemId": "73110dbb-2439-4bc7-8c66-be1f294fd660",
+                                        "ItemName": "item5"
+                                    },
+                                    {
+                                        "Item Text": "EZTABLE",
+                                        "Rejection": "",
+                                        "ItemId": "5bcebe37-11e4-405a-bc0c-f1df257c1408",
+                                        "ItemName": "item6"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/663cd68b721f4891a41aa2e2c4919eb9?v=2",
+                            "Category Name": "國內餐飲",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "712f93e8-6745-4221-ba6f-8b1a82ac612d",
+                            "ItemName": "Card Right List Item Lv1 5",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "ItemId": "e3de16c6-e5c6-4be4-9882-70367f8a64e6",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": {
+                                    "Item Text": "國內餐飲",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Content": "<p class=\"cubre-a-blockTitle -textSub\">「國內餐飲」認列之餐廳：</p>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li>限交易地點為臺灣之餐飲消費且依收單機構所設定登錄之餐廳分類代碼(MCC code為5811、5812、5814、5462)為判斷依據。</li>\n    <li>不包含餐券/住宿券/飯店/酒店/旅館/KTV/酒吧/商場(如家樂福、車站商場、機場美食街)所設立之餐廳、夜總會、菸酒販賣商以及透過小額支付收費之連鎖速食店(如：麥當勞、肯德基...)。</li>\n    <li>倘因該特約商店登錄於收單機構之代碼與其營業項目不相符，導致未能正確判斷，消費則不列入本回饋計算。</li>\n</ol>\n</div>\n</div>",
+                                    "Deletion": "",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "Previous state": "{68FE7487-F5EA-49C1-8A10-B4850956F157}",
+                                    "ItemId": "0d36fac9-99a8-4ce9-af53-72b6763be22e",
+                                    "ItemName": "item1"
+                                }
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/8063026cfb7e4c36877f88ca7ec705b7?v=2",
+                            "Category Name": "國內藥妝",
+                            "ItemId": "630da568-58dd-4a6d-9084-de6280a76736",
+                            "ItemName": "Card Right List Item Lv1 6",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "ItemId": "f49dbbd2-9cac-445e-8078-21e9b1bf48e7",
+                                "ItemName": "Card Right List Item Lv2 2",
+                                "children": [
+                                    {
+                                        "Item Text": "康是美",
+                                        "Notice Type": "{0F972286-8B70-46DD-93C9-29FA03960031}",
+                                        "Notice Content": "適用於「康是美實體門市及康是美網購eShop」消費，惟實體門市不含百貨、商場門市，實際排外門市請依康是美規定為準。",
+                                        "Rejection": "",
+                                        "ItemId": "4b276189-29a6-4dca-af57-7282aa97d195",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "寶雅",
+                                        "ItemId": "011ceee1-c558-494a-8ac3-d98b9d8ccb19",
+                                        "ItemName": "item2"
+                                    },
+                                    {
+                                        "Item Text": "屈臣氏",
+                                        "ItemId": "04129771-45cc-4d60-8e87-e02a8378ab76",
+                                        "ItemName": "item3"
+                                    },
+                                    {
+                                        "Item Text": "日藥本舖",
+                                        "ItemId": "74e959df-9f41-4d8f-9345-574aa968332a",
+                                        "ItemName": "item4"
+                                    },
+                                    {
+                                        "Item Text": "Tomod's",
+                                        "ItemId": "efbae09e-43d3-465b-905b-e243835304a4",
+                                        "ItemName": "item5"
+                                    },
+                                    {
+                                        "Item Text": "松本清",
+                                        "ItemId": "fe0ea67d-1e61-45d2-be46-1c2db6bb108c",
+                                        "ItemName": "item6"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/d426a314016241e5bbd8d4fb6098ea01?v=3",
+                            "Category Name": "國內品牌服飾",
+                            "ItemId": "6b5700a0-687b-453c-874f-bc59c1eea043",
+                            "ItemName": "Card Right List Item Lv1 7",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "ItemId": "470aa0a7-ac89-489f-b301-7983fad40df3",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": [
+                                    {
+                                        "Item Text": "UNIQLO",
+                                        "ItemId": "4f6e76a7-c505-403f-9568-c17449e97d47",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "ZARA",
+                                        "ItemId": "96605281-4f64-4030-9168-98f90a04484d",
+                                        "ItemName": "item2"
+                                    },
+                                    {
+                                        "Item Text": "H&M",
+                                        "ItemId": "16baf89f-d29d-4141-a34e-5ae0e121ce7f",
+                                        "ItemName": "item3"
+                                    },
+                                    {
+                                        "Item Text": "GAP",
+                                        "ItemId": "46ec9a7d-1eaf-410a-843e-a8d52a6c0493",
+                                        "ItemName": "item4"
+                                    },
+                                    {
+                                        "Item Text": "GU",
+                                        "ItemId": "ac413bba-c681-4c00-91fb-2dd279e2ebe1",
+                                        "ItemName": "item5"
+                                    },
+                                    {
+                                        "Item Text": "無印良品",
+                                        "ItemId": "33fe64bf-f365-4ed8-9c2d-f3522024dc03",
+                                        "ItemName": "item6"
+                                    },
+                                    {
+                                        "Item Text": "PULL & BEAR",
+                                        "ItemId": "b01f9608-0ee0-46dd-8262-043a53759f0b",
+                                        "ItemName": "item7"
+                                    },
+                                    {
+                                        "Item Text": "Bershka",
+                                        "ItemId": "f98e82d2-74f6-48a4-8e70-ea020fc42eb9",
+                                        "ItemName": "item8"
+                                    },
+                                    {
+                                        "Item Text": "MANGO",
+                                        "ItemId": "5adc0a35-56a8-489a-956a-a161eb2a844b",
+                                        "ItemName": "item9"
+                                    },
+                                    {
+                                        "Item Text": "NET",
+                                        "ItemId": "f2c4fe55-1fad-4800-9042-c047960a5761",
+                                        "ItemName": "item10"
+                                    },
+                                    {
+                                        "Item Text": "GIORDANO",
+                                        "ItemId": "2eaf5982-ce8d-4119-9e82-90d9617c3f93",
+                                        "ItemName": "item11"
+                                    },
+                                    {
+                                        "Item Text": "HangTen",
+                                        "ItemId": "72331771-b794-4f70-8677-84a881f81847",
+                                        "ItemName": "item12"
+                                    },
+                                    {
+                                        "Item Text": "MOMA",
+                                        "ItemId": "e5e4ca97-0f5f-478d-9fa8-4ef2949ba71e",
+                                        "ItemName": "item13"
+                                    },
+                                    {
+                                        "Item Text": "iROO",
+                                        "ItemId": "beec4125-e60b-4894-9dee-8fcd7c960ccc",
+                                        "ItemName": "item14"
+                                    },
+                                    {
+                                        "Item Text": "SO NICE",
+                                        "ItemId": "88c5c8e3-0da1-49d5-a45e-05e562832856",
+                                        "ItemName": "item15"
+                                    },
+                                    {
+                                        "Item Text": "G2000",
+                                        "ItemId": "d80a5955-8065-42fc-a23f-7e3f1fa9fb37",
+                                        "ItemName": "item16"
+                                    },
+                                    {
+                                        "Item Text": "lativ",
+                                        "ItemId": "c7ee3607-8499-4e1d-a18a-e040e2c1f0f4",
+                                        "ItemName": "item17"
+                                    },
+                                    {
+                                        "Item Text": "PAZZO",
+                                        "ItemId": "c35fba74-88d4-41d7-b599-2550c29003f9",
+                                        "ItemName": "item18"
+                                    },
+                                    {
+                                        "Item Text": "OB嚴選",
+                                        "ItemId": "b03f9ed1-dce9-4a2c-a6e5-9ddb80749b37",
+                                        "ItemName": "item19"
+                                    },
+                                    {
+                                        "Item Text": "迪卡儂",
+                                        "ItemId": "3fc1b4c2-9b2d-4fa1-a2e8-b5e14106549f",
+                                        "ItemName": "item20"
+                                    },
+                                    {
+                                        "Item Text": "NIKE",
+                                        "ItemId": "7d83ae28-00d7-43b3-93c0-83ade6d89aa9",
+                                        "ItemName": "item21"
+                                    },
+                                    {
+                                        "Item Text": "Adidas",
+                                        "ItemId": "19ae9bed-1583-4282-908f-4c729fe0db55",
+                                        "ItemName": "item22"
+                                    },
+                                    {
+                                        "Item Text": "摩曼頓",
+                                        "ItemId": "b7559a6c-bd49-4cd2-8166-87431eff42a6",
+                                        "ItemName": "item23"
+                                    },
+                                    {
+                                        "Item Text": "尚智運動",
+                                        "ItemId": "b94996d7-6012-477e-a6a0-faada91dbfb8",
+                                        "ItemName": "item24"
+                                    },
+                                    {
+                                        "Item Text": "星裕國際",
+                                        "ItemId": "7659980b-16d6-4b39-8ff4-7dd65fe192a1",
+                                        "ItemName": "item25"
+                                    },
+                                    {
+                                        "Item Text": "SKECHERS",
+                                        "ItemId": "a2cec49e-1a9f-4d42-9052-ccb6ee2f2a11",
+                                        "ItemName": "item26"
+                                    },
+                                    {
+                                        "Item Text": "Roots",
+                                        "ItemId": "da23c6d2-6293-44c7-a7e9-919ab5cb9c14",
+                                        "ItemName": "item27"
+                                    },
+                                    {
+                                        "Item Text": "PUMA",
+                                        "ItemId": "49f58e6c-39b4-4263-8ae0-a216a76af611",
+                                        "ItemName": "item28"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Anchor Key": "travel",
+                    "Main Title": "<p class=\"cubre-a-blockTitle\">趣旅行&nbsp;<img alt=\"\" width=\"36\" class=\"cubre-a-image\" src=\"-/media/e4e8446ed40d43958cfc3c06294b8980\" style=\"padding-bottom : 5px;\" />\n<stlye class=\"cubre-m-cubeInfo__title\"><span style=\"color: #4a7056;\">3%</span></stlye></p>",
+                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                    "Notice Title": "注意事項",
+                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">指定旅遊/交通消費</p>\n</div>\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">「指定國家海外消費(日本、韓國、泰國、新加坡)」</p>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n消費請款時，商店之國碼需為日本、韓國、泰國、新加坡。</div>\n<p class=\"cubre-o-textContent\">&nbsp;</p>\n</div>\n<p class=\"cubre-a-blockTitle -textSub\">「國外餐飲」</p>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n認列之餐廳：限交易地點非臺灣或交易幣別非台幣之餐飲消費且依收單機構所設定登錄之餐廳分類代碼(MCC code為5811、5812、5814)為判斷依據，不包含餐券/住宿券/飯店/酒店/旅館/KTV/酒吧/商場(車站商場、機場美食街)所設立之餐廳、夜總會、菸酒販賣商。倘因該特約商店登錄於收單機構之代碼與其營業項目不相符，導致未能正確判斷，消費則不列入本回饋計算。</div>\n<p class=\"cubre-o-textContent\">&nbsp;</p>\n</div>\n<p class=\"cubre-a-blockTitle -textSub\">「全球航空購票」</p>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n係指以信用卡刷卡購買之所有國內外航空公司機票(限航空公司臨櫃或官網購票)，不包含機上免稅商品、機場商店或貴賓室等非購買機票之消費。</div>\n<p class=\"cubre-o-textContent\">&nbsp;</p>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">「全球飯店住宿」</p>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n包含所有民宿、青年旅館、連鎖飯店等，不包含飯店/酒店/旅館所附設之餐廳、美食街或相關精品商店等(不包含於旅行社預訂飯店，如欲於旅行社訂購飯店住宿相關商品，請參考國內旅行社之指定旅行社進行消費)。若符合上述條件後仍有疑義，再依收單機構所設定登錄之住宿相關分類代碼 (MCC code為3500~3799、3811、3812、3822、3825、3828、7011、7012、7032、7033) 為判斷依據。倘因該特約商店登錄於收單機構之代碼與其營業項目不相符，導致未能正確判斷消費，則不列入本回饋計算。\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">「國內叫車平台」</p>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n限綁定CUBE卡於平台支付消費 (包括台灣大車隊App)。\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">「國內旅行社」</p>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n係指於指定之三十大旅行社(限直營)以信用卡刷卡購買之旅遊商品，不包含加盟店之消費，如：雄獅集團-旅天下各加盟店等。\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">「Uber」</p>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li>持卡人持CUBE卡於 Uber 刷卡消費且該筆消費適用趣旅行權益方案，即享刷卡金額之3%點數回饋；若該筆消費適用其他權益方案，將依一般消費計算回饋。</li>\n    <li>因 Uber 將Google pay列為境外交易，消費時若以Google pay支付，將以一般消費計算回饋，亦無法獲得3%乘車優惠，且該筆交易會產生國際交易手續費。</li>\n</ol>\n【趣旅行權益】使用小叮嚀：當您訂購旅遊商品 (如國內外訂房、旅行社預訂飯店及行程)時，飯店可能會進行信用卡預授權(依商戶的請求先佔用信用卡中一部分額度，以確認您的卡片是有效的且有足夠的額度來支付預訂費)，或使用先預訂後付/延後付款/到店付款等支付方式，此時飯店還不會進行實際信用卡扣款交易，請務必留意需於飯店實際扣款當日切換為【趣旅行權益】，若實際付款當日未切換為【趣旅行】權益，將導致該筆消費不適用趣旅行回饋方案，恕無法再以任何形式要求追溯或提供該筆刷卡金額之小樹點(信用卡)回饋。\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+                    "Deletion": "",
+                    "Rejection": "0",
+                    "Advertising": "0",
+                    "Previous state": "{68FE7487-F5EA-49C1-8A10-B4850956F157}",
+                    "ItemId": "cad8a7c9-3564-4c0e-abcd-3435f241ade9",
+                    "ItemName": "Card Right List 3",
+                    "children": [
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/d4d84bc92d074a9dbcf287766bc39517?v=2",
+                            "Category Name": "指定海外消費",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "d5ab4c47-f51a-4d80-91ca-6a7f778810c4",
+                            "ItemName": "Copy of Card Right List Item Lv1 5",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "Item Text Orientation": "",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "a3f5ccbc-3cfe-4b81-adf7-5bea96333f59",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": [
+                                    {
+                                        "Item Text": "指定國家海外消費(日本、韓國、泰國、新加坡)",
+                                        "Notice Type": "{0F972286-8B70-46DD-93C9-29FA03960031}",
+                                        "Notice Content": "消費請款時，商店之國碼需為日本、韓國、泰國、新加坡。",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "7c292a37-1c41-4145-b339-1c13b0587847",
+                                        "ItemName": "Copy of item1"
+                                    },
+                                    {
+                                        "Item Text": "國外餐飲",
+                                        "Notice Type": "{0F972286-8B70-46DD-93C9-29FA03960031}",
+                                        "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無副標，請包含.cubre-o-block__subTitle 做移除 -->\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">「國外餐飲」認列之餐廳：</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>限交易地點非臺灣或交易幣別非台幣之餐飲消費且依收單機構所設定登錄之餐廳分類代碼(MCC code為5811、5812、5814)為判斷依據。倘因該特約商店登錄於收單機構之代碼與其營業項目不相符，導致未能正確判斷，消費則不列入本回饋計算。</p>\n</div>\n</div>\n</div>\n</div>",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "ad6faae6-c1ae-4c4a-8207-5d7bd07a4e3a",
+                                        "ItemName": "item1"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/a9d636eb3f6e45dca1b6f22edcaa32ad?v=2",
+                            "Category Name": "國內叫車平台",
+                            "ItemId": "830cb803-5078-4a68-879e-d3bece3a0e29",
+                            "ItemName": "Card Right List Item Lv1 1",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "ItemId": "f7d0938c-09d9-4cb6-852f-cbd3ab2af9f0",
+                                "ItemName": "Card Right List Item Lv2 2",
+                                "children": [
+                                    {
+                                        "Item Text": "Uber",
+                                        "Rejection": "",
+                                        "ItemId": "1ac92e53-4b1d-45e6-838d-433ef5a2868c",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "LINE TAXI",
+                                        "ItemId": "7382b507-26d6-4349-80b2-ee90c701c6f0",
+                                        "ItemName": "item2"
+                                    },
+                                    {
+                                        "Item Text": "yoxi",
+                                        "ItemId": "2759a7ad-795f-47a1-8572-40eb9862927b",
+                                        "ItemName": "item3"
+                                    },
+                                    {
+                                        "Item Text": "台灣大車隊",
+                                        "ItemId": "9ebfd533-7f5a-422c-a248-69b5066f7ab3",
+                                        "ItemName": "item4"
+                                    },
+                                    {
+                                        "Item Text": "大都會計程車",
+                                        "ItemId": "1ac2d087-41d1-4e19-8bee-cb4f1feb5034",
+                                        "ItemName": "item5"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/290654d5e9274f82a47391ac1961af59?v=2",
+                            "Category Name": "國內租車",
+                            "ItemId": "bb98fb64-5b9d-41e8-b92c-ee448122c08f",
+                            "ItemName": "Card Right List Item Lv1 2",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "ItemId": "8cdd3686-f854-485c-bc63-2c55d79100e0",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": [
+                                    {
+                                        "Item Text": "和運租車",
+                                        "ItemId": "2d591184-bd72-4356-b661-afeb30c64b4d",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "iRent",
+                                        "ItemId": "73474e92-83fa-4094-b070-91ac9eaf1245",
+                                        "ItemName": "item2"
+                                    },
+                                    {
+                                        "Item Text": "格上租車",
+                                        "ItemId": "d12980d9-7b43-45f2-a9c3-3e3053920afe",
+                                        "ItemName": "item3"
+                                    },
+                                    {
+                                        "Item Text": "中租租車",
+                                        "ItemId": "af2a4ae0-e083-49cd-864e-be6814034dd2",
+                                        "ItemName": "item4"
+                                    },
+                                    {
+                                        "Item Text": "IWS租車",
+                                        "ItemId": "1cec561c-8a15-4e58-825a-bc9513adab4c",
+                                        "ItemName": "item5"
+                                    },
+                                    {
+                                        "Item Text": "AVIS租車",
+                                        "ItemId": "30eac9a7-1ac3-416f-862c-013a63647104",
+                                        "ItemName": "item6"
+                                    },
+                                    {
+                                        "Item Text": "直航租車",
+                                        "ItemId": "1c37d016-71b4-460e-9481-91578742ecfc",
+                                        "ItemName": "item7"
+                                    },
+                                    {
+                                        "Item Text": "小馬租車",
+                                        "ItemId": "9397e288-fc30-45a5-b3ee-18e6178a68c9",
+                                        "ItemName": "item8"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/44e17aba4a784baabc68b8da8852765d?v=2",
+                            "Category Name": "購車保修",
+                            "Notice Type": "",
+                            "Notice Title": "",
+                            "Notice Content": "",
+                            "ItemId": "074a844c-1479-4d42-9ec1-1a832f8d06ba",
+                            "ItemName": "Card Right List Item Lv1 3",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "Description": "<div class=\"cubre-o-textContent -sm\">\n    <!-- richtext 欄位 -->\n    購車訂金或保修費用，每戶每季上限20,000點\n</div>",
+                                "ItemId": "a41682e7-8e44-4e82-acad-bed58e7bb6fc",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": [
+                                    {
+                                        "Item Text": "BMW",
+                                        "ItemId": "2156d876-3991-41db-beb1-8f355c7ea8cd",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "Audi",
+                                        "ItemId": "f102de59-ea06-4638-b6d6-d2714dfacffc",
+                                        "ItemName": "item2"
+                                    },
+                                    {
+                                        "Item Text": "Porsche",
+                                        "ItemId": "c9a3ce38-c630-4303-a03a-e66af3b1baae",
+                                        "ItemName": "item3"
+                                    },
+                                    {
+                                        "Item Text": "Volvo",
+                                        "ItemId": "712f236c-a7f6-475a-a5ae-4ec86ba1d0f9",
+                                        "ItemName": "item4"
+                                    },
+                                    {
+                                        "Item Text": "Tesla",
+                                        "ItemId": "6d2c96ef-c50f-4f77-8b8f-f8e63c1f7f11",
+                                        "ItemName": "item5"
+                                    },
+                                    {
+                                        "Item Text": "Volkswagen",
+                                        "ItemId": "cb6a1947-a6d9-4e06-a97c-2d3e1973a943",
+                                        "ItemName": "item6"
+                                    },
+                                    {
+                                        "Item Text": "Jaguar",
+                                        "ItemId": "0cca8ce3-fef0-4055-a07a-5891d860f461",
+                                        "ItemName": "item7"
+                                    },
+                                    {
+                                        "Item Text": "Land Rover",
+                                        "ItemId": "23a44433-5b8e-44eb-ad5a-35ecf9e2a9fa",
+                                        "ItemName": "item8"
+                                    },
+                                    {
+                                        "Item Text": "Skoda",
+                                        "ItemId": "e8b11b3b-971d-4156-acd5-9854812b1df1",
+                                        "ItemName": "item9"
+                                    },
+                                    {
+                                        "Item Text": "Mercedes-Benz",
+                                        "ItemId": "d5dfdba7-8fe0-48df-a130-795c00928f5b",
+                                        "ItemName": "item10"
+                                    },
+                                    {
+                                        "Item Text": "",
+                                        "Rejection": "",
+                                        "ItemId": "ddbcbc7d-841a-4c2d-aa2b-fb9260aa1d73",
+                                        "ItemName": "item11"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/d4d84bc92d074a9dbcf287766bc39517?v=2",
+                            "Category Name": "全球航空公司",
+                            "Rejection": "0",
+                            "ItemId": "2cb29eb4-d49d-4f6d-925d-6756d6faea6e",
+                            "ItemName": "Card Right List Item Lv1 4",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "Item Text Orientation": "",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "928dbdd7-5b10-4760-88b3-4da988662a25",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": {
+                                    "Item Text": "所有國內外航空公司購票",
+                                    "Notice Type": "{0F972286-8B70-46DD-93C9-29FA03960031}",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n    <!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n    <div class=\"cubre-o-block__textArea\">\n        <!-- 如無副標，請包含.cubre-o-block__subTitle 做移除 -->\n        <div class=\"cubre-o-block__subTitle\">\n            <p class=\"cubre-a-blockTitle -textSub\">「全球航空購票」：</p>\n        </div>\n    </div>\n    <div class=\"cubre-o-block__wrap\">\n        <!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n        <div class=\"cubre-o-block__component\">\n            <div class=\"cubre-o-textContent\">\n                <!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n                <p>係指以信用卡刷卡購買之所有國內外航空公司機票(限航空公司臨櫃或官網購票，不含旅行社、線上旅遊平台購票)，不包含機上免稅商品、機場商店或貴賓室等非購買機票之消費。</p>\n            </div>\n        </div>\n    </div>\n</div>",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "b74daf8a-48bf-47b4-8504-cfe8e4b40f51",
+                                    "ItemName": "item1"
+                                }
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/83caa38a41924a6fa140b10decae3360?v=2",
+                            "Category Name": "全球飯店住宿",
+                            "ItemId": "883f96df-0732-455e-9cd4-e9591898aa31",
+                            "ItemName": "Card Right List Item Lv1 5",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "Item Text Orientation": "",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "5b7b1e17-3f62-4b64-8996-b2b6761d0dda",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": {
+                                    "Item Text": "所有國內外飯店、商旅、民宿等住宿訂房",
+                                    "Notice Type": "{0F972286-8B70-46DD-93C9-29FA03960031}",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n    <!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n    <div class=\"cubre-o-block__textArea\">\n        <!-- 如無副標，請包含.cubre-o-block__subTitle 做移除 -->\n        <div class=\"cubre-o-block__subTitle\">\n            <p class=\"cubre-a-blockTitle -textSub\">「全球飯店住宿」：</p>\n        </div>\n    </div>\n    <div class=\"cubre-o-block__wrap\">\n        <!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n        <div class=\"cubre-o-block__component\">\n            <div class=\"cubre-o-textContent\">\n                <!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n                <p>包含所有民宿、青年旅館、連鎖飯店等訂房，不包含飯店/酒店/旅館所附設之餐廳、美食街、代訂服務或相關精品商店等(不包含於旅行社預訂飯店，如欲於旅行社訂購飯店住宿相關商品，請參考國內旅行社之指定旅行社進行消費)。若符合上述條件後仍有疑義，再依收單機構所設定登錄之住宿相關分類代碼 (MCC code為3500~3799、3811、3812、3822、3825、3828、7011、7012、7032、7033) 為判斷依據。倘因該特約商店登錄於收單機構之代碼與其營業項目不相符，導致未能正確判斷消費，則不列入本回饋計算。</p>\n            </div>\n        </div>\n    </div>\n</div>",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "ce447956-4123-49f5-b0a3-b869ae549ff5",
+                                    "ItemName": "item1"
+                                }
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/3e8d2afef1d6433196861b86c28bb270?v=2",
+                            "Category Name": "旅遊/訂房平台",
+                            "Notice Type": "",
+                            "Notice Title": "注意事項",
+                            "Notice Content": "",
+                            "Rejection": "",
+                            "ItemId": "8b8209b6-084a-42ff-9ed3-2816979834d1",
+                            "ItemName": "Card Right List Item Lv1 6",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "Description": "<div class=\"cubre-o-textContent -sm\">\n    <!-- richtext 欄位 -->\n    使用提醒：<br>\n1.當您訂購旅遊商品(如國內外訂房、旅行社預訂飯店及行程)時，若採先訂後付或到店付款等支付方式，飯店可能會進行信用卡預授權，此時飯店還不會進行實際信用卡扣款交易，請務必留意需於飯店實際扣款當日切換為【趣旅行權益方案】。<br>\n2.Agoda、Airbnb、Expedia、Booking.com、Trip.com、Hotels.com等海外訂房平台進行訂房時，可能會有海外交易授權時間差問題，導致實際信用卡延遲授權或延遲扣款交易，且依各平台而有所不同，非本行系統原因所致，建議延長切換【趣旅行權益方案】時間。<br>\n3.訂房平台若選擇到店付款，可能會以”飯店住宿”權益進行信用卡扣款交易，消費會不適用”訂房平台”權益。\n</div>\n",
+                                "Rejection": "0",
+                                "ItemId": "a3461b6b-4a06-4516-817d-d7765eb631ee",
+                                "ItemName": "Card Right List Item Lv2 3",
+                                "children": [
+                                    {
+                                        "Item Text": "KKday",
+                                        "Rejection": "",
+                                        "ItemId": "0c37d970-44ad-4bb0-810b-8f9df2de138d",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "Agoda",
+                                        "Rejection": "",
+                                        "ItemId": "62e9ebe2-1dda-4000-84bd-626a57008135",
+                                        "ItemName": "item2"
+                                    },
+                                    {
+                                        "Item Text": "KLOOK",
+                                        "ItemId": "1da55f42-5158-4789-a859-85c3564e4996",
+                                        "ItemName": "item3"
+                                    },
+                                    {
+                                        "Item Text": "Airbnb",
+                                        "ItemId": "9d0eb765-ab7a-4cbb-b19f-088707736353",
+                                        "ItemName": "item4"
+                                    },
+                                    {
+                                        "Item Text": "Hotels.com",
+                                        "ItemId": "df94a9ea-c30c-4c0f-8d81-8e37ad706e73",
+                                        "ItemName": "item5"
+                                    },
+                                    {
+                                        "Item Text": "Expedia",
+                                        "ItemId": "fa538c6f-5c2c-4e63-84a1-b7f6c00a51e5",
+                                        "ItemName": "item6"
+                                    },
+                                    {
+                                        "Item Text": "Booking.com",
+                                        "ItemId": "cfd85e9a-53de-4a57-a7e7-6570eeabae6b",
+                                        "ItemName": "item7"
+                                    },
+                                    {
+                                        "Item Text": "Trip.com",
+                                        "ItemId": "a45798e4-9ec4-47b5-9544-56cd61183917",
+                                        "ItemName": "item8"
+                                    },
+                                    {
+                                        "Item Text": "AsiaYo",
+                                        "ItemId": "be1f7caf-d469-46a4-b601-ebdc7224e328",
+                                        "ItemName": "item9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/f0a1ac3ae9304cff9524a584e6ed067b?v=2",
+                            "Category Name": "國內旅行社",
+                            "ItemId": "0ef07f78-03be-4afd-956b-e9c9488dfdd7",
+                            "ItemName": "Card Right List Item Lv1 7",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n使用提醒：<br />\n「國內旅行社」係指於下列指定旅行社(限直營)以信用卡刷卡購買之旅遊商品，不包含加盟店之消費。</div>",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "b53f1b8e-4b3b-475b-92eb-83af16454587",
+                                "ItemName": "Card Right List Item Lv2 2",
+                                "children": [
+                                    {
+                                        "Item Text": "可樂旅遊(康福旅行社)",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "a3693056-a91e-4a49-84cc-97555b15d0d4",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "百威旅遊",
+                                        "ItemId": "9ee27f50-2deb-4d5f-b95b-1d86605827da",
+                                        "ItemName": "item10"
+                                    },
+                                    {
+                                        "Item Text": "雄獅旅遊",
+                                        "ItemId": "181e4a95-2da8-4323-a002-1905cea6b1fd",
+                                        "ItemName": "item2"
+                                    },
+                                    {
+                                        "Item Text": "ezTravel易遊網",
+                                        "ItemId": "d2978eb3-bbd8-4110-b495-bfe07d124506",
+                                        "ItemName": "item3"
+                                    },
+                                    {
+                                        "Item Text": "東南旅遊",
+                                        "ItemId": "31660bef-4b42-4621-98ed-de2b68b78ae9",
+                                        "ItemName": "item4"
+                                    },
+                                    {
+                                        "Item Text": "五福旅遊",
+                                        "ItemId": "fb140a5e-8263-476d-b7f6-ae891ad4842d",
+                                        "ItemName": "item5"
+                                    },
+                                    {
+                                        "Item Text": "燦星旅遊",
+                                        "ItemId": "8df2784e-526f-49e5-a988-775051451f7c",
+                                        "ItemName": "item6"
+                                    },
+                                    {
+                                        "Item Text": "喜鴻假期",
+                                        "ItemId": "2245e100-7ad7-48db-9eac-184c60401018",
+                                        "ItemName": "item7"
+                                    },
+                                    {
+                                        "Item Text": "山富旅遊",
+                                        "ItemId": "0e836f46-a556-4c72-8d45-3748988e2433",
+                                        "ItemName": "item8"
+                                    },
+                                    {
+                                        "Item Text": "長汎假期",
+                                        "ItemId": "64316e99-a157-4068-b416-f83c3442e87e",
+                                        "ItemName": "item9"
+                                    },
+                                    {
+                                        "Item Text": "加利利旅行社",
+                                        "ItemId": "628ccd69-3cf5-4467-ab97-eabba9b03b48",
+                                        "ItemName": "item11"
+                                    },
+                                    {
+                                        "Item Text": "鳳凰旅行社",
+                                        "ItemId": "b91fedff-a5c3-4312-8840-a9dc47029be4",
+                                        "ItemName": "item12"
+                                    },
+                                    {
+                                        "Item Text": "Ezfly易飛網",
+                                        "ItemId": "0c077c94-1e0f-42ce-b499-76703db0d50c",
+                                        "ItemName": "item13"
+                                    },
+                                    {
+                                        "Item Text": "大興旅行社",
+                                        "ItemId": "006e0fc8-7668-4270-9e67-58ce8ddb0d87",
+                                        "ItemName": "item14"
+                                    },
+                                    {
+                                        "Item Text": "華友旅行",
+                                        "ItemId": "46cafa9a-3f1d-4ba4-88bc-eaaa044928e4",
+                                        "ItemName": "item15"
+                                    },
+                                    {
+                                        "ItemId": "2e47b4a4-0d02-404c-81e9-c46040514fce",
+                                        "ItemName": "item16"
+                                    },
+                                    {
+                                        "Item Text": "富昇旅行社",
+                                        "ItemId": "b5258ea4-272c-48b7-867f-cf4ccf59e730",
+                                        "ItemName": "item17"
+                                    },
+                                    {
+                                        "Item Text": "行健旅遊",
+                                        "ItemId": "35a9885e-79b0-46f5-aab9-d8a6173f47de",
+                                        "ItemName": "item18"
+                                    },
+                                    {
+                                        "Item Text": "金龍旅遊(永盛旅行社)",
+                                        "ItemId": "960be2da-a045-4e43-a1fe-c1f9892939c4",
+                                        "ItemName": "item19"
+                                    },
+                                    {
+                                        "Item Text": "雙向國際旅行社",
+                                        "ItemId": "6741a3a4-9a93-40cb-9210-82f348492dec",
+                                        "ItemName": "item20"
+                                    },
+                                    {
+                                        "Item Text": "理想旅遊",
+                                        "ItemId": "d1b12933-01a1-4590-8d26-86a9f5397229",
+                                        "ItemName": "item21"
+                                    },
+                                    {
+                                        "Item Text": "新進旅行社",
+                                        "ItemId": "13da78fb-bac4-4355-a512-1d287022ee7d",
+                                        "ItemName": "item22"
+                                    },
+                                    {
+                                        "Item Text": "吉帝旅遊",
+                                        "Rejection": "",
+                                        "ItemId": "4cd0c326-548a-4c22-9e7f-8e2936fc9bf6",
+                                        "ItemName": "item23"
+                                    },
+                                    {
+                                        "Item Text": "上順旅遊",
+                                        "ItemId": "eaa2bb9b-6e75-4972-bf37-ba6040bb45b8",
+                                        "ItemName": "item24"
+                                    },
+                                    {
+                                        "Item Text": "東森旅遊",
+                                        "ItemId": "f75af70f-2285-4933-b3f6-135cad9dc8b1",
+                                        "ItemName": "item25"
+                                    },
+                                    {
+                                        "Item Text": "品冠旅遊",
+                                        "ItemId": "09617490-ae59-4d3d-bfbf-8c4b4df2ce62",
+                                        "ItemName": "item26"
+                                    },
+                                    {
+                                        "Item Text": "良友旅行",
+                                        "ItemId": "211807a8-9f7e-45cb-b3b3-923f1ffb9760",
+                                        "ItemName": "item27"
+                                    },
+                                    {
+                                        "Item Text": "晴天旅遊",
+                                        "ItemId": "059ec0b5-9a91-475f-a932-b765d300d376",
+                                        "ItemName": "item28"
+                                    },
+                                    {
+                                        "Item Text": "一起旅行社",
+                                        "Rejection": "",
+                                        "ItemId": "4f6e96dd-89eb-4f64-b8e1-8eebf5a1632b",
+                                        "ItemName": "item29"
+                                    },
+                                    {
+                                        "Item Text": "賓士旅行社",
+                                        "Rejection": "",
+                                        "ItemId": "009599b5-5689-4416-a531-fbcafc7cac77",
+                                        "ItemName": "item30"
+                                    },
+                                    {
+                                        "Item Text": "凱旋旅行社(巨匠旅遊)",
+                                        "Rejection": "",
+                                        "ItemId": "748ee2da-d926-4a0c-a362-5804406c0a4f",
+                                        "ItemName": "item31"
+                                    },
+                                    {
+                                        "Item Text": "永利旅行社",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "8b459c85-23f8-497d-9a9a-724a45f280b1",
+                                        "ItemName": "Copy of item31"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/3281006d8ce54227a91908a136966f70?v=2",
+                            "Category Name": "國內遊樂區",
+                            "ItemId": "9f0066cf-9063-4424-a8d2-4a2030d4c267",
+                            "ItemName": "Card Right List Item Lv1 8",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "ItemId": "94663a8e-1379-41bb-b140-9ca8da3dc748",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": [
+                                    {
+                                        "Item Text": "雲仙樂園",
+                                        "ItemId": "c89347bb-96ad-4f36-8d1d-6a4d0dc03216",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "野柳海洋世界",
+                                        "ItemId": "9e77d03b-c396-4206-b06d-69130f5c9bd4",
+                                        "ItemName": "item2"
+                                    },
+                                    {
+                                        "Item Text": "小人國主題樂園",
+                                        "ItemId": "06b64654-3ca9-442c-ab5c-b09d879e4799",
+                                        "ItemName": "item3"
+                                    },
+                                    {
+                                        "Item Text": "Xpark",
+                                        "ItemId": "5ad1c782-188c-412e-bef7-65d31326fbab",
+                                        "ItemName": "item4"
+                                    },
+                                    {
+                                        "Item Text": "六福村主題遊樂園",
+                                        "ItemId": "587272ce-bf52-430e-8062-416a873ed9c6",
+                                        "ItemName": "item5"
+                                    },
+                                    {
+                                        "Item Text": "小叮噹科學主題樂園",
+                                        "ItemId": "62b2c32e-ec22-47bf-bf1b-18eb06f04a03",
+                                        "ItemName": "item6"
+                                    },
+                                    {
+                                        "Item Text": "西湖渡假村",
+                                        "ItemId": "a756264c-6418-4200-9412-b5730aa08814",
+                                        "ItemName": "item7"
+                                    },
+                                    {
+                                        "Item Text": "香格里拉樂園",
+                                        "ItemId": "0cd3386a-745e-4b7e-a53e-6c77807eaded",
+                                        "ItemName": "item8"
+                                    },
+                                    {
+                                        "Item Text": "麗寶樂園",
+                                        "ItemId": "903ed6f0-5eb4-4a65-a587-d7b03b8838a6",
+                                        "ItemName": "item9"
+                                    },
+                                    {
+                                        "Item Text": "東勢林場遊樂園",
+                                        "Rejection": "0",
+                                        "ItemId": "9b2a1fef-52a0-4c21-a1f8-02aa350b3c4a",
+                                        "ItemName": "Copy of item10"
+                                    },
+                                    {
+                                        "Item Text": "九族文化村",
+                                        "ItemId": "df19bcdd-9ff6-48f3-8bb5-401898f788eb",
+                                        "ItemName": "item11"
+                                    },
+                                    {
+                                        "Item Text": "泰雅渡假村",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "e00139a2-0919-4722-82f9-1c7aeb7913db",
+                                        "ItemName": "Copy of item12"
+                                    },
+                                    {
+                                        "Item Text": "杉林溪森林生態渡假園區",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "5e49cc72-3467-4ca4-b22f-9a22cadc7f4e",
+                                        "ItemName": "item12"
+                                    },
+                                    {
+                                        "Item Text": "劍湖山世界",
+                                        "ItemId": "994a60f6-347e-4c25-a781-e70e61102afa",
+                                        "ItemName": "item13"
+                                    },
+                                    {
+                                        "Item Text": "頑皮世界",
+                                        "ItemId": "3b3c5d7e-da23-4b57-a177-c10876d96bd8",
+                                        "ItemName": "item14"
+                                    },
+                                    {
+                                        "Item Text": "尖山埤江南渡假村",
+                                        "ItemId": "a9039609-52f9-4ced-9137-032dc31ab6a8",
+                                        "ItemName": "item15"
+                                    },
+                                    {
+                                        "Item Text": "義大遊樂世界",
+                                        "ItemId": "1b6f2b96-3c27-49e1-b17a-771113e966f2",
+                                        "ItemName": "item16"
+                                    },
+                                    {
+                                        "Item Text": "大路觀主題樂園",
+                                        "ItemId": "2d0de55f-f310-4e8a-b834-fa3690f82a1b",
+                                        "ItemName": "item17"
+                                    },
+                                    {
+                                        "Item Text": "海洋生物博物館",
+                                        "ItemId": "6dc99223-cf1b-42d6-904b-07edac9543f9",
+                                        "ItemName": "item18"
+                                    },
+                                    {
+                                        "Item Text": "台東原生應用植物園",
+                                        "ItemId": "7a560b4b-fb48-4872-b2c3-f0df34df25d9",
+                                        "ItemName": "item19"
+                                    },
+                                    {
+                                        "Item Text": "遠雄海洋公園",
+                                        "ItemId": "6c4e5335-b38d-4d31-80a4-cc9e8047c7cd",
+                                        "ItemName": "item20"
+                                    },
+                                    {
+                                        "Item Text": "怡園渡假村",
+                                        "ItemId": "d8da70ad-c1d2-45b6-92e9-f34eb33acba7",
+                                        "ItemName": "item21"
+                                    },
+                                    {
+                                        "Item Text": "綠舞莊園日式主題樂園區",
+                                        "ItemId": "5b5cab7e-c34e-42b2-ac48-37e51854e414",
+                                        "ItemName": "item22"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Anchor Key": "select",
+                    "Main Title": "<p class=\"cubre-a-blockTitle\">集精選&nbsp;<img alt=\"\" width=\"36\" class=\"cubre-a-image\" src=\"-/media/e4e8446ed40d43958cfc3c06294b8980\" style=\"padding-bottom : 5px;\" />\n<stlye class=\"cubre-m-cubeInfo__title\"><span style=\"color: #4a7056;\">3%&nbsp;(2022/10/19起適用)</span></stlye></p>",
+                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                    "Notice Title": "注意事項",
+                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">指定品牌/生活消費</p>\n<li>限直接使用CUBE卡刷卡或使用該卡加入Apple Pay /Samsung Pay/Google Pay/Fitbit Pay/Garmin Pay/Hami Pay消費或以CUBE卡綁定OPEN錢包使用，並選定「集精選」方案方可獲指定消費3%回饋。 </li>\n</div>\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">「台灣中油-直營店」\n</p>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li>本活動回饋之中油「直營站」加油站限於<a href=\"https://www.cpc.com.tw/cp.aspx?n=34\">中油網站公告</a>之中油直營站為準，排除網路交易、電子票證、錢包儲值交易及第三方支付绑卡掃碼付款交易(例如: 中油Pay、街口支付、LINE Pay、台灣Pay、悠遊付、Pi拍錢包、橘子支付、支付寶等)。</li>\n    <li>本活動回饋不適用加氣站及任何不屬於加油站內之加油消費；若付款失敗、取消交易、退貨，該筆加油金額將不予回饋。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">「台灣高鐵」\n</p>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li>高鐵消費回饋通路包含：高鐵網站、高鐵APP、高鐵臨櫃、高鐵自動售票機; 實際回饋以本行系統判定為高鐵消費為準。</li>\n    <li>本活動以實際成功購票計算，以活動期間內「消費日」及「實際刷卡消費金額」為計算基準。若付款失敗、取消交易、退票等，該筆高鐵刷卡金額將不予回饋。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">「指定國內超商/超市」</p>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li>「7-ELEVEN實體門市」(含OPEN錢包)於店內消費，排除菸品、代收代售消費，限選定「集精選」方案方可獲指定消費3%回饋，選定其他方案則不予回饋。統一超商i預購不適用。</li>\n    <li>「全家便利商店實體門市」(含My FamiPay)於店內消費，排除菸品、代收代售消費，限選定「集精選」方案方可獲指定消費3%回饋，選定其他方案則不予回饋。Fami錢包APP儲值不回饋（全家認列儲值為代收故不回饋）。</li>\n    <li>「全聯福利中心實體門市」(含PX Pay)於店內消費，排除菸品、代收代售、一歲以下嬰兒奶粉、印花活動商品、積分活動商品、點數換購商品、禮券購買消費，限選定「集精選」方案方可獲指定消費3%回饋，選定其他方案則不予回饋。</li>\n    <li>高速公路服務區、醫院美食街及企業辦公大樓等場域之門市不適用。</li>\n    <li>使用第三方支付/電子支付(ex. icash Pay/全盈支付/全支付)綁卡付款恕無法享有回饋。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">「麥當勞」\n</p>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li>小額支付平台特約商店－麥當勞為非一般消費，限選定「集精選」方案方可獲指定消費3%回饋，選定其他方案則不予回饋。</li>\n    <li>不適用設立於百貨、商場(含車站商場、機場美食街)等實體門市。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">「星巴客」\n</p>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li>不適用設立於百貨、商場(含車站商場、機場美食街)等實體門市。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">「 Uber Eats 」</p>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n認列之消費，不包含 Uber Eats 之優饗方案。\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">「遠東SOGO百貨」</p>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li> 切換【樂饗購】或【集精選】權益方案，即享指定消費3%小樹點(信用卡)回饋；若切換其他權益方案，將依一般消費0.3%回饋計算。</li>\n    <li>2023/3/31前 CUBE APP 領取回饋加碼再享1%小樹點(信用卡)。CHANEL、HERMES、LV精品品牌僅適用主權益3%小樹點(信用卡)回饋，不適用領取加碼之1%小樹點(信用卡)回饋。</li>\n    <li>遠東SOGO百貨部分櫃位/購買禮券/商品券及菸類商品/LINE Pay之刷卡消費恕無法參加本活動，請依各櫃位資訊及現場活動公告為準。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">&nbsp;</p>\n<p class=\"cubre-a-blockTitle -textSub\">「國內百貨」</p>\n<ol class=\"cubre-m-list\">\n    <li>各權益方案之「指定消費」或「限時回饋加碼」消費，限直接使用CUBE卡刷卡或使用該卡加入Apple Pay /Samsung Pay/Google Pay/Fitbit Pay/Garmin Pay/Hami Pay消費，皆不含透過綁定其他型態支付工具之消費(如：LINE Pay、街口支付、全盈+PAY、全支付、Pi錢包、橘子支付、歐付寶、icash pay、OPEN錢包、My FamiPay、悠遊付、ezPay、GOMAJI Pay、friday wallet、PayPal等)；及皆不含透過綠界支付平台、藍新支付平台之交易。</li>\n    <li>國內百貨回饋資格係以刷卡簽單上之特店名稱認定，不包含店中櫃。請依刷卡簽單或CUBE App消費資訊中查看，非以發票上列示之商家名稱為依據。例如：遠東SOGO之Nespresso 為百貨公司店中櫃，簽單上之特店名稱為：Nespresso，故不符合【集精選】指定消費回饋。</li>\n</ol>\n</div>\n</div>\n<p>&nbsp;</p>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">「Apple 媒體服務」\n</p>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\nApple 媒體服務消費認列通路含 App Store , Apple Music , iCloud , Apple TV+ , Apple Arcade , Apple One , iTunes 等 Apple 媒體服務訂閱及購買之交易(包括於 App Store , iTunes 商店內購買App/Game，及於App內透過 Apple ID 綁定國泰世華CUBE卡付款之消費，如購買LINE代幣等)，不含 Apple Store 之交易。實際回饋以本行系統判定為 Apple 媒體服務為準。\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">「國內停車」</p>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li>三創生活停車場不適用。</li>\n    <li>各停車場場站位置、適用場站、超時停車費率及使用規定，請依各停車場業者公告為準或至各停車場網站查詢。</li>\n    <li>停車場僅供停車，不負保管之責，如遇有關車輛停放所衍生之相關問題或爭議，請依據車輛停放所在停車場之管理規範辦理，與本行無涉，相關規範辦法請詳見各停車場站公告之內容。\n    </li>\n    <li>各停車場站的停車位有限，停滿為止，不另行公告。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">「OPEN錢包」</p>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li>OPEN錢包消費排除菸品、代收代售消費，限選定「集精選」方案方可獲指定消費3%回饋，選定其他方案僅適用原一般消費0.3%回饋。\n    </li>\n    <li>OPEN錢包使用通路請依OPEN錢包官網公告為準。</li>\n    <li>部份康是美門市及各餐飲通路因位於百貨商場中，是否可接受OPEN錢包支付依門市現場公告為主。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+                    "Deletion": "",
+                    "Rejection": "0",
+                    "Advertising": "0",
+                    "Previous state": "{68FE7487-F5EA-49C1-8A10-B4850956F157}",
+                    "ItemId": "fe9c60cc-f10d-49b8-9885-0e051a5001a2",
+                    "ItemName": "Card Right List 7",
+                    "children": [
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/8d2c250692f64ce4b5920247dfd88a33?v=1",
+                            "Category Name": "加油大眾交通",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "c5a29f15-d68f-49a7-837b-281f89a677ce",
+                            "ItemName": "Card Right List Item Lv1 1",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "Description": "",
+                                "Rejection": "0",
+                                "ItemId": "37575ff6-8bd1-41fa-b259-6aa2820609a5",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": [
+                                    {
+                                        "Item Text": "台灣中油-直營店",
+                                        "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                        "Notice Content": "<p>1. 本活動回饋之中油「直營站」加油站限於<a href=\"https://www.cpc.com.tw/cp.aspx?n=34\">中油網站公告</a>之中油直營站為準，排除網路交易、電子票證、錢包儲值交易及第三方支付绑卡掃碼付款交易(例如: 中油Pay、街口支付、LINE Pay、台灣Pay、悠遊付、Pi拍錢包、橘子支付、支付寶等)。</p>\n<p>2. 本活動回饋不適用加氣站及任何不屬於加油站內之加油消費；若付款失敗、取消交易、退貨，該筆加油金額將不予回饋。</p>",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "90033cf1-7e60-4e4e-a9e9-49aee43c64f4",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "台灣高鐵",
+                                        "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                        "Notice Content": "<p>1. 高鐵消費回饋通路包含：高鐵網站、高鐵APP、高鐵臨櫃、高鐵自動售票機; 實際回饋以本行系統判定為高鐵消費為準。 </p>\n<p>2. 本活動以實際成功購票計算，以活動期間內「消費日」及「實際刷卡消費金額」為計算基準。若付款失敗、取消交易、退票等，該筆高鐵刷卡金額將不予回饋。</p>",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "5d10099e-cb19-4461-9aad-cab5ea0ba8df",
+                                        "ItemName": "item2"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/5cc9bb4413e74e81ad944b476da5e977?v=1",
+                            "Category Name": "指定國內超商/超市",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "cf983f18-977f-407e-af14-7c3a8f701cbc",
+                            "ItemName": "Card Right List Item Lv1 2",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "Description": "",
+                                "Rejection": "0",
+                                "ItemId": "cf9c0e33-6178-4820-bdef-5f95ba16b05d",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": [
+                                    {
+                                        "Item Text": "7-ELEVEN",
+                                        "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                        "Notice Content": "<p>1. 「7-ELEVEN實體門市」(含OPEN錢包)於店內消費，排除菸品、代收代售消費，限選定「集精選」方案方可獲指定消費3%回饋，選定其他方案則不予回饋。</p>\n<p>2. 高速公路服務區、醫院美食街及企業辦公大樓等場域之門市、統一超商i預購、以及icash Pay不適用。</p>",
+                                        "Deletion": "",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "Previous state": "{68FE7487-F5EA-49C1-8A10-B4850956F157}",
+                                        "ItemId": "b72223c4-5eb2-418b-a2df-1bca0faf375c",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "全家便利商店",
+                                        "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                        "Notice Content": "<p>1.「全家便利商店實體門市」(含My FamiPay)於店內消費，排除菸品、代收代售消費，限選定「集精選」方案方可獲指定消費3%回饋，選定其他方案則不予回饋。</p>\n<p>2. 高速公路服務區、醫院美食街及企業辦公大樓等場域之門市不適用。</p>\n<p>3. 全盈支付不適用。Fami錢包APP儲值不回饋（全家認列儲值為代收故不回饋）。</p>",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "47bc2819-9681-4019-950a-14a1015ead48",
+                                        "ItemName": "item2"
+                                    },
+                                    {
+                                        "Item Text": "全聯福利中心",
+                                        "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                        "Notice Content": "<p>1. 「全聯福利中心實體門市」(含PX Pay)於店內消費，排除菸品、代收代售、一歲以下嬰兒奶粉、印花活動商品、積分活動商品、點數換購商品、禮券購買消費，限選定「集精選」方案方可獲指定消費3%回饋，選定其他方案則不予回饋。</p>\n<p>2. 高速公路服務區、醫院美食街及企業辦公大樓等場域之門市、全支付不適用。</p>",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "16217353-812b-455f-8266-f2f338f22ae9",
+                                        "ItemName": "item3"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/663cd68b721f4891a41aa2e2c4919eb9?v=2",
+                            "Category Name": "指定國內餐飲",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "215dc5ad-4053-45b9-b0d4-27e108a9c8a9",
+                            "ItemName": "Card Right List Item Lv1 3",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "Rejection": "0",
+                                "ItemId": "b3a7d277-4dfb-4909-904f-666a9a844f44",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": [
+                                    {
+                                        "Item Text": "麥當勞",
+                                        "Notice Type": "{0F972286-8B70-46DD-93C9-29FA03960031}",
+                                        "Notice Content": "1. 小額支付平台特約商店－麥當勞為非一般消費，限選定「集精選」方案方可獲指定消費3%回饋，選定其他方案則不予回饋。\n<p>2. 不適用設立於百貨、商場(含車站商場、機場美食街)等實體門市。</p>",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "e19439b3-db69-4ff4-9853-9a32380927db",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "星巴克",
+                                        "Notice Type": "{0F972286-8B70-46DD-93C9-29FA03960031}",
+                                        "Notice Content": "不適用設立於百貨、商場(含車站商場、機場美食街)等實體門市。",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "1cf7bfa2-2181-4de2-9a3f-5cdfa6b39083",
+                                        "ItemName": "item2"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/4179cff75af24b0aa7c54c792fe6ac17?v=2",
+                            "Category Name": "外送平台",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "c234b2b9-5792-4391-80b6-94b3b194aa08",
+                            "ItemName": "Card Right List Item Lv1 4",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "Rejection": "0",
+                                "ItemId": "6e9759e2-3e36-43a1-9214-88227c09e54f",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": [
+                                    {
+                                        "Item Text": "Uber Eats",
+                                        "Notice Type": "{0F972286-8B70-46DD-93C9-29FA03960031}",
+                                        "Notice Content": "認列之消費，不包含 Uber Eats 之優饗方案。",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "8f441cfe-b9ac-4538-942a-ebf9baa67d15",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "foodomo",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "b3284e21-773d-4fc1-bd9d-472772c1c4b9",
+                                        "ItemName": "item2"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/1b1790f474564ffd9a898a00e4d0dbde?v=2",
+                            "Category Name": "國內百貨",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "beb6a806-086f-4e8a-a099-75e30a30a27f",
+                            "ItemName": "Copy of Card Right List Item Lv1 4",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "Description": "使用提醒：<br />\n國內百貨回饋資格係以刷卡簽單上之特店名稱認定，不包含店中櫃。請依刷卡簽單或CUBE App消費資訊中查看，非以發票上列示之商家名稱為依據。<br />\n例如：遠東SOGO之Nespresso 為百貨公司店中櫃，簽單上之特店名稱為：Nespresso，故不符合【集精選】指定消費回饋。",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "832fad07-0ffc-4399-9c25-f0bb26a2f0e6",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": [
+                                    {
+                                        "Item Text": "遠東SOGO百貨",
+                                        "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                        "Notice Content": "<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li> 切換【樂饗購】或【集精選】權益方案，即享指定消費3%小樹點(信用卡)回饋；若切換其他權益方案，將依一般消費0.3%回饋計算。</li>\n    <li>2023/3/31前 CUBE APP 領取回饋加碼再享1%小樹點(信用卡)。CHANEL、HERMES、LV精品品牌僅適用主權益3%小樹點(信用卡)回饋，不適用領取加碼之1%小樹點(信用卡)回饋。</li>\n    <li>遠東SOGO百貨部分櫃位/購買禮券/商品券及菸類商品/LINE Pay之刷卡消費恕無法參加本活動，請依各櫃位資訊及現場活動公告為準。</li>\n</ol>\n</div>\n</div>",
+                                        "Rejection": "",
+                                        "Advertising": "",
+                                        "ItemId": "80ce82a4-3415-4fe1-a591-6986cac5aa63",
+                                        "ItemName": "item2"
+                                    },
+                                    {
+                                        "Item Text": "新光三越",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "5363ee57-40ac-4441-b04b-b033c0c97390",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "統一時代百貨",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "02f144ab-5e43-485e-9401-841cb9bbb248",
+                                        "ItemName": "Copy of Copy of item2"
+                                    },
+                                    {
+                                        "Item Text": "夢時代購物中心",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "82cc902a-0537-4935-96c8-636cdb876ac5",
+                                        "ItemName": "Copy of item2"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/11397389c3c34006b960130420dc9910?v=2",
+                            "Category Name": "數位/網購平台",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "9a090fc6-dfbf-4e83-bc1d-51e26e82bb1a",
+                            "ItemName": "Copy of Card Right List Item Lv1 4 1",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "Rejection": "",
+                                "ItemId": "c9f0158c-1709-46bf-aabc-78359102614b",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": [
+                                    {
+                                        "Item Text": "Apple媒體服務",
+                                        "Notice Type": "{0F972286-8B70-46DD-93C9-29FA03960031}",
+                                        "Notice Content": "<span style=\"text-align: left; color: #333333; letter-spacing: normal; background-color: #ffffff;\">Apple媒體服務內容含 App Store / Apple Music / iCloud 等服務，不含 Apple Store 之交易</span>。",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "0861b3f0-eacc-4835-9a11-dccecef90fa5",
+                                        "ItemName": "item1"
+                                    },
+                                    {
+                                        "Item Text": "蝦皮購物",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "efad5cb7-544a-4c06-a8cf-38b591f3b14a",
+                                        "ItemName": "item2"
+                                    },
+                                    {
+                                        "Item Text": "博客來",
+                                        "Notice Type": "",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "4f731274-ef6b-42b1-9b51-3aa80f0bc330",
+                                        "ItemName": "Copy of item2"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/a895035ecb1a4fe48def4a031629b8a5?v=1",
+                            "Category Name": "國內停車",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "f15fdfb6-dcd6-4a0c-a28e-f84cb19b1ec0",
+                            "ItemName": "Copy of Card Right List Item Lv1 4 2",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "Rejection": "",
+                                "ItemId": "05f6cbd2-ef89-4240-8350-044c81b774a8",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": [
+                                    {
+                                        "Item Text": "城市車旅",
+                                        "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                        "Notice Content": "<p>1. 三創生活停車場不適用。 </p>\n<p>2. 各停車場場站位置、適用場站、超時停車費率及使用規定，請依各停車場業者公告為準或至各停車場網站查詢。 </p>\n<p>3. 停車場僅供停車，不負保管之責，如遇有關車輛停放所衍生之相關問題或爭議，請依據車輛停放所在停車場之管理規範辦理，與本行無涉，相關規範辦法請詳見各停車場站公告之內容。 </p>\n<p>4. 各停車場站的停車位有限，停滿為止，不另行公告。</p>",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "505c15b6-ff33-433e-ac41-64370b05b905",
+                                        "ItemName": "item2"
+                                    },
+                                    {
+                                        "Item Text": "嘟嘟房",
+                                        "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                        "Notice Content": "<p>1. 各停車場場站位置、適用場站、超時停車費率及使用規定，請依各停車場業者公告為準或至各停車場網站查詢。 </p>\n<p>2. 停車場僅供停車，不負保管之責，如遇有關車輛停放所衍生之相關問題或爭議，請依據車輛停放所在停車場之管理規範辦理，與本行無涉，相關規範辦法請詳見各停車場站公告之內容。 </p>\n<p>3. 各停車場站的停車位有限，停滿為止，不另行公告。</p>\n<p>4. 不適用月租型停車費。</p>",
+                                        "Rejection": "0",
+                                        "Advertising": "0",
+                                        "ItemId": "9d65d7df-8c3d-4693-a3c7-f34a3efbe37e",
+                                        "ItemName": "item1"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Category Icon Alt": "",
+                            "Category Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/f683ad048e6c4a04a132a38610788e76?v=2",
+                            "Category Name": "指定錢包",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "29f91165-99e7-40a2-a301-c2aeb85836a1",
+                            "ItemName": "Copy of Copy of Card Right List Item Lv1 4 2",
+                            "children": {
+                                "Title Icon Alt": "",
+                                "Title Icon": "https://www.cathaybk.com.tw",
+                                "Title": "",
+                                "Rejection": "",
+                                "ItemId": "ebbede73-c0db-40ac-80d1-7b231ca9e7b2",
+                                "ItemName": "Card Right List Item Lv2",
+                                "children": {
+                                    "Item Text": "OPEN錢包",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Content": "<p>1. OPEN錢包消費排除菸品、代收代售消費，限選定「集精選」方案方可獲指定消費3%回饋，選定其他方案僅適用原一般消費0.3%回饋。</p>\n<p>2. OPEN錢包使用通路請依OPEN錢包官網公告為準。\n</p>\n<p>3. 部份康是美門市及各餐飲通路因位於百貨商場中，是否可接受OPEN錢包支付依門市現場公告為主。</p>",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "bffbe90a-132b-461d-afb4-cae41ee14f35",
+                                    "ItemName": "item1"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Anchor Key": "blockname05",
+                    "Main Title": "如何切換權益",
+                    "Main Subtitle": "",
+                    "Major Button Link": "https://www.cathaybk.com.tw/cathaybk/promo/event/ebanking/product/APP-WEB/index.html",
+                    "Major Button Text": "馬上下載App",
+                    "Minor Button Link": "",
+                    "Minor Button Text": "",
+                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                    "Notice Title": "注意事項",
+                    "Notice Content": "<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<p>權益切換：</p>\n<ol class=\"cubre-m-list\">\n    <li>CUBE卡權益方案2023/6/30前享天天免費變更方案，每正卡人每日限變更一次，附卡適用方案依正卡持卡人設定為準。</li>\n    <li>方案設定自當日零時起之消費即依當次變更後之方案計算回饋，方案設定依本行系統紀錄之日期為準。</li>\n    <li>CUBE App「CUBE卡點數回饋明細查詢」顯示之小樹點(信用卡)僅包含CUBE卡權益方案回饋點數，不含其他活動或國泰優惠提供之小樹點。</li>\n    <li>回饋點數可於消費入帳後次二日（營業日）內於CUBE App查詢。</li>\n    <li>操作畫面僅為示意，回饋資訊依持卡人實際消費交易為準。</li>\n    <li>有任何因為電腦、網路、電話、技術或不可歸責於本行之事由，而使持卡人之交易紀錄有遺失、錯誤、無法辨識或毀損情況，本行不負任何法律責任，持卡人亦不得因此異議。</li>\n    <li>本活動如有未盡事宜，悉依本行規定及解釋為準。本行保留活動修改、變更及終止之權利，並於本行網站公告。</li>\n    <li>本活動適用對象為持有國泰世華銀行信用卡小樹點(信用卡)之正卡持卡人，附卡持卡人不得參加。</li>\n</ol>\n</div>\n</div>",
+                    "Rejection": "0",
+                    "Advertising": "0",
+                    "ItemId": "ba737880-d71f-43a3-b1c8-1580be1d69ac",
+                    "ItemName": "PictureStep2",
+                    "children": {
+                        "Tab Text": "如何切換權益",
+                        "Rejection": "0",
+                        "ItemId": "ed73c331-90f8-47a4-8d59-4afa2813a80a",
+                        "ItemName": "PictureStep Tab 1",
+                        "children": [
+                            {
+                                "Image Alt": "",
+                                "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/4028c278a2f449d4b415fc0a68a7522d?v=1",
+                                "Title": "點選CUBE權益方案",
+                                "Description": "",
+                                "Rejection": "",
+                                "ItemId": "643eb171-6421-4612-84a1-fda2cd0ea0e7",
+                                "ItemName": "PictureStep Item 1"
+                            },
+                            {
+                                "Image Alt": "",
+                                "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/ae794543df9f4da0ad48ae0cb78e7aa7?v=1",
+                                "Title": "選擇方案",
+                                "Description": "",
+                                "Rejection": "",
+                                "ItemId": "6afdde13-b2b5-450a-946e-8b5a74dbe5b8",
+                                "ItemName": "PictureStep Item 2"
+                            },
+                            {
+                                "Image Alt": "",
+                                "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/a83e0843642c4bd788189494b4d82f77?v=1",
+                                "Title": "點切換此方案",
+                                "Description": "",
+                                "Rejection": "",
+                                "ItemId": "dcbd7827-b9ea-4820-964b-9bbcd7042552",
+                                "ItemName": "PictureStep Item 3"
+                            },
+                            {
+                                "Image Alt": "",
+                                "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/238397db1e02438a8797bfd06e30da95?v=1",
+                                "Title": "切換完成",
+                                "Description": "",
+                                "Rejection": "",
+                                "ItemId": "f389dc03-d6a3-40dc-a176-6af1777d6eb9",
+                                "ItemName": "PictureStep Item 4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Anchor Key": "blockname06",
+                    "Title": "注意事項",
+                    "Detail": "<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li>CUBE卡權益如未敘明則適用期間為：2023/1/1~2023/6/30，見以下詳細說明。</li>\n    <li>CUBE卡權益方案2023/6/30前享天天免費變更方案，每正卡人每日限變更一次，附卡適用方案依正卡持卡人設定為準。</li>\n    <li>方案設定自當日零時起之消費即依當次變更後之方案計算回饋，方案設定依本行系統紀錄之日期為準。(舉例：小華2022/10/10 17:00變更方案為「樂饗購」，且 2022/10/10 10:30 有一筆Uber消費、18:00 有一筆遠東SOGO百貨消費，則 2022/10/10 之所有消費 (包含 Uber 與遠東SOGO百貨) 皆依「樂饗購」方案計算回饋。)</li>\n    <li>小樹點(信用卡)點數價值為1點等值NT$1元，CUBE卡於每筆消費請款入帳後，依該筆消費之消費日適用權益方案、符合之限時回饋加碼，以各別回饋率計算小樹點(信用卡)並依小數點第一位四捨五入至整數位，並於次二日(遇假日順延)回饋至正卡人信用卡帳戶，實際回饋時間依本行作業時間為準。<br />\n    (舉例：小華2022/10/10 適用方案為「樂饗購」，且當日10:30有一筆雄獅旅行社消費NT$1,800，18:00有一筆新光三越消費NT$3,000。雄獅旅行社不屬「樂饗購」方案指定消費，因此屬一般消費，回饋率0.3%；新光三越於「樂饗購」方案中屬指定美食/購物消費，回饋率3%。小華分別獲得兩筆消費回饋5點、90點，詳細計算見下方表格)\n    <table class=\"cubre-m-commonTable\">\n        <thead>\n            <tr>\n                <th>消費項目</th>\n                <th>消費金額</th>\n                <th>消費類別</th>\n                <th>回饋率</th>\n                <th>回饋點數</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>雄獅旅行社</td>\n                <td>NT$1,800</td>\n                <td>一般消費</td>\n                <td>0.3%</td>\n                <td>5<br />\n                (1800*0.3%=5.4)</td>\n            </tr>\n            <tr>\n                <td>新光三越</td>\n                <td>NT$3,000</td>\n                <td>指定美食/購物消費</td>\n                <td>3%</td>\n                <td>90<br />\n                (3000*3%=90)</td>\n            </tr>\n        </tbody>\n    </table>\n    </li>\n    <li>正附卡消費合併計算，小樹點(信用卡)回饋歸戶至正卡持卡人信用卡帳戶。</li>\n    <li>如有退貨將依該筆退貨交易之消費日比對適用權益方案，依該方案計算回饋後予以扣除，若商家退款交易以退貨當日作為該筆消費之消費日，則依該日期適用方案計算回饋並予以扣除，消費日依商家所認列的日期為準，本行並會將此消費日期列示於帳單。因部分境外收單商家（如，Uber Eats、foodpanda、agoda等）所認列之消費日與實際消費日期不同，如因此無法領取加碼回饋，請洽本行客服處理。</li>\n    <li>分期付款消費依該筆分期交易之消費日比對適用權益方案，依該方案計算回饋後，於每期入帳後回饋至正卡人信用卡帳戶，消費日依帳單列示日期為準。</li>\n    <li>各權益方案之「指定消費」皆已包含一般消費回饋0.3%。</li>\n    <li>各權益方案之「指定消費」或「限時回饋加碼」消費，限直接使用CUBE卡刷卡或使用該卡加入Apple Pay /Samsung Pay/Google Pay/Fitbit Pay/Garmin Pay/Hami Pay消費，皆不含透過綁定其他型態支付工具之消費(如：LINE Pay、街口支付、全盈+PAY、全支付、Pi錢包、橘子支付、歐付寶、icash pay、OPEN錢包、My FamiPay、悠遊付、ezPay、GOMAJI Pay、friday wallet、PayPal等)。「指定消費」包含玩數位之指定線上消費、樂饗購之指定美食/購物消費、趣旅行之指定旅遊消費、集精選之指定品牌/生活消費包含OPEN錢包適用通路消費、My FamiPay超商消費、 PX Pay店內消費，排除菸品、代收代售、禮券購買消費。</li>\n    <li>小額支付平台特約商店－麥當勞、7-ELEVEN(含OPEN錢包於店內消費)/全家(含My FamiPay於店內消費)/全聯福利中心(含PX Pay於店內消費)排除菸酒、代收代售、禮券購買消費，限選定「集精選」方案方可獲指定消費3%回饋，選定其他方案則不予回饋。</li>\n    <li>OPEN錢包於超商外其他一般消費通路，限選定「集精選」方案方可獲指定消費3%回饋，選定其他方案僅適用原一般消費0.3%回饋。</li>\n    <li>CUBE卡權益方案限回饋一般消費，一般消費排除：信用卡相關利息及費用(包含但不限於利息、年費、掛失費、預借現金手續費、違約金、國外交易手續費、調閱簽帳單手續費、補發帳單手續費等非消費款項)、預借現金、帳單分期、單筆消費分期(刷卡樂分期)、通信貸款、餘額代償金額及經本行公告除外之專案、稅款、學費、公用事業費用(包含但不限於網路通訊／影音服務等相關費用及附加費)、路邊停車費、公務機關各項費用、透過繳費平台（如公務機關信用卡繳費平台，含公務機關／國營事業／公立醫療院所等、電子化繳費稅處理平台、醫指付、本行CUBE網銀或CUBE App線上繳費服務)繳納之費用、代繳國泰人壽「躉繳/「投資型/「利率變動型年金」保單、代扣基金、悠遊卡加值、一卡通加值、icash加值、便利超商消費、透過聯合信用卡處理中心<a href=\"https://www.nccc.com.tw/wps/wcm/connect/zh/home/BusinessOperations/CardBusiness/MicroPayment\">小額支付平台之特約商店</a>之消費（如便利超商、連鎖速食店、停車費等）、全聯福利中心消費、eTag儲值/eTag智慧停車費代扣繳、遠東SOGO百貨貴賓廳之消費金額、國壽不動產租金代收、未經主管機關核准之境外投資交易平台(包括但不限於eToro)、其他經本行公告排除之項目。</li>\n    <li>「玩數位」、「樂饗購」、「趣旅行」、「集精選」之「指定消費」消費及注意事項依CUBE卡權益方案頁面說明為準；「限時優惠」之適用通路及注意事項依限時優惠頁面說明為準。</li>\n    <li>持卡人於計算回饋時須持有效卡，且上一期無逾期未繳款之紀錄；若持卡人終止信用卡或遭停止使用信用卡權利、延滯繳款或其他違反信用卡約定條款等情事時，將喪失活動回饋資格。</li>\n    <li>消費回饋之認定依本行系統為主，本行將依商店提供之交易說明比對，若因商店請款資料變更以致交易說明資訊和本行可判別之資訊不同，或上述回饋通路旗下商品之清算資料類別與本行認列之清算資料不同，導致未列入回饋計算(不包含各商家之排除項目)，請來電告知，本行將於確認後以個案方式提供回饋，且不另行通知，惟回饋恕不溯及既往。除本項說明項目之外，不符回饋通路者，不予個案回饋。</li>\n    <li>持卡人於網路商店購物時，應注意是否為跨境交易。凡特約商店所在地登記為國外者或交易(含辦理退款)之貨幣非為新臺幣者，交易須收取國外交易手續費，相關費用依信用卡約定條款第十六條國外交易授權結匯辦理，請參閱本行信用卡約定條款約定。<span style=\"color: #ff0000;\">註：網頁以「tw」為網域名稱者，或於我國有設立分公司者，並非當然屬於我國境內特約商店，持卡人仍須注意是否為跨境交易。</span></li>\n    <li>若有任何因為電腦、網路、電話、技術或不可歸責於本行之事由，而使持卡人之交易紀錄有遺失、錯誤、無法辨識或毀損情況，本行不負任何法律責任，持卡人亦不得因此異議。</li>\n    <li>若刷卡消費為虛偽不實套利之交易，經本行查證後將逕行扣回已回饋之小樹點(信用卡)，若點數扣除作業時持卡人已將點數使用完畢，將改以1點小樹點(信用卡)等值新台幣壹元之價值入信用卡帳單。</li>\n    <li>本活動之相關活動辦法、未盡事項或變更，悉依本行/各合作店家規定及解釋為準。本行保留活動修改、變更及終止之權利，並於本行網站公告。</li>\n</ol>\n</div>\n</div>",
+                    "Rejection": "0",
+                    "Advertising": "0",
+                    "ItemId": "096ceaa3-bcf4-483d-89e7-c2773d89bd23",
+                    "ItemName": "Notice 1"
+                }
+            ]
+        }
+    ]
+}

@@ -53,7 +53,7 @@ def messeage_prepare(system_info, prompt_info):
         return message
 
 def print_tabulate_question_and_answer(question_list, docs_and_scores_list, n=3, k=4):
-    system_info = "你是國泰世華銀行的助手, 參考[公開資料]回答顧客的信用卡優惠[問題], 答案越精準越好"
+    system_info = "你是國泰世華銀行的助手, 參考[公開資料]依照信用卡別回覆顧客的信用卡優惠[問題], 答案越精準越好"
     
     tabulate_format = []
     n_question = min(len(question_list), n)

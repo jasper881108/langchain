@@ -1,0 +1,559 @@
+{
+    "ReturnCode": "0000",
+    "ReturnMsg": "查詢成功",
+    "Items": [
+        {
+            "Credit Card Name": "長榮航空聯名卡",
+            "Credit Card Image Alt": "",
+            "Credit Card Image": "https://www.cathaybk.com.tw/cathaybk/-/media/21448dcaa9c64dc6bb203cc8fde6c853?v=1",
+            "Apply Button Text": "立即申辦",
+            "Apply Button Link": "https://www.cathaybk.com.tw/cathaybk/onlineservice/CreditCard/CreditCardApply/cardgrade-s2.aspx?CardMain=2",
+            "Credit Card Event Anchor Key": "",
+            "Credit Card Event Main Title": "",
+            "Credit Card Event Info": "",
+            "Credit Card Event Major Button Text": "",
+            "Credit Card Event Major Button Link": "",
+            "KV PC Background Image Alt": "",
+            "KV PC Background Image": "https://www.cathaybk.com.tw/cathaybk/-/media/1b4ca99a3f384c40b6d61345ad8d57ab?v=1",
+            "KV Mobile Background Image Alt": "",
+            "KV Mobile Background Image": "https://www.cathaybk.com.tw/cathaybk/-/media/c396c4983c904b30b4a1933e477cdb7f?v=1",
+            "KV Image Alt": "",
+            "KV Image": "https://www.cathaybk.com.tw/cathaybk/-/media/5486e94d6a19485f95f135f9f7343efa?v=5",
+            "KV White Button Text": "優惠手冊",
+            "KV White Button Link": "https://www.cathaybk.com.tw/cathaybk/promo/edm/credit-card/product/2023/eva-air/index.html",
+            "Popular Cards PC Background Image Alt": "",
+            "Popular Cards PC Background Image": "https://www.cathaybk.com.tw/cathaybk/-/media/c316476d87d34beea45784680d2ef5da?v=1",
+            "Popular Cards Mobile Background Image Alt": "",
+            "Popular Cards Mobile Background Image": "https://www.cathaybk.com.tw/cathaybk/-/media/552e6b952f4e47ec9ef6804e22903364?v=1",
+            "Popular Cards Enable Light Text": "1",
+            "Popular Cards Feature Icon 1 Alt": "",
+            "Popular Cards Feature Icon 1": "https://www.cathaybk.com.tw/cathaybk/-/media/35377c52ab1747a5b97e81412d28d733?v=5",
+            "Popular Cards Feature Text 1": "消費最優10元累積1哩",
+            "Popular Cards Feature Icon 2 Alt": "",
+            "Popular Cards Feature Icon 2": "https://www.cathaybk.com.tw/cathaybk/-/media/30b8ed9ae3a14e1e9213470f7802bc32?v=4",
+            "Popular Cards Feature Text 2": "飛航尊享機票/機上免稅品9折起",
+            "Popular Cards Feature Icon 3 Alt": "",
+            "Popular Cards Feature Icon 3": "https://www.cathaybk.com.tw/cathaybk/-/media/9ad8a533900942aa8cc29abc4838a4ac?v=3",
+            "Popular Cards Feature Text 3": "出行優享免費機接/貴賓室禮遇",
+            "Popular Cards Left Button Text": "卡片介紹",
+            "Popular Cards Left Button Link": "https://www.cathaybk.com.tw/cathaybk/personal/product/credit-card/cards/eva",
+            "Card Detail Category Text": "",
+            "Card Detail Feature": "<div class=\"cubre-m-compareCard__feature\">\n                        <div class=\"cubre-m-feature -multiple\">\n                            <div class=\"cubre-m-feature__item\">\n                                <div class=\"cubre-m-feature__icon\">\n                                    <img src=\"-/media/436d19c49a6c452ebadd16289b96b9e6.ashx\" alt=\"\">\n                                </div>\n                                <div class=\"cubre-m-feature__text\">\n                                    消費最優10元1哩\n                                </div>\n                            </div>\n                            <div class=\"cubre-m-feature__item\">\n                                <div class=\"cubre-m-feature__icon\">\n                                    <img src=\"-/media/5fd458276c714009955daa52400dd658.ashx\" alt=\"\">\n                                </div>\n                                <div class=\"cubre-m-feature__text\">\n                                    長榮官網購票9折起\n                                </div>\n                            </div>\n                            <div class=\"cubre-m-feature__item\">\n                                <div class=\"cubre-m-feature__icon\">\n                                    <img src=\"-/media/5fd458276c714009955daa52400dd658.ashx\" alt=\"\">\n                                </div>\n                                <div class=\"cubre-m-feature__text\">\n                                    免費機接最多6次/年\n                                </div>\n                            </div>\n                            <div class=\"cubre-m-feature__item\">\n                                <div class=\"cubre-m-feature__icon\">\n                                    <img src=\"-/media/5fd458276c714009955daa52400dd658.ashx\" alt=\"\">\n                                </div>\n                                <div class=\"cubre-m-feature__text\">\n                                    免費機場貴賓室禮遇\n                                </div>\n                            </div>\n                            <div class=\"cubre-m-feature__item\">\n                                <div class=\"cubre-m-feature__icon\">\n                                    <img src=\"-/media/100d3a188f4748cd93d32b938a37b8e2.ashx\" alt=\"\">\n                                </div>\n                                <div class=\"cubre-m-feature__text\">\n                                    免費海外Wi-Fi上網\n                                </div>\n                            </div>\n                            <div class=\"cubre-m-feature__item\">\n                                <div class=\"cubre-m-feature__icon\">\n                                    <img src=\"-/media/65db711e29634f69a2516a867c2c5134.ashx\" alt=\"\">\n                                </div>\n                                <div class=\"cubre-m-feature__text\">\n                                    長榮機上免稅品9折\n                                </div>\n                            </div>\n                            </div>\n                    </div>",
+            "Card Detail Link Type": "{BDDD7950-259D-47D8-BC36-BC6A25600347}",
+            "Card Detail Link Title": "詳細說明",
+            "Card Detail Link": "https://www.cathaybk.com.tw/cathaybk/personal/product/credit-card/cards/eva",
+            "Card Detail Anchor Target": "",
+            "Communication ID": "0080411103447",
+            "Rejection": "0",
+            "Advertising": "0",
+            "ItemId": "3c08e3b8-a87b-4214-9c1a-1affe8d18aa9",
+            "ItemName": "eva",
+            "children": [
+                {
+                    "Button Link": "https://cathaybk.com.tw/cathaybk",
+                    "Button Text": "立即申辦",
+                    "Rejection": "0",
+                    "ItemId": "093baa8a-5524-49c8-b8be-0f8e9b5a34aa",
+                    "ItemName": "AnchorMenu",
+                    "children": [
+                        {
+                            "Title": "卡片特色",
+                            "Anchor Target": "blockName01",
+                            "Communication ID": "0080411103282",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "c185a8e4-1aeb-4274-bae3-fc21f92ff76f",
+                            "ItemName": "AnchorMenu Item 1"
+                        },
+                        {
+                            "Title": "卡友贈禮",
+                            "Anchor Target": "blockname02",
+                            "Rejection": "0",
+                            "ItemId": "161c9128-ff12-4c55-8036-8c82a85f440c",
+                            "ItemName": "AnchorMenu Item 2"
+                        },
+                        {
+                            "Title": "權益方案",
+                            "Anchor Target": "blockname03",
+                            "Rejection": "0",
+                            "ItemId": "18fbc416-7511-4350-bd60-53f740f1eb45",
+                            "ItemName": "AnchorMenu Item 3"
+                        },
+                        {
+                            "Title": "刷卡優惠",
+                            "Anchor Target": "blockname04",
+                            "Rejection": "0",
+                            "ItemId": "da3ddbf8-883b-4347-b8b0-56aef04339af",
+                            "ItemName": "AnchorMenu Item 4"
+                        },
+                        {
+                            "Title": "APP服務",
+                            "Anchor Target": "blockname05",
+                            "Rejection": "0",
+                            "ItemId": "e72a5de3-53cf-4c29-a57d-2848a6c0dab1",
+                            "ItemName": "AnchorMenu Item 5"
+                        },
+                        {
+                            "Title": "申辦資訊",
+                            "Anchor Target": "blockname06",
+                            "Rejection": "0",
+                            "ItemId": "378f005a-edb9-4894-b486-ee8f4755a333",
+                            "ItemName": "AnchorMenu Item 6"
+                        }
+                    ]
+                },
+                {
+                    "Anchor Key": "blockName01",
+                    "Main Title": "",
+                    "Main Subtitle": "",
+                    "Rejection": "0",
+                    "ItemId": "f69a5b72-58c2-49e8-bdb3-1fe7b42521bc",
+                    "ItemName": "HorGraphicTab",
+                    "children": [
+                        {
+                            "Tab Text": "消費最優10元1哩",
+                            "Display Mode": "true",
+                            "Image Alt": "",
+                            "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/2e78a6369d60449cbfa1765dc38b1ae8?v=1",
+                            "Title": "啟動倍數引擎 最優10元1哩",
+                            "Description": "長榮航空官網或國內各大旅行社刷國泰世華長榮航空聯名卡購買搭乘長榮/立榮航空實際營運之國際線航班，登錄啟動倍數引擎，享消費最優NT$10=1哩(御璽卡不適用)<span class=\"cubre-u-stress -og\">【限時開放！部分消費免登錄享NT$10=1哩】</span>",
+                            "Notice": "",
+                            "Notice Type 1": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                            "Notice Title 1": "詳細說明",
+                            "Notice Content 1": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">啟動倍數引擎 最優10元1哩</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>長榮航空官網或國內各大旅行社刷國泰世華長榮航空聯名卡購買長榮/立榮航空之國際線航班機票，並於搭乘後至本行官網登錄成功即啟動倍數引擎，可享該卡之指定消費類別最優NT$10=1哩(御璽卡不適用，登錄及回饋規則詳見注意事項)。</p>\n<ol class=\"cubre-m-list -disc\">\n    <li>長榮航空官網(含EVA Mobile APP)購票*</li>\n    <li>機上免稅品*、海外消費*(限搭台灣出發長榮航班，搭機日起60日內之消費)</li>\n    <li>國內旅行社購買長榮機票*、國外自由行*、國外團體旅遊*</li>\n</ol>\n<p class=\"cubre-u-note\">*限購買搭乘長榮/立榮航空實際營運之國際航班，共掛班號不適用</p>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block -cling\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<!-------------------------------------- 提示文字卡 start -------------------------------------->\n<!-- 灰色請在.cubre-m-remind 加上.-gy -->\n<div class=\"cubre-m-remind -gy \">\n<div class=\"cubre-m-remind__content\">\n<div class=\"cubre-m-remind__wrap\">\n<div class=\"cubre-m-remind__title\">※限時禮遇</div>\n<div class=\"cubre-m-remind__text\">\n<div class=\"cubre-o-textContent -sm\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n112年12月31日前，開放長榮官網(含EVA Mobile APP購票)、海外消費及機上免稅品消費類別，免登錄享10元1哩回饋。\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 提示文字卡 end -------------------------------------->\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">極致無限卡</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<div class=\"cubre-o-block__component\">\n<table class=\"cubre-m-commonTable\">\n    <tbody>\n        <tr>\n            <th class=\"tal\" style=\"width: 50%; text-align: center;\" colspan=\"2\">\n            【啟動倍數引擎回饋】\n            </th>\n        </tr>\n        <tr>\n            <th class=\"tal\" style=\"width: 50%; text-align: center;\">長榮官網購票*\n            <br />\n            機上免稅品*\n            <br />\n            海外消費*\n            </th>\n            <td class=\"tal\" style=\"width: 50%;\">最優NT$10=1哩\n            <br />\n            (未啟動NT$15=1哩)\n            <br />\n            <span class=\"cubre-u-stress -og\">【112/12/31前消費免登錄】</span>\n            </td>\n        </tr>\n        <tr>\n            <th class=\"tal\" style=\"width: 50%; text-align: center;\">國內旅行社購買長榮機票*\n            <br />\n            國外自由行*\n            <br />\n            國外團體旅遊*\n            </th>\n            <td class=\"tal\" style=\"width: 50%;\">最優NT$10=1哩\n            <br />\n            (未啟動依一般消費回饋)\n            <br />\n            <span class=\"cubre-u-stress -og\">【需登錄】</span>\n            </td>\n        </tr>\n        <tr>\n            <th class=\"tal\" style=\"width: 50%; text-align: center;\">一般消費\n            </th>\n            <td class=\"tal\" style=\"width: 50%;\"><span style=\"background-color: #f9fbf7;\">NT$20元=1哩</span>\n            </td>\n        </tr>\n    </tbody>\n</table>\n</div>\n<p class=\"cubre-u-note\">*限搭乘長榮/立榮航空實際營運之國際航班，共掛班號不適用</p>\n<p><a class=\"cubre-a-link\" href=\"https://www.cathaybk.com.tw/cathaybk/personal/credit-card/cards/intro/eva/eva-login/\">立即登錄</a></p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">無限卡</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<div class=\"cubre-o-block__component\">\n<table class=\"cubre-m-commonTable\">\n    <tbody>\n        <tr>\n            <th class=\"tal\" style=\"width: 50%; text-align: center;\" colspan=\"2\">\n            【啟動倍數引擎回饋】\n            </th>\n        </tr>\n        <tr>\n            <th class=\"tal\" style=\"width: 50%; text-align: center;\">長榮官網購票*\n            <br />\n            機上免稅品*\n            <br />\n            海外消費*\n            </th>\n            <td class=\"tal\" style=\"width: 50%;\">最優NT$10=1哩\n            <br />\n            (未啟動NT$15=1哩)\n            <br />\n            <span class=\"cubre-u-stress -og\">【112/12/31前消費免登錄】</span>\n            </td>\n        </tr>\n        <tr>\n            <th class=\"tal\" style=\"width: 50%; text-align: center;\">國內旅行社購買長榮機票*\n            <br />\n            國外自由行*\n            <br />\n            國外團體旅遊*\n            </th>\n            <td class=\"tal\" style=\"width: 50%;\">最優NT$10=1哩\n            <br />\n            (未啟動依一般消費回饋)\n            <br />\n            <span class=\"cubre-u-stress -og\">【需登錄】</span>\n            </td>\n        </tr>\n        <tr>\n            <th class=\"tal\" style=\"width: 50%; text-align: center;\">一般消費\n            </th>\n            <td class=\"tal\" style=\"width: 50%;\"><span style=\"background-color: #f9fbf7;\">NT$22元=1哩</span>\n            </td>\n        </tr>\n    </tbody>\n</table>\n</div>\n<p class=\"cubre-u-note\">*限搭乘長榮/立榮航空實際營運之國際航班，共掛班號不適用</p>\n<p><a class=\"cubre-a-link\" href=\"https://www.cathaybk.com.tw/cathaybk/personal/credit-card/cards/intro/eva/eva-login/\">立即登錄</a></p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">極致御璽卡</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<div class=\"cubre-o-block__component\">\n<table class=\"cubre-m-commonTable\">\n    <tbody>\n        <tr>\n            <th class=\"tal\" style=\"width: 50%; text-align: center;\" colspan=\"2\">\n            【啟動倍數引擎回饋】\n            </th>\n        </tr>\n        <tr>\n            <th class=\"tal\" style=\"width: 50%; text-align: center;\">長榮官網購票*\n            <br />\n            機上免稅品*\n            <br />\n            海外消費*\n            </th>\n            <td class=\"tal\" style=\"width: 50%;\">最優NT$10=1哩\n            <br />\n            (未啟動NT$15=1哩)\n            <br />\n            <span class=\"cubre-u-stress -og\">【112/12/31前消費免登錄】</span>\n            </td>\n        </tr>\n        <tr>\n            <th class=\"tal\" style=\"width: 50%; text-align: center;\">國內旅行社購買長榮機票*\n            <br />\n            國外自由行*\n            <br />\n            國外團體旅遊*\n            </th>\n            <td class=\"tal\" style=\"width: 50%;\">最優NT$10=1哩\n            <br />\n            (未啟動依一般消費回饋)\n            <br />\n            <span class=\"cubre-u-stress -og\">【需登錄】</span>\n            </td>\n        </tr>\n        <tr>\n            <th class=\"tal\" style=\"width: 50%; text-align: center;\">一般消費\n            </th>\n            <td class=\"tal\" style=\"width: 50%;\"><span style=\"background-color: #f9fbf7;\">NT$30元=1哩</span>\n            </td>\n        </tr>\n    </tbody>\n</table>\n</div>\n<p class=\"cubre-u-note\">*限搭乘長榮/立榮航空實際營運之國際航班，共掛班號不適用</p>\n<p><a class=\"cubre-a-link\" href=\"https://www.cathaybk.com.tw/cathaybk/personal/credit-card/cards/intro/eva/eva-login/\">立即登錄</a></p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">御璽卡</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>一般消費皆享NT$30元=1哩</p>\n</div>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<!-------------------------------------- 注意事項 start -------------------------------------->\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<!-------------------------------------- 內容 start -------------------------------------->\n<!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>活動期間至112/12/31止，須於活動期間內完成搭機並成功登錄，方享倍數引擎回饋；<span class=\"cubre-u-stress -og\">112/12/31前，持本活動指定卡片刷卡且完成請款入帳之長榮官網(含EVA Mobile APP)購票、機上免稅品(預購消費僅適用NT$15=1哩回饋)、海外消費，無需登錄倍數引擎，即享NT$10=1哩回饋(提醒！國內旅行社購買長榮機票*、國外自由行*、國外團體旅遊消費*仍需登錄成功啟動倍數引擎後，方享10元1哩。御璽卡此活動不適用)。</span></li>\n    <li>本卡僅適用哩程點數回饋，恕不再提供小樹點(信用卡)回饋。各項未提供哩程點數回饋之交易依本行網站公告為準。</li>\n    <li>正附卡消費合併計算回饋哩程點數，小數點後無條件進位並累積於正卡人帳戶中。</li>\n    <li>每位正卡人係依最高持有之正卡卡別判別每人每年最優NT$10=1哩總回饋上限(依消費日為準)，極致無限卡為20萬哩/無限卡為15萬哩/極致御璽卡為10萬哩，超過之消費依「未啟動」哩程回饋。持卡人須先向長榮航空辦理登錄飛行紀錄，並於搭乘長榮/立榮國際線航班後5~180日內，至本行網站申請登錄該次航程機票/團費消費及持卡人本人之搭機資訊，始享回饋。機票/團費消費限登錄長榮航空官網或國內旅行社刷長榮航空聯名卡之消費。申請登錄之5個工作日後，可至本行網站查詢登錄結果。</li>\n    <li>持卡人向長榮航空辦理登錄飛行紀錄，係指於訂位、開票或於機場辦理辦到手續時，提供會員卡號予長榮航空或代辦旅行社，以將當次搭機之飛行哩程數累計至無限萬哩遊會員帳戶。若持卡人的無限萬哩遊會員帳戶查無該飛行哩程紀錄，將無法享有最優NT$10=1哩回饋。</li>\n    <li>登錄之長榮航空國際機票/自由行/團費消費，限登錄長榮航空/立榮航空國際線航班，消費日限於登錄日前2年內。每次航程限單筆消費，不得分刷。每次航程及每筆機票／自由行／團費消費限登錄乙次。</li>\n    <li>海外消費係指交易地點非臺灣之一般交易。</li>\n    <li>消費先依各卡別之一般或指定類別「未啟動」哩程回饋比例，計入當期帳單，登錄贈送之差額哩程點數於登錄作業成功完成後次次月(含)前回饋。登錄回饋舉例說明：「長榮航空聯名極致無限卡」持卡人112/3/1國內旅行社購買長榮機票之消費金額為NT$15,000，請款計入當期帳單後可獲得750哩，持卡人搭機後於112/3/30申請登錄，經本行檢核結果登錄成功後，可於112/5月(含)前再獲得差額哩數750哩。免登錄倍數引擎之指定消費將依各卡別指定類別「未啟動」哩程與差額哩程比例分批回饋，並於消費入帳後次月完成哩程回饋。</li>\n    <li>一般消費排除項目不適用哩程點數回饋，排除項目依本行最新公告為準。分期付款以當期入帳金額計算哩程點數回饋，消費金額如有退貨將予以扣除。</li>\n    <li>持卡人於網路商店購物時，應注意是否為跨境交易。凡特約商店所在地登記為國外者或交易(含辦理退款)之貨幣非為新臺幣者，交易須收取國外交易手續費，相關費用依信用卡約定條款第十六條國外交易授權結匯辦理，請參閱本行<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.cathaybk.com.tw/cathaybk/about/about/contract/\" target=\"_blank\">信用卡約定條款</a>約定。<span class=\"cubre-u-stress -og\">註：網頁以「tw」為網域名稱者，或於我國有設立分公司者，並非當然屬於我國境內特約商店，持卡人仍須注意是否為跨境交易</span>。</li>\n    <li>每月帳單累積哩程點數自動以1,000哩為單位，轉換至正卡人「長榮航空無限萬哩遊」會員哩程帳戶內。未進行轉換之哩程點數效期為2年。「長榮航空無限萬哩遊」哩程累計及兌換辦法請參閱長榮航空網站。</li>\n    <li>持卡人於回饋時，須持有符合本活動資格消費之有效信用卡，且上一期無逾期未繳款之紀錄，若終止信用卡、掛失不補發、到期不續卡、遭本行停止使用信用卡權利、延滯繳款、或違反本行信用卡契約等情事時，即自動喪失資格。</li>\n    <li>正/附卡持卡人使用長榮航空哩程須遵循長榮航空之相關使用規定，本行並非該哩程商品之提供人或出售者，所有哩程使用問題無涉本行，應與長榮航空聯繫，哩程效期依長榮航空之使用規定為準。持卡人不得要求將哩程折換現金或移轉予他人。活動期間內倘因不可歸責於本行之事由，本行得變更或終止活動，並於本行網站上公告。</li>\n    <li>活動期間內倘因不可歸責於本行之事由，本行得變更或終止活動，並於本行網站上公告。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 內容 end -------------------------------------->\n</div>\n</div>\n<!-------------------------------------- 注意事項 end -------------------------------------->\n</div>\n</div>\n</div>",
+                            "Notice Type 2": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                            "Notice Title 2": "【不適用回饋之項目】與【登錄步驟說明】",
+                            "Notice Content 2": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無副標，請包含.cubre-o-block__subTitle 做移除 -->\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">不適用哩程點數回饋之消費</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>以下一般消費排除項目不適用哩程點數回饋：</p>\n<ol class=\"cubre-m-list -square\">\n    <li>信用卡相關利息及費用(包含但不限於利息／年費／掛失費／預借現金手續費／違約金／國外交易手續費／調閱簽帳單手續費、補發帳單手續費等非消費款項)。</li>\n    <li>預借現金／帳單分期／單筆消費分期(刷卡樂分期)／通信貸款／餘額代償金額及經本行公告之除外專案。</li>\n    <li>稅款、學費、公用事業費用(包含但不限於中華電信電話／網路通訊／影音服務等相關費用及附加費)、路邊停車費、公務機關各項費用、透過繳費平台（如公務機關信用卡繳費平台，含公務機關／國營事業／公立醫療院所等、電子化繳費稅處理平台、醫指付、CUBE網銀或CUBE App線上繳費服務）繳納之費用。各項費用細項說明請詳閱本行<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.cathaybk.com.tw/cathaybk/personal/event/overview/#category=Credit%20Card&amp;filter=Payment\" target=\"_blank\">生活繳費說明網頁</a>。</li>\n    <li>保費。</li>\n    <li>代扣基金。</li>\n    <li>悠遊卡加值、一卡通加值、icash加值。</li>\n    <li>便利超商消費。</li>\n    <li>透過聯合信用卡處理中心小額支付平台之特約商店之消費（如便利超商、連鎖速食店、停車費等）。參加該平台之特約商店請詳閱<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.nccc.com.tw/wps/wcm/connect/zh/home/BusinessOperations/CardBusiness/MicroPayment/\" target=\"_blank\">NCCC官網『小額支付平台通路 』說明</a>。</li>\n    <li>全聯福利中心消費。</li>\n    <li>未經主管機關核准之境外投資交易平台(包括但不限於eToro) </li>\n    <li>eTag儲值／eTag智慧停車費代扣繳。</li>\n    <li>遠東SOGO百貨貴賓廳之消費金額。</li>\n    <li>國壽不動產租金代收。</li>\n    <li>其他經本行公告排除之項目。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無副標，請包含.cubre-o-block__subTitle 做移除 -->\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">啟動倍數引擎 登錄步驟說明</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>步驟1：向長榮航空/立榮航空辦理登錄此次飛行紀錄於長榮航空會員帳號。</p>\n<p style=\"margin-left: 40px;\"><span style=\"background-color: #dddddd;\">登錄方式 ：<br />\n1.登機前透過長榮航空官網、代辦旅行社、在劃位櫃台辦理登錄<br />\n2.搭機完6個月內可於長榮航空官網補登錄<a class=\"cubre-a-link\" href=\"https://eservice.evaair.com/flyeva/EVA/FFP/login.aspx?utm_source=TW_cobrand_CUB&amp;utm_campaign=999912_FFP_normal\">網站登錄</a></span></p>\n<p>步驟2：向國泰世華銀行申請登錄倍數引擎<br />\n<br />\n．於搭乘長榮航班後5~180天內，向國泰世華銀行申請登錄本人刷長榮航空聯名卡之機票或團費消費及搭機資料。<br />\n．請備妥並輸入以下資料進行倍數引擎登錄：(1)身分證字號 (2)生日 (3)機票/團費刷卡日期及金額(限於長榮航空官網或國內旅行社刷長榮航空聯名卡之消費) (4)搭機日期及航班編號(限長榮/立榮航空之國際線航班)。</p>\n<br />\n<p style=\"margin-left: 40px;\"><span style=\"background-color: #dddddd;\">登錄方式 ：\n<br />\n1.國泰世華官網登錄<a class=\"cubre-a-link\" href=\"https://www.cathaybk.com.tw/cathaybk/personal/credit-card/cards/intro/eva/eva-login/?force=web\">立即登錄</a>\n<br />\n2.國泰優惠APP<a class=\"cubre-a-link\" href=\"https://www.cathayholdings.com/holdings/web/event/myrewards/newmember/index.html\">立即下載</a></span>\n</p>\n<p class=\"cubre-u-note\">※限登錄2年內於長榮航空官網或國內旅行社之機票/團費消費。每次航程限單筆消費，不得分刷。\n<br />\n※每次航程及每筆機票/自由行/團費消費限登錄乙次。\n<br />\n※107年以前之海外消費及長榮機上免稅品消費，係依已登錄成功之搭機資料，提供<span class=\"cubre-u-stress -og\">台灣出發長榮航空國際線航班搭機日起60日內</span>之海外消費及長榮機上免稅品最優NT$10=1哩回饋。\n<br />\n※國外旅行社之機票/團費消費屬海外消費類別，不適用倍數引擎登錄。</p>\n<p>步驟3：查詢登錄結果</p>\n<p style=\"margin-left: 40px;\"><span style=\"background-color: #dddddd;\">查詢方式：<br />\n1.國泰世華銀行官網登錄網頁<a class=\"cubre-a-link\" href=\"https://www.cathaybk.com.tw/cathaybk/personal/credit-card/cards/intro/eva/eva-login/?force=web\">立即查詢</a><br />\n2.國泰優惠APP<a class=\"cubre-a-link\" href=\"https://www.cathayholdings.com/holdings/web/event/myrewards/newmember/index.html\">立即下載</a></span></p>\n</div>\n</div>\n</div>\n</div>",
+                            "Major Button Link": "https://www.cathaybk.com.tw/cathaybk/personal/credit-card/cards/intro/eva/eva-login/",
+                            "Major Button Text": "立即登錄",
+                            "Minor Button Link": "",
+                            "Minor Button Text": "",
+                            "Communication ID": "",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "ad49198d-5d20-4a42-b42e-541d8257b329",
+                            "ItemName": "HorGraphicTabIem1"
+                        },
+                        {
+                            "Tab Text": "獨家購票折扣",
+                            "Display Mode": "true",
+                            "Image Alt": "",
+                            "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/016f0bf45a7b45e285d0e1b057e51feb?v=1",
+                            "Title": "聯名卡享獨家購票折扣",
+                            "Description": "『長榮航空線上旅展』刷國泰世華長榮航空聯名卡購買指定航線機票，享線上旅展票價最優<span class=\"cubre-u-stress -og\">9折後再優惠5,000元</span>",
+                            "Notice": "",
+                            "Notice Type 1": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                            "Notice Title 1": "詳細說明",
+                            "Notice Content 1": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">『長榮航空線上旅展』刷長榮聯名卡購票最優<span class=\"cubre-u-stress -og\">9折後再優惠5,000元</span></p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>「長榮航空線上旅展」期間，於長榮航空官網購買台灣出發之國際線成人機票，指定航線享旅展優惠價；持長榮航空聯名卡刷卡購票，再享獨家禮遇！</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">聯名卡獨家購票禮遇</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<table class=\"cubre-m-commonTable\">\n    <thead>\n        <tr>\n            <th>卡別</th>\n            <th>票價折扣</th>\n            <th>優惠金額</th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td>\n            <div class=\"cubre-o-textContent -sm\">極致無限卡</div>\n            </td>\n            <td>\n            <div class=\"cubre-o-textContent -sm\"><span class=\"cubre-u-stress -og\">旅展票價再9折</span></div>\n            </td>\n            <td>\n            <div class=\"cubre-o-textContent -sm\"><span class=\"cubre-u-stress -og\">再優惠5,000元</span></div>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <div class=\"cubre-o-textContent -sm\">無限卡、極致御璽卡、御璽卡</div>\n            </td>\n            <td>\n            <div class=\"cubre-o-textContent -sm\"><span class=\"cubre-u-stress -og\">旅展票價再95折</span></div>\n            </td>\n            <td>\n            <div class=\"cubre-o-textContent -sm\"><span class=\"cubre-u-stress -og\">再優惠1,000元</span></div>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<br />\n<ol class=\"cubre-m-list -disc\">\n    <li>本優惠案限已繳交年費之有效長榮聯名卡友參加，參加者不適用取消卡片/轉換卡別按比例退還已繳年費規範</li>\n    <li>本案優惠機票上限共2,500張，若優惠機票售罄，本優惠案將提前結束。</li>\n    <li>活動購票期間：111/10/24 00:00~111/11/27 23:59</li>\n    <li>適用出發日：111/10/24~112/3/31(各航點適用出發日請參考注意事項2)</li>\n    <li>適用行程：台灣出發至美國、加拿大、歐洲、澳洲、東北亞(東京、大阪、福岡、札幌、沖繩、韓國)、東南亞、北京、成都、港澳之單程或來回個人機票(不適用延伸行程)</li>\n    <li>適用對象：成人個人機票 (兒童票和嬰兒票不適用)</li>\n    <li>優惠適用艙等：商務艙C/J/D、豪華經濟艙K/L/T、經濟艙Y/B/M/H/Q/S</li>\n</ol>\n<p><span class=\"cubre-u-stress -og\">※旅展優惠限長榮航空/立榮航空實際營運航班且於指定期間內由台灣出發之指定航點指定艙等成人機票</span></p>\n<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.evaair.com/zh-tw/index.html?utm_campaign=202210_bzd_cub_itf&amp;utm_source=tw_cub_official_website&amp;utm_medium=foc_post&amp;utm_content=post\" target=\"_blank\">立即購票去</a>\n<br />\n<br />\n<p><span class=\"cubre-u-stress -og\">※限於長榮航空官網購票享優惠。購票路徑：(1) 透過長榮航空全球資訊網購票，選擇目的地、出發日期等行程後，<span style=\"text-decoration: underline;\"><strong>勾選下方顯示的「我要使用信用卡優惠」</strong></span>，或(2) 透過EVA Mobile APP台灣(繁體中文)語系之<strong><span style=\"text-decoration: underline;\">「信用卡專區」</span></strong>或Global(English)語系之<strong><span style=\"text-decoration: underline;\">「BANK DISCOUNT」專區</span></strong></span></p>\n<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.evaair.com/zh-tw/newhome/plan-and-book/special-offers/promotions/flight/2022ITFCUB.html?utm_campaign=202210_bzd_cub_itf&amp;utm_source=tw_cub_official_website&amp;utm_medium=foc_post&amp;utm_content=post\" target=\"_blank\">了解長榮官網活動說明</a>\n</div>\n</div>\n</div>\n</div>\n<br />\n<br />\n<br />\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>注意事項</p>\n<ol class=\"cubre-m-list\">\n    <li><span class=\"cubre-u-stress -og\">以上活動限已繳交年費之有效長榮聯名卡友參加，參加者不適用取消卡片/轉換卡別按比例退還已繳年費規範</span>。</li>\n    <li><span class=\"cubre-u-stress -og\">本案優惠機票上限共2,500張，若優惠機票售罄，本優惠案將提前結束</span>。</li>\n    <li>活動購票期間：111/10/24 00:00~111/11/27 23:59</li>\n    <li>出發日適用搭乘區間如下：\n    <table class=\"cubre-m-commonTable is-left\">\n        <thead>\n            <tr>\n                <th>航線</th>\n                <th>適用出發日</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>\n                <div class=\"cubre-o-textContent -sm\">美國/加拿大</div>\n                </td>\n                <td>\n                <div class=\"cubre-o-textContent -sm\">2022/10/24~2022/12/31、<br />\n                2023/1/25~2023/3/31</div>\n                </td>\n            </tr>\n            <tr>\n                <td>\n                <div class=\"cubre-o-textContent -sm\">歐洲線</div>\n                </td>\n                <td>\n                <div class=\"cubre-o-textContent -sm\">2022/10/24~2022/12/31、<br />\n                2023/1/1~2023/1/17、<br />\n                2023/1/26~2023/3/30</div>\n                </td>\n            </tr>\n            <tr>\n                <td>\n                <div class=\"cubre-o-textContent -sm\">澳洲線</div>\n                </td>\n                <td>\n                <div class=\"cubre-o-textContent -sm\">2022/10/24~2022/12/15、<br />\n                2022/12/31、<br />\n                2023/1/1~2023/1/13、<br />\n                2023/2/5~2023/2/23、<br />\n                2023/2/26~2023/3/30</div>\n                </td>\n            </tr>\n            <tr>\n                <td>\n                <div class=\"cubre-o-textContent -sm\">福岡、札幌、沖繩、韓國</div>\n                </td>\n                <td>\n                <div class=\"cubre-o-textContent -sm\">2022/10/24~2022/12/28、<br />\n                2023/1/1~2023/1/18、<br />\n                2023/1/29~2023/2/21、<br />\n                2023/2/27~2023/3/28</div>\n                </td>\n            </tr>\n            <tr>\n                <td>\n                <div class=\"cubre-o-textContent -sm\">東京</div>\n                </td>\n                <td>\n                <div class=\"cubre-o-textContent -sm\">2022/10/24~2022/12/28、<br />\n                2023/1/1~2023/1/18、<br />\n                2023/1/29~2023/2/21、<br />\n                2023/2/27~2023/3/22</div>\n                </td>\n            </tr>\n            <tr>\n                <td>\n                <div class=\"cubre-o-textContent -sm\">大阪</div>\n                </td>\n                <td>\n                <div class=\"cubre-o-textContent -sm\">2022/10/24~2022/11/10、<br />\n                2022/11/26~2022/12/28、<br />\n                2023/1/1~2023/1/18、<br />\n                2023/1/29~2023/2/21、</div>\n                2023/2/27~2023/3/22\n                </td>\n            </tr>\n            <tr>\n                <td>\n                <div class=\"cubre-o-textContent -sm\">東南亞</div>\n                </td>\n                <td>\n                <div class=\"cubre-o-textContent -sm\">2022/10/24~2022/12/28、<br />\n                2023/1/1~2023/1/18、<br />\n                2023/1/29~2023/2/21、<br />\n                2023/2/27~2023/3/28</div>\n                </td>\n            </tr>\n            <tr>\n                <td>\n                <div class=\"cubre-o-textContent -sm\">香港</div>\n                </td>\n                <td>\n                <div class=\"cubre-o-textContent -sm\">2022/10/24~2022/12/25、<br />\n                2022/12/28~2022/12/31、<br />\n                2023/1/4~2023/1/25、<br />\n                2023/2/7~2023/3/31</div>\n                </td>\n            </tr>\n            <tr>\n                <td>\n                <div class=\"cubre-o-textContent -sm\">澳門</div>\n                </td>\n                <td>\n                <div class=\"cubre-o-textContent -sm\">2022/10/24~2022/12/29、<br />\n                2023/1/4~2023/1/19、<br />\n                2023/2/1~2023/3/31</div>\n                </td>\n            </tr>\n            <tr>\n                <td>\n                <div class=\"cubre-o-textContent -sm\">北京、成都</div>\n                </td>\n                <td>\n                <div class=\"cubre-o-textContent -sm\">2022/10/24~2022/12/31、<br />\n                2023/1/1~2023/1/24、<br />\n                2023/2/7~2023/3/31</div>\n                </td>\n            </tr>\n        </tbody>\n    </table>\n    </li>\n    <li>本優惠案限聯名卡友本人持本行長榮航空聯名卡透過以下購票路徑刷卡購買台灣出發至指定航點之單點來回或單程個人機票，方可享有折扣優惠。2歲以上12歲以下之兒童票及2歲以下嬰兒票皆不適用。\n    <ol class=\"cubre-m-list -bracket\">\n        <li>透過<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.evaair.com/zh-tw/index.html?utm_campaign=202210_bzd_cub_itf&amp;utm_source=tw_cub_official_website&amp;utm_medium=foc_post&amp;utm_content=post\" target=\"_blank\">長榮航空全球資訊網</a>購票時，<span class=\"cubre-u-stress -og\">請先選擇目的地、出發日期等行程後，勾選下方顯示的「我要使用信用卡優惠」</span>。</li>\n        <li>或透過EVA Mobile APP購票時，<span class=\"cubre-u-stress -og\">於EVA Mobile APP台灣(繁體中文)語系之「信用卡專區」或Global(English)語系之「BANK DISCOUNT」專區</span>。</li>\n    </ol>\n    </li>\n    <li><span class=\"cubre-u-stress -og\">本優惠案限長榮航空聯名卡持卡人刷卡購買，<span style=\"text-decoration: underline;\">如代同行親友購買，持卡人須去程同行(相同出發日期與相同班機)，並購買同一優惠專案，且於機場劃位櫃檯出示原購票專案之信用卡以供核對</span>，如因故無法出示恕不適用本活動</span>。</li>\n    <li><span class=\"cubre-u-stress -og\">上述優惠票價僅適用台灣地區出發，全程搭乘長榮航空/立榮航空實際營運之國際線航班之定點行程為主(共掛班號航班及延伸行程皆不適用)</span>。</li>\n    <li>除專案適用訂位艙等外，其他促銷優惠艙等不再享有本優惠案優惠折扣，請於專區選擇最適合票價購買。</li>\n    <li>本專案機位限額促銷，無可售機位時恕不提供此優惠票價。</li>\n    <li><span class=\"cubre-u-stress -og\">本優惠僅適用指定訂位艙等：商務艙C/J/D、豪華經濟艙K/L/T、經濟艙Y/B/M/H/Q/S，如為單點來回機票則須去/回程皆購買專案指定之艙等方享有優惠，惟各班機是否有適用之訂位艙等與票價，請參閱<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.evaair.com/zh-tw/index.html?utm_campaign=202210_bzd_cub_itf&amp;utm_source=tw_cub_official_website&amp;utm_medium=foc_post&amp;utm_content=post\" target=\"_blank\">長榮航空全球資訊網購票頁面</a>查詢</span>。</li>\n    <li><span class=\"cubre-u-stress -og\">本優惠恕不適用豪華經濟艙訂位艙等P、經濟艙訂位艙等W、V、A，卡友可於購票前先行瀏覽<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.evaair.com/zh-tw/index.html?utm_campaign=202210_bzd_cub_itf&amp;utm_source=tw_cub_official_website&amp;utm_medium=foc_post&amp;utm_content=post\" target=\"_blank\">長榮航空官網首頁購票頁面</a></span>。</li>\n    <li><span class=\"cubre-u-stress -og\">本優惠案不得與長榮航空及立榮航空其他促銷活動合併使用，會員哩程折抵優惠方案亦不適用。</span>電子哩程累計相關事項比照<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.evaair.com/zh-tw/infinity-mileagelands/mileage-award-program/?utm_campaign=202210_bzd_cub_itf&amp;utm_source=tw_cub_official_website&amp;utm_medium=foc_post&amp;utm_content=post\" target=\"_blank\">「長榮航空無限萬哩遊」會員規定</a>。更多詳情、限制條件請於<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.evaair.com/zh-tw/index.html?utm_campaign=202210_bzd_cub_itf&amp;utm_source=tw_cub_official_website&amp;utm_medium=foc_post&amp;utm_content=post\" target=\"_blank\">長榮航空官網</a>查詢。</li>\n    <li>本優惠案不含燃油附加費、安檢稅、導航服務費及其他相關機場稅金。</li>\n    <li>機票相關稅項為浮動價格，實際含稅票價請以系統查詢為準。</li>\n    <li>機票一經開立，凡於活動期間內更改行程/航班/日期，皆可能會產生票價差及改票手續費；活動結束後，如需更改行程/航班/日期，除可能產生之票價差及改票手續費外，亦不再適用原優惠票價。</li>\n    <li>本優惠案之機票一經開票恕不可轉讓，如辦理退票，將依機票上之規範收取退票手續費，相關開票、退票及適用艙等之詳細內容請參閱<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.evaair.com/zh-tw/index.html?utm_campaign=202210_bzd_cub_itf&amp;utm_source=tw_cub_official_website&amp;utm_medium=foc_post&amp;utm_content=post\n    \" target=\"_blank\">長榮航空全球資訊網</a>。</li>\n    <li>長榮航空保有修改班表、變動機型等權利，日後如有異動恕不另行通知，詳細資料請參閱<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://booking.evaair.com/flyeva/eva/b2c/flight-schedules.aspx?lang=zh-tw?utm_campaign=202210_bzd_cub_itf&amp;utm_source=tw_cub_official_website&amp;utm_medium=foc_post&amp;utm_content=post\" target=\"_blank\">航班時刻表</a>。因班機取消或機型異動之機票更動，請參照<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.evaair.com/zh-tw/customer-services/ticket-changes-refunds-due-to-schedule-changes/?utm_campaign=202210_bzd_cub_itf&amp;utm_source=tw_cub_official_website&amp;utm_medium=foc_post&amp;utm_content=post\" target=\"_blank\">班機異動之改退票辦法</a>。</li>\n    <li>本優惠案之商品及服務係由長榮航空提供，國泰世華銀行僅提供優惠訊息，而非訂位保證，機位數量有限，請儘早向長榮航空確認訂位。</li>\n    <li>長榮航空全球資訊網之網頁資訊若有誤載或其他爭議，除旅客已完成線上購票手續外，長榮航空保有決定是否接受締約之權利。</li>\n    <li>若有其他相關未盡詳細事宜依長榮航空官網公告為準。長榮航空及國泰世華銀行保留隨時修改、變更、取消本優惠案及對本優惠案之所有事宜做出最終解釋及決定之權力。</li>\n    <li>卡友於網路商店購物時，應注意是否為跨境交易，且網頁以「tw」為網域名稱者，並不限為國內公司，卡友仍須注意是否為跨境交易，而有須支付國外交易服務費之情事。</li>\n    <li>如特約商店所在地為國外，交易時須收取國外交易手續費，相關費用依信用卡約定條款第十六條國外交易結匯辦理，請參閱本行信用卡<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.cathaybk.com.tw/cathaybk/about/about/contract/\" target=\"_blank\">定型化契約約定</a>。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>",
+                            "Notice Type 2": "",
+                            "Notice Title 2": "",
+                            "Notice Content 2": "",
+                            "Major Button Link": "",
+                            "Major Button Text": "",
+                            "Minor Button Link": "",
+                            "Minor Button Text": "",
+                            "Communication ID": "0080411103282",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "1aee1ac1-c3a1-4ba5-8f55-fa20745b4e12",
+                            "ItemName": "HorGraphicTabIem2"
+                        }
+                    ]
+                },
+                {
+                    "Main Title": "",
+                    "Rejection": "0",
+                    "ItemId": "8537c9dd-52df-4cfc-9bc5-b9cf6e7803cf",
+                    "ItemName": "PuzzleImage",
+                    "children": [
+                        {
+                            "Rejection": "0",
+                            "ItemId": "25fe4bc0-63cd-4f24-823d-251a38aac91f",
+                            "ItemName": "PuzzleImageContainer 1",
+                            "children": [
+                                {
+                                    "Enable Big Card": "1",
+                                    "Display Mode": "{0C969129-ECEE-4AB4-AB7C-43B2094E9F13}",
+                                    "PC Image Alt": "",
+                                    "PC Image": "https://www.cathaybk.com.tw/cathaybk/-/media/9ba8a6eae4f740d38dcf37655c257d90?v=2",
+                                    "Mobile Image Alt": "",
+                                    "Mobile Image": "https://www.cathaybk.com.tw/cathaybk/-/media/84d996d4249f4fcbb4209cdbeff87ebc?v=1",
+                                    "Title": "購票最優9折",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n    <!-- richtext 欄位 -->\n長榮航空官網、EVA Mobile APP「信用卡專區」購買指定艙等機票不限航線享最優9折\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">長榮航空官網、EVA Mobile APP 購票最優9折</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>長榮航空官網、EVA Mobile APP「信用卡專區」購買指定艙等機票不限航線享</p>\n<ol class=\"cubre-m-list -square\">\n    <li>極致無限卡9折</li>\n    <li>無限卡/極致御璽卡/御璽卡95折</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<!-------------------------------------- 注意事項 start -------------------------------------->\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<!-------------------------------------- 內容 start -------------------------------------->\n<!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>活動期間至112/12/31止，購票航班最晚出發來回日須於購票當日起算360日內。\n    </li>\n    <li>本優惠案限透過以下路徑刷卡購買專案規範之台灣出發指定行程機票(限台灣地區出發之單程或單點來回，不適用延伸行程及不同點進出)，方可享有折扣優惠。2歲以上12歲以下之兒童票及2歲以下不佔位之嬰兒票皆不適用。促銷票價不另享折扣優惠。</li>\n    <ol class=\"cubre-m-list -bracket\">\n        <li>透過<a class=\"cubre-a-link\" href=\"https://www.evaair.com/zh-tw/index.html?utm_source=TW_cobrand_CUB&amp;utm_campaign=999912_FFP_normal\">長榮航空全球資訊網</a>購票時，請先選擇目的地、出發日期等行程後，勾選下方顯示的「我要使用信用卡優惠」、</li>\n        <li>或透過EVA Mobile APP台灣(繁體中文)語系之「信用卡專區」或Global(English)語系之「BANK DISCOUNT」專區。</li>\n    </ol>\n    <li>本優惠案限指定長榮航空聯名卡持卡人刷卡購買，如代同行親友購買，持卡人須去程同行(相同出發日期與相同班機)，並購買同一優惠專案，且於機場劃位櫃檯出示原購票專案之信用卡以供核對，如因故無法出示恕不適用本活動。</li>\n    <li>本專案機位限額促銷，無可售機位時恕不提供此優惠票價。若購票過程中「勾選信用卡優惠專案」後，於票價明細欄位顯示「所選擇航班無適用票價」時，請洽詢長榮航空訂位/票務專線(02)2501-1999。</li>\n    <li><span class=\"cubre-u-stress -og\">本優惠僅適用指定艙等：商務艙C/J/D、豪華經濟艙K/L/T、經濟艙Y/B/M/H/Q/S，如為單點來回機票則須去/回程皆購買專案指定之艙等方享有優惠，惟各班機是否有適用之訂位艙等與票價，請參閱長榮航空全球資訊網購票頁面查詢。</span></li>\n    <li><span class=\"cubre-u-stress -og\">本優惠恕不適用豪華經濟艙訂位艙等P、經濟艙訂位艙等W、V，卡友可於購票前先行瀏覽長榮航空官網首頁之購票頁面。</span></li>\n    <li><span class=\"cubre-u-stress -og\">本優惠案不得與長榮航空及立榮航空其他促銷活動合併使用</span>，會員哩程折抵優惠方案亦不適用。電子哩程累計相關事項比照「長榮航空無限萬哩遊」會員規定。更多詳情、限制條件請於長榮航空官網查詢。</li>\n    <li>本優惠案不含燃油附加費、安檢稅、導航服務費及其他相關機場稅金。</li>\n    <li>本優惠案之機票一經開票恕不可轉讓，如辦理退票，需酌收退票手續費，本票價限開立電子機票，相關開票、退票及不適用艙等之詳細活動內容請洽長榮航空全球資訊網。本優惠案之大陸直航票價僅適用長榮及立榮航空航班，不適用免背書轉讓協定。</li>\n    <li>持卡人於網路商店購物時，應注意是否為跨境交易。凡特約商店所在地登記為國外者或交易(含辦理退款)之貨幣非為新臺幣者，交易須收取國外交易手續費，相關費用依信用卡約定條款第十六條國外交易授權結匯辦理，請參閱本行<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.cathaybk.com.tw/cathaybk/about/about/contract/\" target=\"_blank\">信用卡約定條款</a>約定。<span class=\"cubre-u-stress -og\">註：網頁以「tw」為網域名稱者，或於我國有設立分公司者，並非當然屬於我國境內特約商店，持卡人仍須注意是否為跨境交易</span>。</li>\n    <li>本優惠案之商品及服務係由長榮航空提供，國泰世華銀行僅提供優惠訊息，而非訂位保證，機位數量有限，請儘早向長榮航空確認訂位。</li>\n    <li>長榮航空全球資訊網之網頁資訊若有誤載或其他爭議，除旅客已完成線上購票手續外，長榮航空保有決定是否接受締約之權利。</li>\n    <li>長榮航空及國泰世華銀行保留隨時修改、變更、取消本優惠案及對本優惠案之所有事宜做出最終解釋及決定之權力。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 內容 end -------------------------------------->\n</div>\n</div>\n<!-------------------------------------- 注意事項 end -------------------------------------->\n</div>\n</div>\n</div>",
+                                    "Communication ID": "0080411103447",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "5051d464-0cf1-4c77-a801-b01f0479460c",
+                                    "ItemName": "PuzzleImageItem 1"
+                                },
+                                {
+                                    "Enable Big Card": "",
+                                    "Display Mode": "{0C969129-ECEE-4AB4-AB7C-43B2094E9F13}",
+                                    "PC Image Alt": "",
+                                    "PC Image": "https://www.cathaybk.com.tw/cathaybk/-/media/2b2dba7d4dcb4931804381366936343f?v=1",
+                                    "Mobile Image Alt": "",
+                                    "Mobile Image": "https://www.cathaybk.com.tw/cathaybk/-/media/07c5d6d0d9a94754a056db603137c066?v=1",
+                                    "Title": "機上免稅品9折優惠",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n    <!-- richtext 欄位 -->\n於長榮/立榮航空之國際線航班，刷長榮航空聯名卡購買機上免稅品享9折優惠(菸品及部分商品不適用)。\n</div>",
+                                    "Notice Type": "{0F972286-8B70-46DD-93C9-29FA03960031}",
+                                    "Notice Title": "注意事項",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>活動期間至112/12/31止，不得與其它優惠同時併用。</li>\n    <li>機上免稅品限長榮/立榮航空之國際線航班。菸品及部分商品恕不適用，詳情請參閱長榮航空官網及機上椅背說明。</li>\n    <li>機上免稅品消費登錄成功享NT$10=1哩回饋(限時活動開放112/12/31前刷卡並入帳之機上免稅品消費免登錄享NT$10=1哩回饋)，詳情請參閱哩程回饋說明。</li>\n    <li>本活動之商品及服務係由長榮航空提供，本行僅提供優惠訊息，相關優惠與服務之細節或限制條件請見長榮航空官網。</li>\n    <li>長榮航空保留隨時修改、變更、取消本活動及對本活動之所有事宜做出最終解釋及決定之權力。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>",
+                                    "Communication ID": "0080411103447",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "68d384b5-22f2-46cc-ae18-3395d1f8cdb3",
+                                    "ItemName": "PuzzleImageItem 2"
+                                }
+                            ]
+                        },
+                        {
+                            "Rejection": "0",
+                            "ItemId": "79013a42-fca0-4c2b-a5da-66aff5282f31",
+                            "ItemName": "PuzzleImageContainer 2",
+                            "children": [
+                                {
+                                    "Display Mode": "{3896D25C-DDD4-4091-AA96-E9C34CC9300A}",
+                                    "PC Image Alt": "",
+                                    "PC Image": "https://www.cathaybk.com.tw/cathaybk/-/media/fee2a444001a4d60b402a36b4d763c5b?v=1",
+                                    "Mobile Image Alt": "",
+                                    "Mobile Image": "https://www.cathaybk.com.tw/cathaybk/-/media/146afa5714a84f388224463ecdafed1b?v=1",
+                                    "Title": "機場貴賓室免費使用",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n<span _mstmutation=\"1\" _msthash=\"46540\" _msttexthash=\"439402522\">極致無限卡享貴賓室<span class=\"cubre-u-stress -og\">不限次數免費使用</span>、無限卡享優惠使用價<span class=\"cubre-u-stress -og\">NT$600/次</span>\n</span>\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">長榮航空機場貴賓室</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>極致無限卡，不限次數免費使用：</li>\n    <ol class=\"cubre-m-list -square\">\n        <li>桃園機場The Garden貴賓室 (限搭長榮航空商務艙)</li>\n        <li>桃園機場The Star貴賓室(限搭長榮航空豪華經濟艙/經濟艙)</li>\n        <li>松山/高雄/曼谷機場指定貴賓室。</li>\n    </ol>\n    <li>無限卡，優惠使用價：</li>\n    <ol class=\"cubre-m-list -square\">\n        <li>桃園機場The Club貴賓室：優惠價NT$600/次。</li>\n    </ol>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">龍騰卡全球機場貴賓室</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>極致無限卡：不限次數免費使用。</li>\n    <li>無限卡：機場貴賓室與機場餐廳享優惠價NT$600/次。</li>\n    <li>極致御璽卡/御璽卡：享免一年會籍費(需支付NT$99作業處理費)、機場貴賓室與機場餐廳使用費優惠價NT$800/次。</li>\n</ol>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無副標，請包含.cubre-o-block__subTitle 做移除 -->\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">龍騰卡使用說明</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>申請方式：可透過<a class=\"cubre-a-link\" href=\"https://www.dragonpass.com.tw/cathaybank/forms2.aspx\">本行專屬網頁</a>或電話申請。</li>\n    <li>申請資料：請準備您的護照英文姓名、行動電話號碼、有效長榮航空聯名指定卡別正卡卡號、卡片效期、卡背末3碼及生日。</li>\n    <li>使用方式：以手機出示您的龍騰卡卡號，使用前請先下載龍騰出行APP，使用時出示您手機上的龍騰卡卡號或掃描您手機上的二維碼使用(使用前請確認綁定有效長榮航空聯名指定卡別正卡卡號)。</li>\n    <li>服務專線：肯驛國際旅行社(04)2206-8195或至龍騰出行本行專屬網頁了解服務詳情。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<!-------------------------------------- 注意事項 start -------------------------------------->\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<!-------------------------------------- 內容 start -------------------------------------->\n<!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>活動期間至112/12/31止。</li>\n    <li>本活動指定免費次數權益限繳交年費之長榮卡友使用。</li>\n    <li>【長榮航空機場貴賓室】：</li>\n    <ol class=\"cubre-m-list -disc\">\n        <li>使用長榮航空機場貴賓室限搭乘長榮航空/立榮航空實際營運之國際航班適用，共掛班號不適用。使用前須出示當日長榮/立榮航空之國際線航班登機證與適用卡別，限持卡人本人使用且不可攜伴。</li>\n        <li>The Garden貴賓室限搭乘商務艙之持卡人使用(非自願升等至商務艙者不適用)。</li>\n    </ol>\n    <li>【龍騰卡全球機場貴賓室】：</li>\n    <ol class=\"cubre-m-list -disc\">\n        <li><span class=\"cubre-u-stress -og\">限正卡持卡人本人使用(若有攜伴需另行付費)，會員須確實持有效龍騰卡(使用前請確認綁定有效長榮航空聯名卡指定卡別正卡卡號)及登機證方可獲准進入合作的機場貴賓室。</span></li>\n        <li><span class=\"cubre-u-stress -og\">極致無限卡之免費龍騰機場貴賓室禮遇(含機場餐廳)以每卡每日2次為限，超出之使用次數肯驛國際將收取優惠價NT$600/次。</span> 會員進入機場貴賓室後，貴賓室服務人員將列印消費單據，消費單據將列明您的使用日期，會員必須仔細核對並於消費單據上簽名確認，表示接納當次服務內容。</li>\n        <li>極致御璽卡/御璽卡申請龍騰卡須收取作業處理費NT$99，將在第一次使用貴賓室服務後於使用費中抵扣。</li>\n        <li>極致御璽卡/御璽卡正卡持卡人每人每次使用貴賓室服務費為優惠價NT$800，龍騰卡台灣地區總代理肯驛國際旅行社將透過您的信用卡帳戶收取服務費。</li>\n        <li>龍騰卡提供的機場貴賓室的使用是採每人每次計費。</li>\n        <li>為避免擁擠，貴賓室保留實行最長停留時間為2小時的規定。</li>\n        <li>詳細服務內容請至上述服務專線或網站查詢。</li>\n    </ol>\n    <li>為維持貴賓室使用品質，貴賓室人員可視當時貴賓室使用狀況，限制進入貴賓室人數或暫時停止提供本項服務。機場貴賓室所提供之設備、攜伴人數及年齡限制、開放時間、或使用規定有變動，請依現場所示為準。</li>\n    <li>機場貴賓室之經營權及維護作業均由機場貴賓室負責，本行無經營管理權。如機場貴賓室所提供之設備、開放時間、或使用規定有變動，請依現場所示為準。</li>\n    <li>長榮航空及本行保留隨時修改、變更、取消本禮遇及對本禮遇之所有事宜做出最終解釋及決定之權力。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 內容 end -------------------------------------->\n</div>\n</div>\n<!-------------------------------------- 注意事項 end -------------------------------------->\n</div>\n</div>\n</div>",
+                                    "Link Type 1": "",
+                                    "Link Text 1": "",
+                                    "Communication ID": "",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "597e91b4-41bf-425e-9bf7-ea9a2bc36142",
+                                    "ItemName": "PuzzleImageItem 2"
+                                },
+                                {
+                                    "Display Mode": "{2DF29E2E-5E50-4A26-9531-11CD7AA86A4F}",
+                                    "PC Image Alt": "",
+                                    "PC Image": "https://www.cathaybk.com.tw/cathaybk/-/media/df21fd351bfd476f937108a460eeaf54?v=1",
+                                    "Mobile Image Alt": "",
+                                    "Mobile Image": "https://www.cathaybk.com.tw/cathaybk/-/media/93db0395fec941c9a596f9c935b458a1?v=1",
+                                    "Title": "優先劃位禮遇",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n    <!-- richtext 欄位 -->\n極致無限卡持卡本人，享長榮航空機場櫃檯優先劃位優惠\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">優先劃位禮遇</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>極致無限卡持卡本人，享長榮航空機場櫃檯優先劃位優惠</p>\n<ol class=\"cubre-m-list\">\n    <li>桃園國際機場：搭乘皇璽桂冠(商務)艙，可使用皇璽商務櫃檯劃位；搭乘豪華經濟艙／經濟艙，可使用長榮航空無限萬哩遊金卡會員櫃檯劃位。</li>\n    <li>其他全球機場：不分艙等，可使用皇璽商務櫃檯劃位。</li>\n</ol>\n<p class=\"cubre-u-note\">※優先劃位權益限搭乘長榮航空/立榮航空實際營運之定期國際航班使用，共掛班號、包機及不定期加班機不適用。</p>\n</div>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<!-------------------------------------- 注意事項 start -------------------------------------->\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<!-------------------------------------- 內容 start -------------------------------------->\n<!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>活動期間：即日起至112/12/31止。</li>\n    <li>本服務係由長榮航空提供，本行僅提供優惠訊息，相關服務之細節或限制條件請見長榮航空官網。</li>\n    <li>長榮航空及本行保留隨時修改、變更、取消本優惠案及對本優惠案之所有事宜做出最終解釋及決定之權利。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 內容 end -------------------------------------->\n</div>\n</div>\n<!-------------------------------------- 注意事項 end -------------------------------------->\n</div>\n</div>\n</div>",
+                                    "Link Type 1": "",
+                                    "Link Text 1": "",
+                                    "Communication ID": "0080411103447",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "977f207a-9713-4499-9b86-84e4574f43ad",
+                                    "ItemName": "PuzzleImageItem 3"
+                                },
+                                {
+                                    "Display Mode": "{3896D25C-DDD4-4091-AA96-E9C34CC9300A}",
+                                    "PC Image Alt": "",
+                                    "PC Image": "https://www.cathaybk.com.tw/cathaybk/-/media/803578c17cb4411485c4787445f85a7d?v=1",
+                                    "Mobile Image Alt": "",
+                                    "Mobile Image": "https://www.cathaybk.com.tw/cathaybk/-/media/d574d6043ae24fdebabcb10135f01ac1?v=1",
+                                    "Title": "長榮樂e購9折優惠",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n    <!-- richtext 欄位 -->\n長榮樂e購網站刷聯名卡消費享9折及NT$10=1哩回饋(御璽卡不適用NT$10=1哩回饋)\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">長榮樂e購9折優惠</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>長榮樂e購網站刷聯名卡消費享：</p>\n<ol class=\"cubre-m-list\">\n    <li>9折優惠</li>\n    <li>NT$10=1哩回饋(御璽卡不適用)</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<!-------------------------------------- 注意事項 start -------------------------------------->\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<!-------------------------------------- 內容 start -------------------------------------->\n<!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>活動期間至112/12/31止，不得與其它優惠同時併用。</li>\n    <li>長榮樂e購部分商品不適用9折優惠，詳情請參閱長榮樂e購雜誌與網站說明。</li>\n    <li>御璽卡不適用長榮樂e購NT$10=1哩回饋。</li>\n    <li>本活動之商品及服務係由長榮航空提供，本行僅提供優惠訊息，相關優惠與服務之細節或限制條件請見長榮航空官網。</li>\n    <li>長榮航空及本行保留隨時修改、變更、取消本活動及對本活動之所有事宜做出最終解釋及決定之權力。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 內容 end -------------------------------------->\n</div>\n</div>\n<!-------------------------------------- 注意事項 end -------------------------------------->\n</div>\n</div>\n</div>",
+                                    "Link Type 1": "",
+                                    "Link Text 1": "",
+                                    "Communication ID": "0080411103447",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "4f2f4d12-caf1-4112-a6aa-e7494ed952a4",
+                                    "ItemName": "PuzzleImageItem 5"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Anchor Key": "blockname02",
+                    "Main Title": "卡友贈禮專屬為您準備",
+                    "Notice Type": "",
+                    "Notice Title": "",
+                    "Notice Content": "",
+                    "Rejection": "0",
+                    "ItemId": "c572d3e3-4ec0-4f83-bf4e-463473c301d4",
+                    "ItemName": "SimpleGraphicTab",
+                    "children": [
+                        {
+                            "Tab": "首刷哩",
+                            "Communication ID": "0080411103282",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "8f0d9b1d-52c9-419d-b787-ab20455e717e",
+                            "ItemName": "SimpleGraphicTabItemLv1 1",
+                            "children": {
+                                "Image Alt": "",
+                                "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/c6befba524774e28a8163754d2df4226?v=2",
+                                "Title": "新戶首刷滿額最高50,000哩",
+                                "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n112/8/31前成功申辦國泰世華長榮航空聯名卡正卡並繳交全額年費，核卡後60天內消費達檻享<span class=\"cubre-u-stress -og\">首刷哩</span>！<br />\n★活動期間內新戶持聯名卡指定卡別再消費達檻享<span class=\"cubre-u-stress -og\">首刷滿額哩</span>！<br />\n★★2檻活動合計贈送最高<span class=\"cubre-u-stress -og\">50,000哩</span>！<br />\n(首刷滿額哩限首次申辦長榮航空聯名卡正卡之新戶參加)\n</div>",
+                                "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                "Notice Title": "詳細說明",
+                                "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">極致無限卡</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<div class=\"cubre-o-block__component\">\n<table class=\"cubre-m-commonTable\">\n    <tbody>\n        <tr>\n            <th class=\"tac\" style=\"width: 50%;\">核卡60日內消費門檻</th>\n            <td class=\"tac\" style=\"width: 50%;\">NT$10,000</td>\n        </tr>\n        <tr>\n            <th class=\"tac\">申辦首刷禮</th>\n            <td class=\"tac\">35,000哩</td>\n        </tr>\n    </tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">無限卡</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<div class=\"cubre-o-block__component\">\n<table class=\"cubre-m-commonTable\">\n    <tbody>\n        <tr>\n            <th class=\"tac\" style=\"width: 50%;\">核卡60日內消費門檻</th>\n            <td class=\"tac\" style=\"width: 50%;\">NT$5,000</td>\n        </tr>\n        <tr>\n            <th class=\"tac\">申辦首刷禮</th>\n            <td class=\"tac\">3,000哩</td>\n        </tr>\n    </tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">極致御璽卡</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<div class=\"cubre-o-block__component\">\n<table class=\"cubre-m-commonTable\">\n    <tbody>\n        <tr>\n            <th class=\"tac\" style=\"width: 50%;\">核卡60日內消費門檻</th>\n            <td class=\"tac\" style=\"width: 50%;\">NT$3,000</td>\n        </tr>\n        <tr>\n            <th class=\"tac\">申辦首刷禮</th>\n            <td class=\"tac\">1,500哩</td>\n        </tr>\n    </tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">御璽卡</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<div class=\"cubre-o-block__component\">\n<table class=\"cubre-m-commonTable\">\n    <tbody>\n        <tr>\n            <th class=\"tac\" style=\"width: 50%;\">核卡60日內消費門檻</th>\n            <td class=\"tac\" style=\"width: 50%;\">NT$1,000</td>\n        </tr>\n        <tr>\n            <th class=\"tac\">申辦首刷禮</th>\n            <td class=\"tac\">500哩</td>\n        </tr>\n    </tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block -cling\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<!-------------------------------------- 提示文字卡 start -------------------------------------->\n<!-- 灰色請在.cubre-m-remind 加上.-gy -->\n<div class=\"cubre-m-remind -gy \">\n<div class=\"cubre-m-remind__content\">\n<div class=\"cubre-m-remind__wrap\">\n<div class=\"cubre-m-remind__title\">【新戶首刷滿額哩】112/8/31前核卡並符合上述首刷哩回饋資格之新戶，再消費享額外哩遇</div>\n<div class=\"cubre-m-remind__text\">\n<div class=\"cubre-o-textContent -sm\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>極致無限卡正卡人達到首刷哩消費金額後，再消費NT$40,000享額外15,000哩(即核卡60日內消費滿NT$5萬共享5萬哩)</li>\n    <li>無限卡正卡人達到首刷哩消費金額後，再消費NT$5,000享額外3,000哩(即核卡60日內消費滿NT$1萬共享6千哩)</li>\n</ol>\n<p class=\"cubre-u-note\"><span class=\"cubre-u-stress -og\">※本活動限首次申辦長榮航空聯名卡正卡之新戶參加，每戶限享乙次回饋</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 提示文字卡 end -------------------------------------->\n<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無副標，請包含.cubre-o-block__subTitle 做移除 -->\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">不適用首刷哩活動之消費</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>以下一般消費排除項目不得計算於首刷哩活動消費金額中：</p>\n<ol class=\"cubre-m-list -square\">\n    <li>信用卡相關利息及費用(包含但不限於利息／年費／掛失費／預借現金手續費／違約金／國外交易手續費／調閱簽帳單手續費、補發帳單手續費等非消費款項)。</li>\n    <li>預借現金／帳單分期／單筆消費分期(刷卡樂分期)／通信貸款／餘額代償金額及經本行公告之除外專案。</li>\n    <li>稅款、學費、公用事業費用(包含但不限於中華電信電話／網路通訊／影音服務等相關費用及附加費)、路邊停車費、公務機關各項費用、透過繳費平台（如公務機關信用卡繳費平台，含公務機關／國營事業／公立醫療院所等、電子化繳費稅處理平台、醫指付、CUBE網銀或CUBE App線上繳費服務）繳納之費用。各項費用細項說明請詳閱本行<a class=\"cubre-a-link\" href=\"https://www.cathaybk.com.tw/cathaybk/personal/event/overview/#category=Credit%20Card&amp;filter=Payment\">生活繳費說明網頁</a>。</li>\n    <li>保費。</li>\n    <li>代扣基金。</li>\n    <li>悠遊卡加值、一卡通加值、icash加值。</li>\n    <li>便利超商消費。</li>\n    <li>透過聯合信用卡處理中心小額支付平台之特約商店之消費（如便利超商、連鎖速食店、停車費等）。參加該平台之特約商店請詳閱NCCC官網<a class=\"cubre-a-link\" href=\"https://www.nccc.com.tw/wps/wcm/connect/zh/home/BusinessOperations/CardBusiness/MicroPayment/\">『小額支付平台通路 』說明</a>。</li>\n    <li>全聯福利中心消費。</li>\n    <li>未經主管機關核准之境外投資交易平台(包括但不限於eToro) 。</li>\n    <li>eTag儲值／eTag智慧停車費代扣繳。</li>\n    <li>遠東SOGO百貨貴賓廳之消費金額。</li>\n    <li>國壽不動產租金代收。</li>\n    <li>其他經本行公告排除之項目。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<!-------------------------------------- 注意事項 start -------------------------------------->\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<!-------------------------------------- 內容 start -------------------------------------->\n<!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>首刷哩活動限112/8/31前，核發長榮航空聯名卡正卡且繳交全額年費之持卡人參加，正卡人每人限參加一次。</li>\n    <li><span class=\"cubre-u-stress -og\">新戶首刷滿額哩活動限未曾成功核發長榮航空聯名卡正卡，且於112/1/1-112/8/31期間核發長榮航空聯名極致無限卡或無限卡正卡並繳交全額年費之持卡人參加，每戶僅限回饋乙次。</span></li>\n    <li>核卡日依本行系統所載為準。正卡持卡人核卡後，需使用本次核發之長榮航空聯名卡消費(同日核卡之正附卡消費合併計算)，活動合格消費限消費日於核卡日60天內且商店於期間內已請款入帳之一般消費。本行將於核卡60天後確認符合贈送資格，並於六至八週內回饋至正卡持卡人的本行長榮哩程點數帳戶中。持卡人不得指定回饋時間，回饋時間與作業依本行規定為準。</li>\n    <li>一般消費排除項目不得計算於首刷哩活動消費金額中，排除項目依本行最新公告為準。分期消費以核卡日後60天內已請款入帳金額計算(同筆消費至多認列前二期入帳金額)，消費金額如有退貨將予以扣除。</li>\n    <li>若正卡持卡人於繳交年費當年度取消卡片或轉換卡別，並要求按比例退還已繳年費時，需扣回本行信用卡帳戶中之首刷哩(含首刷滿額哩)，若哩程點數餘額不足，退還之年費須先扣除不足額之哩程點數費用，每一點哩程點數以新台幣0.5元計算，就扣除後之餘額退還持卡人。另退還之年費倘不足扣除前揭持卡人需返還本行之哩程點數費用時，持卡人應補足差額返還予本行。</li>\n    <li>持卡人於回饋時，須持有符合本活動資格消費之有效信用卡，且上一期無逾期未繳款之紀錄，若終止信用卡、掛失不補發、到期不續卡、遭本行停止使用信用卡權利、延滯繳款、或違反本行信用卡契約等情事時，即自動喪失資格。</li>\n    <li>正/附卡持卡人使用長榮航空哩程須遵循長榮航空「無限萬哩遊」之相關使用規定，本行並非該哩程商品之提供人或出售者，所有哩程使用問題無涉本行應與長榮航空聯繫，哩程效期及使用依長榮航空「無限萬哩遊」之使用規定為準，詳參長榮航空網站。持卡人不得要求將贈品折換現金或移轉予他人。</li>\n    <li>活動期間內倘因不可歸責於本行之事由，本行得變更或終止活動，並於本行官網上公告。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 內容 end -------------------------------------->\n</div>\n</div>\n<!-------------------------------------- 注意事項 end -------------------------------------->\n</div>\n</div>\n</div>",
+                                "Link Type": "",
+                                "Link Text": "",
+                                "Communication ID": "",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "9bcac120-ed71-49e4-9ec0-491b0ac6988b",
+                                "ItemName": "SimpleGraphicTabItemLv2 1"
+                            }
+                        },
+                        {
+                            "Tab": "續卡哩",
+                            "Communication ID": "0080411103282",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "f8f9b464-1b7d-4a32-9778-6b051e376bda",
+                            "ItemName": "SimpleGraphicTabItemLv1 4",
+                            "children": {
+                                "Image Alt": "",
+                                "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                "Title": "續卡最高30,000哩",
+                                "Description": "<div class=\"cubre-o-textContent -sm\">\n    <!-- richtext 欄位 -->\n第二年起續卡繳交正卡全額年費後，即享續卡哩回饋，指定卡別再消費享續卡滿額哩\n</div>",
+                                "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                "Notice Title": "詳細說明",
+                                "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">第一步、繳交次年年費拿續卡哩</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>第二年起續卡，正卡持卡人繳交全額年費後，即享續卡哩回饋</p>\n<div class=\"cubre-o-block__component\">\n<table class=\"cubre-m-commonTable\">\n    <thead>\n        <tr>\n            <th style=\"text-align: center;\"><strong><nobr>卡別</nobr></strong></th>\n            <th style=\"text-align: center;\"><strong>續卡哩</strong></th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td class=\"t\" style=\"text-align: center;\" data-title=\"卡別\"> 極致無限卡</td>\n            <td class=\"s\" style=\"text-align: center;\" data-title=\"續卡哩\">20,000哩            </td>\n        </tr>\n        <tr>\n            <td class=\"t\" style=\"text-align: center;\" data-title=\"卡別\"> 無限卡</td>\n            <td class=\"s\" style=\"text-align: center;\" data-title=\"續卡哩\">2,000哩            </td>\n        </tr>\n        <tr>\n            <td class=\"t\" style=\"text-align: center;\" data-title=\"卡別\"> 極致御璽卡</td>\n            <td class=\"s\" style=\"text-align: center;\" data-title=\"續卡哩\">1,000哩            </td>\n        </tr>\n        <tr>\n            <td class=\"t\" style=\"text-align: center;\" data-title=\"卡別\"> 御璽卡</td>\n            <td class=\"s\" style=\"text-align: center;\" data-title=\"續卡哩\">300哩            </td>\n        </tr>\n    </tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">第二步、指定卡別再消費享續卡滿額哩</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>112/8/31前，符合上述續卡資格者，持下列指定卡別於指定消費期間刷卡累積一般消費達檻，極致無限卡卡友再享額外<span class=\"cubre-u-stress -og\">10,000續卡哩</span>，無限卡卡友再享額外<span class=\"cubre-u-stress -og\">1,000續卡哩</span>，現在續卡共享最高<span class=\"cubre-u-stress -og\">30,000哩</span>！</p>\n<div class=\"cubre-o-block__component\">\n<table class=\"cubre-m-commonTable\">\n    <tbody>\n        <tr>\n            <th style=\"width: 20%;\">卡別</th>\n            <th style=\"width: 40%;\">極致無限卡</th>\n            <th style=\"width: 40%;\">無限卡</th>\n        </tr>\n        <tr>\n            <td style=\"text-align: center;\">參加方式</td>\n            <td style=\"text-align: center;\">年費下帳當月1日至次月15日，累積一般消費金額達NT$30,000</td>\n            <td style=\"text-align: center;\">年費下帳當月1日至次月15日，累積一般消費金額達NT$5,000</td>\n        </tr>\n        <tr>\n            <td style=\"text-align: center;\">回饋哩數</td>\n            <td style=\"text-align: center;\">10,000哩</td>\n            <td style=\"text-align: center;\">1,000哩</td>\n        </tr>\n    </tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<!-------------------------------------- 注意事項 start -------------------------------------->\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<!-------------------------------------- 內容 start -------------------------------------->\n<!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>本活動限112/1/1至112/8/31期間，次年年費已下帳並繳交全額正卡年費之本行有效長榮航空聯名卡友參加。</li>\n    <li>本活動合格消費限於指定消費期間(即年費下帳日的當月1日至次月15日)持指定卡別刷卡並於年費下帳的次月20日(含)前完成請款之一般消費款項，舉例說明：持卡人次年年費下帳日為112年2月27日，其指定消費期間為112年2月1日至112年3月15日，且款項已於112年3月20日前完成請款。外幣轉換新臺幣之金額判斷以本行信用卡帳單為準。</li>\n    <li>一般消費定義請詳閱聯名卡倍數引擎消費回饋說明，分期付款消費以分期前總金額計算，且第一筆分期交易須於指定消費期間完成請款，消費金額如有退貨將予以扣除。</li>\n    <li>本活動回饋之哩程，以長榮航空聯名卡指定卡別之正附卡消費合併計算，並於指定卡別年費下帳後的次次月一次性回饋長榮航空哩程點數至正卡持卡人本行信用卡帳戶中，正附卡合計每戶回饋哩數乙次。持卡人恕無法透過年費提前下帳等方式以指定回饋時間，回饋時間與作業依本行規定為準。</li>\n    <li>若正卡持卡人於繳交年費當年度取消卡片或轉換卡別，並要求按比例退還已繳年費時，需扣回本行信用卡帳戶中之續卡哩哩程點數，若哩程點數餘額不足，退還之年費須先扣除不足額之哩程點數費用，每一點哩程點數以新台幣0.5元計算，就扣除後之餘額退還持卡人。另退還之年費倘不足扣除前揭持卡人需返還本行之哩程點數費用時，持卡人應補足差額返還予本行。</li>\n    <li>本活動以實際成功訂單計算，若為付款失敗、訂單取消、退貨，該筆訂單金額將不列入計算範圍。</li>\n    <li>持卡人於回饋時，須持有符合本活動資格之有效長榮航空聯名卡指定卡別，且上一期無逾期未繳款之紀錄，若終止信用卡、掛失不補發、到期不續卡、遭本行停止使用信用卡權利、延滯繳款、或違反本行信用卡契約等情事時，即自動喪失資格。</li>\n    <li>正/附卡持卡人使用長榮航空哩程須遵循長榮航空「無限萬哩遊」之相關使用規定，本行並非該哩程商品之提供人或出售者，所有哩程使用問題無涉本行應與長榮航空聯繫，哩程效期及使用依長榮航空「無限萬哩遊」之使用規定為準，詳參長榮航空網站。持卡人不得要求將哩程折換現金、紅利或其他贈品，且不得移轉予他人。</li>\n    <li>活動期間內倘因不可歸責於本行之事由，本行得變更或終止活動，並於本行網站上公告。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 內容 end -------------------------------------->\n</div>\n</div>\n<!-------------------------------------- 注意事項 end -------------------------------------->\n</div>\n</div>\n</div>",
+                                "Link Type": "",
+                                "Link Text": "",
+                                "Communication ID": "0080411103447",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "e367d7b6-bc65-4c04-932b-69606ee4288f",
+                                "ItemName": "SimpleGraphicTabItemLv2 1"
+                            }
+                        },
+                        {
+                            "Tab": "生日哩",
+                            "Communication ID": "0080411103282",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "365c34ed-ce77-4803-b12c-403ee106a6aa",
+                            "ItemName": "SimpleGraphicTabItemLv1 3",
+                            "children": {
+                                "Image Alt": "",
+                                "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                "Title": "生日贈哩最高100%回饋",
+                                "Description": "<div class=\"cubre-o-textContent -sm\">\n    <!-- richtext 欄位 -->\n正卡持卡人於生日當月搭乘長榮班機，當月單程最高哩程航段享額外最高100%哩程回饋\n</div>",
+                                "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                "Notice Title": "詳細說明",
+                                "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">生日贈哩最高100%回饋</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>正卡持卡人於生日當月搭乘長榮班機，當月單程最高哩程航段享額外哩程回饋：</p>\n<ol class=\"cubre-m-list\">\n    <li>極致無限卡：100%</li>\n    <li>無限卡：100%</li>\n    <li>極致御璽卡：50%</li>\n    <li>御璽卡：50%</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<!-------------------------------------- 注意事項 start -------------------------------------->\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<!-------------------------------------- 內容 start -------------------------------------->\n<!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>活動期間至112/12/31止。</li>\n    <li>限繳交全額年費持卡人享有；如於生日當月搭乘長榮航空飛航之國際線航班且預定長榮航空班號，請務必搭機前透過以下方式完成長榮航空「無限萬哩遊」會員卡號登錄，始可享有生日贈哩。</li>\n    <ol class=\"cubre-m-list -disc\">\n        <li>長榮官網購票：於長榮官網購票時，請使用會員卡上之相同姓名，並輸入長榮會員卡號，完成購票後，於實際搭乘班機後約3~5天，將完成飛行記錄登錄。</li>\n        <li>旅行社協助代訂位或購票：請旅行社協助訂位或購票時，通知旅行社使用會員卡上之相同姓名，並輸入長榮會員卡號，於實際搭乘班機後約3~5天，將完成飛行記錄登錄。</li>\n        <li>搭機前於劃位櫃台：請劃位櫃台服務人員協助確認或輸入長榮會員卡號，於實際搭乘班機後約3~5天，將完成飛行記錄登錄。</li>\n    </ol>\n    <li>活動限正卡持卡人參加，生日贈哩將由長榮航空直接於持卡人生日次月10日回饋至持卡人之長榮航空「無限萬哩遊」會員帳號。</li>\n    <li>不得與長榮航空提供之「無限萬哩遊」會員權益或其他生日贈哩優惠重複給予或使用。特定艙等(例如:A艙、V艙、G艙)、免費或折扣機票不適用。</li>\n    <li>持卡人於回饋時，須持有符合本活動資格消費之有效信用卡，且上一期無逾期未繳款之紀錄，若終止信用卡、掛失不補發、到期不續卡、遭本行停止使用信用卡權利、延滯繳款、或違反本行信用卡契約等情事時，即自動喪失資格。</li>\n    <li>正/附卡持卡人使用長榮航空哩程須遵循長榮航空「無限萬哩遊」之相關使用規定，本行並非該哩程商品之提供人或出售者，所有哩程使用問題無涉本行應與長榮航空聯繫，哩程效期及使用依長榮航空「無限萬哩遊」之使用規定為準，詳參長榮航空網站。持卡人不得要求將贈品折換現金或移轉予他人。</li>\n    <li>活動期間內倘因不可歸責於本行之事由，本行得變更或終止活動，並於本行官網上公告。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 內容 end -------------------------------------->\n</div>\n</div>\n<!-------------------------------------- 注意事項 end -------------------------------------->\n</div>\n</div>\n</div>",
+                                "Link Type": "",
+                                "Link Text": "",
+                                "Communication ID": "0080411103447",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "ae270d60-e3a5-460b-87db-7e2994746c8e",
+                                "ItemName": "SimpleGraphicTabItemLv2"
+                            }
+                        },
+                        {
+                            "Tab": "百貨貴賓禮",
+                            "Rejection": "",
+                            "ItemId": "ec0c819e-96c1-49ed-baee-e8b9ed701e95",
+                            "ItemName": "SimpleGraphicTabItemLv1 2",
+                            "children": {
+                                "Image Alt": "",
+                                "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                "Title": "全台遠東SOGO百貨貴賓禮遇",
+                                "Description": "<div class=\"cubre-o-textContent -sm\">\n    <!-- richtext 欄位 -->\n長榮航空聯名極致無限卡友尊享多項百貨貴賓專屬禮遇\n</div>",
+                                "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                "Notice Title": "詳細說明",
+                                "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">全台遠東SOGO百貨貴賓禮遇</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>持有效長榮航空聯名極致無限卡實體卡尊享下列禮遇：</p>\n<ol class=\"cubre-m-list\">\n    <li>免費停車4小時</li>\n    <li>1,000點快樂購點數可兌換400元SOGO VIP購物券</li>\n    <li>化妝品消費滿NT$6,000兌換乙張餐廳95折優惠券(無限卡同享本優惠)</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<!-------------------------------------- 注意事項 start -------------------------------------->\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<!-------------------------------------- 內容 start -------------------------------------->\n<!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>活動期間至112/12/31止。</li>\n    <li>極致無限卡每卡每日可享一次免費停車4小時 (正附卡分開計算)，停車優惠/SOGO VIP購物券/餐廳95折優惠券須至VIP LOUNGE過卡兌換。</li>\n    <li>化妝品(不含香氛)消費限當日單館單卡，需消費當日持發票及信用卡兌換「餐廳95折優惠券」，極致無限卡請至VIP LOUNGE兌換，無限卡請至貴賓廳兌換，餐廳優惠券使用期限至次月月底。</li>\n    <li>遠東SOGO百貨及國泰世華銀行保留隨時修改、變更、取消本禮遇及對本禮遇之所有事宜做出最終解釋及決定之權利。\n    </li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 內容 end -------------------------------------->\n</div>\n</div>\n<!-------------------------------------- 注意事項 end -------------------------------------->\n</div>\n</div>\n</div>",
+                                "Link Type": "",
+                                "Link Text": "",
+                                "Communication ID": "0080411103447",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "5e5ad1df-7db7-4325-90cb-2b61106d4be3",
+                                "ItemName": "SimpleGraphicTabItemLv2 1"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "PC Background Image Alt": "",
+                    "PC Background Image": "https://www.cathaybk.com.tw/cathaybk/-/media/c44ebec7f9ae4805a8c543f65888022e?v=1",
+                    "Mobile Background Image Alt": "",
+                    "Mobile Background Image": "https://www.cathaybk.com.tw/cathaybk/-/media/71862275b83f4e58a3b8774f42cf6b8b?v=1",
+                    "Image Alt": "",
+                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/d52ba930c3604c4daaef09da4bf22b5c?v=1",
+                    "Title": "長榮航空會員哩程展延新方案",
+                    "Description": "<div class=\"cubre-o-textContent -sm\">\n    <!-- richtext 欄位 -->\n原長榮航空無限萬哩遊會員哩程(及憑證/票券)效期於111年6月至112年2月到期者，長榮航空已主動完成展延效期至112年3月。\n聯名卡友完成指定條件，還可再展延會員獎勵哩程效期，最高18個月！\n</div>",
+                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                    "Notice Title": "詳細說明",
+                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n    <!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n    <div class=\"cubre-o-block__textArea\">\n        <!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n        <div class=\"cubre-o-block__title\">\n            <p class=\"cubre-a-blockTitle -textInside\">會員哩程效期已主動展延至<span class=\"cubre-u-stress -og\">112/3</span></p>\n        </div>\n    </div>\n    <div class=\"cubre-o-block__wrap\">\n        <!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n        <div class=\"cubre-o-block__component\">\n            <div class=\"cubre-o-textContent\">\n                <!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n                <p>鑑於目前全球疫情尚未穩定，原長榮航空無限萬哩遊會員哩程(及憑證/票券)效期於111年6月至112年2月到期者，長榮航空已主動完成展延效期至112年3月。可至<a class=\"cubre-a-link\" href=\"https://eservice.evaair.com/flyeva/eva/ffp/login.aspx\">長榮航空網站-「無限萬哩遊」帳戶管理</a>查詢最新資訊。</p>\n            </div>\n        </div>\n    </div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n    <!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n    <div class=\"cubre-o-block__textArea\">\n        <!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n        <div class=\"cubre-o-block__title\">\n            <p class=\"cubre-a-blockTitle -textInside\">《聯名卡獨享》哩程效期<span class=\"cubre-u-stress -og\">再展延最高18個月</span></p>\n        </div>\n    </div>\n    <div class=\"cubre-o-block__wrap\">\n        <!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n        <div class=\"cubre-o-block__component\">\n            <div class=\"cubre-o-textContent\">\n                <!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n                <p>若於111年1月至12月期間完成以下指定條件(可累加)，還可再展延會員獎勵哩程(及憑證/票券)效期，聯名卡友享再展延效期，最高18個月！</p>\n                <ol class=\"cubre-m-list\">\n                    <li>新申辦核發聯名卡正卡(不含御璽卡)或聯名卡單筆轉哩滿1,000哩，<span class=\"cubre-u-stress -og\">可展延9個月效期</span></li>\n                    <li>長榮會員帳戶內有任一筆累哩(含搭乘長榮/立榮航空國際線航班/星空聯盟航班、購買哩程、EVA Mileage Mall、EVA Mileage Hotel或其他合作夥伴累哩；不含聯名卡轉哩、不含哩程的轉讓轉回)，<span class=\"cubre-u-stress -og\">可展延9個月效期</span></li>\n                </ol>\n                <p>※ 以上第1及2項可累加，同時符合之會員最多展延18個月，展延效期對照表如下：</p>\n<div class=\"cubre-o-block__component\">\n<table class=\"cubre-m-commonTable\">\n    <tbody>\n        <tr>\n            <th style=\"width: 40%;\">獎勵哩程(及憑證/票券)效期</th>\n            <th style=\"width: 30%;\">展延9個月</th>\n            <th style=\"width: 30%;\">展延18個月</th>\n        </tr>\n        <tr>\n            <td style=\"text-align: center;\">112/03</td>\n            <td style=\"text-align: center;\">112/12</td>\n            <td style=\"text-align: center;\">113/09</td>\n        </tr>\n    </tbody>\n</table> \n</div>\n                <p>完整活動內容及規則條款請見<a class=\"cubre-a-link\" href=\"https://www.evaair.com/zh-tw/about-eva-air/news/news-releases/2020-04-30-news-for-infinity-mileagelands-members.html\">長榮航空官網</a></p>\n            </div>\n        </div>\n    </div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n    <div class=\"cubre-o-block__wrap\">\n        <div class=\"cubre-o-block__component\">\n            <!-------------------------------------- 注意事項 start -------------------------------------->\n            <div class=\"cubre-m-notice\" data-notice=\"\">\n                <div class=\"cubre-m-notice__title\" data-notice-btn=\"\">注意事項</div>\n                <div class=\"cubre-m-notice__content\" data-notice-content=\"\">\n                    <!-------------------------------------- 內容 start -------------------------------------->\n                    <!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n                    <div class=\"cubre-o-block -textInside\">\n                        <div class=\"cubre-o-block__wrap\">\n                            <!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n                            <div class=\"cubre-o-block__component\">\n                                <div class=\"cubre-o-textContent\">\n                                    <!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n                                    <ol class=\"cubre-m-list\">\n                                        <li>以上優惠商品及服務係由長榮航空提供，本行僅提供優惠訊息。優惠與服務細節或限制條件請見<a class=\"cubre-a-link\" href=\"https://www.evaair.com/zh-tw/about-eva-air/news/news-releases/2020-04-30-news-for-infinity-mileagelands-members.html\">長榮航空官網</a></li>\n                                        <li>各項酬賓內容，長榮航空保留隨時更改或終止之最終權利。酬賓內容概以最新公佈者為準。</li>\n                                    </ol>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                    <!-------------------------------------- 內容 end -------------------------------------->\n                </div>\n            </div>\n            <!-------------------------------------- 注意事項 end -------------------------------------->\n        </div>\n    </div>\n</div>\n",
+                    "Link Icon 1": "",
+                    "Link 1": "",
+                    "Link Text 1": "",
+                    "Communication ID": "0080411103282",
+                    "Rejection": "0",
+                    "Advertising": "0",
+                    "ItemId": "ace32eca-4f92-4fb0-8883-dae1224922b0",
+                    "ItemName": "MarketingGraphic"
+                },
+                {
+                    "Anchor Key": "blockname03",
+                    "Main Title": "卡友權益 包山包海",
+                    "Main Subtitle": "處處皆享貴賓禮遇",
+                    "Notice Type 1": "",
+                    "Notice Title 1": "",
+                    "Notice Content 1": "",
+                    "Communication ID": "0080411103282",
+                    "Deletion": "0",
+                    "Rejection": "0",
+                    "Advertising": "0",
+                    "Previous state": "",
+                    "ItemId": "544f2240-76bf-43eb-bf07-09767ace6541",
+                    "ItemName": "Copy of Store Discount",
+                    "children": [
+                        {
+                            "Discount Type": "旅遊交通",
+                            "Rejection": "0",
+                            "ItemId": "56cb0389-057f-4276-a52c-6cb647e262e1",
+                            "ItemName": "Discount Type 2",
+                            "children": {
+                                "Discount Tag": "極致無限卡/無限卡",
+                                "Store Info": "{ED2C8FF6-9B93-416E-9589-4F62B00ABCCC}|{FA7F8655-3C02-4900-A704-265A4C9CB8F5}|{467FEB0E-450C-4314-ACC3-93C6208E6278}|{517D3EE9-AD12-41FA-BE99-8BCF2811084D}|{5C6E597F-B7F0-4E44-A62B-E56B3D16B7A3}|{6151FCD2-9566-4565-966B-0B671D1AEAFE}|{D6EF7FC6-1765-4048-BD33-718445AAB37A}",
+                                "Communication ID": "0080411103282",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "8af3bf5e-0573-4afe-af25-be443ae7f58a",
+                                "ItemName": "Discount Tag 1"
+                            }
+                        },
+                        {
+                            "Discount Type": "美饌饗宴",
+                            "Rejection": "0",
+                            "ItemId": "d51b7b7c-a1de-4a4d-8ed4-7e78e9989f4e",
+                            "ItemName": "Discount Type 1",
+                            "children": [
+                                {
+                                    "Discount Tag": "極致無限卡專屬75折起",
+                                    "Store Info": "{354FC780-7133-4FF1-B129-B537F3AAF09A}|{0BB0AD9D-5872-4A30-8760-280A66CE3FB0}|{EE081666-91AF-402B-B8A3-8BE42F2536BE}|{7EAAD787-1E64-4449-B189-7A4DAA61418F}|{E5F4A1F4-15D4-4ACF-BD33-AEDF046E9909}|{71FE0EBA-2C8D-484A-B7BC-4475C0173C6C}|{EFC4A9D6-6010-4EF2-B828-FEA910CC915E}|{2C54B461-27F5-4999-BA06-8CA04E6CEF82}",
+                                    "Communication ID": "0080411103447",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "9cdffbf9-5ad1-45e7-8191-a017a3c31964",
+                                    "ItemName": "Discount Tag 1"
+                                },
+                                {
+                                    "Discount Tag": "極致無限卡/無限卡優享",
+                                    "Store Info": "{AB6FE550-2AFC-477E-9B6E-D4366B7A9023}|{AED02563-3659-404B-93F3-8239FA8A215A}",
+                                    "Communication ID": "0080411103447",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "a6b28b3d-db77-4e19-ad57-10cf2b8897c5",
+                                    "ItemName": "Discount Tag 3"
+                                },
+                                {
+                                    "Discount Tag": "全長榮卡樂享",
+                                    "Store Info": "{3CB406E3-F13B-4C6C-BDC7-2A34F7AA51DA}|{D8505526-1C9D-4197-B59D-24E0B2148984}|{6832335A-8BBE-4CE5-B336-6CF0E3256992}|{E89AD770-3A6D-4910-AAEB-0575863F8CDB}",
+                                    "Communication ID": "0080411103447",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "215b9874-20f8-42f3-965c-d1b99afd2b70",
+                                    "ItemName": "Discount Tag 2"
+                                }
+                            ]
+                        },
+                        {
+                            "Discount Type": "飯店住宿",
+                            "Rejection": "0",
+                            "ItemId": "27dee181-108e-4e3b-8daf-90c36f79a9bd",
+                            "ItemName": "Discount Type 3",
+                            "children": [
+                                {
+                                    "Discount Tag": "極致無限卡/無限卡優享",
+                                    "Store Info": "{7CCBA30E-2827-44F5-89AD-B7D3C8EAB1F3}|{B83F5685-D281-45D5-B4BB-DC805D246D0C}|{0C57957F-8122-4329-BEE4-3DECE64A7E71}|{CF99CD6C-FCA0-44E4-A34F-E2349E3D4D0D}|{9A6F17E9-273A-41CC-8822-E34474820678}|{BF3A80BE-59A0-4C11-A10E-BB370492D5BC}|{BC0E694B-E45D-4CAC-A5DD-6A41199448BA}",
+                                    "Communication ID": "0080411103233",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "98d7399d-f3d2-4fa6-a924-9c53fea3fe77",
+                                    "ItemName": "Discount Tag 1"
+                                },
+                                {
+                                    "Discount Tag": "全長榮卡樂享",
+                                    "Store Info": "{AC4D291D-7DD4-4A52-953E-4163A84A5DDF}|{613851B5-624E-49CB-BBFD-FDD62741AA9E}|{3DB2AB25-A296-46DB-83E0-71081E0674DC}|{D73FE133-9804-4BB2-88D1-11C5C2C2812B}|{A40B8802-4AEC-460F-A16C-0219046C2467}|{0C9E9A85-0F75-4320-8BF3-6F184D89D2B8}|{CB5B5CD3-2CBF-4489-810F-60295D3B0B43}|{2D42647F-667E-49F3-B915-AE6D14C95940}",
+                                    "Communication ID": "0080411103233",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "7cd9641d-40d3-41a0-8b22-efede248f2e1",
+                                    "ItemName": "Discount Tag 2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Anchor Key": "blockname06",
+                    "Main Title": "卡片申辦資訊",
+                    "Main Subtitle": "豐富旅遊禮遇 享受用卡時光",
+                    "Credit Card Image 1 Alt": "",
+                    "Credit Card Image 1": "https://www.cathaybk.com.tw/cathaybk/-/media/9dea47e364e840e09cc0874d9b02420f?v=4",
+                    "Credit Card Image 2 Alt": "",
+                    "Credit Card Image 2": "https://www.cathaybk.com.tw/cathaybk/-/media/77225287aed14b4bb7e34dc81812450c?v=2",
+                    "Credit Card Image 3 Alt": "",
+                    "Credit Card Image 3": "https://www.cathaybk.com.tw/cathaybk/-/media/48fb7f09b22040bda9e1f1cbc4ed722e?v=2",
+                    "Credit Card Image 4 Alt": "",
+                    "Credit Card Image 4": "https://www.cathaybk.com.tw/cathaybk/-/media/300eab49c9294172bccab2f9d05dbb47?v=2",
+                    "White Button Text": "加辦附卡",
+                    "White Button Link": "https://www.cathaybk.com.tw/eservice/supplementarycard/IdCheckS1",
+                    "Communication ID": "0080411103282",
+                    "Rejection": "0",
+                    "Advertising": "0",
+                    "ItemId": "052c5396-2439-4392-937e-569808af4ad5",
+                    "ItemName": "Credit Card Apply Info",
+                    "children": {
+                        "Rejection": "0",
+                        "ItemId": "ea281b85-c74f-477a-94b7-406cfef47f46",
+                        "ItemName": "Category Name",
+                        "children": [
+                            {
+                                "Title": "卡面介紹",
+                                "Context": "<div class=\"cubre-o-block__component\">\n<table class=\"cubre-m-commonTable\">\n    <tbody>\n        <tr>\n            <th class=\"greenHead\">卡別</th>\n            <th class=\"greenHead\">極致無限卡</th>\n            <th class=\"greenHead\">無限卡</th>\n        </tr>\n        <tr>\n            <td class=\"tac\" style=\"text-align: center;\">卡面</td>\n            <td class=\"tac\" style=\"text-align: center;\"><img alt=\"\" style=\"width: 80%;\" src=\"-/media/6e0eeb2c13d54e36ab3680efa3bcd1e1.png?sc_lang=en&amp;hash=71043B30FF71882ECA9422EF0960EA1D\" /><br />\n            </td>\n            <td class=\"tac\" style=\"text-align: center;\"><img alt=\"\" style=\"width: 80%;\" src=\"-/media/9ad39400de9e41e18a13bf480a4079bc.png?sc_lang=en&amp;hash=D8002F9A93307731FA153F4258E71482\" /></td>\n        </tr>\n        <tr>\n            <th class=\"greenHead\">卡別</th>\n            <th class=\"greenHead\">極致御璽卡</th>\n            <th class=\"greenHead\">御璽卡</th>\n        </tr>\n        <tr>\n            <td class=\"tac\" style=\"text-align: center;\">卡面</td>\n            <td class=\"tac\" style=\"text-align: center;\"><img alt=\"\" style=\"width: 80%;\" src=\"-/media/dad6af3daea548068331129265c017d7.png?sc_lang=en&amp;hash=2AE269942ED1E300D99F6CA29767F0F7\" /><br />\n            </td>\n            <td class=\"tac\" style=\"text-align: center;\"><img alt=\"\" style=\"width: 80%;\" src=\"-/media/b62e82a70d414b71b0a6a63e49f1fc03.png?sc_lang=en&amp;hash=E53D10750ADC4CA48BA297424E3D1EE0\" /></td>\n        </tr>\n    </tbody>\n</table> \n</div>\n",
+                                "Communication ID": "0080411103282",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "3908e183-a52d-4978-8c29-d9fc4eea89a6",
+                                "ItemName": "Copy of Apply Info"
+                            },
+                            {
+                                "Title": "申辦資格",
+                                "Context": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list -sm\">\n    <li>成年人可申請正卡。附卡申請人需為正卡申請人之父母、兄弟姊妹、配偶、配偶之父母或年滿15歲之子女。</li>\n    <li>附卡申請人如為未成年人，須法定代理人(即父母/監護人)共同簽名同意。</li>\n    <li>現職需滿一年且年收入達以下條件：</li>\n    <div class=\"cubre-o-block__component\">\n    <table class=\"cubre-m-commonTable\">\n        <tbody>\n            <tr>\n                <th class=\"greenHead\" style=\"width: 20%;\">卡別</th>\n                <th class=\"greenHead\" style=\"width: 20%;\">極致無限卡</th>\n                <th class=\"greenHead\" style=\"width: 20%;\">無限卡</th>\n                <th class=\"greenHead\" style=\"width: 20%;\">極致御璽卡</th>\n                <th class=\"greenHead\" style=\"width: 20%;\">御璽卡</th>\n            </tr>\n            <tr>\n                <td>年收入</td>\n                <td>NT$200萬</td>\n                <td>NT$60萬</td>\n                <td>NT$40萬</td>\n                <td>NT$20萬</td>\n            </tr>\n        </tbody>\n    </table>\n    </div>\n</ol>\n</div>\n</div>\n</div>\n</div>",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "e0b5168f-40f5-4321-8631-24e09578cddb",
+                                "ItemName": "Apply Info2"
+                            },
+                            {
+                                "Title": "年費說明",
+                                "Context": "<div class=\"cubre-o-block -textInside\">\n    <div class=\"cubre-o-block__wrap\">\n        <!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n        <div class=\"cubre-o-block__component\">\n            <div class=\"cubre-o-textContent\">\n                <!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n                <ol class=\"cubre-m-list -sm\">\n                    <li>極致無限卡：NT$20,000</li>\n                    <li>無限卡：NT$2,400</li>\n                    <li>極致御璽卡：NT$800</li>\n                    <li>御璽卡：NT$300</li>\n<div class=\"cubre-o-block__component\">\n<table class=\"cubre-m-commonTable\">\n    <tbody>\n        <tr>\n            <th class=\"greenHead\" style=\"width: 30%;\">項目</th>\n            <th class=\"greenHead\" style=\"width: 70%;\">免年費條件</th>\n        </tr>\n        <tr>\n            <td class=\"tac\" style=\"text-align: center;\">首年度</td>\n            <td class=\"tal\">御璽卡首年免年費\n            </td>\n        </tr>\n        <tr>\n            <td class=\"tac\" style=\"text-align: center;\">次年度起</td>\n            <td class=\"tal\">-\n            </td>\n        </tr>\n        <tr>\n            <td class=\"tac\" style=\"text-align: center;\">備註</td>\n            <td class=\"tal\">附卡免年費</td>\n        </tr>\n    </tbody>\n</table> \n                </ol>\n            </div>\n        </div>\n    </div>\n</div>\n",
+                                "Rejection": "",
+                                "ItemId": "b494c591-8df0-4f7a-a461-e1fab5d1eb30",
+                                "ItemName": "Apply Info3"
+                            },
+                            {
+                                "Title": "申辦方式",
+                                "Context": "<div class=\"cubre-o-block -textInside\">\n    <!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n    <div class=\"cubre-o-block__textArea\">\n    </div>\n    <div class=\"cubre-o-block__wrap\">\n        <!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n        <div class=\"cubre-o-block__component\">\n            <div class=\"cubre-o-textContent\">\n                <!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n                <ol class=\"cubre-m-list\">\n                    <li>已為本行信用卡/活存(儲)帳戶之客戶，可立即線上申辦。</li>\n                    <li>未與本行有業務往來者:</li>\n                <ol class=\"cubre-m-list -bracket\">\n                    <li>線上申辦：完成資料填寫後，請檢附申請文件並寄回本行。</li>\n                    <li>臨櫃申辦：需備妥身分證正、反面影本及扣繳憑單或近三個月薪資入帳存摺之內頁及封面影本， 至鄰近分行辦理。 <a class=\"cubre-a-link\" href=\"https://www.cathaybk.com.tw/cathaybk/locations/\">查詢分行據點</a></li>\n                </ol>\n                </ol>\n            </div>\n        </div>\n    </div>\n</div>\n",
+                                "Rejection": "",
+                                "ItemId": "e7211b6b-0ccf-485d-9fc6-5dbe13c82f36",
+                                "ItemName": "Apply Info"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
