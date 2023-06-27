@@ -35,7 +35,7 @@ def main(args):
     question_list = read_and_process_question_to_list(question_file_path, separator = '\n')[:question_n]
     
     docs_and_scores_list = vectordb.similarity_search_with_score(question_list, k=top_k)
-    print_tabulate_question_and_answer_vicuna(question_list, docs_and_scores_list, n=question_n, k=top_k)
+    print_tabulate_question_and_answer_chatglm(question_list, docs_and_scores_list, n=question_n, k=top_k)
     print_tabulate_question_and_answer(question_list, docs_and_scores_list, n=question_n, k=top_k)
     
     
