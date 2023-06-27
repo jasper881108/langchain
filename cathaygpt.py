@@ -6,7 +6,9 @@ from utils import (
     read_and_process_question_to_list,
     initial_langchain_embeddings,
     initial_or_read_langchain_database,
-    print_tabulate_question_and_answer
+    print_tabulate_question_and_answer,
+    print_tabulate_question_and_answer_chatglm,
+    print_tabulate_question_and_answer_vicuna,
 )
 
 def main(args):
@@ -31,9 +33,11 @@ def main(args):
     vectordb = initial_or_read_langchain_database(docs, embedding_function, db_persist_directory, renew_vectordb)
     
     question_list = read_and_process_question_to_list(question_file_path, separator = '\n')[:question_n]
-   
+    
     docs_and_scores_list = vectordb.similarity_search_with_score(question_list, k=top_k)
+    print_tabulate_question_and_answer_vicuna(question_list, docs_and_scores_list, n=question_n, k=top_k)
     print_tabulate_question_and_answer(question_list, docs_and_scores_list, n=question_n, k=top_k)
+    
     
     return 0
 
@@ -43,7 +47,7 @@ if __name__ == '__main__':
     parser.add_argument('--top_k', type=int, default=5)
     parser.add_argument('--cuda', type=bool, default=False)
     parser.add_argument('--public', type=bool, default=False)
-    parser.add_argument('--question_n', type=int, default=3)
+    parser.add_argument('--question_n', type=int, default=1)
     parser.add_argument('--renew_vectordb', type=bool, default=False)
     parser.add_argument('--answer_file_path', type=str, default='data/answer.txt')
     parser.add_argument('--question_file_path', type=str, default='data/question.txt')
