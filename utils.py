@@ -51,9 +51,9 @@ def messeage_prepare(system_info, prompt_info):
             ]
         return message
 
-def print_tabulate_question_and_answer(question_list, docs_and_scores_list, n=3, k=4):
+def print_tabulate_question_and_answer_openai(question_list, docs_and_scores_list, n=3, k=4):
     import openai
-    system_info = "你是國泰世華銀行的助手, 參考[公開資料]依照信用卡別回覆顧客的信用卡優惠[問題], 答案越精準越好"
+    system_info = "你是國泰世華銀行的阿發, 參考[公開資料]依照信用卡別簡潔和專業的回覆顧客的信用卡優惠[問題], 如果無法獲取答案, 請說 “根據已知訊息無法回復該問題” 或 “沒有足夠的相關訊息”，不允許在答案中加入編造的內容，答案請使用繁體中文。"
     
     tabulate_format = []
     n_question = min(len(question_list), n)
@@ -85,7 +85,11 @@ def print_tabulate_question_and_answer(question_list, docs_and_scores_list, n=3,
 
 def print_tabulate_question_and_answer_chatglm(question_list, docs_and_scores_list, n=3, k=4):
     from transformers import AutoTokenizer, AutoModel
-    system_info = "你是國泰世華銀行的助手, 參考[公開資料]依照信用卡別回覆顧客的信用卡優惠[問題], 答案越精準越好"
+    tokenizer = AutoTokenizer.from_pretrained("chatglm-6b/v2-int4", trust_remote_code=True)
+    model = AutoModel.from_pretrained("chatglm-6b/v2-int4", trust_remote_code=True, device="cuda:0")
+    model = model.eval()
+
+    prompt_info = """你是國泰世華銀行的阿發, 根據上述已知訊息, 簡潔和專業的回答顧客的問題。如果無法獲取答案, 請說 “根據已知訊息無法回復該問題” 或 “沒有足夠的相關訊息”，不允許在答案中加入編造的內容，答案請使用繁體中文。問題是:"""
     
     tabulate_format = []
     n_question = min(len(question_list), n)
@@ -99,13 +103,10 @@ def print_tabulate_question_and_answer_chatglm(question_list, docs_and_scores_li
             question_and_answer.append(docs.page_content)
             scores.append(str(round(score,4)))
 
-        prompt_info = "\n".join(["[公開資料]"] + question_and_answer[1:] + ["[問題]", question])
-        
-        
-        tokenizer = AutoTokenizer.from_pretrained("chatglm-6b/v2-int4", trust_remote_code=True)
-        model = AutoModel.from_pretrained("chatglm-6b/v2-int4", trust_remote_code=True).float()
-        model = model.eval()
-        completions, history = model.chat(tokenizer, system_info + prompt_info, history=[], eos_token_id=2, pad_token_id=2)
+        system_info = "\n".join(["""已知信息:"""] + question_and_answer[1:])
+        prompt = system_info + "\n\n" + prompt_info + question 
+        print(prompt)
+        completions, history = model.chat(tokenizer, prompt, history=[], eos_token_id=2, pad_token_id=2)
 
         ## Print chatbot answer
         tabulate_format.append(question_and_answer+[completions])

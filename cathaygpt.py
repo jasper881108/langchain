@@ -6,7 +6,7 @@ from utils import (
     read_and_process_question_to_list,
     initial_langchain_embeddings,
     initial_or_read_langchain_database,
-    print_tabulate_question_and_answer,
+    print_tabulate_question_and_answer_openai,
     print_tabulate_question_and_answer_chatglm,
     print_tabulate_question_and_answer_vicuna,
 )
@@ -36,7 +36,7 @@ def main(args):
     
     docs_and_scores_list = vectordb.similarity_search_with_score(question_list, k=top_k)
     print_tabulate_question_and_answer_chatglm(question_list, docs_and_scores_list, n=question_n, k=top_k)
-    print_tabulate_question_and_answer(question_list, docs_and_scores_list, n=question_n, k=top_k)
+    print_tabulate_question_and_answer_openai(question_list, docs_and_scores_list, n=question_n, k=top_k)
     
     
     return 0
