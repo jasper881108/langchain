@@ -28,7 +28,7 @@ def main(args):
     db_persist_name = 'vectordbPublic' if public_embedding else 'vectordbPrivate'
     db_persist_directory = os.path.join(args.db_persist_directory, db_persist_name)
 
-    docs = read_and_process_knowledge_to_langchain_docs(knowledge_file_path, separator = '\n', chunk_size=128)
+    docs = read_and_process_knowledge_to_langchain_docs(knowledge_file_path, separator = '\n', chunk_size=64)
     embedding_function = initial_langchain_embeddings(embeddings_model_name, model_kwargs, public_embedding)
     vectordb = initial_or_read_langchain_database(docs, embedding_function, db_persist_directory, renew_vectordb)
     
@@ -37,9 +37,9 @@ def main(args):
     docs_and_scores_list = vectordb.similarity_search_with_score(question_list, k=top_k)
 
     if public_gpt:
-        print_and_save_qka_chatgpt(question_list, docs_and_scores_list, n=question_n, k=top_k)
+        print_and_save_qka_chatgpt(question_list, docs_and_scores_list, n=question_n, k=top_k, csv_saved_path=f'data/langchain_chatgpt_k{top_k}.csv')
     else:
-        print_and_save_qka_chatglm(question_list, docs_and_scores_list, n=question_n, k=top_k)
+        print_and_save_qka_chatglm(question_list, docs_and_scores_list, n=question_n, k=top_k, csv_saved_path=f'data/langchain_chatglm_k{top_k}.csv')
     
     
     

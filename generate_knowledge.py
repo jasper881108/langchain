@@ -1,12 +1,13 @@
 import re
 import json
 import argparse
-
-import re 
+import warnings
 
 class JsonParser:
-    def __init__(self, overlap_len=5, cleaner=re.compile('<.*?>|&nbsp|\n|;|\s')):
+    def __init__(self, overlap_len=5, min_content_len=20, knowledge_len=128, cleaner=re.compile('<.*?>|&nbsp|\n|;|\s\s')):
         self.overlap_len = overlap_len
+        self.min_content_len = min_content_len
+        self.knowledge_len = knowledge_len
         self.cleaner = cleaner
 
     def reset_memory(self):
@@ -23,9 +24,16 @@ class JsonParser:
         if isinstance(obj, str) and obj != "":
             current_header = " ".join(header) + ":"
             clean_obj = self.cleaner.sub("", obj) if self.list_item == [] else ",".join(self.list_item)
-            require_obj_len = 128-len(current_header)
+            require_obj_len = self.knowledge_len-len(current_header)
             
-            if len(clean_obj) <= require_obj_len:
+            if require_obj_len <= self.min_content_len :
+                warnings.warn(f"有文本前綴詞大於文本最大長度, 將會分開處理後續內容")
+                parse_data = current_header[:self.knowledge_len]
+                if parse_data not in self.parse_data:
+                    self.parse_data.append(parse_data)
+                self.serialize_from_json(obj, schema=schema, header=header[:-1])
+
+            elif len(clean_obj) <= require_obj_len:
                 parse_data = current_header + clean_obj
                 if parse_data not in self.parse_data:
                     self.parse_data.append(parse_data)
@@ -70,7 +78,7 @@ def main(args):
                  ["shopee.txt", "shopee.json", "shopee.txt"],
                  ["world.txt", "world.json", "world.txt"]]
     
-    meta_data = ["CUBE卡", "CUBE卡", "CUBE卡" ,"長榮航空聯名卡", "蝦皮購物聯名卡","世界卡"]
+    meta_data = ["CUBE卡", "CUBE卡", "", "長榮航空聯名卡", "蝦皮購物聯名卡","世界卡"]
 
     all_parse_data = []
     for idx in range(len(data_path)):
@@ -84,10 +92,10 @@ def main(args):
         with open("data/raw_card_data/"+read_path, "r") as f:
             obj = json.load(f)
 
-        json_parser = JsonParser()
+        json_parser = JsonParser(overlap_len = args.overlap_len, min_content_len = args.min_content_len, knowledge_len = args.knowledge_len)
         parse_data = json_parser.serialize_from_json_and_output_data(obj, schema, header=[header])
         all_parse_data.extend(parse_data)
-        
+
         with open("data/clean_card_data/"+write_path, "w", encoding='utf8') as txt_file:
             txt_file.write("\n".join(parse_data))
 
@@ -97,5 +105,8 @@ def main(args):
     
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
+    parser.add_argument('--overlap_len', type=int, default=5)
+    parser.add_argument('--min_content_len', type=int, default=20)
+    parser.add_argument('--knowledge_len', type=int, default=64)
     args = parser.parse_args()
     main(args)

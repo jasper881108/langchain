@@ -58,7 +58,7 @@ def messeage_prepare(system_info, prompt_info):
             ]
         return message
 
-def print_and_save_qka_chatgpt(question_list, docs_and_scores_list, n=3, k=4, threshold=0.8,csv_saved_path='data/langchain_chatgpt.csv'):
+def print_and_save_qka_chatgpt(question_list, docs_and_scores_list, n=3, k=4, threshold=0.8, csv_saved_path='data/langchain_chatglm.csv'):
     qka_dataframe = {
         "Question":[],
         "Knowledge":[],
@@ -71,7 +71,7 @@ def print_and_save_qka_chatgpt(question_list, docs_and_scores_list, n=3, k=4, th
         docs_and_scores_list = docs_and_scores_list[len(df):]
         qka_dataframe = df.to_dict('list')
 
-    system_info = "你是國泰世華的助手, 參考[公開資料]依照信用卡別簡潔和專業的回覆顧客的信用卡優惠[問題], 如果無法獲取答案, 請說 “請您將問題描述得更詳細, 讓阿發能正確完整的回答您”，不允許在答案中加入編造的內容，答案請使用繁體中文。"
+    system_info = "你是國泰世華的聊天機器人-阿發, 參考[公開資料]依照信用卡別簡潔和專業的回覆顧客的信用卡優惠[問題], 如果無法獲取答案, 請說 “請您將問題描述得更詳細, 讓阿發能正確完整的回答您”，不允許在答案中加入編造的內容，答案請使用繁體中文。"
     
     tabulate_format = []
     for idx in tqdm(range(len(question_list))):
@@ -85,7 +85,7 @@ def print_and_save_qka_chatgpt(question_list, docs_and_scores_list, n=3, k=4, th
             else:
                 break
         if knowledge == []:
-            knowledge.append("缺乏任何相關資訊")
+            knowledge.append("無法獲取答案")
 
         knowledge = "\n".join(knowledge)
         prompt_info = "[公開資料]" + "\n" + knowledge + "\n\n" + "[問題]" + "\n" + question
@@ -93,7 +93,7 @@ def print_and_save_qka_chatgpt(question_list, docs_and_scores_list, n=3, k=4, th
         response = openai.ChatCompletion.create(
             model="gpt-3.5-turbo",
             messages=messeage_prepare(system_info, prompt_info),
-            temperature=0.1,
+            temperature=0.01,
         )
         answer = response["choices"][0]["message"]["content"]
         
@@ -126,7 +126,7 @@ def print_and_save_qka_chatglm(question_list, docs_and_scores_list, n=3, k=4, th
     model = AutoModel.from_pretrained("chatglm-6b/v2", trust_remote_code=True).quantize(4).cuda()
     model = model.eval()
 
-    prompt_info = """只能根據上述已知訊息中的資訊, 簡潔、專業、使用中文回覆顧客的問題。如果無法獲取答案, 請說 “請您將問題描述得更詳細, 讓阿發能正確完整的回答您” 或 “國泰世華沒有提供此服務”。問題是:"""
+    prompt_info = """你是國泰世華的聊天機器人-阿發, 根據上述已知訊息中的資訊, 使用中文簡潔和專業的回覆顧客的問題, 不允許在答案中加入編造的內容。如果無法獲取答案, 請說 “請您將問題描述得更詳細, 讓阿發能正確完整的回答您”。問:"""
     
     tabulate_format = []
     for idx in tqdm(range(len(question_list))):
@@ -140,12 +140,17 @@ def print_and_save_qka_chatglm(question_list, docs_and_scores_list, n=3, k=4, th
             else:
                 break
         if knowledge == []:
-            knowledge.append("缺乏任何相關資訊")
+            knowledge.append("無法獲取答案")
 
         knowledge = "\n".join(knowledge)
-        prompt = "已知信息:" + "\n" + knowledge + "\n\n" + prompt_info + question 
+        prompt = "已知信息:" + "\n" + knowledge + "\n\n" + prompt_info + question  + "\n答:"
         
-        completions, history = model.chat(tokenizer, prompt, history=[], eos_token_id=2, pad_token_id=2)
+        completions, history = model.chat(tokenizer,
+                                          prompt,
+                                          history=[],
+                                          eos_token_id=2,
+                                          pad_token_id=2,
+                                          temperature=0.01)
         answer = s2t.convert(completions)
 
         ## Save values
