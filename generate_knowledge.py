@@ -22,7 +22,7 @@ class JsonParser:
     
     def serialize_from_json(self, obj, schema, header=[]):
         if isinstance(obj, str) and obj != "":
-            current_header = " ".join(header) + ":"
+            current_header = " ".join(header) + " "
             clean_obj = self.cleaner.sub("", obj) if self.list_item == [] else ",".join(self.list_item)
             require_obj_len = self.knowledge_len-len(current_header)
             
@@ -78,7 +78,7 @@ def main(args):
                  ["shopee.txt", "shopee.json", "shopee.txt"],
                  ["world.txt", "world.json", "world.txt"]]
     
-    meta_data = ["CUBE卡", "CUBE卡", "", "長榮航空聯名卡", "蝦皮購物聯名卡","世界卡"]
+    meta_data = ["(CUBE卡)", "(CUBE卡)", "(信用卡優惠)", "(長榮航空聯名卡)", "(蝦皮購物聯名卡)","(世界卡)"]
 
     all_parse_data = []
     for idx in range(len(data_path)):
