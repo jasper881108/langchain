@@ -26,6 +26,27 @@ def read_and_prepocess_dataframe_to_list_of_dict(inference_data_path, model, tem
     
     return list_of_dict
 
+def process_list_of_dataframe_to_rm_list_of_dict(list_of_data_json):
+    rm_data_json = []
+    start_idx = 0
+    while len(list_of_data_json) >= 2:
+        len_of_output_each_model = [len(_) for _ in list_of_data_json]
+        print("len of output for each model {}".format(len_of_output_each_model))
+        end_idx = min(len_of_output_each_model)
+        min_n_model_idx = len_of_output_each_model.index(end_idx)
+        list_nested_output = [list(combinations([data_json[idx]['output'] for data_json in list_of_data_json],2)) for idx in range(start_idx, end_idx)]
+        list_comparisons = [{'instruction':list_of_data_json[min_n_model_idx][idx]['instruction'],
+                                   'input':list_of_data_json[min_n_model_idx][idx]['input'],
+                                   'output':list(output)} for idx in range(start_idx, end_idx) for output in list_nested_output[idx-start_idx]]
+        
+        list_of_data_json.pop(min_n_model_idx)
+        start_idx = end_idx
+
+        rm_data_json.extend(list_comparisons)
+    print("total number of comparisons {}".format(len(rm_data_json)))
+
+    return rm_data_json
+
 def dump_json_data(data_saved_path, data_json):
     with open(data_saved_path, "w", encoding='utf8') as jsonfile:
         json.dump(data_json, jsonfile, indent=4, ensure_ascii=False)
@@ -49,24 +70,7 @@ def main(args):
         data_json = read_and_prepocess_dataframe_to_list_of_dict(args.inference_data_path, model, template)
         list_of_data_json.append(data_json)
 
-    rm_data_json = []
-    start_idx = 0
-    while len(list_of_data_json) >= 2:
-        len_of_output_each_model = [len(_) for _ in list_of_data_json]
-        print("len of output for each model {}".format(len_of_output_each_model))
-        end_idx = min(len_of_output_each_model)
-        min_n_model_idx = len_of_output_each_model.index(end_idx)
-        list_nested_output = [list(combinations([data_json[idx]['output'] for data_json in list_of_data_json],2)) for idx in range(start_idx, end_idx)]
-        list_comparisons = [{'instruction':list_of_data_json[min_n_model_idx][idx]['instruction'],
-                                   'input':list_of_data_json[min_n_model_idx][idx]['input'],
-                                   'output':list(output)} for idx in range(start_idx, end_idx) for output in list_nested_output[idx-start_idx]]
-        
-        list_of_data_json.pop(min_n_model_idx)
-        start_idx = end_idx
-
-        rm_data_json.extend(list_comparisons)
-    print("total number of comparisons {}".format(len(rm_data_json)))
-    
+    rm_data_json = process_list_of_dataframe_to_rm_list_of_dict(list_of_data_json)
     rm_data_saved_path = os.path.join(args.training_data_path, "comparison_cathay_{}_data_zh.json".format(args.rm_rank[0]))
     dump_json_data(rm_data_saved_path, rm_data_json)
     
