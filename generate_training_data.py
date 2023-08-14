@@ -20,7 +20,16 @@ def read_and_prepocess_dataframe_to_list_of_dict(inference_data_path, model, tem
     filename = template.replace("<model>", model)
     dataframe = check_path_exist_and_read(os.path.join(inference_data_path, filename))
     dataframe.columns = ["input", "instruction", "output"]
-    dataframe.instruction = dataframe.instruction.apply(lambda x : args.instruction_prefix + "\n\n[公開資料]\n" + x+ "\n\n[問題]\n")
+    dataframe = dataframe.replace({
+                                    "output":{
+                                        r'根據.*?，':"",
+                                        r'我所擁有的公開資料':"我本次檢索的資料",
+                                        r'\[公開資料\]':"公開資料",
+                                        r'公開資料':"網路上的公開資料",
+                                        r' ':"",
+                                    }
+                                },regex=True)
+    dataframe.instruction = dataframe.instruction.apply(lambda x : args.instruction_prefix + "\n\n[檢索資料]\n" + x+ "\n\n[問題]\n")
     dataframe = dataframe.loc[:, ["instruction", "input", "output"]]
     list_of_dict = [dict(v) for _, v in dataframe.iterrows()]
     
@@ -43,8 +52,11 @@ def process_list_of_dataframe_to_rm_list_of_dict(list_of_data_json):
         start_idx = end_idx
 
         rm_data_json.extend(list_comparisons)
-    print("total number of comparisons {}".format(len(rm_data_json)))
+    
+    rm_data_json = [data_json for data_json in rm_data_json if "讓阿發能正確完整的回答您" not in data_json['output'][0]]
 
+    print("total number of comparisons {}".format(len(rm_data_json)))
+    
     return rm_data_json
 
 def dump_json_data(data_saved_path, data_json):
@@ -61,7 +73,7 @@ def main(args):
 
     #### process and write sft data
     sft_data_json = read_and_prepocess_dataframe_to_list_of_dict(args.inference_data_path, args.sft_model, template)
-    sft_data_saved_path = os.path.join(args.training_data_path, "cathay_{}_data_zh.json".format(args.sft_model))
+    sft_data_saved_path = os.path.join(args.training_data_path, "{}_cathay_qa_zh.json".format(args.sft_model))
     dump_json_data(sft_data_saved_path, sft_data_json)
 
     #### process and write rm data
@@ -71,16 +83,17 @@ def main(args):
         list_of_data_json.append(data_json)
 
     rm_data_json = process_list_of_dataframe_to_rm_list_of_dict(list_of_data_json)
-    rm_data_saved_path = os.path.join(args.training_data_path, "comparison_cathay_{}_data_zh.json".format(args.rm_rank[0]))
+    
+    rm_data_saved_path = os.path.join(args.training_data_path, "comparison_cathay_qa_zh.json")
     dump_json_data(rm_data_saved_path, rm_data_json)
     
     return 0
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--instruction_prefix', type=str, default="你是國泰世華的聊天機器人-阿發, [公開資料]是由國泰世華提供的。 參考[公開資料]使用中文簡潔和專業的回覆顧客的[問題], 如果答案不在公開資料中, 請說 “對不起, 我所擁有的公開資料中沒有相關資訊, 請您換個問題或將問題描述得更詳細, 讓阿發能正確完整的回答您”，不允許在答案中加入編造的內容。")
+    parser.add_argument('--instruction_prefix', type=str, default="你是國泰世華的聊天機器人-阿發, [檢索資料]是由國泰世華提供的。 參考[檢索資料]使用中文簡潔和專業的回覆顧客的[問題], 如果答案不在公開資料中, 請說 “對不起, 我本次檢索的資料中沒有相關資訊, 請您換個問題或將問題描述得更詳細, 讓阿發能正確完整的回答您”，不允許在答案中加入編造的內容。")
     parser.add_argument('--inference_data_template', type=str, default="langchain_<model>_k5.csv")
-    parser.add_argument('--sft_model', type=str, default="gpt-3.5-turbo")
+    parser.add_argument('--sft_model', type=str, default="gpt-4")
     parser.add_argument('--rm_rank', type=str, nargs='+', default=["gpt-4", "gpt-3.5-turbo", "chatglm", "vicuna"])
     parser.add_argument('--inference_data_path', type=str, default="metadata/inference_data")
     parser.add_argument('--training_data_path', type=str, default="metadata/training_data")
