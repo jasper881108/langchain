@@ -9,6 +9,7 @@ from utils import (
     print_and_save_qka_chatgpt,
     print_and_save_qka_chatglm,
     print_and_save_qka_vicuna,
+    print_and_save_qka_chatglm_sft,
 )
 from functools import partial
 
@@ -31,6 +32,7 @@ def main(args):
         'gpt-4':partial(print_and_save_qka_chatgpt,model=args.model),
         'chatglm':print_and_save_qka_chatglm,
         'vicuna':print_and_save_qka_vicuna,
+        'chatglm-sft':print_and_save_qka_chatglm_sft,
     }
 
     function_dict[args.model](question_list, docs_and_scores_list, n=args.question_n, k=args.top_k, threshold=args.threshold, csv_saved_path=f'metadata/inference_data/langchain_{args.model}_k{args.top_k}.csv')
@@ -43,7 +45,7 @@ if __name__ == '__main__':
     parser.add_argument('--top_k', type=int, default=5)
     parser.add_argument('--knowledge_len', type=int, default=128)
     parser.add_argument('--cuda', type=bool, default=False)
-    parser.add_argument('--model', type=str, default='chatglm', choices=['gpt-3.5-turbo', 'gpt-4', 'chatglm', 'vicuna'])
+    parser.add_argument('--model', type=str, default='chatglm', choices=['gpt-3.5-turbo', 'gpt-4', 'chatglm', 'vicuna', 'chatglm-sft'])
     parser.add_argument('--public_embedding', type=bool, default=False)
     parser.add_argument('--threshold', type=float, default=0.8)
     parser.add_argument('--question_n', type=int, default=1)

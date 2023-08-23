@@ -214,3 +214,57 @@ def print_and_save_qka_vicuna(question_list, docs_and_scores_list, n=3, k=4, thr
             tabulate_format = []
             pd.DataFrame(qka_dataframe).to_csv(csv_saved_path, header=True, index=False, encoding="utf_8_sig")
 
+def print_and_save_qka_chatglm_sft(question_list, docs_and_scores_list, n=3, k=4, threshold=0.8, csv_saved_path='data/langchain_chatglm.csv'):
+    qka_dataframe = {
+        "Question":[],
+        "Knowledge":[],
+        "Answer":[],
+    }
+    if os.path.exists(csv_saved_path):
+        df = pd.read_csv(csv_saved_path)
+        question_list = question_list[len(df):]
+        docs_and_scores_list = docs_and_scores_list[len(df):]
+        qka_dataframe = df.to_dict('list')
+
+    s2t = opencc.OpenCC('s2t.json')
+    tokenizer = AutoTokenizer.from_pretrained("Jasper881108/chatglm2-6b-sft-v2", trust_remote_code=True)
+    model = AutoModel.from_pretrained("Jasper881108/chatglm2-6b-sft-v2", trust_remote_code=True, load_in_4bit=True)
+    model = model.eval()
+
+    prompt_info = "你是國泰世華的聊天機器人-阿發, [檢索資料]是由國泰世華提供的。 參考[檢索資料]使用中文簡潔和專業的回覆顧客的[問題], 如果答案不在公開資料中, 請說 “對不起, 我本次檢索的資料中沒有相關資訊, 請您換個問題或將問題描述得更詳細, 讓阿發能正確完整的回答您”，不允許在答案中加入編造的內容。"
+    
+    tabulate_format = []
+    for idx in tqdm(range(len(question_list))):
+        ## Print table
+        question = question_list[idx]
+        knowledge = []
+        for i in range(k):
+            docs, score = docs_and_scores_list[idx][i]
+            if score > threshold:
+                knowledge.append(docs.page_content)
+            else:
+                break
+        if knowledge == []:
+            knowledge.append("無法獲取答案")
+
+        knowledge = "\n".join(knowledge)
+        prompt = prompt_info + "\n\n[檢索資料]\n" + knowledge + "\n\n[問題]\n" + question
+        
+        completions, history = model.chat(tokenizer,
+                                          prompt,
+                                          history=[],
+                                          eos_token_id=2,
+                                          pad_token_id=2,
+                                          temperature=0.1)
+        answer = s2t.convert(completions)
+
+        ## Save values
+        tabulate_format.append([question, knowledge , answer])
+        qka_dataframe['Question'].append(question)
+        qka_dataframe['Knowledge'].append(knowledge)
+        qka_dataframe['Answer'].append(answer)
+
+        if (idx+1) % n == 0:
+            print(tabulate(tabulate_format, ["Question"] + ["Knowledge"] + ["Answer"], tablefmt='fancy_grid', maxcolwidths=40))
+            tabulate_format = []
+            pd.DataFrame(qka_dataframe).to_csv(csv_saved_path, header=True, index=False, encoding="utf_8_sig")

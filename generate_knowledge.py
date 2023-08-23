@@ -2,6 +2,7 @@ import re
 import json
 import argparse
 import warnings
+from datetime import datetime
 
 class JsonParser:
     def __init__(self, overlap_len=5, min_content_len=20, knowledge_len=128, cleaner=re.compile('<.*?>|&nbsp|\n|;|\s\s')):
@@ -47,11 +48,20 @@ class JsonParser:
         if isinstance(obj, dict) and isinstance(schema, dict):
             for key, value in schema.items():  
                 if key in obj.keys() and key != "":
+                    obj[key] = self.cleaner.sub("", obj[key]) if isinstance(obj[key], str) else obj[key]
                     if value == "前綴":
-                        header = header+[self.cleaner.sub("", obj[key])]
+                        header = header+[obj[key]]
+                        
+                    elif (value == "開始日期" or value == "結束日期") and obj[key] != "":
+                        match = re.match(r"(\d{4})(\d{2})(\d{2})T\d{6}Z", obj[key])
+                        if match:
+                            year, month, day = match.groups()
+                            formatted_date = [f"(活動日期: {year}/{month}/{day}~"] if value == "開始日期" else [f"{year}/{month}/{day})"]
+                            
+                        header = header+formatted_date
 
                     elif value =="序列":
-                        self.list_item.append(self.cleaner.sub("", obj[key]))
+                        self.list_item.append(obj[key])
 
                     else:
                         self.serialize_from_json(obj[key], schema=schema[key], header=header)
@@ -78,7 +88,7 @@ def main(args):
                  ["shopee.txt", "shopee.json", "shopee.txt"],
                  ["world.txt", "world.json", "world.txt"]]
     
-    meta_data = ["(CUBE卡)", "(CUBE卡)", "(信用卡優惠)", "(長榮航空聯名卡)", "(蝦皮購物聯名卡)","(世界卡)"]
+    meta_data = ["(CUBE卡)", "(CUBE卡)", "(限時活動)", "(長榮航空聯名卡)", "(蝦皮購物聯名卡)","(世界卡)"]
 
     all_parse_data = []
     for idx in range(len(data_path)):
@@ -107,6 +117,6 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--overlap_len', type=int, default=5)
     parser.add_argument('--min_content_len', type=int, default=20)
-    parser.add_argument('--knowledge_len', type=int, default=64)
+    parser.add_argument('--knowledge_len', type=int, default=128)
     args = parser.parse_args()
     main(args)

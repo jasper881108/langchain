@@ -1,5 +1,6 @@
 import os
 import json
+import opencc
 import argparse
 import pandas as pd
 from itertools import combinations
@@ -16,7 +17,8 @@ def check_path_exist_and_read(path):
 
     return pd.read_csv(path)
 
-def read_and_prepocess_dataframe_to_list_of_dict(inference_data_path, model, template="langchain_<model>_k5.csv"):
+def read_and_prepocess_dataframe_to_list_of_dict(inference_data_path, model, template="langchain_<model>_k5.csv", drop_word_list=[]):
+    converter = opencc.OpenCC('s2t.json')
     filename = template.replace("<model>", model)
     dataframe = check_path_exist_and_read(os.path.join(inference_data_path, filename))
     dataframe.columns = ["input", "instruction", "output"]
@@ -26,11 +28,16 @@ def read_and_prepocess_dataframe_to_list_of_dict(inference_data_path, model, tem
                                         r'我所擁有的公開資料':"我本次檢索的資料",
                                         r'\[公開資料\]':"公開資料",
                                         r'公開資料':"網路上的公開資料",
-                                        r' ':"",
                                     }
                                 },regex=True)
-    dataframe.instruction = dataframe.instruction.apply(lambda x : args.instruction_prefix + "\n\n[檢索資料]\n" + x+ "\n\n[問題]\n")
+        
+    dataframe.instruction = dataframe.instruction.apply(lambda x : args.instruction_prefix +"\n\n[檢索資料]\n" + converter.convert(x))
+    dataframe.input = dataframe.input.apply(lambda x : converter.convert(x))
+    dataframe.output = dataframe.output.apply(lambda x : converter.convert(x))
+    
     dataframe = dataframe.loc[:, ["instruction", "input", "output"]]
+    for drop_word in drop_word_list:
+        dataframe = dataframe[~dataframe["output"].str.contains(drop_word)]
     list_of_dict = [dict(v) for _, v in dataframe.iterrows()]
     
     return list_of_dict
@@ -52,8 +59,6 @@ def process_list_of_dataframe_to_rm_list_of_dict(list_of_data_json):
         start_idx = end_idx
 
         rm_data_json.extend(list_comparisons)
-    
-    rm_data_json = [data_json for data_json in rm_data_json if "讓阿發能正確完整的回答您" not in data_json['output'][0]]
 
     print("total number of comparisons {}".format(len(rm_data_json)))
     
@@ -86,12 +91,12 @@ def main(args):
     
     rm_data_saved_path = os.path.join(args.training_data_path, "comparison_cathay_qa_zh.json")
     dump_json_data(rm_data_saved_path, rm_data_json)
-    
+
     return 0
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--instruction_prefix', type=str, default="你是國泰世華的聊天機器人-阿發, [檢索資料]是由國泰世華提供的。 參考[檢索資料]使用中文簡潔和專業的回覆顧客的[問題], 如果答案不在公開資料中, 請說 “對不起, 我本次檢索的資料中沒有相關資訊, 請您換個問題或將問題描述得更詳細, 讓阿發能正確完整的回答您”，不允許在答案中加入編造的內容。")
+    parser.add_argument('--instruction_prefix', type=str, default="你是國泰世華的聊天機器人-阿發, 參考[檢索資料]使用中文簡潔和專業的回覆顧客的問題")
     parser.add_argument('--inference_data_template', type=str, default="langchain_<model>_k5.csv")
     parser.add_argument('--sft_model', type=str, default="gpt-4")
     parser.add_argument('--rm_rank', type=str, nargs='+', default=["gpt-4", "gpt-3.5-turbo", "chatglm", "vicuna"])
