@@ -94,13 +94,13 @@ def postprocess(self, y):
 
 gr.Chatbot.postprocess = postprocess
 
-
 def parse_text(text):
     """copy from https://github.com/GaiZhenbiao/ChuanhuChatGPT/"""
     lines = text.split("\n")
     lines = [line for line in lines if line != ""]
     count = 0
     for i, line in enumerate(lines):
+        line = line.replace("$", "")
         if "```" in line:
             count += 1
             items = line.split('`')
@@ -140,7 +140,7 @@ def predict(user_input, chatbot, modelDrop, temperature, top_k, history, past_ke
         docs_and_scores_list = public_vectordb.similarity_search_with_score([user_input], k=top_k)[0]
         knowledge = "\n".join([docs_and_scores[0].page_content for docs_and_scores in docs_and_scores_list])
         prompt_info =  "[檢索資料]\n{}\n\n[問題]\n{}".format(knowledge, user_input)
-        chatbot.append((parse_text(prompt_info), ""))
+        chatbot.append((parse_text(user_input), ""))
         response = openai.ChatCompletion.create(
             model=modelDrop,
             messages=messeage_prepare(system_info, prompt_info),
@@ -156,15 +156,14 @@ def predict(user_input, chatbot, modelDrop, temperature, top_k, history, past_ke
         docs_and_scores_list = private_vectordb.similarity_search_with_score([user_input], k=top_k)[0]
         knowledge = "\n".join([docs_and_scores[0].page_content for docs_and_scores in docs_and_scores_list])
         prompt =  "{}\n\n[檢索資料]\n{}[Round 1]\n\n問：{}\n\n答：".format(prompt_info, knowledge, user_input)
-        chatbot.append((parse_text(prompt), ""))
+        chatbot.append((parse_text(user_input), ""))
+
         for response, history, past_key_values in stream_chat(model, tokenizer, prompt, history,
                                                             return_past_key_values=True,
                                                             past_key_values=past_key_values,
                                                             temperature=temperature):
             
-            chatbot[-1] = (parse_text(user_input), parse_text(s2t.convert(response)))
-            # history.append(("問：{}\n\n答：".format(parse_text(user_input)), parse_text(s2t.convert(response))))
-
+            chatbot[-1] = (parse_text(user_input), parse_text(response))
             yield chatbot, history, past_key_values, parse_text(knowledge)
 
 def reset_user_input():
