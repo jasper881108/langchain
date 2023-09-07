@@ -185,7 +185,7 @@ def reset_model(modelDrop):
             model = PeftModel.from_pretrained(model, os.path.join("Jasper881108", peft_model_list[1])).merge_and_unload()
         print("Merged {} peft model".format(len(peft_model_list)))
         model = model.quantize(4).cuda()
-    return None
+    return [], [], None, []
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 os.environ["OPENAI_API_KEY"] = open("openai_api.txt", "r").readline()
@@ -206,7 +206,7 @@ lora_checkpoint_config={
 with gr.Blocks() as demo:
     gr.HTML("""<h1 align="center">LLM X Chatbot 信用卡優惠</h1>""")
     modelDrop = gr.Dropdown(["gpt-4", "gpt-3.5-turbo","sft", "rlhf", "dpo"], label="Model")
-    
+
     with gr.Row(scale=6):
         with gr.Column(scale=4):
             chatbot = gr.Chatbot()
@@ -234,6 +234,6 @@ with gr.Blocks() as demo:
     submitBtn.click(reset_user_input, [], [user_input])
 
     emptyBtn.click(reset_state, outputs=[chatbot, history, past_key_values, showHtml], show_progress=True)
-    changeBtn.click(reset_model, [modelDrop], [], show_progress=True)
+    changeBtn.click(reset_model, [modelDrop], [chatbot, history, past_key_values, showHtml], show_progress=True)
 
 demo.queue().launch(share=False, inbrowser=True)
