@@ -149,7 +149,7 @@ def predict(user_input, chatbot, modelDrop, temperature, top_k, history, past_ke
 
         chatbot[-1] = (parse_text(user_input), parse_text(response["choices"][0]["message"]["content"]))
                    
-        yield chatbot, [], [], parse_text(knowledge)
+        yield chatbot, [], None, parse_text(knowledge)
 
     else:
         prompt_info = "你是國泰世華的聊天機器人-阿發, 參考[檢索資料]使用中文簡潔和專業的回覆顧客的問題"
@@ -165,6 +165,8 @@ def predict(user_input, chatbot, modelDrop, temperature, top_k, history, past_ke
             
             chatbot[-1] = (parse_text(user_input), parse_text(response))
             yield chatbot, history, past_key_values, parse_text(knowledge)
+
+        yield chatbot, [], None, parse_text(knowledge)
 
 def reset_user_input():
     return gr.update(value='')
