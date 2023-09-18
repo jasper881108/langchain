@@ -151,7 +151,7 @@ with gr.Blocks() as demo:
     with gr.Row(scale=2):
         with gr.Column(scale=4):
             with gr.Column(scale=4):
-                user_input = gr.Textbox(show_label=False, placeholder="Input...", lines=10).style(
+                user_input = gr.Textbox(show_label=False, placeholder="Input...", lines=5).style(
                     container=False)
             with gr.Column(min_width=32, scale=1):
                 submitBtn = gr.Button("Submit", variant="primary")
