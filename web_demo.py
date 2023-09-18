@@ -2,10 +2,8 @@ import os
 import torch
 import opencc
 import openai
-import argparse
 import mdtex2html
 import gradio as gr
-from copy import deepcopy
 from peft import PeftModel
 from transformers import AutoModel, AutoTokenizer
 from transformers.generation.logits_process import LogitsProcessor
@@ -142,12 +140,12 @@ def predict(user_input, chatbot, modelDrop, temperature, top_k, history, past_ke
         prompt_info =  "[檢索資料]\n{}\n\n[問題]\n{}".format(knowledge, user_input)
         chatbot.append((parse_text(user_input), ""))
         response = openai.ChatCompletion.create(
-            model=modelDrop,
+            model=model,
             messages=messeage_prepare(system_info, prompt_info),
             temperature=temperature,
         )
 
-        chatbot[-1] = (parse_text(user_input), parse_text(response["choices"][0]["message"]["content"]))
+        chatbot[-1] = (parse_text(user_input), s2t.convert(parse_text(response["choices"][0]["message"]["content"])))
                    
         yield chatbot, [], None, parse_text(knowledge)
 
@@ -163,9 +161,9 @@ def predict(user_input, chatbot, modelDrop, temperature, top_k, history, past_ke
                                                             past_key_values=past_key_values,
                                                             temperature=temperature):
             
-            chatbot[-1] = (parse_text(user_input), parse_text(response))
+            chatbot[-1] = (parse_text(user_input), s2t.convert(parse_text(response)))
             yield chatbot, history, past_key_values, parse_text(knowledge)
-
+        
         yield chatbot, [], None, parse_text(knowledge)
 
 def reset_user_input():
@@ -177,15 +175,13 @@ def reset_state():
 def reset_model(modelDrop):
     global model
     if modelDrop=="gpt-4" or modelDrop=="gpt-3.5-turbo":
-        pass
-    else:
-        peft_model_list = lora_checkpoint_config[modelDrop]
-        model = AutoModel.from_pretrained("THUDM/chatglm2-6b", trust_remote_code=True)
-        model = PeftModel.from_pretrained(model, os.path.join("Jasper881108", peft_model_list[0])).merge_and_unload()
-        if peft_model_list == 2:
-            model = PeftModel.from_pretrained(model, os.path.join("Jasper881108", peft_model_list[1])).merge_and_unload()
-        print("Merged {} peft model".format(len(peft_model_list)))
-        model = model.quantize(4).cuda()
+        model = modelDrop
+    elif modelDrop=='sft':
+        model = sft_model
+    elif modelDrop=='rlhf':
+        model = rlhf_model
+    elif modelDrop=='dpo':
+        model = dpo_model
     return [], [], None, []
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
@@ -194,7 +190,7 @@ openai.api_key_path = "openai_api.txt"
 model_kwargs = {'device': 'cuda'}
 docs = read_and_process_knowledge_to_langchain_docs("data/knowledge.txt", separator = '\n', chunk_size=128)
 private_embedding_function = initial_langchain_embeddings("moka-ai/m3e-base", model_kwargs, False)
-public_embedding_function = initial_langchain_embeddings("gpt-3.5-turbo", model_kwargs, True)
+public_embedding_function = initial_langchain_embeddings("text-ada-embedding", model_kwargs, True)
 private_vectordb = initial_or_read_langchain_database_faiss(docs, private_embedding_function, "vectordb/vectordbPrivate", False)
 public_vectordb = initial_or_read_langchain_database_faiss(docs, public_embedding_function, "vectordb/vectordbPublic", False)
 s2t = opencc.OpenCC('s2t.json')
@@ -203,6 +199,20 @@ lora_checkpoint_config={
     "rlhf": ["chatglm-sft-lora", "chatglm-ppo-lora-delta"],
     "dpo": ["chatglm-sft-lora", "chatglm-dpo-lora-delta"]
 }
+sft_model = AutoModel.from_pretrained("THUDM/chatglm2-6b", trust_remote_code=True)
+for peft_model in lora_checkpoint_config["sft"]:
+    sft_model = PeftModel.from_pretrained(sft_model, os.path.join("Jasper881108", peft_model)).merge_and_unload()
+sft_model = sft_model.quantize(4).cuda()
+
+rlhf_model = AutoModel.from_pretrained("THUDM/chatglm2-6b", trust_remote_code=True)
+for peft_model in lora_checkpoint_config["rlhf"]:
+    rlhf_model = PeftModel.from_pretrained(rlhf_model, os.path.join("Jasper881108", peft_model)).merge_and_unload()
+rlhf_model = rlhf_model.quantize(4).cuda()
+
+dpo_model = AutoModel.from_pretrained("THUDM/chatglm2-6b", trust_remote_code=True)
+for peft_model in lora_checkpoint_config["dpo"]:
+    dpo_model = PeftModel.from_pretrained(dpo_model, os.path.join("Jasper881108", peft_model)).merge_and_unload()
+dpo_model = dpo_model.quantize(4).cuda()
 
 with gr.Blocks() as demo:
     gr.HTML("""<h1 align="center">LLM X Chatbot 信用卡優惠</h1>""")
@@ -237,4 +247,4 @@ with gr.Blocks() as demo:
     emptyBtn.click(reset_state, outputs=[chatbot, history, past_key_values, showHtml], show_progress=True)
     changeBtn.click(reset_model, [modelDrop], [chatbot, history, past_key_values, showHtml], show_progress=True)
 
-demo.queue().launch(share=False, inbrowser=True)
+demo.queue(concurrency_count=3).launch(share=True, inbrowser=True)
