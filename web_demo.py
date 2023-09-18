@@ -3,9 +3,9 @@ import torch
 import opencc
 import openai
 import mdtex2html
+import chatglm_cpp
 import gradio as gr
-from peft import PeftModel
-from transformers import AutoModel, AutoTokenizer
+from transformers import AutoTokenizer
 from transformers.generation.logits_process import LogitsProcessor
 from transformers.generation.utils import LogitsProcessorList
 from utils import (
@@ -13,71 +13,8 @@ from utils import (
     initial_langchain_embeddings,
     initial_or_read_langchain_database_faiss,
 )
-from typing import List, Tuple
 
 tokenizer = AutoTokenizer.from_pretrained("THUDM/chatglm2-6b", trust_remote_code=True)
-
-"""Override Chatbot.postprocess"""
-class InvalidScoreLogitsProcessor(LogitsProcessor):
-    def __call__(self, input_ids: torch.LongTensor, scores: torch.FloatTensor) -> torch.FloatTensor:
-        if torch.isnan(scores).any() or torch.isinf(scores).any():
-            scores.zero_()
-            scores[..., 5] = 5e4
-        return scores
-    
-def build_inputs(model, tokenizer, query: str, history: List[Tuple[str, str]] = None):
-    prompt = tokenizer.build_prompt(query, history=history)
-    inputs = tokenizer([prompt], return_tensors="pt")
-    inputs = inputs.to(model.device)
-    return inputs
-
-def build_stream_inputs(model, tokenizer, query: str, history: List[Tuple[str, str]] = None):
-    if history:
-        prompt = "\n\n[Round {}]\n\n問：{}\n\n答：".format(len(history) + 1, query)
-        input_ids = tokenizer.encode(prompt, add_special_tokens=False)
-        input_ids = input_ids[1:]
-        inputs = tokenizer.batch_encode_plus([(input_ids, None)], return_tensors="pt", add_special_tokens=False)
-    else:
-        inputs = tokenizer([query], return_tensors="pt")
-    inputs = inputs.to(model.device)
-    return inputs
-
-@torch.inference_mode()
-def stream_chat(model, tokenizer, query: str, history: List[Tuple[str, str]] = None, past_key_values=None,
-                max_length: int = 8192, do_sample=True, top_p=0.8, num_beams=1, temperature=0.1, logits_processor=None,
-                return_past_key_values=False, **kwargs):
-    if history is None:
-        history = []
-    if logits_processor is None:
-        logits_processor = LogitsProcessorList()
-    logits_processor.append(InvalidScoreLogitsProcessor())
-    gen_kwargs = {"max_length": max_length, "do_sample": do_sample, "top_p": top_p, "num_beams":num_beams,
-                    "temperature": temperature, "logits_processor": logits_processor, **kwargs}
-    if past_key_values is None and not return_past_key_values:
-        inputs = model.build_inputs(tokenizer, query, history=history)
-    else:
-        inputs = model.build_stream_inputs(tokenizer, query, history=history)
-    if past_key_values is not None:
-        past_length = past_key_values[0][0].shape[0]
-        if model.transformer.pre_seq_len is not None:
-            past_length -= model.transformer.pre_seq_len
-        inputs.position_ids += past_length
-        attention_mask = inputs.attention_mask
-        attention_mask = torch.cat((attention_mask.new_ones(1, past_length), attention_mask), dim=1)
-        inputs['attention_mask'] = attention_mask
-    for outputs in model.stream_generate(**inputs, past_key_values=past_key_values,
-                                        return_past_key_values=return_past_key_values, **gen_kwargs):
-        if return_past_key_values:
-            outputs, past_key_values = outputs
-        outputs = outputs.tolist()[0][len(inputs["input_ids"][0]):]
-        response = tokenizer.decode(outputs)
-        if response and response[-1] != "�":
-            response = model.process_response(response)
-            new_history = history + [(query, response)]
-            if return_past_key_values:
-                yield response, new_history, past_key_values
-            else:
-                yield response, new_history
 
 def postprocess(self, y):
     if y is None:
@@ -88,7 +25,6 @@ def postprocess(self, y):
             None if response is None else mdtex2html.convert(response),
         )
     return y
-
 
 gr.Chatbot.postprocess = postprocess
 
@@ -155,15 +91,13 @@ def predict(user_input, chatbot, modelDrop, temperature, top_k, history, past_ke
         knowledge = "\n".join([docs_and_scores[0].page_content for docs_and_scores in docs_and_scores_list])
         prompt =  "{}\n\n[檢索資料]\n{}[Round 1]\n\n問：{}\n\n答：".format(prompt_info, knowledge, user_input)
         chatbot.append((parse_text(user_input), ""))
+        response = ""
 
-        for response, history, past_key_values in stream_chat(model, tokenizer, prompt, history,
-                                                            return_past_key_values=True,
-                                                            past_key_values=past_key_values,
-                                                            temperature=temperature):
-            
+        for response_piece in model.generate(prompt, temperature=temperature, stream=True):
+            response += response_piece
             chatbot[-1] = (parse_text(user_input), s2t.convert(parse_text(response)))
-            yield chatbot, history, past_key_values, parse_text(knowledge)
-        
+            yield chatbot, [], None, parse_text(knowledge)
+
         yield chatbot, [], None, parse_text(knowledge)
 
 def reset_user_input():
@@ -199,20 +133,10 @@ lora_checkpoint_config={
     "rlhf": ["chatglm-sft-lora", "chatglm-ppo-lora-delta"],
     "dpo": ["chatglm-sft-lora", "chatglm-dpo-lora-delta"]
 }
-sft_model = AutoModel.from_pretrained("THUDM/chatglm2-6b", trust_remote_code=True)
-for peft_model in lora_checkpoint_config["sft"]:
-    sft_model = PeftModel.from_pretrained(sft_model, os.path.join("Jasper881108", peft_model)).merge_and_unload()
-sft_model = sft_model.quantize(4).cuda()
 
-rlhf_model = AutoModel.from_pretrained("THUDM/chatglm2-6b", trust_remote_code=True)
-for peft_model in lora_checkpoint_config["rlhf"]:
-    rlhf_model = PeftModel.from_pretrained(rlhf_model, os.path.join("Jasper881108", peft_model)).merge_and_unload()
-rlhf_model = rlhf_model.quantize(4).cuda()
-
-dpo_model = AutoModel.from_pretrained("THUDM/chatglm2-6b", trust_remote_code=True)
-for peft_model in lora_checkpoint_config["dpo"]:
-    dpo_model = PeftModel.from_pretrained(dpo_model, os.path.join("Jasper881108", peft_model)).merge_and_unload()
-dpo_model = dpo_model.quantize(4).cuda()
+sft_model = chatglm_cpp.Pipeline("model/chatglm-sft.bin", dtype="q4_0")
+rlhf_model = chatglm_cpp.Pipeline("model/chatglm-rlhf.bin", dtype="q4_0")
+dpo_model = chatglm_cpp.Pipeline("model/chatglm-dpo.bin", dtype="q4_0")
 
 with gr.Blocks() as demo:
     gr.HTML("""<h1 align="center">LLM X Chatbot 信用卡優惠</h1>""")
@@ -232,7 +156,6 @@ with gr.Blocks() as demo:
             with gr.Column(min_width=32, scale=1):
                 submitBtn = gr.Button("Submit", variant="primary")
         with gr.Column(scale=1):
-            changeBtn = gr.Button("Change Model")
             emptyBtn = gr.Button("Clear History")
             temperature = gr.Slider(0, 1, value=0.1, step=0.1, label="Temperature", interactive=True)
             top_k = gr.Slider(0, 10, value=5, step=1, label="top_k", interactive=True)
@@ -244,7 +167,7 @@ with gr.Blocks() as demo:
                     [chatbot, history, past_key_values, showHtml], show_progress=True)
     submitBtn.click(reset_user_input, [], [user_input])
 
+    modelDrop.change(reset_model, [modelDrop], [chatbot, history, past_key_values, showHtml], show_progress=True)
     emptyBtn.click(reset_state, outputs=[chatbot, history, past_key_values, showHtml], show_progress=True)
-    changeBtn.click(reset_model, [modelDrop], [chatbot, history, past_key_values, showHtml], show_progress=True)
 
-demo.queue(concurrency_count=3).launch(share=True, inbrowser=True)
+demo.queue(concurrency_count=10).launch(share=True, inbrowser=True)
