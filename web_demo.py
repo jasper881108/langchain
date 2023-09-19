@@ -79,10 +79,15 @@ def predict(user_input, chatbot, modelDrop, temperature, top_k, history, past_ke
             model=model,
             messages=messeage_prepare(system_info, prompt_info),
             temperature=temperature,
+            stream=True,
         )
-
-        chatbot[-1] = (parse_text(user_input), s2t.convert(parse_text(response["choices"][0]["message"]["content"])))
-                   
+        partial_message = ""
+        for chunk in response:
+            if len(chunk['choices'][0]['delta']) != 0:
+                partial_message = partial_message + chunk['choices'][0]['delta']['content']
+                chatbot[-1] = (parse_text(user_input), s2t.convert(parse_text(partial_message)))
+                yield chatbot, [], None, parse_text(knowledge)
+        
         yield chatbot, [], None, parse_text(knowledge)
 
     else:
