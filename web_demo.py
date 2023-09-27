@@ -78,7 +78,7 @@ def predict(user_input, chatbot, modelDrop, temperature, top_k, history, past_ke
         prompt_info =  "[檢索資料]\n{}\n\n[問題]\n{}".format(knowledge, user_input)
         chatbot.append((parse_text(user_input), ""))
         response = openai.ChatCompletion.create(
-            model=model,
+            model=modelDrop,
             messages=messeage_prepare(system_info, prompt_info),
             temperature=temperature,
             stream=True,
@@ -93,9 +93,12 @@ def predict(user_input, chatbot, modelDrop, temperature, top_k, history, past_ke
         appendix=["更多資訊請參照以下網址"]
         original_len=len(appendix)
         for key in knowledge_list:
-            url = knowledge_to_url_dict[key]
-            if  url != "None" and url not in appendix:
-                appendix.append(url)
+            try:
+                url = knowledge_to_url_dict[key]
+                if  url != "None" and url not in appendix:
+                    appendix.append(url)
+            except:
+                pass
 
         if len(appendix) > original_len:
             partial_message = partial_message+"<br><br>"+ "\n".join(appendix[:(original_len+2)])
@@ -113,7 +116,7 @@ def predict(user_input, chatbot, modelDrop, temperature, top_k, history, past_ke
         chatbot.append((parse_text(user_input), ""))
         response = ""
 
-        for response_piece in model.generate(prompt, temperature=temperature, stream=True):
+        for response_piece in model_dict[modelDrop].generate(prompt, temperature=temperature, stream=True):
             response += response_piece
             chatbot[-1] = (parse_text(user_input), s2t.convert(parse_text(response)))
             yield chatbot, [], None, parse_text(knowledge)
@@ -121,9 +124,12 @@ def predict(user_input, chatbot, modelDrop, temperature, top_k, history, past_ke
         appendix=["更多資訊請參照以下網址"]
         original_len=len(appendix)
         for key in knowledge_list:
-            url = knowledge_to_url_dict[key]
-            if  url != "None" and url not in appendix:
-                appendix.append(url)
+            try:
+                url = knowledge_to_url_dict[key]
+                if  url != "None" and url not in appendix:
+                    appendix.append(url)
+            except:
+                pass
 
         if len(appendix) > original_len:
             response = response+"<br><br>"+ "\n".join(appendix[:(original_len+2)])
@@ -138,18 +144,6 @@ def reset_user_input():
 def reset_state():
     return [], [], None, []
 
-def reset_model(modelDrop):
-    global model
-    if modelDrop=="gpt-4" or modelDrop=="gpt-3.5-turbo":
-        model = modelDrop
-    elif modelDrop=='sft':
-        model = sft_model
-    elif modelDrop=='rlhf':
-        model = rlhf_model
-    elif modelDrop=='dpo':
-        model = dpo_model
-    return [], [], None, []
-
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 os.environ["OPENAI_API_KEY"] = open("openai_api.txt", "r").readline()
 openai.api_key_path = "openai_api.txt"
@@ -161,15 +155,15 @@ public_embedding_function = initial_langchain_embeddings("text-ada-embedding", m
 private_vectordb = initial_or_read_langchain_database_faiss(docs, private_embedding_function, "vectordb/vectordbPrivate", True)
 public_vectordb = initial_or_read_langchain_database_faiss(docs, public_embedding_function, "vectordb/vectordbPublic", True)
 s2t = opencc.OpenCC('s2t.json')
-lora_checkpoint_config={
-    "sft": ["chatglm-sft-lora"],
-    "rlhf": ["chatglm-sft-lora", "chatglm-ppo-lora-delta"],
-    "dpo": ["chatglm-sft-lora", "chatglm-dpo-lora-delta"]
-}
 
 sft_model = chatglm_cpp.Pipeline("model/chatglm-sft.bin", dtype="q4_0")
 rlhf_model = chatglm_cpp.Pipeline("model/chatglm-rlhf.bin", dtype="q4_0")
 dpo_model = chatglm_cpp.Pipeline("model/chatglm-dpo.bin", dtype="q4_0")
+model_dict={
+    "sft": sft_model,
+    "rlhf": rlhf_model,
+    "dpo": dpo_model
+}
 
 with gr.Blocks() as demo:
     gr.HTML("""<h1 align="center">LLM X Chatbot 信用卡優惠</h1>""")
@@ -200,7 +194,7 @@ with gr.Blocks() as demo:
                     [chatbot, history, past_key_values, showHtml], show_progress=True)
     submitBtn.click(reset_user_input, [], [user_input])
 
-    modelDrop.change(reset_model, [modelDrop], [chatbot, history, past_key_values, showHtml], show_progress=True)
+    modelDrop.change(reset_state, outputs=[chatbot, history, past_key_values, showHtml], show_progress=True)
     emptyBtn.click(reset_state, outputs=[chatbot, history, past_key_values, showHtml], show_progress=True)
 
 demo.queue(concurrency_count=10).launch(share=True, inbrowser=True)
