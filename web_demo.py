@@ -10,6 +10,7 @@ from transformers.generation.logits_process import LogitsProcessor
 from transformers.generation.utils import LogitsProcessorList
 from utils import (
     read_and_process_knowledge_to_langchain_docs,
+    read_and_make_knowlegde_to_url,
     initial_langchain_embeddings,
     initial_or_read_langchain_database_faiss,
 )
@@ -30,11 +31,11 @@ gr.Chatbot.postprocess = postprocess
 
 def parse_text(text):
     """copy from https://github.com/GaiZhenbiao/ChuanhuChatGPT/"""
+    text = text.replace("$", "")
     lines = text.split("\n")
     lines = [line for line in lines if line != ""]
     count = 0
     for i, line in enumerate(lines):
-        line = line.replace("$", "")
         if "```" in line:
             count += 1
             items = line.split('`')
@@ -72,7 +73,8 @@ def predict(user_input, chatbot, modelDrop, temperature, top_k, history, past_ke
     if modelDrop=="gpt-4" or modelDrop=="gpt-3.5-turbo":
         system_info = "你是國泰世華的聊天機器人-阿發, [檢索資料]是由國泰世華提供的。 參考[檢索資料]使用中文簡潔和專業的回覆顧客的[問題], 如果答案不在公開資料中, 請說 “對不起, 我所擁有的公開資料中沒有相關資訊, 請您換個問題或將問題描述得更詳細, 讓阿發能正確完整的回答您”，不允許在答案中加入編造的內容。\n\n"
         docs_and_scores_list = public_vectordb.similarity_search_with_score([user_input], k=top_k)[0]
-        knowledge = "\n".join([docs_and_scores[0].page_content for docs_and_scores in docs_and_scores_list])
+        knowledge_list = [docs_and_scores[0].page_content for docs_and_scores in docs_and_scores_list]
+        knowledge = "\n".join(knowledge_list)
         prompt_info =  "[檢索資料]\n{}\n\n[問題]\n{}".format(knowledge, user_input)
         chatbot.append((parse_text(user_input), ""))
         response = openai.ChatCompletion.create(
@@ -88,12 +90,25 @@ def predict(user_input, chatbot, modelDrop, temperature, top_k, history, past_ke
                 chatbot[-1] = (parse_text(user_input), s2t.convert(parse_text(partial_message)))
                 yield chatbot, [], None, parse_text(knowledge)
         
+        appendix=["更多資訊請參照以下網址"]
+        original_len=len(appendix)
+        for key in knowledge_list:
+            url = knowledge_to_url_dict[key]
+            if  url != "None" and url not in appendix:
+                appendix.append(url)
+
+        if len(appendix) > original_len:
+            partial_message = partial_message+"<br><br>"+ "\n".join(appendix[:(original_len+2)])
+
+        chatbot[-1] = (parse_text(user_input), s2t.convert(parse_text(partial_message)))
+
         yield chatbot, [], None, parse_text(knowledge)
 
     else:
         prompt_info = "你是國泰世華的聊天機器人-阿發, 參考[檢索資料]使用中文簡潔和專業的回覆顧客的問題"
         docs_and_scores_list = private_vectordb.similarity_search_with_score([user_input], k=top_k)[0]
-        knowledge = "\n".join([docs_and_scores[0].page_content for docs_and_scores in docs_and_scores_list])
+        knowledge_list = [docs_and_scores[0].page_content for docs_and_scores in docs_and_scores_list]
+        knowledge = "\n".join(knowledge_list)
         prompt =  "{}\n\n[檢索資料]\n{}[Round 1]\n\n問：{}\n\n答：".format(prompt_info, knowledge, user_input)
         chatbot.append((parse_text(user_input), ""))
         response = ""
@@ -102,6 +117,18 @@ def predict(user_input, chatbot, modelDrop, temperature, top_k, history, past_ke
             response += response_piece
             chatbot[-1] = (parse_text(user_input), s2t.convert(parse_text(response)))
             yield chatbot, [], None, parse_text(knowledge)
+
+        appendix=["更多資訊請參照以下網址"]
+        original_len=len(appendix)
+        for key in knowledge_list:
+            url = knowledge_to_url_dict[key]
+            if  url != "None" and url not in appendix:
+                appendix.append(url)
+
+        if len(appendix) > original_len:
+            response = response+"<br><br>"+ "\n".join(appendix[:(original_len+2)])
+        
+        chatbot[-1] = (parse_text(user_input), s2t.convert(parse_text(response)))
 
         yield chatbot, [], None, parse_text(knowledge)
 
@@ -127,11 +154,12 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 os.environ["OPENAI_API_KEY"] = open("openai_api.txt", "r").readline()
 openai.api_key_path = "openai_api.txt"
 model_kwargs = {'device': 'cuda'}
-docs = read_and_process_knowledge_to_langchain_docs("data/knowledge.txt", separator = '\n', chunk_size=128)
+knowledge_to_url_dict = read_and_make_knowlegde_to_url("data/knowledge.txt", "data/url.txt", separator = '\n')
+docs = read_and_process_knowledge_to_langchain_docs("data/knowledge.txt", separator = '\n', chunk_size=1)
 private_embedding_function = initial_langchain_embeddings("moka-ai/m3e-base", model_kwargs, False)
 public_embedding_function = initial_langchain_embeddings("text-ada-embedding", model_kwargs, True)
-private_vectordb = initial_or_read_langchain_database_faiss(docs, private_embedding_function, "vectordb/vectordbPrivate", False)
-public_vectordb = initial_or_read_langchain_database_faiss(docs, public_embedding_function, "vectordb/vectordbPublic", False)
+private_vectordb = initial_or_read_langchain_database_faiss(docs, private_embedding_function, "vectordb/vectordbPrivate", True)
+public_vectordb = initial_or_read_langchain_database_faiss(docs, public_embedding_function, "vectordb/vectordbPublic", True)
 s2t = opencc.OpenCC('s2t.json')
 lora_checkpoint_config={
     "sft": ["chatglm-sft-lora"],

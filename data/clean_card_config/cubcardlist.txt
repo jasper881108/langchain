@@ -3,9 +3,11 @@
         "children":[{},{},
             {
                "Main Title":"前綴",
+               "Notice Content":str,
                "children":[{
                   "Category Name":"前綴",
                   "children": {
+                      "Description":str,
                       "children":[{
                           "Item Text":"序列",
                   }]
@@ -14,9 +16,11 @@
             },
             {
                "Main Title":"前綴",
+               "Notice Content":str,
                "children":[{
                   "Category Name":"前綴",
                   "children": {
+                      "Description":str,
                       "children":[{
                           "Item Text":"序列",
                   }]
@@ -25,9 +29,11 @@
             },
             {
                "Main Title":"前綴",
+               "Notice Content":str,
                "children":[{
                   "Category Name":"前綴",
                   "children": {
+                      "Description":str,
                       "children":[{
                           "Item Text":"序列",
                   }]
@@ -36,9 +42,11 @@
             },
             {
                "Main Title":"前綴",
+               "Notice Content":str,
                "children":[{
                   "Category Name":"前綴",
                   "children": {
+                      "Description":str,
                       "children":[{
                           "Item Text":"序列",
                   }]
@@ -47,18 +55,33 @@
             },
             {
                "Main Title":"前綴",
-               "children":{
-                  "children":[{
-                     "Title":"序列",
+               "Notice Content":str,
+               "children":[{
+                  "Category Name":"前綴",
+                  "children": {
+                      "Description":str,
+                      "children":[{
+                          "Item Text":"序列",
+                  }]
+                  }
+               }]
+            },
+            {
+               "Main Title":"前綴",
+               "Notice Content":str,
+               "children": {
+                      "Description":str,
+                      "children":[{
+                          "Title":"序列",
                   }]
                }
             },
             {
                "Title":"前綴",
                "Detail":str,
-
+   
             },
 
-                    ]
+         ]
     }]
 }

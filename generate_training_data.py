@@ -60,6 +60,9 @@ def process_list_of_dataframe_to_rm_list_of_dict(list_of_data_json):
 
         rm_data_json.extend(list_comparisons)
 
+    # for word in ["讓阿發能正確完整的回答您", "很抱歉", "對不起"]:
+    #     rm_data_json = [data_json for data_json in rm_data_json if word not in data_json['output'][0]+data_json['output'][1]]
+    
     print("total number of comparisons {}".format(len(rm_data_json)))
     
     return rm_data_json
@@ -82,13 +85,20 @@ def main(args):
     dump_json_data(sft_data_saved_path, sft_data_json)
 
     #### process and write rm data
-    list_of_data_json = []
-    for model in args.rm_rank:
-        data_json = read_and_prepocess_dataframe_to_list_of_dict(args.inference_data_path, model, template)
-        list_of_data_json.append(data_json)
+    rm_data_json = []
+    for inferior_model in args.inferior_model:
+        list_of_data_json = []
+        for model in args.rm_rank+[inferior_model]:
+            data_json = read_and_prepocess_dataframe_to_list_of_dict(args.inference_data_path, model, template)
+            list_of_data_json.append(data_json)
 
-    rm_data_json = process_list_of_dataframe_to_rm_list_of_dict(list_of_data_json)
-    
+        rm_data_json_batch = process_list_of_dataframe_to_rm_list_of_dict(list_of_data_json)
+
+        for rm_data in rm_data_json_batch:
+            if rm_data not in rm_data_json:
+                rm_data_json.append(rm_data)
+                
+    print(len(rm_data_json))
     rm_data_saved_path = os.path.join(args.training_data_path, "comparison_cathay_qa_zh.json")
     dump_json_data(rm_data_saved_path, rm_data_json)
 
@@ -99,7 +109,8 @@ if __name__ == '__main__':
     parser.add_argument('--instruction_prefix', type=str, default="你是國泰世華的聊天機器人-阿發, 參考[檢索資料]使用中文簡潔和專業的回覆顧客的問題")
     parser.add_argument('--inference_data_template', type=str, default="langchain_<model>_k5.csv")
     parser.add_argument('--sft_model', type=str, default="gpt-4")
-    parser.add_argument('--rm_rank', type=str, nargs='+', default=["gpt-4", "gpt-3.5-turbo", "chatglm", "vicuna"])
+    parser.add_argument('--rm_rank', type=str, nargs='+', default=["gpt-4", "chatglm"])
+    parser.add_argument('--inferior_model', type=str, nargs='+', default=["vicuna"])
     parser.add_argument('--inference_data_path', type=str, default="metadata/inference_data")
     parser.add_argument('--training_data_path', type=str, default="metadata/training_data")
     args = parser.parse_args()

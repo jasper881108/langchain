@@ -1,0 +1,995 @@
+{
+    "ReturnCode": "0000",
+    "ReturnMsg": "查詢成功",
+    "Items": [
+        {
+            "Credit Card Name": "CUBE卡",
+            "Credit Card Image Alt": "",
+            "Credit Card Image": "https://www.cathaybk.com.tw/cathaybk/-/media/5132251747ee4101a44ab1a976749a81?v=4",
+            "Apply Button Text": "立即申辦",
+            "Apply Button Link": "https://www.cathaybk.com.tw/cathaybk/onlineservice/CreditCard/CreditCardApply/cardgrade-s2.aspx?CardMain=24",
+            "Credit Card Event Anchor Key": "blockname02",
+            "Credit Card Event Main Title": "刷卡優惠 折扣享不停",
+            "Credit Card Event Main Subtitle": "與CUBE一起參加活動吧",
+            "Credit Card Event Info": "{C75A99FF-D344-431E-948B-AAC5FF59F186}|{31ABD98F-6C4F-44D5-8D99-B42316B1F55A}|{787759BB-156C-439B-BE70-5C7CDE52ADC4}|{AB3CDFDD-6F9E-412F-8E08-0884D7F77B64}",
+            "Credit Card Event Major Button Text": "更多優惠",
+            "Credit Card Event Major Button Link": "https://www.cathaybk.com.tw/cathaybk/personal/event/overview/#category=Credit%20Card&keyword=CUBE%E5%8D%A1",
+            "KV PC Background Image Alt": "",
+            "KV PC Background Image": "https://www.cathaybk.com.tw/cathaybk/-/media/1c7d1db3541046a5b729dd32955e662c?v=7",
+            "KV Mobile Background Image Alt": "",
+            "KV Mobile Background Image": "https://www.cathaybk.com.tw/cathaybk/-/media/2c91d9a0d4704046af7ee9af451d00c3?v=5",
+            "KV Image Alt": "",
+            "KV Image": "https://www.cathaybk.com.tw/cathaybk/-/media/8b1dee4a1adc48eb96f7915d540c525e?v=2",
+            "KV Subtitle": "隨選回饋 有它就足夠",
+            "KV White Button Text": "健康節能最高8%",
+            "KV White Button Link": "https://www.cathaybk.com.tw/cathaybk/personal/event/overview/credit-card/shopping/202303/cube345678",
+            "Popular Cards PC Background Image Alt": "",
+            "Popular Cards PC Background Image": "https://www.cathaybk.com.tw/cathaybk/-/media/a9758bdefce944678dc9ea39c247517b?v=2",
+            "Popular Cards Mobile Background Image Alt": "",
+            "Popular Cards Mobile Background Image": "https://www.cathaybk.com.tw/cathaybk/-/media/cb3ed30866b241859234049fd1b65379?v=2",
+            "Popular Cards Enable Light Text": "",
+            "Popular Cards Feature Icon 1 Alt": "",
+            "Popular Cards Feature Icon 1": "https://www.cathaybk.com.tw/cathaybk/-/media/027f9599d10741e1ac3c0f88c8557470?v=2",
+            "Popular Cards Feature Text 1": "權益方案天天切換",
+            "Popular Cards Feature Icon 2 Alt": "",
+            "Popular Cards Feature Icon 2": "https://www.cathaybk.com.tw/cathaybk/-/media/3ff12347e9fb425e87468940369aed6d?v=2",
+            "Popular Cards Feature Text 2": "指定消費3%起 回饋無上限",
+            "Popular Cards Feature Icon 3 Alt": "",
+            "Popular Cards Feature Icon 3": "https://www.cathaybk.com.tw/cathaybk/-/media/a6d6302bd63d46b0b3761faa08ae012b?v=2",
+            "Popular Cards Feature Text 3": "CUBE App限時領取加碼回饋",
+            "Popular Cards Left Button Text": "卡片介紹",
+            "Popular Cards Left Button Link": "https://www.cathaybk.com.tw/cathaybk/personal/product/credit-card/cards/cube",
+            "Card Detail Category Text": "",
+            "Card Detail Feature": "<div class=\"cubre-m-compareCard__feature\">\n<div class=\"cubre-m-feature -multiple\">\n<div class=\"cubre-m-feature__item\">\n<div class=\"cubre-m-feature__icon\">\n<img alt=\"\" src=\"-/media/7a16d6bdae58400d99a9f129b67016d9.ashx\" />\n</div>\n<div class=\"cubre-m-feature__text\">\n玩數位｜樂饗購｜趣旅行<span style=\"background-color: #f9fbf7;\">｜集精選</span></div>\n</div>\n<div class=\"cubre-m-feature__item\">\n<div class=\"cubre-m-feature__icon\">\n<img alt=\"\" src=\"-/media/7a16d6bdae58400d99a9f129b67016d9.ashx\" />\n</div>\n<div class=\"cubre-m-feature__text\">4大權益方案 天天由你選\n</div>\n</div>\n<div class=\"cubre-m-feature__item\">\n<div class=\"cubre-m-feature__icon\">\n<img alt=\"\" src=\"-/media/2d5bfbc148d24e55aab1501b4c033a25.ashx\" />\n</div>\n<div class=\"cubre-m-feature__text\">\n指定消費3%回饋無上限\n</div>\n</div>\n<div class=\"cubre-m-feature__item\">\n<div class=\"cubre-m-feature__icon\">\n<img alt=\"\" src=\"-/media/2d5bfbc148d24e55aab1501b4c033a25.ashx\" />\n</div>\n<div class=\"cubre-m-feature__text\">\n限時加碼最高10%回饋\n</div>\n</div>\n</div>\n</div>",
+            "Card Detail Link Type": "{BDDD7950-259D-47D8-BC36-BC6A25600347}",
+            "Card Detail Link Title": "詳細說明",
+            "Card Detail Link": "https://www.cathaybk.com.tw/cathaybk/personal/product/credit-card/cards/cube",
+            "Card Detail Anchor Target": "",
+            "Communication ID": "",
+            "Deletion": "",
+            "Rejection": "0",
+            "Advertising": "0",
+            "Previous state": "{68FE7487-F5EA-49C1-8A10-B4850956F157}",
+            "ItemId": "87c2e3af-8e05-4c7f-b390-070e77df65a5",
+            "ItemName": "CUBE Card",
+            "children": [
+                {
+                    "Button Link": "https://www.cathaybk.com.tw/cathaybk/onlineservice/CreditCard/CreditCardApply/cardgrade-s2.aspx?CardMain=24",
+                    "Button Text": "立即申辦",
+                    "Rejection": "",
+                    "ItemId": "c3b9da7f-283c-431a-b00c-5800ab2b2bab",
+                    "ItemName": "AnchorMenu",
+                    "children": [
+                        {
+                            "Title": "卡片特色",
+                            "Anchor Target": "blockname01",
+                            "ItemId": "6187512c-99c6-4555-946b-86289c52f34a",
+                            "ItemName": "AnchorMenu Item 1"
+                        },
+                        {
+                            "Title": "刷卡優惠",
+                            "Anchor Target": "blockname02",
+                            "ItemId": "8fe26b19-757d-42f1-a1e9-6e4f0d0e0f03",
+                            "ItemName": "AnchorMenu Item 2"
+                        },
+                        {
+                            "Title": "四大權益",
+                            "Anchor Target": "blockname03",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "d3ca9bb1-9b82-4c73-9170-b1ca58f14f94",
+                            "ItemName": "AnchorMenu Item 3"
+                        },
+                        {
+                            "Title": "限時回饋加碼",
+                            "Anchor Target": "blockname04",
+                            "Rejection": "",
+                            "ItemId": "f3f7ffd1-77b9-4c91-982c-a47e0cff4f97",
+                            "ItemName": "AnchorMenu Item 4"
+                        },
+                        {
+                            "Title": "卡友贈禮",
+                            "Anchor Target": "blockname05",
+                            "ItemId": "c7131181-d510-47d7-a09e-f66be2fa7c8e",
+                            "ItemName": "AnchorMenu Item 5"
+                        },
+                        {
+                            "Title": "App服務",
+                            "Anchor Target": "blockname07",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "70f25c43-1fc8-4e43-9de4-a5323814928c",
+                            "ItemName": "AnchorMenu Item 6"
+                        },
+                        {
+                            "Title": "申辦資訊",
+                            "Anchor Target": "blockname08",
+                            "Rejection": "",
+                            "ItemId": "f6f54659-d87a-4926-bce2-a657f2140d24",
+                            "ItemName": "AnchorMenu Item 7"
+                        }
+                    ]
+                },
+                {
+                    "Anchor Key": "blockname01",
+                    "Main Title": "掌握生活 盡在CUBE卡",
+                    "Main Subtitle": "錢包裡有這張 到哪都方便",
+                    "Rejection": "",
+                    "ItemId": "2191d7e7-a838-4898-bd61-5dbaba4ee6e2",
+                    "ItemName": "PuzzleImage",
+                    "children": [
+                        {
+                            "Rejection": "0",
+                            "ItemId": "c904d4e4-86a6-4399-9dc0-7321443199e2",
+                            "ItemName": "PuzzleImageContainer 1",
+                            "children": [
+                                {
+                                    "Enable Big Card": "",
+                                    "Display Mode": "{0C969129-ECEE-4AB4-AB7C-43B2094E9F13}",
+                                    "PC Image Alt": "",
+                                    "PC Image": "https://www.cathaybk.com.tw/cathaybk/-/media/b4d4e782c0294165a9207141d6f5bd75?v=1",
+                                    "Mobile Image Alt": "",
+                                    "Mobile Image": "https://www.cathaybk.com.tw/cathaybk/-/media/e3e89f2bef1f45408def5e5defce3e15?v=1",
+                                    "Title": "CUBE卡挺健康",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\"><span style=\"color: #000000;\"><strong>2023/3/1 ~ 2023/4/30 </strong></span></div>\n<div class=\"cubre-o-textContent -sm\"><span style=\"color: #000000;\"><strong>精選節能｜有機｜健康｜保健商店，刷CUBE卡最高8%</strong></span></div>",
+                                    "Link Type 1": "{BDDD7950-259D-47D8-BC36-BC6A25600347}",
+                                    "Link 1": "https://www.cathaybk.com.tw/cathaybk/personal/event/overview/credit-card/shopping/202303/cube345678",
+                                    "Link Text 1": "活動詳情",
+                                    "Anchor Target 1": "",
+                                    "Link Type 2": "{2EBB1D2B-D883-42B5-9EA7-DF43E85147AC}",
+                                    "Link Text 2": "如何領取回饋加碼",
+                                    "Anchor Target 2": "blockname07",
+                                    "Communication ID": "",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "3044c18f-89d4-4665-b2f0-dce15e212a79",
+                                    "ItemName": "Copy of PuzzleImageItem 1"
+                                },
+                                {
+                                    "Enable Big Card": "",
+                                    "Display Mode": "{0C969129-ECEE-4AB4-AB7C-43B2094E9F13}",
+                                    "PC Image Alt": "",
+                                    "PC Image": "https://www.cathaybk.com.tw/cathaybk/-/media/f353d952ccb44c618c012a2895b93874?v=2",
+                                    "Mobile Image Alt": "",
+                                    "Mobile Image": "https://www.cathaybk.com.tw/cathaybk/-/media/039be38a2bea4d27a31772a7df0bc607?v=1",
+                                    "Title": "優惠34567",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\"><span style=\"color: #000000;\"><strong>保費3%</strong>｜<strong>行動支付4%</strong>｜<strong>海外消費5%</strong>｜<strong>中油6%</strong>｜<strong>售票平台7%</strong></span></div>\n<div class=\"cubre-o-textContent -sm\">\n</div>\n<div class=\"cubre-o-textContent -sm\">&nbsp;</div>\n<div class=\"cubre-o-textContent -sm\">想要的回饋就在CUBE卡！\n</div>",
+                                    "Link Type 1": "{BDDD7950-259D-47D8-BC36-BC6A25600347}",
+                                    "Link 1": "https://www.cathaybk.com.tw/cathaybk/personal/event/overview/credit-card/online-shopping/202301/cube34567",
+                                    "Link Text 1": "活動詳情",
+                                    "Anchor Target 1": "",
+                                    "Link Type 2": "{2EBB1D2B-D883-42B5-9EA7-DF43E85147AC}",
+                                    "Link Text 2": "如何領取回饋加碼",
+                                    "Anchor Target 2": "blockname07",
+                                    "Communication ID": "",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "fd0f7854-cb9c-4192-800e-982feb3ac508",
+                                    "ItemName": "PuzzleImageItem 1"
+                                }
+                            ]
+                        },
+                        {
+                            "Rejection": "0",
+                            "ItemId": "5fe8335e-4a18-4ef1-a6a7-4c20f4635545",
+                            "ItemName": "PuzzleImageContainer 2",
+                            "children": [
+                                {
+                                    "Display Mode": "{6F3DD4A0-F4F2-499A-AD43-19505761E673}",
+                                    "PC Image Alt": "",
+                                    "PC Image": "https://www.cathaybk.com.tw/cathaybk/-/media/70b9a1ecbd9243a89f575bec73a6ac59?v=1",
+                                    "Mobile Image Alt": "",
+                                    "Mobile Image": "https://www.cathaybk.com.tw/cathaybk/-/media/70ded85fe0dd42179b7010a63f86bfb9?v=1",
+                                    "Title": "隨選由你",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n<span _mstmutation=\"1\" _msthash=\"46540\" _msttexthash=\"439402522\">4大權益天天由你選</span></div>\n<div class=\"cubre-o-textContent -sm\"><span _mstmutation=\"1\" _msthash=\"46540\" _msttexthash=\"439402522\"></span>打開CUBE App，「玩數位、樂饗購、趣旅行、集精選」一手就能切換</div>",
+                                    "Link Type 1": "{2EBB1D2B-D883-42B5-9EA7-DF43E85147AC}",
+                                    "Link Text 1": "查看回饋通路",
+                                    "Anchor Target 1": "blockname03",
+                                    "Link Type 2": "{2EBB1D2B-D883-42B5-9EA7-DF43E85147AC}",
+                                    "Link Text 2": "如何切換權益",
+                                    "Anchor Target 2": "blockname07",
+                                    "Communication ID": "#0080411103152",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "56504379-8eab-4088-aa44-5ec89a5ac330",
+                                    "ItemName": "PuzzleImageItem 2"
+                                },
+                                {
+                                    "Display Mode": "{0C969129-ECEE-4AB4-AB7C-43B2094E9F13}",
+                                    "PC Image Alt": "",
+                                    "PC Image": "https://www.cathaybk.com.tw/cathaybk/-/media/8007dfeafd1c437880bcded386e2dc8a?v=1",
+                                    "Mobile Image Alt": "",
+                                    "Mobile Image": "https://www.cathaybk.com.tw/cathaybk/-/media/7ba70e3d3a864a65ade284bfea038a09?v=1",
+                                    "Title": "即時折抵",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n    <!-- richtext 欄位 -->\n    隨處消費即時折抵，小樹點(信用卡) 每 10 點折抵NT$10消費金額，最高折抵30%\n</div>",
+                                    "Link Type 1": "{2EBB1D2B-D883-42B5-9EA7-DF43E85147AC}",
+                                    "Link Text 1": "如何即時折抵",
+                                    "Anchor Target 1": "blockname07",
+                                    "Rejection": "",
+                                    "ItemId": "047141d8-ade6-486f-83aa-56b554075c5f",
+                                    "ItemName": "PuzzleImageItem 3"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Anchor Key": "blockname03",
+                    "Main Title": "4大權益方案天天由你切換",
+                    "Main Subtitle": "指定消費3% 起 回饋無上限！",
+                    "Major Button Text": "查看回饋通路",
+                    "Major Button Link": "https://www.cathaybk.com.tw/cathaybk/personal/product/credit-card/cards/cube-list",
+                    "Notice Type 1": "",
+                    "Notice Title 1": "權益切換教學",
+                    "Notice Content 1": "<div class=\"cubre-o-block -textInside\">\n\t\t\t\t<div class=\"cubre-o-block__wrap\">\n\t\t\t\t\t<!-- 如無richtext內容，請包含.cubre-o-block__component 做移除 -->\n\t\t\t\t\t<div class=\"cubre-o-block__component\">\n\t\t\t\t\t\t<div class=\"cubre-o-textContent\">\n\t\t\t\t\t\t\t<!-- richtext 欄位 -->\n\t\t\t\t\t\t\t打開網銀App點選CUBE卡權益方案，從玩數位到樂饗購 一手就能切換！\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<!-- 如無richtext內容，請包含.cubre-o-block__component 做移除 -->\n\t\t\t\t\t<div class=\"cubre-o-block__component -text\">\n\t\t\t\t\t\t<div class=\"cubre-o-textContent\">\n\t\t\t\t\t\t\t<!-- richtext 欄位 -->\n\t\t\t\t\t\t\t<p class=\"cubre-u-note\">*提醒：網銀App需更新至最新版本，方可使用CUBE卡完整功能及服務</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cubre-o-block__component\">\n\t\t\t\t\t\t<ol class=\"cubre-m-insideStep\">\n\t\t\t\t\t\t\t<li class=\"cubre-m-insideStep__item\">\n\t\t\t\t\t\t\t\t<div class=\"cubre-m-insideStep__icon\">\n<img alt=\"\" src=\"-/media/357995d8e45d426594cd6cca9c3c2518.ashx\" style=\"height:px; width:px;\" />\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"cubre-m-insideStep__title\">\n\t\t\t\t\t\t\t\t\t點選CUBE權益方案\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"cubre-m-insideStep__item\">\n\t\t\t\t\t\t\t\t<div class=\"cubre-m-insideStep__icon\">\n<img alt=\"\" src=\"-/media/357995d8e45d426594cd6cca9c3c2518.ashx\" style=\"height:px; width:px;\" />\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"cubre-m-insideStep__title\">\n\t\t\t\t\t\t\t\t\t選擇方案\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"cubre-m-insideStep__item\">\n\t\t\t\t\t\t\t\t<div class=\"cubre-m-insideStep__icon\">\n<img alt=\"\" src=\"-/media/357995d8e45d426594cd6cca9c3c2518.ashx\" style=\"height:px; width:px;\" />\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"cubre-m-insideStep__title\">\n\t\t\t\t\t\t\t\t\t點切換此方案\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"cubre-m-insideStep__item\">\n\t\t\t\t\t\t\t\t<div class=\"cubre-m-insideStep__icon\">\n<img alt=\"\" src=\"-/media/64a96764e4c947f2bc7ac11f73d960bc.ashx\" style=\"height:px; width:px;\" />\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"cubre-m-insideStep__title\">\n\t\t\t\t\t\t\t\t\t切換成功\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ol>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>",
+                    "Rejection": "0",
+                    "Advertising": "0",
+                    "ItemId": "81374598-d6f8-4526-9c64-2ea577b674c2",
+                    "ItemName": "TreePointCard",
+                    "children": [
+                        {
+                            "Tab Text": "玩數位",
+                            "ItemId": "2f221bc4-4371-4502-a297-ee0b135b7472",
+                            "ItemName": "TreePointCardTab 1",
+                            "children": [
+                                {
+                                    "Title": "一般消費",
+                                    "Icon Alt": "",
+                                    "Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/73a7a8e1416945a09d38eb5ed14b2798?v=2",
+                                    "Icon Text": "0.3%",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">一般消費享0.3%小樹點(信用卡)，回饋無上限</div>",
+                                    "Communication ID": "0080411103152",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "d48a7e51-7cb1-4a3b-9a21-aae3d9e9807f",
+                                    "ItemName": "TreePointCardTabItem 1"
+                                },
+                                {
+                                    "Title": "指定線上消費",
+                                    "Icon Alt": "",
+                                    "Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/73a7a8e1416945a09d38eb5ed14b2798?v=2",
+                                    "Icon Text": "3%",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n        數位/串流平台、網購平台、國際電商\n</div>",
+                                    "Rejection": "",
+                                    "ItemId": "76911b80-2705-4c03-b346-0a3457d94852",
+                                    "ItemName": "TreePointCardTabItem 2"
+                                },
+                                {
+                                    "Title": "精選商家",
+                                    "Icon Alt": "",
+                                    "Icon": "https://www.cathaybk.com.tw",
+                                    "Icon Text": "",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n    <!-- richtext 欄位 -->\n    蝦皮購物、 momo購物網、PChome線上購物、小樹購、Yahoo奇摩購物中心\n</div>",
+                                    "Rejection": "",
+                                    "ItemId": "5a99c61a-6193-4400-96fe-75199af6091c",
+                                    "ItemName": "TreePointCardTabItem 3"
+                                }
+                            ]
+                        },
+                        {
+                            "Tab Text": "樂饗購",
+                            "ItemId": "4b46fe13-9127-4511-86ab-faaffff05a86",
+                            "ItemName": "TreePointCardTab 2",
+                            "children": [
+                                {
+                                    "Title": "一般消費",
+                                    "Icon Alt": "",
+                                    "Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/73a7a8e1416945a09d38eb5ed14b2798?v=2",
+                                    "Icon Text": "0.3%",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n  一般消費享0.3%小樹點(信用卡)，回饋無上限\n</div>",
+                                    "Rejection": "",
+                                    "ItemId": "105442fc-bbde-41ce-a008-bd8f26db063f",
+                                    "ItemName": "TreePointCardTabItem 1"
+                                },
+                                {
+                                    "Title": "指定美食/購物消費",
+                                    "Icon Alt": "",
+                                    "Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/73a7a8e1416945a09d38eb5ed14b2798?v=2",
+                                    "Icon Text": "3%",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n國內百貨、國內品牌服飾、國內藥妝、外送與餐飲平台、國內餐飲\n</div>",
+                                    "Communication ID": "0080411103152",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "586267b7-cd19-49d0-87b6-c22ba3321a7b",
+                                    "ItemName": "TreePointCardTabItem 2"
+                                },
+                                {
+                                    "Title": "精選商家",
+                                    "Icon Alt": "",
+                                    "Icon": "https://www.cathaybk.com.tw",
+                                    "Icon Text": "",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n    遠東SOGO百貨、屈臣氏、康是美、EZTABLE、Uber Eats、foodpanda\n</div>",
+                                    "Rejection": "0",
+                                    "ItemId": "bd0b87d1-9c82-4077-9d92-5c07ad89109d",
+                                    "ItemName": "TreePointCardTabItem 3"
+                                }
+                            ]
+                        },
+                        {
+                            "Tab Text": "趣旅行",
+                            "ItemId": "49a85a2d-1334-4162-a385-3579142098ec",
+                            "ItemName": "TreePointCardTab 3",
+                            "children": [
+                                {
+                                    "Title": "一般消費",
+                                    "Icon Alt": "",
+                                    "Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/73a7a8e1416945a09d38eb5ed14b2798?v=2",
+                                    "Icon Text": "0.3%",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n一般消費享0.3%小樹點(信用卡)，回饋無上限\n</div>",
+                                    "Rejection": "",
+                                    "ItemId": "bbb53ccd-3d76-49ac-8c68-35a781fbcb6d",
+                                    "ItemName": "TreePointCardTabItem 1"
+                                },
+                                {
+                                    "Title": "指定旅遊/交通消費",
+                                    "Icon Alt": "",
+                                    "Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/73a7a8e1416945a09d38eb5ed14b2798?v=2",
+                                    "Icon Text": "3%",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n國內叫車平台、國內租車、全球航空公司、全球飯店住宿、旅遊/訂房平台、旅行社、遊樂區、國外餐飲、指定海外消費\n</div>",
+                                    "Communication ID": "0080411103152",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "556c5814-50f0-4e3d-85e7-4eae086f992b",
+                                    "ItemName": "TreePointCardTabItem 2"
+                                },
+                                {
+                                    "Title": "精選商家",
+                                    "Icon Alt": "",
+                                    "Icon": "https://www.cathaybk.com.tw",
+                                    "Icon Text": "",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\nKlook、Agoda、Booking.com、Hotels.com、可樂旅遊、雄獅旅遊、易遊網、Uber\n</div>",
+                                    "Communication ID": "0080411103152",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "7f32f4ed-93a3-4992-ae8f-00e175c49cdb",
+                                    "ItemName": "TreePointCardTabItem 3"
+                                }
+                            ]
+                        },
+                        {
+                            "Tab Text": "集精選",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "88b2cdb0-ef98-4b59-93c2-c633437d729e",
+                            "ItemName": "TreePointCardTab 4",
+                            "children": [
+                                {
+                                    "Title": "一般消費",
+                                    "Icon Alt": "",
+                                    "Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/73a7a8e1416945a09d38eb5ed14b2798?v=2",
+                                    "Icon Text": "0.3%",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n一般消費享0.3%小樹點(信用卡)，回饋無上限\n</div>",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "01a93bf1-e288-4498-8e1e-20e7f6f2f026",
+                                    "ItemName": "TreePointCardTabItem 1"
+                                },
+                                {
+                                    "Title": "指定品牌/生活消費",
+                                    "Icon Alt": "",
+                                    "Icon": "https://www.cathaybk.com.tw/cathaybk/-/media/73a7a8e1416945a09d38eb5ed14b2798?v=2",
+                                    "Icon Text": "3%",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\r\n    <!-- richtext 欄位 -->\r\n    加油大眾交通、指定超商超市、餐飲百貨、外送平台、數位網購平台、國內停車、指定錢包\r\n</div>",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "002f974a-68a2-4a1c-b847-6cbd1784aa75",
+                                    "ItemName": "TreePointCardTabItem 2"
+                                },
+                                {
+                                    "Title": "精選商家",
+                                    "Icon Alt": "",
+                                    "Icon": "https://www.cathaybk.com.tw",
+                                    "Icon Text": "",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\r\n  7-ELEVEN、全家便利商店、全聯福利中心、高鐵、中油、麥當勞、星巴克、Uber Eats、嘟嘟房、城市車旅、蝦皮購物、OPEN錢包...等\r\n</div>",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "fb65fef0-20bb-497c-92f1-85a958673844",
+                                    "ItemName": "TreePointCardTabItem 3"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Anchor Key": "blockname18",
+                    "PC Background Image Alt": "",
+                    "PC Background Image": "https://www.cathaybk.com.tw/cathaybk/-/media/75bfba18d2d54706953310b9ea48bacf?v=2",
+                    "Mobile Background Image Alt": "",
+                    "Mobile Background Image": "https://www.cathaybk.com.tw/cathaybk/-/media/4117829e5c97404ca8b04e135496973a?v=2",
+                    "Main Title": "權益升級",
+                    "Main Subtitle": "",
+                    "Title": "當月完成指定任務次月享CUBE App跨行轉帳免手續費5次+月月抽萬元大獎",
+                    "Description": "",
+                    "Notice Type 1": "{0F972286-8B70-46DD-93C9-29FA03960031}",
+                    "Notice Title 1": "詳細說明",
+                    "Notice Content 1": "<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<p>已持有CUBE卡友，完成本月兩項任務挑戰：</p>\n<ol class=\"cubre-m-list -disc\">\n    <li>持本行臺幣存款帳戶（含數位存款帳戶）</li>\n    <li>CUBE App繳費一次（含本人/他人信用卡費、電信費、水電等生活費用，不含自動扣繳、超商、ATM或轉帳功能之繳費）</li>\n</ol>\n<p>次月即享權益升級：</p>\n<ol class=\"cubre-m-list -disc\">\n    <li>CUBE App跨行轉帳免手續費5次(次月6號後生效)</li>\n    <li>萬元百貨量販多選券抽獎資格 1 次</li>\n</ol>\n</div>\n</div>\n詳見活動網頁：<span style=\"font-size: 12px;\">https://cathaybk.tw/22GNS239F</span>\n<p style=\"text-align: left;\"><span style=\"background-color: #f9fbf7; font-size: 13px; color: #a5a5a5;\">\n*本行CUBE卡正卡持卡人當月月底前完成指定任務，下個月6日起至下下個月5日止，享本行CUBE網銀/CUBE&nbsp;App跨行轉帳免手續費優惠5次。<br />\n舉例：於3月完成指定任務，跨轉手續費優惠適用期間為4/6日起至5/5止<br />\n*<span style=\"background-color: #f9fbf7; color: #a5a5a5;\">兩項指定任務均須於當月月底前完成，次月方享有權益升級。</span><br />\n*任務達成狀態將於營業日次一日上午進行資料更新，並以本行系統紀錄為準。<br />\n</span><span style=\"background-color: #f9fbf7; font-size: small; color: #a5a5a5;\">*本活動所提供之跨轉手續費優惠，以使用本行CUBE網銀和CUBE App之臺幣存匯轉帳功能為限，始得享有手續費優惠。其餘金融服務附屬之轉帳功能(如：保單貸款等)恕難回饋。</span></p>",
+                    "Major Button Text": "",
+                    "Major Button Link": "",
+                    "Minor Button Text": "",
+                    "Minor Button Link": "",
+                    "Communication ID": "0009711200552",
+                    "Rejection": "0",
+                    "Advertising": "0",
+                    "ItemId": "d9756103-8562-428e-9558-b1020d98c392",
+                    "ItemName": "ImageBanner"
+                },
+                {
+                    "Anchor Key": "blockname99",
+                    "Main Title": "",
+                    "Main Subtitle": "",
+                    "Major Button Link": "https://mymobibank.page.link/G9cH",
+                    "Major Button Text": "立即升級",
+                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                    "Notice Title": "權益升級注意事項",
+                    "Notice Content": "<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li>活動期間：民國(下同)112年1月1日起至112年6月30日止。</li>\n    <li>活動對象：本行CUBE信用卡正卡持卡人。</li>\n    <li>活動辦法：\n<br>活動對象於活動期間內，每月完成以下指定任務，次月6日起享CUBE App跨行轉帳手續費優惠、並享萬元百貨公司多選券抽獎資格乙次。<br/>\n獎項為價值新臺幣（下同）10,000元之【百貨量販多選券10,000元】及價值新臺幣5,000之【百貨量販多選券5,000元】，中獎名額每月共計26名。\n<br>【任務一】持有新臺幣存款帳戶(含數位存款帳戶及KOKO數位存款帳戶)<br/>\n【任務二】使用國泰世華CUBE App繳費一次。</li>\n <li>活動獎項：\n    <table class=\"cubre-m-commonTable\">\n        <thead>\n            <tr>\n                <th style=\"width:20%\";>時間</th>\n                <th>每月獎項及中獎名額</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>112年1月</td>\n                <td>【百貨量販多選券10,000元】1名；【百貨量販多選券5,000元】25名</td>               \n            </tr>\n            <tr>\n                <td>112年2月</td>\n                <td>【百貨量販多選券10,000元】1名；【百貨量販多選券5,000元】25名</td>             \n            </tr>\n <tr>\n                <td>112年3月</td>\n                <td>【百貨量販多選券10,000元】1名；【百貨量販多選券5,000元】25名</td>             \n            </tr>\n <tr>\n                <td>112年4月</td>\n                <td>【百貨量販多選券10,000元】1名；【百貨量販多選券5,000元】25名</td>             \n            </tr>\n <tr>\n                <td>112年5月</td>\n                <td>【百貨量販多選券10,000元】1名；【百貨量販多選券5,000元】25名</td>             \n            </tr>\n <tr>\n                <td>112年6月</td>\n                <td>【百貨量販多選券10,000元】1名；【百貨量販多選券5,000元】25名</td>             \n            </tr>\n        </tbody>\n    </table>\n</li>\n     <li>注意事項：\n<br>【任務一】以參與人每月最後一日是否持有本行新臺幣存款帳戶(含數位存款帳戶及KOKO數位存款帳戶)為準。\n<br>【任務二】\n<br>(一)透過本行國泰世華CUBE App繳費一次，含本人/他人信用卡費（指依本行信用卡約定條款約定所列之「應付帳款」，包含當期及前期累計未繳信用卡消費全部款項、預借現金金額，加上循環信用利息、分期利息、遲延利息、違約金(含違約處理手續費)、年費、預借現金手續費、掛失手續費、國外交易手續費或調閱簽帳單手續費等其他應繳款項。）、電信費、水電等費用(不含透過自動扣款、超商、ATM或轉帳功能之繳費)，以每月首日至當月最後一日任一筆交易成功為準。\n<br>【任務一與任務二之共同注意事項】\n<br>(一)符合本活動資格者，每一身分證字號每月僅限獲得一次抽獎機會，及僅限每月中獎一次，中獎時須為國泰世華CUBE App用戶並更新國泰世華CUBE App至最新版本，始符合中獎資格。\n<br>(二)中獎名單將於每月抽獎後，次月月底前公布，請自行至本行官網（https://www.cathaybk.com.tw/cathaybk/）查詢，本行不另行通知。\n<br>(三)中獎人需於中獎名單公告頁面之公告指定日期前，以線上領獎系統填覆領獎資訊，或填妥紙本領獎申請書（申請書格式將併同公告於中獎名單公告頁面）並於中獎人簽章處親簽或蓋章後，以電子郵件將紙本領獎申請書電子檔案寄至digi@cathaybk.com.tw進行作業，逾期回覆及資料提供不完整視同棄權，中獎人不得要求補領、折換現金或更換其他獎項。\n<br>(四)本行將於收迄領獎資訊及領獎申請書後開始作業，本活動獎項將以抽獎程式亂數隨機抽出，並以電子序號形式回饋至中獎人於國泰世華CUBE App之「專屬優惠」區中。本活動獎項實際發送時間及方式皆依本行作業規定為準。如中獎人有未回覆、逾時回覆、未提供領獎資訊、資料提供不完整等情形，均視同放棄中獎資格；回饋時中獎人於本行之新臺幣帳戶均已銷戶或為警示帳戶或非為本行信用卡正卡持卡人；未下載國泰世華CUBE App或非為有效用戶時，視同放棄獎項，中獎人不得要求補領、折換現金、更換其他獎項、以其他方式領取或轉讓予他人，本行亦不再補發或遞補中獎名額。\n<br>(五)電子序號一經完成兌換後，恕無法退換。中獎人不得以任何理由要求更換其他產品、更換獎項或讓與他人，亦不得要求變換或折換等值現金或以其他方式領取。如遇產品缺貨或不可抗力事由導致獎項內容變更，本行有權變更獎項，改由等值商品取代。\n時程說明如下：\n<table class=\"cubre-m-commonTable\">\n        <thead>\n            <tr>\n                <th>參與抽獎月份</th>\n                <th>中獎名單公告國泰世華活動官網時間</th>\n                <th>線上領獎申請書回填截止時間</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>112年1月</td>\n                <td>112年2月底前</td>\n                <td>112年3月底前</td>                      \n            </tr>\n            <tr>\n                <td>112年2月</td>\n               <td>112年3月底前</td>\n                <td>112年4月底前</td>       \n            </tr>\n <tr>\n                <td>112年3月</td>\n               <td>112年4月底前</td>\n                <td>112年5月底前</td>                 \n            </tr>\n <tr>\n                <td>112年4月</td>\n                <td>112年5月底前</td>\n                <td>112年6月底前</td>              \n            </tr>\n <tr>\n                <td>112年5月</td>\n              <td>112年6月底前</td>\n                <td>112年7月底前</td>             \n            </tr>\n <tr>\n                <td>112年6月</td>\n                <td>112年7月底前</td>\n                <td>112年8月底前</td>               \n            </tr>\n        </tbody>\n    </table>\n<br>(六)【百貨量販多選券】(下稱本券)為Edenred Taiwan 新加坡商宜睿智慧股份有限公司台灣分公司所發行，相關規定如下：\n\t\t<br>A. 本券提供自選功能，供持有者選擇指定品牌兌換券，一旦選定品牌，限全額度單一品牌兌換使用且無法更改。\n \t\t<br>B. 可選擇之指定品牌為：家樂福、大潤發、遠東SOGO、屈臣氏、台北101、漢神百貨、統一時代百貨台北店、統一時代百貨高雄店夢時代。\n \t\t<br>C. 本券為企業獎項專用，請於指定日期前兌換，不得零售或轉售，其使用方式依指定品牌規定為準。\n \t\t<br>D. 本券為不記名，任何人持本券皆可使用，請自行妥善保管，如遭他人盜用，本券不再補發。\n \t\t<br>E. 本券所兌換之商品或折抵消費之金額不予開立統一發票。\n \t\t<br>F. 本券有效與否，以發行人票券系統所記錄之狀態為憑。如系統因網路連線有所遲延，依兌換商家系統端資訊為準。\n \t\t<br>G. 本券為有價證券，請勿擅自偽造、變造，以免觸犯刑責。\n<br>(七)參與人於參加活動時，即同意接受本活動注意事項規範；本活動之帳戶有效紀錄及繳費紀錄均以本行電腦系統紀錄與本行認定為準；本行有權檢視各項紀錄，若參與人資格不符合、違反本活動規定事項或涉及不正當得利及非法行為者，本行得排除其參與活動及中獎資格，並得依法主張相關權利。若有任何因為電腦、網路、電話、技術或不可歸責於本行之事由，而使參與人所登錄之資料有遺失、錯誤、無法辨識或毀損情況，本行不負任何法律責任，參與人亦不得因此異議。\n<br>(八)本行與提供獎項之廠商之間無合夥、經銷、代理或保證關係，如因本活動提供之商品或服務發生爭議，皆由廠商處理及負相關法律上責任，概與本行無涉。\n<br>(九)本行〈扣繳義務人〉給付參與人〈納稅義務人〉之全年給付所得總額超過新臺幣1,000元〈含〉以上，本行將依稅法相關規定申報年度個人所得。參與人參加本活動而需支付之任何稅捐係屬其依稅法之規定所須履行之義務，概與本行無關，如有其他未盡事宜悉依稅法相關規定辦理。\n<br>(十)個資告知事項：參與人瞭解及同意本行為本活動及行銷之需要蒐集、處理及利用其個人資料。本行係基於遵守我國法令規定、提供本網路查詢服務或參與人可能需要本行金融商品或服務資訊等特定目的，本於誠實信用原則及必要性原則蒐集、處理或利用參與人於本網路登載及後續基於上開特定目的與本行往來之個人資料。除事先取得參與人同意或法令另有規定外，本行處理或利用上開資料之期間、地區、對象及方式，將限於達成上開特定目的之必要範圍內為之。\n<br>(十一)本行保留隨時變更及終止本活動之權利，並於本行官網公告之。若有其他未盡事宜，悉依本行相關規定或解釋為準。<br/></li>\n</ol>\n</div>\n</div>",
+                    "Rejection": "0",
+                    "Advertising": "0",
+                    "ItemId": "32349bd2-37dc-4899-9883-5c24b39ba0e6",
+                    "ItemName": "PictureStep1",
+                    "children": [
+                        {
+                            "Tab Text": "持有本行新臺幣存款帳戶",
+                            "Rejection": "",
+                            "ItemId": "109fad25-dd1d-4faa-81f3-f3eb9fd3bb22",
+                            "ItemName": "PictureStep Tab 1",
+                            "children": [
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/1cc31a1771e04f4193ee1fcd4a8e36fc?v=1",
+                                    "Title": "免登入CUBE App即可點選「開戶」",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "1bc63c9e-1b0e-4b90-927b-b0eb38be1778",
+                                    "ItemName": "PictureStep Item 1"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/beae70508af94a8f926e18cea67c7a0a?v=1",
+                                    "Title": "點選「我要開立帳戶」",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "fe08562f-187b-4c2f-89e0-6f0809915f2c",
+                                    "ItemName": "PictureStep Item 2"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/a96c6018d5204bebaa41aac10851ac9b?v=1",
+                                    "Title": "點選「開立數位存款帳戶」，再點選馬上開始吧！",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "e3dbe9dc-f209-490e-b4d8-58d8fc9a8d76",
+                                    "ItemName": "PictureStep Item 3"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/652f78f15a2b440dafbec044daa6288f?v=1",
+                                    "Title": "輸入基本資料",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "97b23de9-bd4d-469e-b6bf-8ff2bedc30a0",
+                                    "ItemName": "PictureStep Item 4"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/fbd38a7c087d44aaa5355adb06226295?v=1",
+                                    "Title": "驗證手機號碼、信箱",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "e40ae441-8c09-46cb-92ee-f6a3a056a74f",
+                                    "ItemName": "PictureStep Item 5"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/a0b9964ee85a4f69bc742ab77585f8c8?v=1",
+                                    "Title": "填寫申請資料後，上傳雙證件",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "093ea872-cbaf-4ac9-955f-81cc721533d1",
+                                    "ItemName": "PictureStep Item 6"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/3a4fd6e49e484230900cdce95e9ce424?v=1",
+                                    "Title": "設定用戶代號/密碼",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "6256189e-6558-4080-9a24-31d494aeb33e",
+                                    "ItemName": "PictureStep Item 7"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/1653c8401f47417e806c04c9012ff3c6?v=1",
+                                    "Title": "選擇驗證方式",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "cab2452c-93ee-4983-b639-98929d26b143",
+                                    "ItemName": "PictureStep Item 8"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/ce9c3f03e38a412cb33265180ae541d5?v=1",
+                                    "Title": "審核通過即完成申請",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "59cc4333-745f-4a81-a5c3-e65710b2fd36",
+                                    "ItemName": "PictureStep Item 9"
+                                }
+                            ]
+                        },
+                        {
+                            "Tab Text": "使用CUBE App繳費",
+                            "Rejection": "",
+                            "ItemId": "dd883c46-fdbb-4b4c-bdf7-e79a30672c97",
+                            "ItemName": "PictureStep Tab 2",
+                            "children": [
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/99dc0452e8c1465d9bf58b345a215517?v=1",
+                                    "Title": "登入後於首頁選擇「繳費」",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "f185fb9b-6b2e-4c8d-aa32-e61801d06b72",
+                                    "ItemName": "PictureStep Item 1"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/da71087f8ae546e899b1007a1225d7dd?v=1",
+                                    "Title": "選擇要繳交的費用",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "375b09e7-84ba-44dd-b7a7-0b761fb6dd3d",
+                                    "ItemName": "PictureStep Item 2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Anchor Key": "blockname04",
+                    "Main Title": "限時回饋加碼 不能錯過",
+                    "Main Subtitle": "吃喝玩樂CUBE全包辦！最高享10% ",
+                    "Major Button Text": "如何領回饋加碼",
+                    "Major Button Link": "https://www.cathaybk.com.tw/javascript:$('a[data-anchor-btn=blockname07]').click()",
+                    "Notice Type 1": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                    "Notice Title 1": "注意事項",
+                    "Notice Content 1": "<ol>\n    <li><span>CUBE</span><span>卡權益如未敘明則適用期間為：</span><span>2023/01/01~2023/06/30</span><span>。</span></li>\n    <li><span>CUBE</span><span>卡權益方案</span><span>2023/06/30</span><span>前享天天免費變更方案，每正卡人每日限變更一次，附卡適用方案依正卡持卡人設定為準。</span></li>\n    <li><span>方案設定自當日零時起之消費即依當次變更後之方案計算回饋，方案設定依本行系統紀錄之日期為準。</span><span>(</span><span>舉例：小華</span><span>2023/01/10 17:00</span><span>變更方案為「樂饗購」</span> <span>，且</span><span> 2023/01/10 10:30</span><span>有一筆</span><span> Uber </span><span>消費、</span><span>18:00 </span><span>有一筆遠東</span><span>SOGO</span><span>百貨消費，則</span><span>2023/01/10 </span><span>之所有消費</span><span> (</span><span>包含</span><span> Uber </span><span>與遠東</span><span>SOGO</span><span>百貨</span><span>) </span><span>皆依「樂饗購」方案計算回饋。</span><span>)</span></li>\n    <li><span>參加</span><span>CUBE App</span><span>領取回饋加碼需於活動期間登入本行</span><span>CUBE App</span><span>之「</span><span>CUBE</span><span>回饋加碼專區」完成領取回饋加碼，且回饋計算將於活動領取日後</span><span>(</span><span>含當日</span><span>)</span><span>之新增消費方符合回饋計算，且入帳日需於活動結束後次月</span><span>10</span><span>號</span><span>(</span><span>含</span><span>)</span><span>前。</span></li>\n    <li><span>CUBE</span><span>卡各項回饋若未敍明，則以小樹點</span><span>(</span><span>信用卡</span><span>)</span><span>回饋，其餘商家回饋點數，則依各商家或活動說明為準。</span></li>\n    <li><span>小樹點</span><span>(</span><span>信用卡</span><span>)</span><span>點數價值為</span><span>1</span><span>點等值</span><span>NT$1</span><span>元，於每筆消費請款入帳後，依該筆消費之消費日適用權益方案、符合之限時回饋加碼，以各別回饋率計算小樹點</span><span>(</span><span>信用卡</span><span>)</span><span>並依小數點第一位四捨五入至整數位，並於次二日</span><span>(</span><span>遇假日順延</span><span>)</span><span>回饋至正卡人信用卡帳戶，實際回饋時間依本行作業時間為準。</span></li>\n    <li><span>正附卡消費合併計算，小樹點</span><span>(</span><span>信用卡</span><span>)</span><span>回饋歸戶至正卡持卡人信用卡帳戶。</span></li>\n    <li><span>消費折抵金以消費金額乘以回饋比率，四捨五入計算至整數位，於每筆消費請款入帳後計算，並於次三日</span><span>&nbsp;(</span><span>遇假日順延</span><span>)&nbsp;</span><span>回饋至正卡人信用卡帳戶，本行系統自動將該筆回饋金額折抵於原刷卡交易，實際回饋時間依本行作業時間為準。</span></li>\n    <li><span>合作商戶點之點數以消費金額乘以回饋比率，四捨五入計算至整數位，將於活動結束後統一回饋至合作商戶會員帳戶，入點資訊請於活動結束後至合作商戶會員帳戶查詢，實際回饋時間依本行作業時間為準。</span></li>\n    <li><span>如有退貨將依該筆退貨交易之消費日比對適用權益方案，依該方案計算回饋後予以扣除，若商家退款交易以退貨當日作為該筆消費之消費日，則依該日期適用方案計算回饋並予以扣除，消費日依帳單列示日期為準。</span></li>\n    <li><span>分期付款消費依該筆分期交易之消費日比對權益方案，依該方案計算回饋後，於每期入帳後回饋至正卡人信用卡帳戶，消費日依帳單列示日期為準。</span></li>\n    <li><span>「限時回饋加碼」消費，限直接使用</span><span>CUBE</span><span>卡刷卡或使用該卡加入</span><span> Apple Pay /Samsung Pay/Google Pay/Fitbit Pay/Garmin Pay/Hami Pay</span><span>消費，皆不含透過綁定其他型態支付工具之消費</span><span>(</span><span>如：</span><span>LINE Pay</span><span>、街口支付、全盈</span><span>+PAY</span><span>、全支付、</span><span>Pi</span><span>錢包、橘子支付、歐付寶、</span><span>icash pay</span><span>、</span><span>OPEN</span><span>錢包、</span><span>My FamiPay</span><span>、悠遊付、</span><span>ezPay</span><span>、</span><span>GOMAJI Pay</span><span>、</span><span>friday wallet</span><span>、</span><span>PayPal</span><span>等</span><span>)</span><span>。</span></li>\n    <li><span>CUBE</span><span>卡限時回饋加碼限回饋一般消費，一般消費排除：信用卡相關利息及費用</span><span>(</span><span>包含但不限於利息、年費、掛失費、預借現金手續費、違約金、國外交易手續費、調閱簽帳單手續費、補發帳單手續費等非消費款項</span><span>)</span><span>、預借現金、帳單分期、單筆消費分期</span><span>(</span><span>刷卡樂分期</span><span>)</span><span>、通信貸款、餘額代償金額及經本行公告除外之專案、稅款、學費、公用事業費用</span><span>(</span><span>包含但不限於網路通訊／影音服務等相關費用及附加費</span><span>)</span><span>、路邊停車費、公務機關各項費用、透過繳費平台（如公務機關信用卡繳費平台，含公務機關／國營事業／公立醫療院所等、電子化繳費稅處理平台、醫指付、本行</span><span>CUBE </span><span>網銀或</span><span>CUBE App</span><span>線上繳費服務</span><span>)</span><span>繳納之費用、代繳國泰人壽「躉繳</span><span>/</span><span>「投資型</span><span>/</span><span>「利率變動型年金」保單、代扣基金、悠遊卡加值、一卡通加值、</span><span>icash</span><span>加值、便利超商消費、透過聯合信用卡處理中心小額支付平台之特約商店之消費（如便利超商、連鎖速食店、停車費等）、全聯福利中心消費、</span><span>eTag</span><span>儲值</span><span>/eTag</span><span>智慧停車費代扣繳、遠東</span><span>SOGO</span><span>百貨貴賓廳之消費金額、國壽不動產租金代收、未經主管機關核准之境外投資交易平台(包括但不限於eToro)、其他經本行公告排除之項目。</span></li>\n    <li><span>持卡人於計算回饋時須持有效卡，且上一期無逾期未繳款之紀錄；若持卡人終止信用卡或遭停止使用信用卡權利、延滯繳款或其他違反信用卡約定條款等情事時，將喪失活動回饋資格。</span></li>\n    <li><span>消費回饋之認定依本行系統為主，本行將依商店提供之交易說明比對，若因商店請款資料變更以致交易說明資訊和本行可判別之資訊不同，或上述回饋通路旗下商品之清算資料類別與本行認列之清算資料不同，導致未列入回饋計算</span><span>(</span><span>不包含各商家之排除項目</span><span>)</span><span>，請來電告知，本行將於確認後以個案方式提供回饋，且不另行通知，惟回饋恕不溯及既往。除本項說明項目之外，不符回饋通路者，不予個案回饋。</span></li>\n    <li><span>持卡人於網路商店購物時，應注意是否為跨境交易。凡特約商店所在地登記為國外者或交易</span><span>(</span><span>含辦理退款</span><span>)</span><span>之貨幣非為新臺幣者，交易須收取國外交易手續費，相關費用依信用卡約定條款第十六條國外交易授權結匯辦理，請參閱本行信用卡約定條款約定。註：網頁以「</span><span>tw</span><span>」為網域名稱者，或於我國有設立分公司者，並非當然屬於我國境內特約商店，持卡人仍須注意是否為跨境交易。</span></li>\n    <li><span>若有任何因為電腦、網路、電話、技術或不可歸責於本行之事由，而使持卡人之交易紀錄有遺失、錯誤、無法辨識或毀損情況，本行不負任何法律責任，持卡人亦不得因此異議。</span></li>\n    <li><span>若刷卡消費為虛偽不實套利之交易，經本行查證後將逕行扣回已回饋之小樹點</span><span>(</span><span>信用卡</span><span>)</span><span>，若點數扣除作業時持卡人已將點數使用完畢，將改以</span><span>1</span><span>點小樹點</span><span>(</span><span>信用卡</span><span>)</span><span>等值新台幣壹元之價值入信用卡帳單。</span></li>\n    <li><span>優惠活動期間倘因不可歸責於本行或商店之事由，本行或商店得變更或終止優惠活動內容，並於活動網站公告。若有其他未盡事宜，悉依本行相關規定或解釋辦理。</span></li>\n</ol>",
+                    "Communication ID": "",
+                    "Rejection": "0",
+                    "Advertising": "0",
+                    "ItemId": "43b31586-f4fe-4d9a-8770-92012dc59dd4",
+                    "ItemName": "Store Discount",
+                    "children": [
+                        {
+                            "Discount Type": "玩數位",
+                            "Rejection": "",
+                            "ItemId": "c74ee1e7-add0-41f3-89b4-019cd1d5efd7",
+                            "ItemName": "Discount Type 1",
+                            "children": {
+                                "Discount Tag": "熱門",
+                                "Store Info": "{17528A94-822B-4C63-8755-F644FB700919}|{6522B19A-AD4C-41D0-A431-5119DC49B1DB}",
+                                "Communication ID": "",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "7bebbc74-0b34-4e1e-b498-3e42a5013c6b",
+                                "ItemName": "Discount Tag 1"
+                            }
+                        },
+                        {
+                            "Discount Type": "樂饗購",
+                            "Rejection": "",
+                            "ItemId": "4e9575af-dca2-4800-b786-b05551d52a93",
+                            "ItemName": "Discount Type 2",
+                            "children": {
+                                "Discount Tag": "熱門",
+                                "Store Info": "{A58EFC69-8FF9-45AF-83A1-3A30B0370450}|{B28977F5-2FAB-4339-BE0C-659008BB4B56}|{8429A53C-FAC6-43CE-A0C6-24AE1009BC09}",
+                                "Communication ID": "簽呈：0080411200577",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "394aa26e-b58c-4400-afdc-13d6dfcecc0e",
+                                "ItemName": "Discount Tag 1"
+                            }
+                        },
+                        {
+                            "Discount Type": "趣旅行",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "c94d4142-aaa3-4c37-8b0b-9c17973be359",
+                            "ItemName": "Discount Type 3",
+                            "children": {
+                                "Discount Tag": "熱門",
+                                "Store Info": "{B2D66517-4869-4D0E-BA16-112582A06845}|{4C053432-2927-4F56-A93E-7BA7C1ACF8FF}|{69F1C34D-913A-4667-A089-C807B64FB7A9}|{397A3C94-9453-49E8-B5AA-FA00FAB3AE27}|{736A0743-15AC-44B9-8147-A5E7368B5B82}|{50C5F4BF-C9A5-44DC-9465-0AFEBCD84748}",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "270ed1c6-e3a8-4827-a456-2564ebc55767",
+                                "ItemName": "Discount Tag 1"
+                            }
+                        },
+                        {
+                            "Discount Type": "集精選",
+                            "Communication ID": "0080411102535",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "bc467675-8423-4504-954b-7bde07d8f37f",
+                            "ItemName": "Copy of Discount Type 3",
+                            "children": {
+                                "Discount Tag": "熱門",
+                                "Store Info": "{837F45CC-3760-48EB-B30B-458D50C6D6D9}|{1E9718B8-BE26-478D-84FF-06A8C3C00E15}|{7EC5B15E-BA16-4B1B-B016-4D38D29D5AC0}|{1FF26736-10CB-4EB6-97BA-7B2C45DAE7FC}|{454E7D57-BFF7-479B-854E-B79A6A9BFFB9}|{C8357013-F099-4A92-8F14-D804C0DB9209}",
+                                "Communication ID": "0080411103389",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "e797fd0b-37b7-4761-b25a-1434aff65fd6",
+                                "ItemName": "Discount Tag 1"
+                            }
+                        },
+                        {
+                            "Discount Type": "一般消費",
+                            "Rejection": "0",
+                            "ItemId": "c3651618-61a3-4004-9af4-6a722f42d440",
+                            "ItemName": "Discount Type 4",
+                            "children": {
+                                "Discount Tag": "熱門",
+                                "Store Info": "{F8A51229-9344-4F10-8BF1-91FBEBADFD27}|{ED662B61-856A-45D0-8623-C46B6C47C5F1}|{1D2ABC83-9A12-4137-A88E-0D4AB2D023DA}|{BEC2E4FB-3E0A-4187-9790-5172EF95EFB0}|{CA0A1197-421D-416D-ADBE-441FEFEA9BDD}|{34046948-F4E1-4C1D-A9A9-D3F342ABD2BC}|{9616DC19-C826-431B-8365-BDC7E5E0CBA6}|{E91D139B-E35A-42AA-9AF8-EB83F9E4E394}|{A0D37C75-B760-4EB2-A849-6595BD8324AA}|{762DE96C-1B15-47C2-8CC1-C9281099846C}|{34B5033D-5C00-49B2-B7AA-863AC3369122}|{5342DA94-9787-444C-B9A2-6F1289060091}|{70203532-4B19-4175-A010-4F8D8DC4328E}|{9A3CE99E-875B-4D2F-90D0-3AE29AFC2ABB}",
+                                "Communication ID": "",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "048ca5a9-6eb1-4923-bc25-4f6cab798631",
+                                "ItemName": "Discount Tag 1"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Anchor Key": "blockname05",
+                    "Main Title": "卡友贈禮 專屬為你準備",
+                    "Main Subtitle": "",
+                    "Rejection": "",
+                    "ItemId": "b527af1a-7d0e-4be6-81eb-010510abdd56",
+                    "ItemName": "HorGraphicTab",
+                    "children": [
+                        {
+                            "Tab Text": "新戶首刷禮",
+                            "Display Mode": "true",
+                            "Image Alt": "",
+                            "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/e5ca87b249254add88c556b154d450fd?v=1",
+                            "Title": "<p>新戶首刷禮&nbsp;<img alt=\"\" width=\"36\" class=\"cubre-a-image\" src=\"-/media/e4e8446ed40d43958cfc3c06294b8980\" style=\"padding-bottom : 5px;\" />&nbsp;500</p>",
+                            "Description": "<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<p><strong>2023/6/30</strong>前核卡，且核卡30日內完成下列兩項任務：</p>\n<ol class=\"cubre-m-list -disc\">\n    <li> 一般消費或「集精選」指定消費<strong>刷3筆且每筆NT$888以上</strong></li>\n    <li> 成功申辦電子帳單</li>\n</ol>\n</div>\n</div>",
+                            "Notice": "",
+                            "Notice Type 1": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                            "Notice Title 1": "注意事項",
+                            "Notice Content 1": "<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li>適用期間：2023/1/1~2023/6/30。</li>\n    <li>2023/6/30(含)前新戶申辦且成功核發CUBE卡正卡，並於<b>核卡&nbsp;30日內刷一般消費或集精選指定消費3筆，每筆消費皆滿NT$888，且成功申辦本行電子帳單</b>，方符合新戶首刷禮資格。</li>\n    <li><b>新戶定義為核卡日前6個月內未持有本行任一張有效正卡卡片</b>，核卡日依本行系統所載為準。</li>\n    <li>本活動係以符合資格且同日核卡之CUBE卡正附卡消費合併計算。每戶限參加一種新戶活動，若同時申辦2種卡別者，依系統判斷適用新戶活動為準，若於活動期間同時參加本行其他新戶辦卡活動，則以本行優先核卡卡片所適用之回饋活動為準，後核發卡片恕不享有新戶刷卡禮回饋。</li>\n    <li>新增消費金額計算限消費日於核卡日後30天內商店已請款入帳之一般消費或集精選指定消費，分期消費以核卡日後30天內已請款入帳金額計算(僅認列活動期間已入帳之分期期金)，消費金額如有退貨將予以扣除。刷卡消費金額之計算依本行系統登錄刷卡交易之廠商請款日為準。如您符合本活動之消費因廠商請款日於核卡後40天仍未入帳，請您撥打本行客服專線(02)2383-1000通知本行處理。</li>\n    <li>新增消費金額計算限<b>一般消費或集精選指定消費</b>。</li>\n    <li>【集精選】指定消費包含：中油-直營店、台灣高鐵、7-ELEVEN、全家便利商店、全聯福利中心、麥當勞、星巴克、Uber Eats、foodomo、遠東SOGO百貨、新光三越、統一時代百貨、夢時代購物中心、Apple媒體服務、蝦皮購物、博客來、城市車旅、嘟嘟房、OPEN錢包通路，詳情請見<a href=\"https://www.cathaybk.com.tw/cathaybk/personal/product/credit-card/cards/cube-list/#select\" target=\"_self\">集精選權益</a>說明。</li>\n    <li>一般消費定義不含信用卡相關利息及費用（包含但不限於利息／年費／掛失費／預借現金手續費／違約金／國外交易手續費／調閱簽帳單手續費、補發帳單手續費等非消費款項）、預借現金、帳單分期、單筆消費分期（刷卡樂分期）、通信貸款、餘額代償金額及經本行公告除外之專案、稅款、學費、公用事業費用（包含但不限於中華電信電話／網路通訊／影音服務等相關費用及附加費）、路邊停車費、公務機關各項費用、透過繳費平台（如公務機關信用卡繳費平台，含公務機關／國營事業／公立醫療院所等、電子化繳費稅處理平台、醫指付、本行CUBE網銀或CUBE App線上繳費服務）繳納之費用、保費、代扣基金、悠遊卡加值、一卡通加值、icash加值、便利超商消費、透過聯合信用卡處理中心小額支付平台之特約商店之消費（如便利超商、連鎖速食店、停車費等）、全聯福利中心、eTag儲值／eTag智慧停車費代扣繳、遠東SOGO百貨貴賓廳之消費金額、國壽不動產租金代收、未經主管機關核准之境外投資交易平台(包括但不限於eToro)、其他經本行公告排除之項目。</li>\n    <li>本行將於符合資格後約2個月回饋小樹點(信用卡)至正卡人之信用卡帳上，不得指定回饋月份、轉讓、折現或兌換其他商品。</li>\n</ol>\n</div>\n</div>",
+                            "Notice Type 2": "",
+                            "Notice Title 2": "",
+                            "Major Button Link": "",
+                            "Major Button Text": "",
+                            "Minor Button Link": "",
+                            "Minor Button Text": "",
+                            "Communication ID": "0080411103152",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "87fc64e9-6d32-4524-a178-417ec26f9075",
+                            "ItemName": "HorGraphicTabIem1"
+                        },
+                        {
+                            "Tab Text": "新戶加碼禮",
+                            "Display Mode": "true",
+                            "Image Alt": "",
+                            "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/6cf01c72a03147b9be4ea99688038f3e?v=1",
+                            "Title": "<p>Mastercard新戶加碼禮最高<br />\n<img alt=\"\" width=\"36\" class=\"cubre-a-image\" src=\"-/media/e4e8446ed40d43958cfc3c06294b8980\" style=\"padding-bottom : 5px;\" />1,000</p>",
+                            "Description": "<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<p>2022/10/1~12/31期間核卡之Mastercard新戶，享年底前於指定通路消費回饋10%小樹點(信用卡)，活動期間上限1,000點。</p>\n</div>\n</div>",
+                            "Notice": "指定通路: Facebook、Amazon 、淘寶/天貓、PlayStation、Nintendo、EA、Steam、Garena、Apple媒體服務、Google Play、 Spotify、Disney+、Netflix",
+                            "Notice Type 1": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                            "Notice Title 1": "注意事項",
+                            "Notice Content 1": "<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li>適用期間：2022/10/01~2022/12/31。</li>\n    <li>需於2022/10/01~12/31(含)新戶申辦且成功核發Mastercard CUBE卡正卡，享12/31前於指定通路消費回饋10%小樹點(信用卡)，活動期間上限1,000點。</li>\n    <li><b>新戶定義為核卡日前6個月內未持有本行任一張有效正卡卡片</b>，核卡日依本行系統所載為準。</li>\n    <li>指定通路: Facebook、Amazon、淘寶/天貓、PlayStation、Nintendo、EA、Steam、Garena、Apple媒體服務、Google Play、Spotify、Disney+、Netflix。</li>\n    <li>本活動係以符合資格且同日核卡之CUBE卡正附卡消費合併計算，活動期間每戶限回饋乙次。</li>\n    <li>消費計算限消費日期於2022/10/1~12/31期間內，且2023/1/10前商店已請款入帳之消費，預定於2023/2月起陸續回饋至符合資格之正卡持卡人信用卡帳單，每戶回饋上限1,000點小樹點(信用卡)，實際回饋時間依本行作業時間為準。</li>\n    <li>分期消費金額以分期前總金額計算，消費金額如有退貨將予以扣除，刷卡消費金額之計算依本行系統登錄刷卡交易之廠商請款日為準。</li>\n    <li>卡友於網路商店購物時，應注意是否為跨境交易，且網頁以「tw」為網域名稱者，並不限為國內公司，卡友仍須注意是否為跨境交易，而有須支付國外交易服務費之情事。</li>\n    <li>由於特約商店所在地為國外，交易須收取國外交易手續費，相關費用依信用卡約定條款第十六條國外交易結匯辦理，請參閱本行信用卡<a class=\"cubre-a-link\" href=\"https://www.cathaybk.com.tw/cathaybk/about/about/contract/\">定型化契約</a>約定。</li>\n</ol>\n<p>*持卡人於回饋時，須持有符合本活動資格消費之有效信用卡，且上一期無逾期未繳款之紀錄，若終止信用卡、掛失不補發、到期不續卡、遭本行停止使用信用卡權利、延滯繳款、或違反本行信用卡契約等情事時，即自動喪失資格。</p>\n<p>*活動期間內倘因不可歸責於本行之事由，本行保有變更或終止活動之權利，並於本行網站上公告。若有其他未盡事宜，悉依本行相關規定或解釋辦理。</p>\n</div>\n</div>",
+                            "Major Button Link": "",
+                            "Major Button Text": "",
+                            "Minor Button Link": "",
+                            "Minor Button Text": "",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "3641f8a9-f926-45d2-a29e-88e5f509b309",
+                            "ItemName": "HorGraphicTabIem2"
+                        },
+                        {
+                            "Tab Text": "卡友推薦禮",
+                            "Display Mode": "true",
+                            "Image Alt": "",
+                            "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/f0f21f85a0044dd28d4e5cdd49daf2d4?v=1",
+                            "Title": "<p>推薦好友辦卡，獎勵無上限!</p>",
+                            "Description": "<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<p><strong>2023/1/1~2023/6/30</strong>活動期間CUBE卡友以專屬連結推薦好友首次申辦CUBE卡正卡，成功推薦同享推薦禮</p>\n<ol class=\"cubre-m-list -disc\">\n    <li>成功推薦新戶同享<span style=\"color: #00b050;\"><strong>200</strong></span><strong><span style=\"color: #00b050;\">點</span></strong>、舊戶同享<span style=\"color: #00b050;\"><strong>50</strong></span><span style=\"color: #00b050;\"><strong>點</strong></span></li>\n    <li>推薦達5人(含)以上，推薦人再享點數「<span style=\"color: #00b050;\"><strong>2倍贈</strong></span>」</li>\n    <li>成功推薦定義：被推薦人於核卡30日內刷一般消費或「集精選」指定消費<strong>1筆NT$888(含)以上，且登入CUBE App乙次</strong></li>\n</ol>\n</div>\n</div>",
+                            "Notice": "",
+                            "Notice Type 1": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                            "Notice Title 1": "注意事項",
+                            "Notice Content 1": "<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li>活動期間：2023/1/1~2023/6/30，本活動限本國人參加。</li>\n    <li>推薦人定義：推薦人需為CUBE卡既有正卡持卡人，CUBE卡包含已併入且更名為CUBE卡之原鈦金商務卡、尊榮御璽(COMBO)卡、享購鈦金卡、國泰人壽聯名卡、銀行白金/金/普卡(含COMBO)，本活動適用於透過活動網頁之推薦人專屬推薦網址申辦，推薦人恕無法同時參與本行其他信用卡推廣獎勵方案。</li>\n    <li>被推薦人定義：(1)新戶定義為核卡日前6個月內未持有本行任一張有效信用卡正卡，核卡日依本行系統所載為準。(2)舊戶定義為核卡日前6個月內未持有「CUBE卡或已併入且更名為CUBE卡」之信用卡正卡，&nbsp;方符合資格。</li>\n    <li>成功推薦定義：被推薦人於活動期間透過<strong>推薦人之專屬連結</strong>申辦CUBE卡正卡，且於<strong>2023/6/30(含)前核卡成功，核卡後30天內刷一般消費或「集精選」指定消費1筆NT888元(含)以上，並且登入CUBE App乙次</strong>。核卡日依本行系統所載為準，如您符合本活動之消費因廠商請款日於核卡後40天仍未入帳，請您撥打國泰世華銀行客服專線(02)2383-1000通知本行處理。</li>\n    <li>【集精選】指定消費包含：中油-直營店、台灣高鐵、7-ELEVEN、全家便利商店、全聯福利中心、麥當勞、星巴克、Uber Eats、foodomo、遠東SOGO百貨、新光三越、統一時代百貨、夢時代購物中心、Apple媒體服務、蝦皮購物、博客來、城市車旅、嘟嘟房、OPEN錢包通路，詳情請見<a href=\"https://www.cathaybk.com.tw/cathaybk/personal/product/credit-card/cards/cube-list/#select\" target=\"_self\">集精選權益</a>說明。</li>\n    <li>推薦獎勵：推薦人成功推薦1~4位「新戶」，推薦人與被推薦人分別享有每戶<strong><span style=\"color: #00b050;\">200點</span></strong>小樹點(信用卡)；成功推薦1~4位「舊戶」，推薦人與被推薦人分別享每戶<strong><span style=\"color: #00b050;\">50點</span></strong>小樹點(信用卡)，推薦滿5位(含)以上，推薦人享點數總額「2倍贈」，回饋無上限。例：(1)推薦3位新戶，推薦人享600點。(2)推薦5位新戶，推薦人享200*5*2 = 2,000點。(3)推薦3位新戶及2位舊戶，推薦人享(200*3 + 50*2)*2 = 1,400點，依此類推。小樹點(信用卡)點數價值為1點等值NT$1元，本活動獎勵不得以任何理由要求更換其他產品、折現或轉讓予他人。</li>\n    <li>贈點方式：預計於2023年8月起陸續將獎勵點數回饋至推薦人與被推薦人信用卡帳戶。持卡人於回饋時，須持有符合本活動資格之有效信用卡，且上一期無逾期未繳款之紀錄，若終止信用卡、掛失不補發、到期不續卡、遭國泰世華銀行停止使用信用卡權利、延滯繳款、或違反國泰世華銀行信用卡契約等情事時，即自動喪失資格。</li>\n    <li>被推薦人可同時享有原新戶禮活動資格，更多詳細資訊請見新戶禮活動內容及注意事項。</li>\n    <li>推薦人與被推薦人不得為同一人。若被推薦人透過不同推薦人，或同時以國泰世華銀行其他通路申辦CUBE卡，國泰世華銀行以核卡時間先後作為是否適用本活動之依據，推薦獎勵亦由最先推薦成功之推薦人獲得。</li>\n    <li>本活動刷卡消費計算限商店已請款之一般消費或集精選指定消費，一般消費排除：信用卡相關利息及費用(包含但不限於利息、年費、掛失費、預借現金手續費、違約金、國外交易手續費、調閱簽帳單手續費、補發帳單手續費等非消費款項)、預借現金、帳單分期、單筆消費分期(刷卡樂分期)、通信貸款、餘額代償金額及經本行公告除外之專案、稅款、學費、公用事業費用(包含但不限於網路通訊／影音服務等相關費用及附加費)、路邊停車費、公務機關各項費用、透過繳費平台（如公務機關信用卡繳費平台，含公務機關／國營事業／公立醫療院所等、電子化繳費稅處理平台、醫指付、本行CUBE網銀或CUBE App線上繳費服務)繳納之費用、代繳國泰人壽「躉繳/「投資型/「利率變動型年金」保單、代扣基金、悠遊卡加值、一卡通加值、icash加值、便利超商消費、透過聯合信用卡處理中心小額支付平台之特約商店之消費（如便利超商、連鎖速食店、停車費等）、eTag儲值/eTag智慧停車費代扣繳、遠東SOGO百貨貴賓廳之消費金額、國壽不動產租金代收、未經主管機關核准之境外投資交易平台(包括但不限於eToro)、及其他經本行公告排除之項目。</li>\n    <li>參與本活動並獲得之獎勵點數，依中華民國稅法規定，獎項價值超過新臺幣20,000元(含)內居住未達183天之本國人及外國人)不論中獎人所得之金額，須就中獎所得扣繳20%機會中獎稅。中獎人(納稅義務人)於國泰世華銀行(扣繳義務人)之全年中獎總金額超過新臺幣1,000元(含)以上，國泰世華銀行將依稅法相關規定辦理開立扣繳憑單。</li>\n    <li>優惠提供期間倘因不可歸責於本行之事由，本行得變更或終止活動內容，並於國泰世華銀行網站上公告。如有任何爭議，本行保留最終決定權。</li>\n</ol>\n</div>\n</div>",
+                            "Major Button Link": "https://www.cathaybk.com.tw/eservice/MGM/IntroS0",
+                            "Major Button Text": "取得專屬連結",
+                            "Minor Button Link": "",
+                            "Minor Button Text": "",
+                            "Communication ID": "0080411103152",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "faaf711a-a160-49c3-8bb4-1e926acd33e9",
+                            "ItemName": "HorGraphicTabIem4"
+                        }
+                    ]
+                },
+                {
+                    "Anchor Key": "blockname07",
+                    "Main Title": "CUBE App卡友服務",
+                    "Main Subtitle": "",
+                    "Major Button Link": "https://www.cathaybk.com.tw/cathaybk/promo/event/ebanking/product/APP-WEB/index.html",
+                    "Major Button Text": "馬上下載App",
+                    "Minor Button Link": "https://www.cathaybk.com.tw/cathaybk/personal/event/overview/#category=Credit%20Card&filter=text",
+                    "Minor Button Text": "更多點數兌換",
+                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                    "Notice Title": "注意事項",
+                    "Notice Content": "<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<p>權益切換：</p>\n<ol class=\"cubre-m-list\">\n    <li>CUBE卡權益方案2023/6/30前享天天免費變更方案，每正卡人每日限變更一次，附卡適用方案依正卡持卡人設定為準。</li>\n    <li>方案設定自當日零時起之消費即依當次變更後之方案計算回饋，方案設定依本行系統紀錄之日期為準。</li>\n    <li>CUBE App「CUBE卡點數回饋明細查詢」顯示之小樹點(信用卡)僅包含CUBE卡權益方案回饋點數，不含其他活動或國泰優惠提供之小樹點。</li>\n    <li>回饋點數可於消費入帳後次二日（營業日）內於CUBE App查詢。</li>\n    <li>操作畫面僅為示意，回饋資訊依持卡人實際消費交易為準。</li>\n    <li>有任何因為電腦、網路、電話、技術或不可歸責於本行之事由，而使持卡人之交易紀錄有遺失、錯誤、無法辨識或毀損情況，本行不負任何法律責任，持卡人亦不得因此異議。</li>\n    <li>本活動如有未盡事宜，悉依本行規定及解釋為準。本行保留活動修改、變更及終止之權利，並於本行網站公告。</li>\n    <li>本活動適用對象為持有國泰世華銀行信用卡小樹點(信用卡)之正卡持卡人，附卡持卡人不得參加。</li>\n</ol>\n<p>領取回饋加碼：</p>\n<ol class=\"cubre-m-list\">\n    <li>參加本活動需於活動期間完成領取，且回饋計算將於領取日後(含當日)之新增消費方符合回饋計算，且入帳日需於2023/05/10(含)前。</li>\n    <li>小樹點(信用卡)點數價值為1點等值NT$1元，CUBE卡於每筆消費請款入帳後，四捨五入計算回饋至小樹點(信用卡)整數位，並於次二日(遇假日順延)回饋至正卡人信用卡帳戶；消費折抵金以消費金額乘以回饋比率，四捨五入計算至整數位，於每筆消費請款入帳後計算，並於次三日 (遇假日順延) 回饋至正卡人信用卡帳戶，本行系統自動將該筆回饋金額折抵於原刷卡交易；合作商戶點之點數以消費金額乘以回饋比率，四捨五入計算至整數位，將於活動結束後統一回饋至合作商戶會員帳戶，入點資訊請於活動結束後至合作商戶會員帳戶查詢，實際回饋時間依本行作業時間為準。</li>\n    <li>分期付款消費於每期期金入帳後回饋至正卡人信用卡帳戶，消費日依帳單列示日期為準。</li>\n    <li>持卡人於計算回饋時須持有效卡，且上一期無逾期未繳款之紀錄；若持卡人終止信用卡或遭停止使用信用卡權利、延滯繳款或其他違反信用卡約定條款等情事時，將喪失活動回饋資格。</li>\n    <li>消費回饋之認定依本行系統為主，本行將依商店提供之交易說明比對，若因商店請款資料變更以致交易說明資訊和本行可判別之資訊不同，或上述回饋通路旗下商品之清算資料類別與本行認列之清算資料不同，導致未列入回饋計算(不包含各商家之排除項目)，請來電告知，本行將於確認後以個案方式提供回饋，且不另行通知，惟回饋恕不溯及既往。除本項說明項目之外，不符回饋通路者，不予個案回饋。</li>\n    <li>持卡人於網路商店購物時，應注意是否為跨境交易，且網頁以「tw」為網域名稱者，並不限為國內公司，持卡人仍須注意是否為跨境交易，特約商店所在地為國外者，交易須收取國外交易手續費，相關費用依信用卡約定條款第十六條國外交易授權結匯辦理，請參閱本行信用卡約定條款約定。</li>\n    <li>若有任何因為電腦、網路、電話、技術或不可歸責於本行之事由，而使持卡人之交易紀錄有遺失、錯誤、無法辨識或毀損情況，本行不負任何法律責任，持卡人亦不得因此異議。</li>\n    <li>優惠活動期間倘因不可歸責於本行之事由，本行得變更或終止優惠活動內容，並於活動網站公告。若有其他未盡事宜，悉依本行相關規定或解釋辦理。</li>\n</ol>\n<p>即時折抵消費：</p>\n<ol class=\"cubre-m-list\">\n    <li>小樹點(信用卡)價值為每1點等值新台幣1元，各折抵/兌換通路使用規則依各活動網頁或合作商店公告為準。</li>\n    <li>於商店消費欲使用小樹點(信用卡)折抵當次消費金額者，請事先告知結帳人員或依線上購物訂購網頁說明操作。</li>\n    <li>本行保留變更或終止本活動之權利，並保留同意持卡人參加本活動與否之權利。</li>\n    <li>優惠提供期間倘因不可歸責於本行之事由，本行得變更或終止活動內容，並於本行網站上公告。</li>\n</ol>\n</div>\n</div>",
+                    "Rejection": "0",
+                    "Advertising": "0",
+                    "ItemId": "29b25e7e-aab0-4178-943e-2206f27dd10d",
+                    "ItemName": "PictureStep2",
+                    "children": [
+                        {
+                            "Tab Text": "如何切換權益",
+                            "Rejection": "",
+                            "ItemId": "09f50645-ab48-4bab-88c7-a03212ef1065",
+                            "ItemName": "PictureStep Tab 1",
+                            "children": [
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/4028c278a2f449d4b415fc0a68a7522d?v=1",
+                                    "Title": "點選CUBE權益方案",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "eeb599b5-5920-46cf-be23-d4039531c358",
+                                    "ItemName": "PictureStep Item 1"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/ae794543df9f4da0ad48ae0cb78e7aa7?v=1",
+                                    "Title": "選擇方案",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "18702cf1-2996-4ef4-943d-200f8a8b9440",
+                                    "ItemName": "PictureStep Item 2"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/a83e0843642c4bd788189494b4d82f77?v=1",
+                                    "Title": "點切換此方案",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "fe3e415e-24bb-49bd-8bd1-9a4c3282a1d4",
+                                    "ItemName": "PictureStep Item 3"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/238397db1e02438a8797bfd06e30da95?v=1",
+                                    "Title": "切換完成",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "30d4f830-b9f8-4249-aa25-cf7aa28a75dc",
+                                    "ItemName": "PictureStep Item 4"
+                                }
+                            ]
+                        },
+                        {
+                            "Tab Text": "如何領取回饋加碼",
+                            "Rejection": "",
+                            "ItemId": "52c2e6e3-0f3d-41d8-ba06-5e67d3c44fd5",
+                            "ItemName": "PictureStep Tab 2",
+                            "children": [
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/df936486795043169acc03ae00397eae?v=1",
+                                    "Title": "點選CUBE卡權益方案",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "7ecd7609-b150-4267-8766-b502af576a18",
+                                    "ItemName": "PictureStep Item 1"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/24d90109fc79474d96ddc0f524bad2f9?v=1",
+                                    "Title": "馬上領取CUBE回饋加碼",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "c76d0588-f945-4d96-a4c3-049e1ae61cd0",
+                                    "ItemName": "PictureStep Item 2"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/28a149d22f3f40f58585934e45c9b7c8?v=1",
+                                    "Title": "領取優惠活動",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "6af7ea63-4cf9-4b2d-84f9-03c4cc369936",
+                                    "ItemName": "PictureStep Item 3"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/a75c743ca7de48d4a2c9f04693003189?v=1",
+                                    "Title": "領取成功",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "509427ba-a4d2-4377-8b57-3150763a8f93",
+                                    "ItemName": "PictureStep Item 4"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/d0bb6b6e6d684cd4b8eea7ebdf92617c?v=1",
+                                    "Title": "查看活動回饋明細",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "9b12ca79-6b30-4ece-847d-11029561a8c8",
+                                    "ItemName": "PictureStep Item 5"
+                                }
+                            ]
+                        },
+                        {
+                            "Tab Text": "即時折抵消費",
+                            "Rejection": "",
+                            "ItemId": "ec2fae76-ea8f-49bf-9abc-676de76cd0c2",
+                            "ItemName": "PictureStep Tab 3",
+                            "children": [
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/1cc699e7fa574537af3261a855d21921?v=1",
+                                    "Title": "點選CUBE卡權益方案",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "21d507da-4abc-4403-9d9b-a27b4e28c831",
+                                    "ItemName": "PictureStep Item 1"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/3054ffa5a742487283b0c6463986e1fb?v=2",
+                                    "Title": "點選點數折抵",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "af083d14-bc48-4ec2-8953-a3bbbcda8645",
+                                    "ItemName": "PictureStep Item 2"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/eefc60461bdd4dc18de383f08d3b361d?v=2",
+                                    "Title": "選擇一筆消費",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "713f714c-ed41-4ac6-91a7-00b2b95e888d",
+                                    "ItemName": "PictureStep Item 3"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/e7580276b288428489557a3d22b9dda9?v=2",
+                                    "Title": "點選點數折抵",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "6de097a5-601c-4782-9b78-9ed9a1c28b6d",
+                                    "ItemName": "PictureStep Item 4"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/0c4939e5668a4da8a8a1ac71b50cc07f?v=2",
+                                    "Title": "點選立即折抵",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "82d00aac-31c4-413b-bb54-db2c30085b9b",
+                                    "ItemName": "PictureStep Item 6"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/6a7ee109cdb54194a0647ef9dcc53d43?v=1",
+                                    "Title": "折抵完成",
+                                    "Description": "",
+                                    "Rejection": "",
+                                    "ItemId": "a183b514-cdde-40d6-bf35-f1567ae834cd",
+                                    "ItemName": "PictureStep Item 5"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Anchor Key": "blockname08",
+                    "Main Title": "卡片申辦資訊",
+                    "Main Subtitle": "滿額免年費 享受用卡時光",
+                    "Description": "隨選回饋 有它由我就足夠",
+                    "Credit Card Image 1 Alt": "",
+                    "Credit Card Image 1": "https://www.cathaybk.com.tw/cathaybk/-/media/fe755b349afd43118cca7456341bab41?v=1",
+                    "Credit Card Image 2 Alt": "",
+                    "Credit Card Image 2": "https://www.cathaybk.com.tw/cathaybk/-/media/4fb70cac3d3b410c9db216981b25ad6e?v=1",
+                    "Credit Card Image 3 Alt": "",
+                    "Credit Card Image 3": "https://www.cathaybk.com.tw",
+                    "Rejection": "0",
+                    "Advertising": "0",
+                    "ItemId": "40222dcc-0652-4ecf-8705-20f3ad9a10ff",
+                    "ItemName": "Credit Card Apply Info",
+                    "children": {
+                        "Category Name": "卡片基本資訊",
+                        "ItemId": "94439efd-f5f7-4eb7-a798-2bfe0fb8def7",
+                        "ItemName": "Category Name 1",
+                        "children": [
+                            {
+                                "Title": "申辦資格與年費",
+                                "Context": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list -sm\">\n    <li>成年人可申請正卡。附卡申請人需為正卡申請人之父母、兄弟姊妹、配偶、配偶之父母或年滿15歲之子女。</li>\n    <li>申請人為未成年人，須法定代理人(即父母/監護人)共同簽名同意。</li>\n    <div class=\"cubre-o-block__component\">\n    <table class=\"cubre-m-commonTable\">\n        <tbody>\n            <tr>\n                <th class=\"greenHead\" style=\"width: 30%;\">項目</th>\n                <th class=\"greenHead\" style=\"width: 70%;\">申辦及年費規則</th>\n            </tr>\n            <tr>\n                <td class=\"tac\" style=\"text-align: left;\"><strong>申辦資格</strong></td>\n                <td style=\"text-align: left;\">\n                年薪20萬元\n                </td>\n            </tr>\n            <tr>\n                <td class=\"tac\" style=\"text-align: left;\"><strong>年費標準\n                <br />\n                (附卡免年費)</strong>\n                </td>\n                <td style=\"text-align: left;\">\n                首年：免年費\n                <br />\n                次年起：NT$1,800\n                </td>\n            </tr>\n            <tr>\n                <td class=\"tac\" style=\"text-align: left;\"><strong>免年費門檻\n                <br />\n                (符合任一條件)</strong>\n                </td>\n                <td style=\"text-align: left;\">\n                ☑ 申辦電子帳單\n                <br />\n                ☑ 正卡年消費12次(含)以上\n                <br />\n                ☑ 正、附卡年消費達18萬(含)以上\n                </td>\n            </tr>\n        </tbody>\n    </table>\n    <p style=\"margin-bottom: 10px; padding-left: 5px; list-style-type: decimal; list-style-image: initial;\">註：CUBE無限卡年費規則同上表。</p>\n    </div>\n</ol>\n</div>\n</div>\n</div>\n</div>",
+                                "Communication ID": "#0080411101574",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "7169a662-c4d5-45b4-9f60-403c7674ea56",
+                                "ItemName": "Apply Info 1"
+                            },
+                            {
+                                "Title": "申辦限制",
+                                "Context": "持卡人歸戶限申辦一張CUBE卡。",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "630f1ceb-b9c7-486f-92db-fb7823d665b5",
+                                "ItemName": "Apply Info 2"
+                            },
+                            {
+                                "Title": "附加功能-信用碼",
+                                "Context": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無richtext內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<!-- richtext 欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>國泰世華CUBE卡提供信用碼功能，線上申辦核卡即收到信用碼，消費不用等實體卡。</li>\n    <li>收到簡訊或Email內的專屬連結，啟用信用碼後\n    <ol class=\"cubre-m-list -bracket\">\n        <li>可立即綁定Apple Pay、Google Pay或OPEN錢包開始消費，<a class=\"cubre-a-link\" href=\"~/link.aspx?_id=407D4CF1A2224A6F8BD50CD6B43A7211&amp;_z=z\">更多使用通路</a>\n        </li>\n        <li>或於有交易密碼驗證之網路平台消費！\n        </li>\n    </ol>\n    </li>\n</ol>\n</div>\n</div>\n</div>\n</div>",
+                                "Rejection": "",
+                                "ItemId": "6355a484-0e15-4b7c-8a7c-aa09ae8527b6",
+                                "ItemName": "Apply Info 3"
+                            },
+                            {
+                                "Title": "附加功能-COMBO",
+                                "Context": "<div class=\"cubre-o-block -textInside\">\n    <div class=\"cubre-o-block__wrap\">\n        <!-- 如無richtext內容，請包含.cubre-o-block__component 做移除 -->\n        <div class=\"cubre-o-block__component\">\n            \n\n<div class=\"cubre-o-textContent \">\n    <!-- richtext 欄位 -->\n國泰世華CUBE卡提供COMBO功能，您可依需求選擇是否附加結合金融卡功能之COMBO信用卡，讓您享有信用卡+金融卡雙卡合一的用卡體驗。\n                                                \n</div>\n\n        </div>\n        </div>\n</div>",
+                                "Rejection": "",
+                                "ItemId": "431db28c-a89b-43e5-9c6f-0362f1f03c6a",
+                                "ItemName": "Apply Info 4"
+                            },
+                            {
+                                "Title": "附加功能-票證",
+                                "Context": "<div class=\"cubre-o-block -textInside\">\n    <div class=\"cubre-o-block__wrap\">\n        <!-- 如無richtext內容，請包含.cubre-o-block__component 做移除 -->\n        <div class=\"cubre-o-block__component\">\n            \n\n<div class=\"cubre-o-textContent \">\n    <!-- richtext 欄位 -->\n您可依需求選擇是否附加電子票證功能，國泰世華CUBE卡搭配悠遊卡或icash卡兩種電子票證，讓您享有更便利多元的支付方式。\n                                                \n</div>\n\n        </div>\n        </div>\n</div>",
+                                "Rejection": "",
+                                "ItemId": "b69d4d0f-8837-4cf9-a1e3-fc6390643e63",
+                                "ItemName": "Apply Info 5"
+                            },
+                            {
+                                "Title": "卡友權益",
+                                "Context": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\nCUBE卡提供卡友旅遊不便險、旅行平安險保障\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-m-scrollTable -sm\" data-table=\"\">\n    <div class=\"cubre-m-scrollTable__head\" data-table-head=\"\">\n    </div>\n    <div class=\"cubre-m-scrollTable__body\" data-table-body=\"\">\n  <table>\n            <tbody>\n                <tr>\n                    <th>\n                        <div> 無限卡</div>\n                    </th>\n                    <td>\n                        <div>\n                            <div class=\"cubre-o-textContent -sm\">持卡人6,000萬/配偶4,000萬/子女2,000萬死傷、100萬醫療</div>\n                        </div>\n                    </td>                    \n                </tr>\n                <tr>\n                    <th>\n                        <div> 鈦金商務卡、御璽卡</div>\n                    </th>\n                    <td>\n                        <div>\n                            <div class=\"cubre-o-textContent -sm\">3500萬死傷、100萬醫療</div>\n                        </div>\n                    </td>                    \n                </tr>\n                <tr>\n                    <th>\n                        <div>鈦金卡、白金卡</div>\n                    </th>\n                    <td>\n                        <div>\n                            <div class=\"cubre-o-textContent -sm\">2000萬死傷、100萬醫療</div>\n                        </div>\n                    </td>                   \n                </tr>\n                <tr>\n                    <th>\n                        <div>金卡</div>\n                    </th>\n                    <td>\n                        <div>\n                            <div class=\"cubre-o-textContent -sm\">1500萬死傷、10萬醫療</div>\n                        </div>\n                    </td>                   \n                </tr>\n                <tr>\n                    <th>\n                        <div>普卡</div>\n                    </th>\n                    <td>\n                        <div>\n                            <div class=\"cubre-o-textContent -sm\">750萬死傷、10萬醫療</div>\n                        </div>\n                    </td>                  \n                </tr>\n            </tbody>\n        </table>\n\n\n\n</div>\n</div>\n</div>\n<p class=\"cubre-u-note\">*部分卡友權益CUBE卡不適用，請詳閱官網<a class=\"cubre-a-link\" href=\"~/link.aspx?_id=086632F8C2224F7ABAA35F4CC1BDD7F7&amp;_z=z\">卡友權益</a>說明。</p>\n</div>\n</div>\n</div>\n</div>\n",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "cf1a3c90-5aa7-4d2e-9819-f60663195d26",
+                                "ItemName": "Apply Info 6"
+                            },
+                            {
+                                "Title": "指定信用卡併入且更名為CUBE卡卡面",
+                                "Context": "<p>您知道這些卡片已經升級為CUBE卡了嗎？請詳見<a href=\"https://www.cathaybk.com.tw/cathaybk/personal/credit-card/discount/event/online-shopping/card-face-intro\" class=\"cubre-a-link\">&lt;更多卡面對照資訊&gt;</a></p>",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "6a20cbf0-664c-488b-aba1-753c89bcbd18",
+                                "ItemName": "Apply Info 7"
+                            },
+                            {
+                                "Title": "Costco聯名卡換發之CUBE無限卡",
+                                "Context": "無限卡專屬禮遇<a href=\"https://www.cathaybk.com.tw/cathaybk/personal/product/credit-card/cards/costco/#blockname03\"><span style=\"color: #00b050; text-decoration: underline;\">&lt;美饌饗宴、飯店住宿、恣意揮桿&gt;</span></a>",
+                                "Rejection": "",
+                                "Advertising": "",
+                                "ItemId": "9778d0bd-24d5-4a47-b2c6-9f68959f14bc",
+                                "ItemName": "Copy of Apply Info 7"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Title": "注意事項",
+                    "Detail": "<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n    <li>CUBE卡權益如未敘明則適用期間為：2023/1/1~2023/6/30，詳依&nbsp;CUBE卡權益方案頁面說明為準。</li>\n    <li>CUBE卡權益方案2023/6/30前享天天免費變更方案，每正卡人每日限變更一次，附卡適用方案依正卡持卡人設定為準。</li>\n    <li>方案設定自當日零時起之消費即依當次變更後之方案計算回饋，方案設定依本行系統紀錄之日期為準。(舉例：小華2022/10/10 17:00變更方案為「樂饗購」，且 2022/10/10 10:30 有一筆Uber消費、18:00 有一筆遠東SOGO百貨消費，則 2022/10/10 之所有消費 (包含 Uber 與遠東SOGO百貨) 皆依「樂饗購」方案計算回饋。)</li>\n    <li>保費僅回饋0.3%小樹點(信用卡)且壽險保費不含國泰人壽之躉繳保費、投資型及利率變動型年金保費、2021年6月底前舊契約之傳統型續期保費。</li>\n    <li>CUBE App領取回饋加碼活動期間為：2023/1/1~2023/4/30，參加本活動需於活動期間登入本行CUBE App之「CUBE回饋加碼專區」完成領取回饋加碼，且回饋計算將於活動領取日後(含當日)之新增消費方符合回饋計算，且入帳日需於2023/05/10(含)前。</li>\n    <li>CUBE卡各項回饋若未敍明，則以小樹點(信用卡)回饋，其餘商家回饋點數，則依各商家或活動說明為準。</li>\n    <li>小樹點(信用卡)點數價值為1點等值NT$1元，CUBE卡於每筆消費請款入帳後，依該筆消費之消費日適用權益方案、符合之限時回饋加碼，以各別回饋率計算小樹點(信用卡)並依小數點第一位四捨五入至整數位，並於次二日(遇假日順延)回饋至正卡人信用卡帳戶，實際回饋時間依本行作業時間為準。(舉例：小華2022/10/10 適用方案為「樂饗購」，且當日10:30有一筆雄獅旅行社消費NT$1,800，18:00有一筆新光三越消費NT$3,000。雄獅旅行社不屬「樂饗購」方案指定消費，因此屬一般消費，回饋率0.3%；新光三越於「樂饗購」方案中屬指定美食/購物消費，回饋率3%。小華分別獲得兩筆消費回饋5點、90點，詳細計算見下方表格)\n    <table class=\"cubre-m-commonTable\">\n        <thead>\n            <tr>\n                <th>消費項目</th>\n                <th>消費金額</th>\n                <th>消費類別</th>\n                <th>回饋率</th>\n                <th>回饋點數</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>雄獅旅行社</td>\n                <td>NT$1,800</td>\n                <td>一般消費</td>\n                <td>0.3%</td>\n                <td style=\"text-align: center;\">5<br />\n                (1800*0.3%=5.4)</td>\n            </tr>\n            <tr>\n                <td>新光三越</td>\n                <td>NT$3,000</td>\n                <td>指定美食/購物消費</td>\n                <td>3%</td>\n                <td style=\"text-align: center;\">90<br />\n                (3000*3%=90)</td>\n            </tr>\n        </tbody>\n    </table>\n    </li>\n    <li>正附卡消費合併計算，小樹點(信用卡)回饋歸戶至正卡持卡人信用卡帳戶。</li>\n    <li>消費折抵金以消費金額乘以回饋比率，四捨五入計算至整數位，於每筆消費請款入帳後計算，並於次三日 (遇假日順延) 回饋至正卡人信用卡帳戶，本行系統自動將該筆回饋金額折抵於原刷卡交易，實際回饋時間依本行作業時間為準。</li>\n    <li>合作商戶點之點數以消費金額乘以回饋比率，四捨五入計算至整數位，將於活動結束後統一回饋至合作商戶會員帳戶，入點資訊請於活動結束後至合作商戶會員帳戶查詢，實際回饋時間依本行作業時間為準。</li>\n    <li>如有退貨將依該筆退貨交易之消費日比對適用權益方案，依該方案計算回饋後予以扣除，若商家退款交易以退貨當日作為該筆消費之消費日，則依該日期適用方案計算回饋並予以扣除，消費日依商家所認列的日期為準，本行並會將此消費日期列示於帳單。因部分境外收單商家（如，Uber Eats、foodpanda、agoda等）所認列之消費日與實際消費日期不同，如因此無法領取加碼回饋，請洽本行客服處理。</li>\n    <li>分期付款消費依該筆分期交易之消費日比對適用權益方案，依該方案計算回饋後，於每期入帳後回饋至正卡人信用卡帳戶，消費日依帳單列示日期為準。</li>\n    <li>各權益方案之「指定消費」皆已包含一般消費回饋0.3%。</li>\n    <li>各權益方案之「指定消費」或「限時回饋加碼」消費，限直接使用CUBE卡刷卡或使用該卡加入Apple Pay /Samsung Pay/Google Pay/Fitbit Pay/Garmin Pay/Hami Pay消費，皆不含透過綁定其他型態支付工具之消費(如：LINE Pay、街口支付、全盈+PAY、全支付、Pi錢包、橘子支付、歐付寶、icash pay、OPEN錢包、My FamiPay、悠遊付、ezPay、GOMAJI Pay、friday wallet、PayPal等)。「指定消費」包含玩數位之指定線上消費、樂饗購之指定美食/購物消費、趣旅行之指定旅遊消費、集精選之指定品牌/生活消費包含OPEN錢包適用通路消費、My FamiPay超商消費、 PX Pay店內消費，排除菸品、代收代售、禮券購買消費。</li>\n    <li>小額支付平台特約商店－麥當勞、7-ELEVEN(含OPEN錢包於店內消費)/全家(含My FamiPay於店內消費)/全聯福利中心(含PX Pay於店內消費)排除菸酒、代收代售、禮券購買消費，限選定「集精選」方案方可獲指定消費3%回饋，選定其他方案則不予回饋。</li>\n    <li>OPEN錢包於超商外其他一般消費通路，限選定「集精選」方案方可獲指定消費3%回饋，選定其他方案僅適用原一般消費0.3%回饋。</li>\n    <li>CUBE卡權益方案限回饋一般消費，一般消費排除：信用卡相關利息及費用(包含但不限於利息、年費、掛失費、預借現金手續費、違約金、國外交易手續費、調閱簽帳單手續費、補發帳單手續費等非消費款項)、預借現金、帳單分期、單筆消費分期(刷卡樂分期)、通信貸款、餘額代償金額及經本行公告除外之專案、稅款、學費、公用事業費用(包含但不限於網路通訊／影音服務等相關費用及附加費)、路邊停車費、公務機關各項費用、透過繳費平台（如公務機關信用卡繳費平台，含公務機關／國營事業／公立醫療院所等、電子化繳費稅處理平台、醫指付、本行CUBE網銀或CUBE App線上繳費服務)繳納之費用、代繳國泰人壽「躉繳/「投資型/「利率變動型年金」保單、代扣基金、悠遊卡加值、一卡通加值、icash加值、便利超商消費、透過聯合信用卡處理中心<a href=\"https://www.nccc.com.tw/wps/wcm/connect/zh/home/BusinessOperations/CardBusiness/MicroPayment\">小額支付平台之特約商店</a>之消費（如便利超商、連鎖速食店、停車費等）、全聯福利中心消費、eTag儲值/eTag智慧停車費代扣繳、遠東SOGO百貨貴賓廳之消費金額、國壽不動產租金代收、未經主管機關核准之境外投資交易平台(包括但不限於eToro)、其他經本行公告排除之項目。</li>\n    <li>「玩數位」、「樂饗購」、「趣旅行」、「集精選」之「指定消費」消費及注意事項依CUBE卡權益方案頁面說明為準；「限時優惠」之適用通路及注意事項依限時優惠頁面說明為準。</li>\n    <li>持卡人於計算回饋時須持有效卡，且上一期無逾期未繳款之紀錄；若持卡人終止信用卡或遭停止使用信用卡權利、延滯繳款或其他違反信用卡約定條款等情事時，將喪失活動回饋資格。</li>\n    <li>消費回饋之認定依本行系統為主，本行將依商店提供之交易說明比對，若因商店請款資料變更以致交易說明資訊和本行可判別之資訊不同，或上述回饋通路旗下商品之清算資料類別與本行認列之清算資料不同，導致未列入回饋計算(不包含各商家之排除項目)，請來電告知，本行將於確認後以個案方式提供回饋，且不另行通知，惟回饋恕不溯及既往。除本項說明項目之外，不符回饋通路者，不予個案回饋。</li>\n    <li>持卡人於網路商店購物時，應注意是否為跨境交易。凡特約商店所在地登記為國外者或交易(含辦理退款)之貨幣非為新臺幣者，交易須收取國外交易手續費，相關費用依信用卡約定條款第十六條國外交易授權結匯辦理，請參閱本行信用卡約定條款約定。<span style=\"color: #ff0000;\">註：網頁以「tw」為網域名稱者，或於我國有設立分公司者，並非當然屬於我國境內特約商店，持卡人仍須注意是否為跨境交易。</span></li>\n    <li>若有任何因為電腦、網路、電話、技術或不可歸責於本行之事由，而使持卡人之交易紀錄有遺失、錯誤、無法辨識或毀損情況，本行不負任何法律責任，持卡人亦不得因此異議。</li>\n    <li>若刷卡消費為虛偽不實套利之交易，經本行查證後將逕行扣回已回饋之小樹點(信用卡)，若點數扣除作業時持卡人已將點數使用完畢，將改以1點小樹點(信用卡)等值新台幣壹元之價值入信用卡帳單。</li>\n    <li>本活動之相關活動辦法、未盡事項或變更，悉依本行/各合作店家規定及解釋為準。本行保留活動修改、變更及終止之權利，並於本行網站公告。</li>\n</ol>\n</div>\n</div>",
+                    "Rejection": "0",
+                    "Advertising": "0",
+                    "ItemId": "278c3b58-778b-4f36-b37d-4d019b89c6a4",
+                    "ItemName": "Notice"
+                },
+                {
+                    "Main Title": "推薦卡片",
+                    "Credit Cards Info": "{FFABFAA6-29DF-4370-8172-8451463649D7}|{10A9341C-F2C3-4D46-A976-EF3443EFEEE6}|{E07955FC-4CF6-4DDC-B45B-8E9982520971}|{0E94E258-C604-4A9D-9B10-26FA68B9C507}|{15FB5B11-2F90-46F0-8CBB-65148B89C77F}",
+                    "Rejection": "0",
+                    "ItemId": "d503c3e3-5f70-4e91-8cb2-83cedcb1ea20",
+                    "ItemName": "Card List"
+                }
+            ]
+        }
+    ]
+}

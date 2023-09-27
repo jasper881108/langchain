@@ -1,0 +1,1063 @@
+{
+    "ReturnCode": "0000",
+    "ReturnMsg": "查詢成功",
+    "Items": [
+        {
+            "Credit Card Name": "世界卡",
+            "Credit Card Image Alt": "",
+            "Credit Card Image": "https://www.cathaybk.com.tw/cathaybk/-/media/23fdbcb5ec7042a49da399fa265b1dac?v=2",
+            "Apply Button Text": "立即申辦",
+            "Apply Button Link": "https://www.cathaybk.com.tw/cathaybk/OnlineService/CreditCard/CreditCardApply/cardgrade-s2.aspx?CardMain=3",
+            "Credit Card Event Anchor Key": "",
+            "Credit Card Event Main Title": "",
+            "Credit Card Event Main Subtitle": "",
+            "Credit Card Event Info": "",
+            "Credit Card Event Major Button Text": "",
+            "Credit Card Event Major Button Link": "",
+            "KV PC Background Image Alt": "",
+            "KV PC Background Image": "https://www.cathaybk.com.tw/cathaybk/-/media/783baed0285747dbb5f09d80fbf3e339?v=2",
+            "KV Mobile Background Image Alt": "",
+            "KV Mobile Background Image": "https://www.cathaybk.com.tw/cathaybk/-/media/d19a2f6185fa4f57bfe95c0961e33fd3?v=4",
+            "KV Image Alt": "",
+            "KV Image": "https://www.cathaybk.com.tw/cathaybk/-/media/dd075fcc65254af89bea570820ccf6bd?v=1",
+            "KV Subtitle": "頂級享受 遨遊全世界",
+            "KV White Button Text": "優惠手冊",
+            "KV White Button Link": "https://www.cathaybk.com.tw/cathaybk/sitecore/media-library/cathaybk/files/credit-card/world-2023/booklet_20230329",
+            "Popular Cards PC Background Image Alt": "",
+            "Popular Cards PC Background Image": "https://www.cathaybk.com.tw/cathaybk/-/media/d0d840e66dda4c2f821c7dfedd502acb?v=2",
+            "Popular Cards Mobile Background Image Alt": "",
+            "Popular Cards Mobile Background Image": "https://www.cathaybk.com.tw/cathaybk/-/media/ed17e6b3f9b44e12a8e700cb15cb263c?v=2",
+            "Popular Cards Enable Light Text": "1",
+            "Popular Cards Feature Icon 1 Alt": "",
+            "Popular Cards Feature Icon 1": "https://www.cathaybk.com.tw/cathaybk/-/media/ba288c5ea3184a489affeba7412008cb?v=2",
+            "Popular Cards Feature Text 1": "頂級美饌5折、頂級旅遊禮遇",
+            "Popular Cards Feature Icon 2 Alt": "",
+            "Popular Cards Feature Icon 2": "https://www.cathaybk.com.tw/cathaybk/-/media/474285294ffa416297f67bb8b987b75d?v=2",
+            "Popular Cards Feature Text 2": "麗晶精品黑卡禮遇申辦",
+            "Popular Cards Feature Icon 3 Alt": "",
+            "Popular Cards Feature Icon 3": "https://www.cathaybk.com.tw/cathaybk/-/media/ad100823ae3a418d8af316e63ee86c98?v=2",
+            "Popular Cards Feature Text 3": "財富管理貴賓加碼禮遇",
+            "Popular Cards Left Button Text": "卡片介紹",
+            "Popular Cards Left Button Link": "https://www.cathaybk.com.tw/cathaybk/personal/product/credit-card/cards/world",
+            "Card Detail Category Text": "",
+            "Card Detail Feature": "<div class=\"cubre-m-compareCard__feature\">\n                        <div class=\"cubre-m-feature -multiple\">\n                            <div class=\"cubre-m-feature__item\">\n                                <div class=\"cubre-m-feature__icon\">\n                                    <img src=\"-/media/4859b9d4c2cc46349644f517014c9059.ashx\" alt=\"\">\n                                </div>\n                                <div class=\"cubre-m-feature__text\">\n                                    美饌饗宴 頂級Buffet、鐵板燒、牛排館優惠\n                                </div>\n                            </div>\n                            <div class=\"cubre-m-feature__item\">\n                                <div class=\"cubre-m-feature__icon\">\n                                    <img src=\"-/media/183f74902e8043dc894cbc86f6c58a3d.ashx\" alt=\"\">\n                                </div>\n                                <div class=\"cubre-m-feature__text\">\n                                    高爾夫擊球尊榮優惠\n                                </div>\n                            </div>\n                            <div class=\"cubre-m-feature__item\">\n                                <div class=\"cubre-m-feature__icon\">\n                                    <img src=\"-/media/5fd458276c714009955daa52400dd658.ashx\" alt=\"\">\n                                </div>\n                                <div class=\"cubre-m-feature__text\">\n                                   全球機場貴賓室服務\n                                </div>\n                            </div>\n                            <div class=\"cubre-m-feature__item\">\n                                <div class=\"cubre-m-feature__icon\">\n                                    <img src=\"-/media/5fd458276c714009955daa52400dd658.ashx\" alt=\"\">\n                                </div>\n                                <div class=\"cubre-m-feature__text\">\n                                   免費機場接送服務\n                                </div>\n                            </div>\n                            </div>\n                    </div>",
+            "Card Detail Link Type": "{BDDD7950-259D-47D8-BC36-BC6A25600347}",
+            "Card Detail Link Title": "詳細說明",
+            "Card Detail Link": "https://www.cathaybk.com.tw/cathaybk/personal/product/credit-card/cards/world",
+            "Card Detail Anchor Target": "",
+            "Rejection": "0",
+            "Advertising": "0",
+            "ItemId": "10a9341c-f2c3-4d46-a976-ef3443efeee6",
+            "ItemName": "world",
+            "children": [
+                {
+                    "Button Link": "https://www.cathaybk.com.tw/cathaybk/OnlineService/CreditCard/CreditCardApply/cardgrade-s2.aspx?CardMain=3",
+                    "Button Text": "立即申辦",
+                    "Rejection": "0",
+                    "ItemId": "b250410e-1dae-4e0c-9d84-63bda8f2aa7c",
+                    "ItemName": "AnchorMenu",
+                    "children": [
+                        {
+                            "Title": "卡片特色",
+                            "Anchor Target": "blockname01",
+                            "ItemId": "85ab4a43-2853-4f1d-adcf-c8e1aca758bd",
+                            "ItemName": "AnchorMenu Item 1"
+                        },
+                        {
+                            "Title": "卡友贈禮",
+                            "Anchor Target": "blockname02",
+                            "ItemId": "dd8452d4-7c4b-45eb-875b-f638e03aa07a",
+                            "ItemName": "AnchorMenu Item 2"
+                        },
+                        {
+                            "Title": "專屬優惠",
+                            "Anchor Target": "blockname03",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "bd8970ac-72f8-43d3-b864-ce434c639e2d",
+                            "ItemName": "AnchorMenu Item 3"
+                        },
+                        {
+                            "Title": "刷卡優惠",
+                            "Anchor Target": "blockname04",
+                            "ItemId": "e26e2ac3-9a3c-41c8-9336-32d3f0c9d040",
+                            "ItemName": "AnchorMenu Item 4"
+                        },
+                        {
+                            "Title": "App服務",
+                            "Anchor Target": "blockname07",
+                            "Rejection": "",
+                            "ItemId": "014f5b87-7900-4674-9a13-6395d5f0add3",
+                            "ItemName": "AnchorMenu Item 5"
+                        },
+                        {
+                            "Title": "申辦資訊",
+                            "Anchor Target": "blockname06",
+                            "ItemId": "ba90b735-b088-4860-ab8a-e250b67e277d",
+                            "ItemName": "AnchorMenu Item 6"
+                        },
+                        {
+                            "Title": "常見問題",
+                            "Anchor Target": "blockname07",
+                            "ItemId": "e47b4ab4-8250-49be-97df-a7f803afd542",
+                            "ItemName": "AnchorMenu Item 7"
+                        }
+                    ]
+                },
+                {
+                    "Anchor Key": "blockname01",
+                    "Background Color Code": "#F2E8CF",
+                    "Main Title": "美麗世界 集結在世界卡",
+                    "Main Subtitle": "追求質感生活 周到的為您著想",
+                    "Image Alt": "",
+                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/be293c91eea243f8a864a403f79a174c?v=1",
+                    "Title": "2023世界卡新卡刷卡禮",
+                    "Description": "<div class=\"cubre-o-textContent -sm\">\n    首次申辦世界卡正卡，核卡日後60天內刷一般消費累積達NT$15萬，享小樹點(信用卡)回饋。\n</div>",
+                    "Notice Type 1": "{0F972286-8B70-46DD-93C9-29FA03960031}",
+                    "Notice Title 1": "詳細說明",
+                    "Notice Content 1": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">2023世界卡新卡刷卡禮</p>\n</div>\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">活動期間：2023/1/1~2023/12/31</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<ol class=\"cubre-m-list -disc\">\n    <li><b class=\"cubre-u-stress\">新卡滿額禮：</b>「<b class=\"cubre-u-stress -og\">5,000點</b>小樹點(信用卡)回饋」。</li>\n    <li><b class=\"cubre-u-stress\">財富管理貴賓加碼禮遇：</b><br />\n    <b class=\"cubre-u-stress -og\">白金VIP</b>享額外「<b class=\"cubre-u-stress -og\">1,000點</b>小樹點(信用卡)回饋」。<br />\n    <b class=\"cubre-u-stress -og\">鑽石VIP</b>享額外「<b class=\"cubre-u-stress -og\">2,000點</b>小樹點(信用卡)回饋」。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>",
+                    "Notice Type 2": "{0F972286-8B70-46DD-93C9-29FA03960031}",
+                    "Notice Title 2": "注意事項",
+                    "Notice Content 2": "<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<ol class=\"cubre-m-list\">\n    <li>本活動適用核卡日期於2023/1/1-2023/12/31（含）前首次核發且於核卡日前6個月未持有世界卡之正卡持卡人，並於核卡日後60天內以世界卡新增一般消費累積達回饋門檻，方符合活動資格（核卡日依本行系統所載為準），<span class=\"cubre-u-stress -og\">亞洲萬里通聯名卡世界卡不適用且消費恕不計入。恕不得參加同期其他世界卡滿額禮活動。回饋期間如遇本行調整小樹點(信用卡)計算方式，將改以等值之點數或品項贈送。</span></li>\n    <li>本活動係以符合資格之世界卡正附卡消費合併計算，消費金額計算限「消費日於核卡日後60天內且商店於核卡日後75天內請款入帳之一般消費」，<span class=\"cubre-u-stress -og\">一般消費不包含:信用卡相關利息及費用(包含但不限於利息/年費/掛失費/預借現金手續費/違約金/國外交易手續費/調閱簽帳單手續費、補發帳單手續費等非消費款項)、預借現金、帳單分期、單筆消費分期(刷卡樂分期)、通信貸款、餘額代償金額及經本行公告除外之專案、稅款、學費、公用事業費用(包含但不限於中華電信電話/網路通訊/影音服務...等相關費用及附加費)、路邊停車費、公務機關各項費用、透過繳費平台(如公務機關信用卡繳費平台，含公務機關/國營事業/公立醫療院所等、電子化繳費稅處理平台、醫指付、本行CUBE網銀或CUBE App線上繳費服務)繳納之費用、保費、代扣基金、悠遊卡加值、一卡通加值、icash加值、便利超商消費、透過聯合信用卡處理中心小額支付平台之特約商店之消費 (如便利超商、連鎖速食店、停車費等)、全聯福利中心消費、eTag儲值/eTag智慧停車費代扣繳、遠東SOGO百貨貴賓廳之消費金額、國壽不動產租金代收、COSTCO店內(包含Costco線上購物及Costco加油站)之VISA金融卡消費、未經主管機關核准之境外投資交易平台(包括但不限於eToro)、及其他經本行公告排除之項目。分期付款以活動期間內已請款入帳金額計算；如有退貨交易將予以扣除。</span></li>\n    <li>【財富管理貴賓加碼禮遇】<br />\n    限白金、鑽石VIP貴賓首次核發且於核卡日前6個月未持有世界卡之正卡持卡人，並於核卡日後60天內以世界卡新增一般消費累積達NT$15萬，方符合活動資格（限活動期間核卡且於核卡時仍為白金、鑽石VIP，核卡日依本行系統所載為準），除新卡滿額禮5,000點小樹點(信用卡)回饋，白金VIP享額外1,000點、鑽石VIP享額外2,000點回饋。</li>\n    <li>小樹點(信用卡)回饋僅贈予新核卡之正卡持卡人，將以手機簡訊通知，本行預計將自2023/3/25起，陸續回饋小樹點(信用卡)，如未收到須於2024/3/31前來電本行客服中心反應，逾期恕不受理並視同放棄贈送資格。</li>\n    <li>持卡人於小樹點(信用卡)回饋時，須持有符合獲贈資格之有效世界卡，且回饋時仍為本行財富管理VIP貴賓及有效世界卡，且上一期無逾期未繳款之紀錄，若有終止信用卡、掛失不補發、到期不續卡、遭本行停止使用信用卡權利、延滯繳款、或違反本行信用卡契約等情事，即自動喪失獲贈資格。</li>\n    <li> 本行保留對活動贈品以其他同等價值贈品替代之權利。活動期間倘因不可歸責本行之事由，本行得變更或終止活動，並於本行網站公告。</li>\n</ol>\n</div>\n</div>",
+                    "Major Button Text": "",
+                    "Major Button Link": "",
+                    "Rejection": "0",
+                    "Advertising": "0",
+                    "ItemId": "ff08f1cb-43a2-4261-b688-b24fb6553246",
+                    "ItemName": "ColorBanner"
+                },
+                {
+                    "Main Title": "",
+                    "ItemId": "6ed217dd-080a-4ba9-9f7f-1a3b906b255a",
+                    "ItemName": "PuzzleImage",
+                    "children": [
+                        {
+                            "ItemId": "26044046-4cb7-439b-9826-5937f2840812",
+                            "ItemName": "PuzzleImageContainer 1",
+                            "children": [
+                                {
+                                    "Display Mode": "{6F3DD4A0-F4F2-499A-AD43-19505761E673}",
+                                    "PC Image Alt": "",
+                                    "PC Image": "https://www.cathaybk.com.tw/cathaybk/-/media/836f6d054a984fc79d82160b22e4f7d5?v=1",
+                                    "Mobile Image Alt": "",
+                                    "Mobile Image": "https://www.cathaybk.com.tw/cathaybk/-/media/453533e60b4645dd8a7aacc997bc7bfe?v=1",
+                                    "Title": "頂級美饌2人5折",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n台北萬豪酒店、君悅酒店、台北/台南遠東香格里拉、中山招待所指定餐廳享2人5折\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細內容",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">頂級美饌2人5折</p>\n</div>\n</div>\n<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n<p><span style=\"color: #00b050;\"><strong>台北萬豪酒店</strong></span>   Garden Kitchen、Lobby Lounge</p>\n<p><strong><span style=\"color: #00b050;\">君悅酒店</span></strong>   寶艾西餐廳、雲錦中餐廳、彩日本料理</p>\n<p><span style=\"color: #00b050;\"><strong>台北遠東香格里拉</strong></span>   ibuki 日本料理、遠東 CAF&Eacute; 自助餐廳</p>\n<p><span style=\"color: #00b050;\"><strong>台南遠東香格里拉</strong></span>   The Mezz 牛排龍蝦館</p>\n<p><strong><span style=\"color: #00b050;\">中山招待所</span></strong>\n</p>\n<p>活動期間2023/1/1~12/31，詳細優惠內容及限制條件詳<span style=\"color: #e36c09;\"><strong>「專屬優惠-美饌饗宴」</strong></span></p>\n</div>\n<br />\n<!-- 如無副標，請包含.cubre-o-block__subTitle 做移除 -->\n<div class=\"cubre-o-block__subTitle\">\n</div>\n</div>",
+                                    "Link Type 1": "",
+                                    "Link Text 1": "",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "ad289674-40b9-479b-aed3-beca480276ea",
+                                    "ItemName": "Copy of PuzzleImageItem 3"
+                                },
+                                {
+                                    "Display Mode": "{6F3DD4A0-F4F2-499A-AD43-19505761E673}",
+                                    "PC Image Alt": "",
+                                    "PC Image": "https://www.cathaybk.com.tw/cathaybk/-/media/61613ffa8a6544c3805e7f1e99e4ec50?v=1",
+                                    "Mobile Image Alt": "",
+                                    "Mobile Image": "https://www.cathaybk.com.tw/cathaybk/-/media/8c827485416a4adb8c10214a761f46c9?v=1",
+                                    "Title": "五星美饌75折起",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n台北萬豪酒店、高雄萬豪酒店、台北寒舍艾美酒店、台北美福大飯店、台北晶華酒店等指定餐廳75折起\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細內容",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">五星美饌75折起</p>\n</div>\n</div>\n<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n台北萬豪酒店、高雄萬豪酒店、台北喜來登大飯店、台北寒舍艾美酒店、寒居酒店、寒舍艾麗酒店、台北美福大飯店、君悅酒店、台北晶華酒店、文華東方酒店、維多麗亞酒店、\n台北/台南遠東香格里拉、Smith &amp; Wollensky Taipei、SEA to SKY - Seafood &amp; Bar、漢來名人坊、瑞穗天合國際觀光酒店、JR東日本大飯店 台北、新北美食地標 Mega 50、新竹國賓大飯店、中山招待所、林酒店、林皇宮(高雄)、長榮桂冠酒店(台中)、大地酒店、台北國泰萬怡酒店、台北六福萬怡酒店等指定餐廳75折起。\n<p>&nbsp;</p>\n<p>活動期間2023/1/1~12/31，詳細優惠內容及限制條件詳<span style=\"color: #e36c09;\"><strong>「<a href=\"https://www.cathaybk.com.tw/cathaybk/personal/product/credit-card/cards/world/#blockname03\">專屬優惠-美饌饗宴</a>」</strong></span></p>\n</div>\n<br />\n<!-- 如無副標，請包含.cubre-o-block__subTitle 做移除 -->\n<div class=\"cubre-o-block__subTitle\">\n</div>\n</div>",
+                                    "Link Type 1": "",
+                                    "Link Text 1": "",
+                                    "Rejection": "",
+                                    "Advertising": "",
+                                    "ItemId": "4f23d97f-9015-4394-bc56-30f9e355f772",
+                                    "ItemName": "PuzzleImageItem 3"
+                                }
+                            ]
+                        },
+                        {
+                            "ItemId": "67f378d5-baca-4f0a-ad93-83190a9446a1",
+                            "ItemName": "PuzzleImageContainer 2",
+                            "children": [
+                                {
+                                    "Display Mode": "{6F3DD4A0-F4F2-499A-AD43-19505761E673}",
+                                    "PC Image Alt": "",
+                                    "PC Image": "https://www.cathaybk.com.tw/cathaybk/-/media/1b82b6205eff4faa8aa9388af12c2824?v=1",
+                                    "Mobile Image Alt": "",
+                                    "Mobile Image": "https://www.cathaybk.com.tw/cathaybk/-/media/e95e114f095642babe73201508395449?v=1",
+                                    "Title": "基金享手續費38折優惠",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n至國泰世華CUBE網銀或CUBE App選擇信用卡代扣定期定額專案系列基金商品享手續費38折起。\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "注意事項",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">代扣定期定額基金享手續費38折優惠</p>\n</div>\n</div>\n<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n世界卡正卡持卡人至國泰世華CUBE網銀或CUBE App選擇信用卡代扣定期定額全系列基金商品享手續費38折起(僅限申購手續費前收型基金，不含貨幣型與ETF；部分轉換轉入後基金之扣款手續費，將依一般通路別折扣費率計算(如網路65折、臨櫃無折扣))\n</div>\n<br />\n<!-- 如無副標，請包含.cubre-o-block__subTitle 做移除 -->\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">新卡友</p>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>核卡後90天(含)內，新申購、異動扣款金額或轉換交易，享手續費38折優惠。</li>\n    <li>核卡後91天後優惠同既有卡友。</li>\n</ol>\n</div>\n</div>\n</div>\n<br />\n<!-- 如無副標，請包含.cubre-o-block__subTitle 做移除 -->\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">既有卡友</p>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>新申購享手續費45折優惠。</li>\n    <li>異動扣款金額或轉換交易享手續費65折優惠。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<br />\n<br />\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<p>注意事項</p>\n<ol class=\"cubre-m-list\">\n    <li>活動期間：2023/1/1至2023/12/31。</li>\n    <li>使用信用卡代扣基金優惠方案者，不適用其他基金手續費優惠方案。</li>\n    <li>若您的信用卡未正常繳費、可用額度不足或停用等導致扣款不成功，則視為該月份不委託投資。</li>\n    <li>使用信用卡代扣定期定額基金恕不累積小樹點(信用卡)。</li>\n    <li>信用卡代扣基金每筆最低申購金額NT$3,000、最高申購金額NT$30,000；每月最高申購金額以世界卡正卡持卡人信用額度為限。</li>\n    <li>專案僅適用手續費前收之基金，最低申購手續費依受託人官網公告收費標準計收，其他信託管理費等收費方式及相關注意事項比照本行一般信託契約條款辦理。</li>\n    <li>優惠期間本行保留變更或終止活動內容，並於本行網站上公告。</li>\n</ol>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<table class=\"cubre-m-commonTable\">\n    <thead>\n    </thead>\n</table>\n</div>",
+                                    "Link Type 1": "",
+                                    "Link Text 1": "",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "199d920b-cdf0-42de-b0d6-0f07a5962efa",
+                                    "ItemName": "Copy of PuzzleImageItem 3"
+                                },
+                                {
+                                    "Enable Big Card": "",
+                                    "Display Mode": "{0C969129-ECEE-4AB4-AB7C-43B2094E9F13}",
+                                    "PC Image Alt": "",
+                                    "PC Image": "https://www.cathaybk.com.tw/cathaybk/-/media/5b9a975e6a5342119b5c40590bd49271?v=1",
+                                    "Mobile Image Alt": "",
+                                    "Mobile Image": "https://www.cathaybk.com.tw/cathaybk/-/media/a2b8301888484ca9877b4290b732bed0?v=1",
+                                    "Title": "小樹點(信用卡)折抵停車費",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n  <p>正卡持卡人至嘟嘟房 /台灣聯通享小樹點(信用卡)折抵停車費優惠：20點抵扣1小時</p>\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">小樹點(信用卡)折抵停車費</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>活動期間：2023/1/1~12/31<br />\n國泰世華世界卡正卡持卡人至以下指定停車場享小樹點(信用卡)折抵停車費優惠： <br />\n<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"http://www.dodohome.com.tw/\" target=\"_blank\">嘟嘟房</a> /<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"http://www.taiwan-parking.com.tw/\" target=\"_blank\">台灣聯通</a>：<span class=\"cubre-u-stress -og\">20點</span>抵扣1小時</p>\n<p>※本停車優惠<span class=\"cubre-u-stress -og\">限使用實體信用卡</span>折抵，不適用於使用行動支付(Apple Pay、Samsung Pay、Google Pay)或綁定第三方支付。</p>\n<p>※停車超過本行提供之優惠時數、小樹點(信用卡)不足或有其他不符合本行規定者，須依停車場公告收費標準現場繳費，事後不得申請折扣或退款。 </p>\n<p>※亞洲萬里通聯名卡世界卡不適用。</p>\n</div>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<!-------------------------------------- 注意事項 start -------------------------------------->\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<!-------------------------------------- 內容 start -------------------------------------->\n<!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>本停車優惠適用對象為本行世界卡正卡持卡人(下稱持卡人)，每人每日限使用一次，每日最高可抵扣3小時，不得與其他優惠合併使用。</li>\n    <li>本活動優惠限使用實體信用卡折抵，恕不適用於使用行動支付(Apple Pay、Samsung Pay、Google Pay等)或綁定第三方支付。</li>\n    <li>未出示本行有效信用卡、停車超過本行提供之優惠時數、小樹點(信用卡)不足或其他不符合本行規定者，須依停車場公告收費標準現場繳費，事後不得申請折扣或退款。</li>\n    <li>當卡友使用本項停車優惠服務時，小樹點(信用卡)以銀行端進行扣點作業時所檢核之點數資料為準，若經本行查核持卡人已使用停車優惠而點數不足扣抵時，卡友須於現場自付停車費，恕無法享本優惠。</li>\n    <li>超過免費停車優惠後之停車費用，以停放場站現場公告之收費標準計算(以第一小時重新計算)，並且以現金支付給該停車場站服務人員。</li>\n    <li>本活動優惠不得與現場停車折抵優惠併用，相關規範詳現場公告為準。</li>\n    <li>本行僅提供小樹點(信用卡)扣點停車優惠服務，停車期間如遇有關車輛停放所衍生之相關問題與爭議，依據停車場法及相關法令辦理，與本行無涉。規範辦法詳見各停車場現場公告。</li>\n    <li>停車位以停車場實際狀況為主；各場站停車位有限，停滿為止，不另行公告。</li>\n    <li>嘟嘟房自2017/8起新增「俥酷I PARKING」APP付款服務，相關優惠將歸戶計算。</li>\n    <li>已申辦eTag智慧停車之用戶不適用本優惠。</li>\n    <li>本優惠適用之停車場以<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"http://www.dodohome.com.tw/\" target=\"_blank\">中興嘟嘟房</a>、<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"http://www.taiwan-parking.com.tw/\" target=\"_blank\">台灣聯通網</a>公告為準。</li>\n    <li>小樹點(信用卡)兌換辦法悉依本行小樹點(信用卡)活動辦法及條款規定為準。</li>\n    <li>優惠提供期間，倘因不可歸責於本行之事由，本行得變更或終止優惠內容，並於本行網站公告。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 內容 end -------------------------------------->\n</div>\n</div>\n<!-------------------------------------- 注意事項 end -------------------------------------->\n</div>\n</div>\n</div>",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "881adab7-6737-4d15-9c62-c5d5c6b6fa7f",
+                                    "ItemName": "PuzzleImageItem 2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Anchor Key": "blockname02",
+                    "Main Title": "卡友贈禮專屬為您準備",
+                    "Notice Type": "",
+                    "Notice Title": "",
+                    "Notice Content": "",
+                    "ItemId": "27058eec-d0e8-493c-bd9a-4f1f2775ec77",
+                    "ItemName": "SimpleGraphicTab",
+                    "children": [
+                        {
+                            "Tab": "滿額禮",
+                            "Rejection": "",
+                            "ItemId": "95f9b824-ed22-40ef-8dda-02b2aac582d7",
+                            "ItemName": "SimpleGraphicTabItemLv1 1",
+                            "children": [
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "2023年度滿額獻禮/鑽石貴賓尊榮禮遇",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n<p>消費達檻享機場接送、美饌饗宴、高爾夫擊球等貴賓禮遇及小樹點(信用卡)回饋</p>\n<p><span style=\"color: #ff0000;\">溫馨提醒：預約滿載相關資訊公告。</span></p>\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "注意事項",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">2023年度滿額獻禮/鑽石貴賓尊榮禮遇</p>\n</div>\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\"><span style=\"color: #ff0000;\">溫馨提醒：機場接送預約已接近滿載，近期全台機場接送預約使用需求急速增加，如預約滿載將不再接受任何預約，預約成功與否需視廠商服務量能實際狀況而定，建議透過專屬網站預約且儘早安排，所有注意事項及服務滿載狀況請詳肯驛國際預約網頁說明，恕無法更換其他贈品替代或延期使用或折讓現金。</span></p>\n<p class=\"cubre-a-blockTitle -textSub\">&nbsp;</p>\n<p class=\"cubre-a-blockTitle -textSub\">刷卡滿額享回饋</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>2023年正附卡累積一般消費達檻享貴賓禮遇及回饋：\n</p>\n<ol class=\"cubre-m-list\">\n    <li>刷達NT$30萬，或鑽石VIP世界卡卡友，<span style=\"color: #e36c09;\"><strong>享年度</strong></span><span style=\"color: #e36c09;\"><strong>2次</strong></span>貴賓禮遇。</li>\n    <li>刷達NT$60萬，<span style=\"color: #e36c09;\"><strong>再享2次</strong></span>貴賓禮遇。</li>\n    <li>刷達NT$150萬，<span style=\"color: #e36c09;\"><strong>再享10,000點</strong></span>小樹點(信用卡)。</li>\n</ol>\n<p>【禮遇項目】：\n</p>\n<ol class=\"cubre-m-list -bracket\">\n    <li>免費單趟機場國際線接或送。</li>\n    <li>免費單人美饌或頂級餐廳刷$1千折抵$2千。</li>\n    <li>高爾夫擊球優惠價乙次。</li>\n    <li>免費龍騰貴賓室乙次。(龍騰會員1點會員卡)</li>\n</ol>\n<ol class=\"cubre-m-list -square\">\n    <li>貴賓禮遇預約網站<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.youfirst.com.tw/Cathaybank/AirPort/index.aspx\" target=\"_blank\">www.youfirst.com.tw/Cathaybank/AirPort/index.aspx</a></li>\n    <li>預約專線 04-2206-1608 (每日00:00~24:00)。</li>\n    <li>世界卡消費達檻享貴賓禮遇資格將發送簡訊通知；鑽石貴賓預約資格於2023年2月起使用。</li>\n    <li>使用服務期間：2023/1/1~2024/6/30(須於2024/6/26前預約完成)。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">【機場接送】</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>可享指定區域至下列機場國際線單趟免費接或送服務。</p>\n<ol class=\"cubre-m-list -square\">\n    <li>台北松山機場</li>\n    <li>桃園國際機場</li>\n    <li>台中國際機場</li>\n    <li>高雄國際機場(小港機場)</li>\n</ol>\n<p class=\"cubre-u-note\">(免費機場接送禮遇限定服務區域，詳細服務適用條件與限制依官網公告為準)</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">【美饌饗宴】</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>可享免費單人美饌或頂級餐廳刷$1千折抵$2千。</p>\n<h1 class=\"cubre-a-blockTitle -textInside\"><span style=\"color: #e36c09;\">【免費單人美饌】</span></h1>\n<div class=\"cubre-o-block__component\">\n<table class=\"cubre-m-commonTable\">\n    <thead>\n        <tr>\n            <th><strong>區域</strong></th>\n            <th><strong>餐廳</strong></th>\n            <th><strong>適用餐期</strong></th>\n            <th><strong>備註</strong></th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td class=\"tac\" style=\"text-align: left;\" rowspan=\"13\">北台灣</td>\n            <td class=\"tar\" style=\"text-align: left;\">台北喜來登大飯店<span> </span>十二廚<br />\n            </td>\n            <td class=\"tar\" style=\"text-align: left;\">下午茶</td>\n            <td class=\"tar\" style=\"text-align: left;\">平日、假日均適用</td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">漢來海港餐廳(台北敦化店)</td>\n            <td class=\"tar\" style=\"text-align: left;\">午餐、下午茶、晚餐</td>\n            <td class=\"tar\" style=\"text-align: left;\">平日、假日均適用</td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">漢來海港餐廳(台北天母店)\n            </td>\n            <td class=\"tar\" style=\"text-align: left;\">午餐、下午茶、晚餐\n            </td>\n            <td class=\"tar\" style=\"text-align: left;\">平日、假日均適用\n            </td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">台北老爺大酒店 Le Caf&eacute;咖啡廳</td>\n            <td class=\"tar\" style=\"text-align: left;\">午餐、晚餐</td>\n            <td class=\"tar\" style=\"text-align: left;\">僅限平日使用，假日不適用</td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">Mega50<span> </span>50樓caf&eacute;自助餐廳</td>\n            <td class=\"tar\" style=\"text-align: left;\">午餐、晚餐</td>\n            <td class=\"tar\" style=\"text-align: left;\">僅限平日使用，假日不適用</td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">慕軒飯店<span> </span>GUSTOSO義大利餐廳<br />\n            </td>\n            <td class=\"tar\" style=\"text-align: left;\">午餐</td>\n            <td class=\"tar\" style=\"text-align: left;\">平日、假日均適用<br />\n            </td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">欣葉日本料理(信義A11)</td>\n            <td class=\"tar\" style=\"text-align: left;\">午餐、晚餐</td>\n            <td class=\"tar\" style=\"text-align: left;\">平日、假日均適用<br />\n            </td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">欣葉日本料理(健康店)</td>\n            <td class=\"tar\" style=\"text-align: left;\">午餐、晚餐</td>\n            <td class=\"tar\" style=\"text-align: left;\">平日、假日均適用</td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">欣葉日本料理(館前店)\n            </td>\n            <td class=\"tar\" style=\"text-align: left;\">午餐、晚餐</td>\n            <td class=\"tar\" style=\"text-align: left;\">平日、假日均適用</td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">漢來海港餐廳(桃園店)\n            </td>\n            <td class=\"tar\" style=\"text-align: left;\">午餐、下午茶、晚餐</td>\n            <td class=\"tar\" style=\"text-align: left;\">平日、假日均適用</td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">欣葉日本料理(桃園中茂店)<br />\n            </td>\n            <td class=\"tar\" style=\"text-align: left;\">午餐、晚餐<br />\n            </td>\n            <td class=\"tar\" style=\"text-align: left;\">平日、假日均適用</td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">新竹老爺酒店 Le Caf&eacute;</td>\n            <td class=\"tar\" style=\"text-align: left;\">午餐、晚餐</td>\n            <td class=\"tar\" style=\"text-align: left;\">平日、假日均適用<br />\n            </td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">新竹國賓大飯店<span> </span>八方燴<br />\n            </td>\n            <td class=\"tar\" style=\"text-align: left;\">下午茶</td>\n            <td class=\"tar\" style=\"text-align: left;\">平日、假日均適用</td>\n        </tr>\n        <tr>\n            <td class=\"tac\" style=\"text-align: left;\">東台灣</td>\n            <td class=\"tar\" style=\"text-align: left;\">宜蘭長榮鳳凰酒店(礁溪) 煙波亭</td>\n            <td class=\"tar\" style=\"text-align: left;\">午餐、晚餐\n            </td>\n            <td class=\"tar\" style=\"text-align: left;\">僅限平日使用，假日不適用</td>\n        </tr>\n        <tr>\n            <td class=\"tac\" style=\"text-align: left;\" rowspan=\"3\">中台灣</td>\n            <td class=\"tar\" style=\"text-align: left;\">台中日月千禧酒店 饗樂全日餐廳</td>\n            <td class=\"tar\" style=\"text-align: left;\">午餐、晚餐</td>\n            <td class=\"tar\" style=\"text-align: left;\">平日、假日均適用</td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">台中裕元花園酒店<span> </span>溫莎咖啡廳&nbsp;</td>\n            <td class=\"tar\" style=\"text-align: left;\">下午茶</td>\n            <td class=\"tar\" style=\"text-align: left;\">平日、假日均適用</td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">漢來海港餐廳(台中店)</td>\n            <td class=\"tar\" style=\"text-align: left;\">午餐、下午茶、晚餐</td>\n            <td class=\"tar\" style=\"text-align: left;\">平日、假日均適用</td>\n        </tr>\n        <tr>\n            <td class=\"tac\" style=\"text-align: left;\" rowspan=\"5\">南台灣\n            </td>\n            <td class=\"tar\" style=\"text-align: left;\">漢來海港餐廳(台南店)\n            </td>\n            <td class=\"tar\" style=\"text-align: left;\">午餐、下午茶、晚餐\n            </td>\n            <td class=\"tar\" style=\"text-align: left;\">平日、假日均適用\n            </td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">台糖長榮酒店(台南)<span> </span>吃遍天下自助餐廳\n            </td>\n            <td class=\"tar\" style=\"text-align: left;\">午餐、晚餐   </td>\n            <td class=\"tar\" style=\"text-align: left;\">平日、假日均適用\n            </td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">漢來海港餐廳(高雄巨蛋店)</td>\n            <td class=\"tar\" style=\"text-align: left;\">午餐、下午茶、晚餐</td>\n            <td class=\"tar\" style=\"text-align: left;\">平日、假日均適用</td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">漢來海港餐廳(高雄漢來店)</td>\n            <td class=\"tar\" style=\"text-align: left;\">午餐、下午茶、晚餐</td>\n            <td class=\"tar\" style=\"text-align: left;\">平日、假日均適用</td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">和逸飯店高雄中山館 Cozzi THE Roof</td>\n            <td class=\"tar\" style=\"text-align: left;\">午餐、晚餐</td>\n            <td class=\"tar\" style=\"text-align: left;\">平日、假日均適用</td>\n        </tr>\n    </tbody>\n</table>\n<p><span style=\"font-size: 13px;\">※慕軒飯店GUSTOSO義大利餐廳、台中日月千禧酒店饗樂全日餐廳、和逸飯店高雄中山館Cozzi THE Roof提供Semi Buffet(半自助式供餐型態)，提供一客主餐及現場自助餐檯區可無限享用。</span></p>\n<p><span style=\"font-size: 13px;\">※宜蘭長榮鳳凰酒店(礁溪)煙波亭限預約週一至週四。</span></p>\n<h1 class=\"cubre-a-blockTitle -textInside\"><span style=\"color: #e36c09;\">【頂級餐廳刷$1千折抵$2千】</span></h1>\n<div class=\"cubre-o-block__component\">\n</div>\n<table>\n    <tbody>\n        <tr>\n        </tr>\n    </tbody>\n</table>\n<table class=\"cubre-m-commonTable\">\n    <thead>\n        <tr>\n            <th><strong>區域</strong></th>\n            <th><strong>餐廳</strong></th>\n            <th><strong>備註</strong></th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td class=\"tac\" style=\"text-align: left;\"><span style=\"background-color: #ffffff; color: #565656;\">台北</span></td>\n            <td class=\"tar\" style=\"text-align: left;\"><span style=\"background-color: #ffffff; color: #565656;\">樂軒和牛專門店</span></td>\n            <td class=\"tar\" style=\"text-align: left;\">&nbsp;<span style=\"background-color: #ffffff; color: #565656;\">★商業午餐、酒水、飲料不適用美食金</span></td>\n        </tr>\n        <tr>\n            <td class=\"tac\" style=\"text-align: left;\"><span style=\"background-color: #ffffff; color: #565656;\">台北</span></td>\n            <td class=\"tar\" style=\"text-align: left;\">樂軒松阪亭</td>\n            <td class=\"tar\" style=\"text-align: left;\">&nbsp;<span style=\"background-color: #ffffff; color: #565656;\">★商業午餐、酒水、飲料不適用美食金</span></td>\n        </tr>\n        <tr>\n            <td class=\"tac\" style=\"text-align: left;\">新竹</td>\n            <td class=\"tar\" style=\"text-align: left;\">樂軒和牛專門店&nbsp;</td>\n            <td class=\"tar\" style=\"text-align: left;\">&nbsp;<span style=\"background-color: #ffffff; color: #565656;\">★商業午餐、酒水、飲料不適用美食金</span></td>\n        </tr>\n        <tr>\n            <td class=\"tac\" style=\"text-align: left;\">台中</td>\n            <td class=\"tar\" style=\"text-align: left;\">樂軒和牛專門店&nbsp;</td>\n            <td class=\"tar\" style=\"text-align: left;\">&nbsp;<span style=\"background-color: #ffffff; color: #565656;\">★商業午餐、酒水、飲料不適用美食金</span></td>\n        </tr>\n        <tr>\n            <td class=\"tac\" style=\"text-align: left;\">台中&nbsp;</td>\n            <td class=\"tar\" style=\"text-align: left;\"><span>元&nbsp;Yuan</span></td>\n            <td class=\"tar\" style=\"text-align: left;\">★餐廳座位有限，指定4-6人桌面座位區，低消一萬元。<br />\n            ★訂位時間相同的客人到齊後開餐，若您臨時無法準時抵達，為免耽誤到其他客人等待用餐，務必提前告知，我們會妥善為您安排。<br />\n            ★吧檯座位為主，若有長輩、小孩或行動不便者請提前告知，方便安排桌面坐位。<br />\n            ★如有過敏不吃的東西，訂位時請告知，當天用餐才告知者恕不受理。<br />\n            ★衣著輕鬆但不隨便，請勿穿著拖鞋、短褲、背心或其他影響他人用餐觀感的服飾入場。<br />\n            ★餐廳可提供加購的慶生蛋糕（英雄朱古力）或生日畫盤380元，自行攜帶蛋糕或外食收取清潔費200元。<br />\n            ★小朋友七歲以上：低消一套兒童餐(1200元)；七歲以下：低消一份義大利麵（700元）。<br />\n            ★整個餐期將近2個小時，若趕時間的貴賓請斟酌考慮。</td>\n        </tr>\n        <tr>\n            <td class=\"tac\" style=\"text-align: left;\">台中</td>\n            <td class=\"tar\" style=\"text-align: left;\">台中日月千禧酒店極炙牛排館</td>\n            <td class=\"tar\" style=\"text-align: left;\">★折抵金額限折抵餐食，飲品酒水恕不折抵。</td>\n        </tr>\n        <tr>\n            <td class=\"tac\" style=\"text-align: left;\">高雄</td>\n            <td class=\"tar\" style=\"text-align: left;\">樂軒和牛專門店<span></span></td>\n            <td class=\"tar\" style=\"text-align: left;\"><span style=\"background-color: #ffffff; color: #565656;\">★商業午餐、酒水、飲料不適用美食金</span></td>\n        </tr>\n        <tr>\n            <td class=\"tac\" style=\"text-align: left;\">高雄</td>\n            <td class=\"tar\" style=\"text-align: left;\"><span>Stage 5</span><span>餐酒館</span>&nbsp;</td>\n            <td class=\"tar\" style=\"text-align: left;\">\n            <p><span>★訂位保留15分鐘，若逾時請來電告知，若無告知即取消訂位。</span></p>\n            <p><span>★自帶酒水斟收洗杯費：1款杯70元。</span></p>\n            <p><span>★服裝儀容：半正式休閒服裝即可；請勿穿著背心、拖鞋及涼鞋。</span></p>\n            <p><span>★用餐期間請避免大聲喧嘩。</span></p>\n            <p><span>★為維護顧客用餐體驗，用餐時請勿使用閃光燈或照明器具。</span></p>\n            <p><span>★基於食品安全溯原之考量禁帶外食/飲料。</span></p>\n            <p><span>★除導盲犬外，恕不接待寵物。</span></p>\n            <p><span>★如有行動不便或需特殊協助之顧客歡迎提前來電告知。</span></p>\n            <span>★攜小孩同行請家長務必妥善照顧、勿於現場嬉戲、奔跑、尖叫與哭鬧，避免影響其他賓客用餐之權益。</span><br />\n            </td>\n        </tr>\n        <tr>\n            <td class=\"tac\" style=\"text-align: left;\">高雄&nbsp;</td>\n            <td class=\"tar\" style=\"text-align: left;\">晶英國際行館<span> </span>Ukai-tei Kaohsiung&nbsp;</td>\n            <td class=\"tar\" style=\"text-align: left;\">★請穿著合宜優雅便服。男仕請勿穿著拖鞋及涼鞋；女仕請勿穿著拖鞋 (涼鞋需有繫帶)。<br />\n            ★全館僅接待滿10歲以上之貴賓 (包館除外)。</td>\n        </tr>\n        <tr>\n            <td class=\"tac\" style=\"text-align: left;\" rowspan=\"13\">高雄</td>\n            <td class=\"tar\" style=\"text-align: left;\"><span></span>漢來大飯店<span> </span>焰鐵板燒.牛排館<br />\n            </td>\n            <td class=\"tar\" style=\"text-align: left;\"><br />\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p>&nbsp;</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">【高爾夫擊球優惠價】</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>可任選下列指定高爾夫球場乙次優惠價擊球。</p>\n<div class=\"cubre-o-block__component\">\n<table class=\"cubre-m-commonTable\">\n    <thead>\n        <tr>\n            <th><strong>高爾夫球場</strong></th>\n            <th>優惠價</th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">東華高爾夫球場&nbsp;</td>\n            <td class=\"tar\" style=\"text-align: left;\"><span style=\"background-color: #ffffff; color: #565656;\">平日 NT$2,950，假日 NT$3,850</span></td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">揚昇高爾夫鄉村俱樂部</td>\n            <td class=\"tar\" style=\"text-align: left;\">平日 NT$3,100，假日 NT$4,000</td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">桃園高爾夫球場</td>\n            <td class=\"tar\" style=\"text-align: left;\">平日 NT$2,450，假日 NT$2,800</td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">老爺關西高爾夫俱樂部</td>\n            <td class=\"tar\" style=\"text-align: left;\">平日 NT$2,300，假日 NT$2,900</td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">台中高爾夫球場</td>\n            <td class=\"tar\" style=\"text-align: left;\">平日 NT$2,150，假日 NT$2,400</td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">嘉南高爾夫球場</td>\n            <td class=\"tar\" style=\"text-align: left;\">平日 NT$2,300，假日 NT$2,660</td>\n        </tr>\n    </tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>【2023年度滿額禮貴賓禮遇共通規範】</p>\n<ol class=\"cubre-m-list\">\n    <li>使用服務期間：2023/1/1~2024/6/30(須於2024/6/26前預約完成)。</li>\n    <li>適用於鑽石貴賓持有效本行世界卡正卡，其前一月與本行往來近三個月平均往來資產餘額達等值NT$3,000萬(含)以上者或2023年度一般消費刷卡滿NT$30萬、$60萬、$150萬之持卡人，年度累積消費係以「消費日」於2023/1/1~2023/12/31世界卡之正附卡合併一般消費為計算，一般消費不包含:信用卡相關利息及費用(包含但不限於利息/年費/掛失費/預借現金手續費/違約金/國外交易手續費/調閱簽帳單手續費、補發帳單手續費等非消費款項)、預借現金、帳單分期、單筆消費分期(刷卡樂分期)、通信貸款、餘額代償金額及經本行公告除外之專案、稅款、學費、公用事業費用(包含但不限於中華電信電話/網路通訊/影音服務...等相關費用及附加費)、路邊停車費、公務機關各項費用、透過繳費平台(如公務機關信用卡繳費平台，含公務機關/國營事業/公立醫療院所等、電子化繳費稅處理平台、醫指付、本行CUBE網銀或CUBE App線上繳費服務)繳納之費用、保費、代扣基金、悠遊卡加值、一卡通加值、icash加值、便利超商消費、透過聯合信用卡處理中心小額支付平台之特約商店之消費 (如便利超商、連鎖速食店、停車費等)、全聯福利中心消費、eTag儲值/eTag智慧停車費代扣繳、遠東SOGO百貨貴賓廳之消費金額、國壽不動產租金代收、COSTCO店內(包含Costco線上購物及Costco加油站)之VISA金融卡消費、未經主管機關核准之境外投資交易平台(包括但不限於eToro)及其他經本行公告排除之項目。分期付款以活動期間內已請款入帳金額計算；如有退貨交易將予以扣除。亞洲萬里通世界卡消費不計入年度累積消費金額。回饋期間如遇本行調整小樹點(信用卡)計算方式，將改以等值之點數或品項贈送。</li>\n    <li>持卡人刷卡消費符合後第二個月起方享有年度貴賓禮遇次數，倘符合消費資格客戶本行將透過簡訊通知。(舉例說明：於2023/1/1~2023/4/30期間累計消費滿NT$30萬，將可於2023年6月起享有2次貴賓禮遇資格；於2023/1/1~2023/6/30期間累計消費滿NT$60萬，將可於2023年8月起再享2次貴賓禮遇資格)。</li>\n    <li>符合資格者每年度可享最高4次貴賓禮遇，不限定類別，可混合使用，惟總使用次數為4次，舉例說明：4次可選擇機場接送、美饌饗宴、高爾夫優惠擊球、龍騰貴賓室各1次，或2次美饌饗宴與2次高爾夫優惠擊球。於同一用餐時間預約使用2次免費單人美饌饗宴，亦算已使用2次優惠。</li>\n    <li>正附卡消費金額、次數及使用權益次數合併計算，持卡人須為接送服務搭乘乘客或美饌用餐者之一，附卡人如欲使用如同正卡人之權益須經由正卡人預約，且其使用次數須扣減所屬正卡得使用次數。</li>\n    <li>小樹點(信用卡)回饋僅贈予正卡持卡人，將以手機簡訊通知，本行預計將自2023/3/25起，陸續回饋小樹點(信用卡)，如未收到須於2024/3/31前來電本行客服中心反應，逾期恕不受理並視同放棄贈送資格。</li>\n    <li>持卡人於小樹點(信用卡)回饋時，須持有符合獲贈資格之有效世界卡，且回饋時仍為有效世界卡，且上一期無逾期未繳款之紀錄，若有終止信用卡、掛失不補發、到期不續卡、遭本行停止使用信用卡權利、延滯繳款、或違反本行信用卡契約等情事，即自動喪失獲贈資格。</li>\n    <li>本行保留對活動贈品以其他同等價值贈品替代之權利。活動期間倘因不可歸責本行之事由，本行得變更或終止活動，並於本行網站公告。</li>\n</ol>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>【2023年世界卡免費機場接送服務規範】</p>\n<ol class=\"cubre-m-list\">\n    <li>免費機場接送區域：</li>\n    <ol class=\"cubre-m-list -square\">\n        <li>松山機場：接送區域限於台北市、新北市、基隆市、桃園市、新竹縣市。</li>\n        <li>桃園國際機場：接送區域限於宜蘭縣、台北市、新北市、桃園市、基隆市、新竹縣市、苗栗縣市、台中市、彰化縣市、南投縣市、花蓮縣市。</li>\n        <li>台中國際機場：接送區域限於新竹縣市、苗栗縣市、台中市、彰化縣市、南投縣市、雲林縣、嘉義縣市。</li>\n        <li>高雄國際航空站(原小港機場)：接送區域限於台中市、彰化縣市、南投縣市、雲林縣、嘉義縣市、台南市、高雄市、屏東縣市、台東縣市。</li>\n    </ol>\n    <li>偏遠特定地區：持卡人指定之接送地點若為偏遠特定地區，須酌收偏遠地區加價費用(價格詳見<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.youfirst.com.tw/Cathaybank/AirPort/card.aspx\" target=\"_blank\">機場接送預約網頁</a>偏遠特定地區加價)。</li>\n    <li>接或送地點：由持卡人本人指定單一定點接或送服務，不提供停靠加點服務。</li>\n    <li>預約時間：便於車輛調度，機場接送持卡人請於三個工作天前(不含預約日及乘車日當天)，春節及連續假日須七個工作天前(不含預約日及乘車日當天)來電預約。連續假日指含週六、日達3天(含)以上之假期。</li>\n    <li>變更/取消時間：須於原約定時間前24小時，來電服務專線變更或取消。24小時內預約接送資料無法變更；24小時內取消者視同已使用本服務，持卡人仍須支付費用。若異動日期提前者仍須符合三個工作天前來電異動，否則視同使用(春節期間須七個工作天)。未經24小時服務專線變更或取消者，視同使用該服務權益乙次。</li>\n    <li>若須取消已預約之行程請於原預約時間前24小時來電通知，若未能於24小時前通知預約中心則視同服務已使用，費用不予以退還。</li>\n    <li>農曆春節時段或連續假期期間機場接送價格，不分區域依優惠價加收NT$200，且須於7個工作天前預約。</li>\n    <li>預約之送機或接機服務時間為夜間23：00~06：00時段者，須加收「夜間服務費用」NT$200。</li>\n    <li>接送車輛：提供四人座轎車接送服務，持卡人於預約前請斟酌同行人數及行李數，如人數或行李數超出乘載須升等七人座車另酌收升車費NT$300。</li>\n    <li>送機待時：依預約時間到達持卡人指定地點，送機案件最長等候時間為30分鐘，超過30分鐘，則司機無法繼續等候，且視同使用乙次服務，不予退費，如須等候30分以上，每小時酌收待時費NT$300。</li>\n    <li>接機待時：接機案件最長等候時間為60分鐘，若會超過60分鐘請來電通知，亦會產生待時費用(等候60分以上，每小時酌收待時費NT$300，若超過60分鐘，仍無法與使用人聯繫，則視同此預約案件成立，不予退費)。*接機預約時間以航空公司公佈班機抵達時間為準。</li>\n    <li>班機提早或延誤：接機服務如遇班機提早抵達，則依持卡人原預約時間提供服務，若班機延後則「肯驛國際U.First」依機場公告之抵達時間提供服務，但若延後抵達之時間較原訂抵達時間已逾四小時(含)抵達台灣則視同持卡人取消該次接機服務並保留權益。</li>\n    <li>舉牌服務：若須舉牌服務另加收NT$200舉牌費。</li>\n    <li>乘客保險：服務車輛均投保NT$500萬乘客險。</li>\n    <li>同行人數：除限定持卡人本人使用外，如行李加上同行親友未超過車輛所乘之範圍內，皆可一同搭乘，但以一車為限不會沿途接送其他客人，若持卡人要求，5公里內每增加一停靠站需加收NT$200以順路為原則，超過5公里每公里加收NT$50。(一車限定人數依交通法規規定，客服中心保留接受同行人數之權利)</li>\n    <li>現場認證：限持卡人本人使用，並須出示本人信用卡及身分證明文件供司機認證；如現場無法提供以上文件，則以訂價8折收費。</li>\n    <li>行李裝載：為確保行車安全，車內空間僅限乘坐貴賓，所有行李(包含手提行李)皆必須放置後車廂，放置重要文件、護照、錢包等貴重物品之小肩包，在不影響行車安全下可隨身攜帶，惟最終承載量須以不妨害行車安全為前提，機場接送客服中心有最終決定派車權。</li>\n    <li>特殊行李說明：</li>\n    <ol class=\"cubre-m-list -bracket\">\n        <li>基於法令規定，法律明文規定禁止載運之違禁品，如毒品等，恕不接受預約，如遇持卡人自行攜帶，途中如發生執法人員欄檢所發生之刑責將由持卡人自行負責。</li>\n        <li>基於行車安全考量，如遇承載行李超出車輛可承載範圍而影響行車安全，「肯驛國際」將有權拒絕載運。</li>\n        <li>如有特殊行李請於預約時先行告知，如未事先告知，造成當天無法完成接送服務，將視同持卡人已使用乙次服務，持卡人仍須支付費用。</li>\n        <li>特殊行李載運規範未盡事宜，將依「肯驛國際」規範為準。</li>\n    </ol>\n    <li>兒童安全座椅加價：</li>\n    <ol class=\"cubre-m-list -bracket\">\n        <li>因應政府「小型車附載幼童安全乘坐實施及宣導辦法」規範，12歲以下兒童乘坐小客車，須繫安全帶或使用安全座椅(增高座墊)乘坐。預約機場接送服務如有幼童同行，持卡人應於預約時主動告知。如須使用兒童安全座椅(增高座墊)設備，除機場接送優惠價之外，每張兒童座椅(增高座墊)須另加收NT$300。</li>\n        <li>兒童安全座椅(增高座墊)規格有二種：幼童型(1-4歲)／兒童增高坐墊(4-12歲)，請持卡人於預約時告知所須規格。因車型限制，每車最多限預約二張(含)安全座椅(增高座墊)，若預約二張(含)安全座椅(增高座墊)須指定七人座車，並收車型加價NT$300。</li>\n    </ol>\n    <li>為維護後續乘客之權益及車內清潔，嚴禁於車內抽煙、嚼檳榔，持卡人若因上述情事或車內飲食，導致車輛毀損、髒亂或殘留異味，須由持卡人賠償相關修繕、清潔及營業損失費用。</li>\n    <li>其他注意事項：</li>\n    <ol class=\"cubre-m-list -bracket\">\n        <li>持卡人須於登機前2小時到達機場，辦理登機手續，請持卡人自行預留車程時間。</li>\n        <li>車輛無法進入狹小巷弄及地下停車場。</li>\n        <li>詳細規定及限制條件，所有活動注意事項請洽<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.youfirst.com.tw/Cathaybank/AirPort/card.aspx\" target=\"_blank\">機場接送預約網頁</a>說明。</li>\n    </ol>\n    <li>本活動所述優惠為國泰世華銀行世界卡持卡人所享有，優惠相關之所有服務，則由「肯驛國際」提供。僅提供持卡人接或送機服務，其他如搭乘飛機訂位等相關事項概與國泰世華銀行與肯驛國際無涉。優惠提供期間倘因不可歸責本行之事宜，本行得變更或終止活動，並於本行網站公告。</li>\n</ol>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>【鑽石貴賓世界卡免費機場接送服務規範】</p>\n<ol class=\"cubre-m-list\">\n    <li>接送車種：提供高級進口轎車及7人座車為主。</li>\n    <li>指定區域至以下機場國際線免費區域：</li>\n    <ol class=\"cubre-m-list -square\">\n        <li>松山機場：接送區域限於台北市、新北市、基隆市、桃園市、新竹縣市。</li>\n        <li>桃園國際機場：接送區域限於宜蘭縣、台北市、新北市、桃園市、基隆市、新竹縣市、苗栗縣市、台中市、彰化縣市、南投縣市、花蓮縣市。</li>\n        <li>清泉崗國際機場：接送區域限於新竹縣市、苗栗縣市、台中市、彰化縣市、南投縣市、雲林縣、嘉義縣市。</li>\n        <li>高雄國際航空站（原小港機場）： 接送區域台中市、彰化縣市、南投縣市、雲林縣、嘉義縣市、台南市、高雄市、屏東縣市、台東縣市。</li>\n    </ol>\n    <li>預約時間：機場接送預約請於乘車日之指定使用時間的48小時前(含週六、日)事先預約，以便於車輛調度；如遇行政院人事行政總處規定之3天（含）以上之連續假日，則須於5個工作天前預約（不含預約當日及乘車當日，且不含行政院人事行政總處規定之假日及國定假日）。<br />\n    【舉例】<br />\n    *平日：2022/07/20 18:00使用本服務，最晚預約時間為2022/7/18 17:59:59前。</li>\n    <li>變更／取消時間：須於原約定時間前24小時，來電服務專線變更或取消。24小時內預約接送資料無法變更；24小時內取消者視同已使用本服務，持卡人仍須支付費用。若異動日期提前者仍須符合48小時前(含週六、日)來電異動，否則視同使用。(春節期間須五個工作天)。未經24小時服務專線變更或取消者，視同使用該服務權益乙次。</li>\n    <li>接機待時：若持卡人已確認班機延誤，請立即致電通知服務中心，以免持卡人之權益受損。接機等候時間為飛機實際到達時間或持卡人約定時間起90分鐘內，若服務人員確認班機已抵達但又無法連絡到持卡人時，服務人員得於該班機實際到達時間起算起等待90分鐘後逕行離開，並視同持卡人已使用過該單趟服務；若服務人員接獲持卡人通知並繼續等待且完成服務者，則持卡人應自第91分鐘起，每超過1小時支付待時費用300元 (八人座及賓士轎車同)，不足1小時以1小時計算。</li>\n    <li>送機待時：車輛依與乘客約定時間到達乘客指定地點，乘客如逾約定送機時間30分鐘以上且聯絡不到乘客本人時，服務人員及車輛得逕自離開，並視同乘客已使用該單趟服務；若服務人員接獲乘客通知並繼續等待且完成服務者，則乘客應自第31分鐘起，每超過1小時支付待時費用300元 (八人座及賓士轎車同)，不足1小時以1小時計算。</li>\n    <li>逾時補償：接送機人員以及車輛未依與持卡人約定時間到達接送地點逾時30分鐘以上，且經持卡人與服務中心確認車輛無法在指定時間到達時，持卡人有權先以其他交通工具先行接駁，持卡人就所支出之交通費用，可憑證明之發票或收據，請求服務提供廠商依照實際費用補償。* 接機預約時間以航空公司公佈班機抵達時間為準。</li>\n    <li>接機服務如遇班機提早抵達，則依持卡人原預約時間提供服務，若班機延後則依機場公告之抵達時間提供服務，但若延後抵達之時間較原訂抵達時間已逾四小時(含) 則視同持卡人取消該次接機服務並不予向持卡人取當次費用。</li>\n    <li>乘客保險：服務車輛均投保300萬乘客險。</li>\n    <li>同行人數：除限定持卡人本人使用外，如行李加上同行家人或友人未超過車輛所乘之範圍內，皆可一同搭乘，但以1車為限。(1車限定人數依交通法規規定，客服中心保留接受同行人數之權利)。</li>\n    <li>行李裝載：為確保行車安全，車內空間僅限乘坐貴賓，所有行李(包含手提行李)皆必須放置後車廂，放置重要文件、護照、錢包&hellip;等貴重物品之小肩包，在不影響行車安全下可隨身攜帶，惟最終承載量須以不妨害行車安全為前提，機場接送客服中心有最終決定派車權。</li>\n    <li>兒童安全座椅加價：</li>\n    <ol class=\"cubre-m-list -square\">\n        <li>因應政府『小型車附載幼童安全乘坐實施及宣導辦法』規範，12歲以下兒童乘坐小客車，須繫安全帶或使用安全座椅(增高座墊)乘坐。預約機場接送服務如有幼童同行，持卡人應於預約時主動告知。如須使用兒童安全座椅(增高座墊)設備，除機場接送優惠價之外，每張兒童座椅(增高座墊)須另加收新臺幣300。</li>\n        <li>兒童安全座椅(增高座墊)規格有二種：幼童型(1-4歲)／兒童增高坐墊(4~12歲)，請持卡人於預約時告知所須規格。因車型限制，每車最多限預約2張(含)安全座椅(增高座墊)。</li>\n    </ol>\n    <li>其他注意事項：</li>\n    <ol class=\"cubre-m-list -square\">\n        <li>持卡人須於登機前2小時到達機場，辦理登機手續，請持卡人自行預留車程時間。</li>\n        <li>車輛無法進入狹小巷弄及地下停車場。</li>\n        <li>國泰世華銀行之特約廠商/國泰世華銀行僅提供持卡人接或送機服務，其他如搭乘飛機訂位等相關事項概與國泰世華銀行之特約廠商/國泰世華銀行無關。</li>\n    </ol>\n</ol>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>【2023年世界卡免費美饌饗宴預約規範】</p>\n<ol class=\"cubre-m-list\">\n    <li>持卡人須於使用日期之3個工作天前(不含使用當日及例假日)經由預約專線訂位；預約用餐日期須為預約當日起60天內之優惠適用日；平、假日定義依飯店公告為準。</li>\n    <li>持卡人預約成功後會收到訂位成功簡訊，須於指定預約日期準時抵達各飯店/餐廳，並於現場出示預約刷卡之信用卡、有照之身分證件(身分證、駕照或健保卡任一)及告知預約編號，以供現場服務人員確認後，方可用餐。逾時則無法使用且恕不保留座位，且將視同已使用本優惠。</li>\n    <li>本優惠限國泰世華世界卡持卡人本人預約及使用，本優惠不得轉讓，僅對所示優惠有效，不可兌換現金，也不得與其他優惠合併使用。本優惠及服務係由「肯驛國際」所提供，持卡人對所提供之優惠及服務有任何爭議，或所有交易相關事項，由「肯驛國際」及參與優惠之商家負責處理。</li>\n    <li>每次預約至多8人成行，除享免費客戶外同行親友將以原餐價向指定持卡人計收餐費。優惠價依照各飯店現場公告的成人定價計算。若刷卡交易無法完成，則供應商客服中心將主動通知持卡人取消該預約服務。</li>\n    <li>本優惠不接受持卡人未經預約直接到飯店/餐廳現場使用本優惠。如遇非持卡人本人使用該優惠者，「肯驛國際」有權依照原價向持卡人請求支付差額。</li>\n    <li>因飯店/餐廳現場席次有限，如遇該飯店/餐廳訂位額滿，「肯驛國際」可協助改訂其他日期或其他飯店/餐廳。持卡人預約之後，如遇飯店/餐廳臨時通知客滿、包場或因其他因素而無法供餐，「肯驛國際」客服人員會主動連絡持卡人協助更改至其他日期。</li>\n    <li>變更及取消：持卡人若不能如期前往所預訂之飯店/餐廳用餐，須於使用日之前2個工作日16：00前(不含使用當日及例假日)透過預約專線完成取消或變更預約，各飯店/餐廳述不提供相關取消服務，如未依規範時間內完成取消或變更預約，預訂費用將不予退還並視同使用本優惠。此外，若預訂日期異動，其更改後的預定日期仍須符合2個工作天前(不含使用當日及例假日)來電異動。</li>\n    <li>若持卡人現場臨時增加人數，需依飯店/餐廳現場用餐情況得協助安排座位，不保證可增加用餐人數，但新增之同行貴賓則無法享有本活動優惠。若持卡人現場臨時減少人數，且未於用餐前2個工作日16:00前(不含使用當日及例假日)通知肯驛國際客服中心，預訂費用將不予退還並視同使用本優惠。</li>\n    <li>本優惠不受理預約兒童餐，且不適用於飲料、酒類、服務費、外帶、外燴。本優惠不含飯店/餐廳免費停車服務，持卡人需依飯店/餐廳現場規定支付停車費用。</li>\n    <li>本優惠不適用於農曆春節期間(除夕至初五)及特殊節日，包括情人節、勞動節、母親節、父親節、聖誕夜及聖誕節、跨年或其他各種國定連續假日(國定假日定義依人事行政局公告為準)，詳細定義依各飯店公告為主。</li>\n    <li>本活動所述優惠為國泰世華銀行世界卡持卡人所享有，優惠相關之所有服務，則由「肯驛國際」提供。優惠提供期間倘因不可歸責本行之事宜，本行得變更或終止活動，並於本行網站公告。</li>\n</ol>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>【2023年度世界卡刷$1千折抵$2千美饌用餐預約規範及注意事項】</p>\n<ol class=\"cubre-m-list\">\n    <p>1.持卡人須於使用日期之3個工作天前(不含使用當日及例假日)經由預約專線或預約網站訂位。各餐廳不提供預約/取消服務。</p>\n    <p>2.本活動刷指定信用卡1,000元，至指定餐廳享2,000元美食抵用金。</p>\n    <p>如現場消費總額低於美食抵用金者，不予退費，不得累計至下次使用亦不得找零。</p>\n    <p>如現場消費總額高於抵用金者，差額部分須由持卡人於現場使用世界卡支付結清。</p>\n    <p>3.持卡人預約成功後會收到訂位成功簡訊，須於指定預約日期準時抵達各飯店/餐廳，並於現場出示預約訂位之世界卡、有照之身分證件(身分證、駕照或健保卡任一)及告知預約編號，以供現場服務人員確認後，方可用餐。逾時則無法使用且恕不保留座位，且將視同已使用本優惠。</p>\n    <p>4.本優惠限國泰世華世界卡持卡人本人預約及使用，本優惠不得轉讓，僅對所示優惠有效，不可兌換現金，也不得與其他優惠合併使用。本優惠及服務係由「肯驛國際」所提供，持卡人對所提供之優惠及服務有任何爭議，或所有交易相關事項，由「肯驛國際」及參與優惠之商家負責處理。</p>\n    <p>5.如自備酒水，需依各家餐廳規定酌收開瓶費。</p>\n    <p>6.本優惠不接受持卡人未經預約直接到飯店/餐廳現場使用本優惠。如遇非持卡人本人使用該優惠者，「肯驛國際」有權依照原價向持卡人請求支付差額。</p>\n    <p>7.因飯店/餐廳現場席次有限，如遇該飯店/餐廳訂位額滿，「肯驛國際」可協助改訂其他日期或其他飯店/餐廳。持卡人預約之後，如遇飯店/餐廳臨時通知客滿、包場或因其他因素而無法供餐，「肯驛國際」客服人員會主動連絡持卡人協助更改至其他日期。</p>\n    <p>8.變更及取消：持卡人若不能如期前往所預訂之飯店/餐廳用餐，須於使用日之前7個工作日16：00前(不含使用當日及例假日)透過訂位專線完成取消或變更預約，各飯店/餐廳述不提供相關取消服務，如未依規範時間內完成取消或變更預約，預訂費用將不予退還並視同使用本優惠。此外，若預訂日期異動，其更改後的預定日期仍須符合3個工作天前(不含使用當日及例假日)來電異動。</p>\n    <p>9.若持卡人現場臨時增加人數，需依飯店/餐廳現場用餐情況得協助安排座位，不保證可增加用餐人數。若持卡人現場臨時減少人數，且未於用餐前7個工作日16:00前(不含使用當日及例假日)通知供應商客服中心，預訂費用將不予退還並視同使用本優惠。</p>\n    <p>10.本優惠不受理預約外帶、外燴。本優惠不含飯店/餐廳免費停車服務，持卡人需依飯店/餐廳現場規定支付停車費用。</p>\n    <p>11.本優惠不適用於農曆春節期間(除夕至初五)及特殊節日，包括情人節、勞動節、母親節、父親節、聖誕夜及聖誕節、跨年或其他各種國定連續假日(國定假日定義依人事行政局公告為準)，詳細定義依各飯店公告為主。</p>\n    <p>12.如遇合作飯店/餐廳整修期間或其他不可抗力因素，肯驛國際得有權更換其他同等級之飯店。</p>\n    <p>13.本活動所述優惠為國泰世華銀行世界卡持卡人所享有，優惠相關之所有服務，則由「肯驛國際」提供。持卡人如對本優惠及服務有任何爭議，或所有交易相關事項，由「肯驛國際」負責處理。</p>\n    <p>14.選擇開立電子發票，即表示本人同意訂單取消或金額調整，由「肯驛國際」代為處理銷售憑證(例如：營業人銷貨退回進貨退出或折讓證明單)，以加速辦理退款作業，如有問題請致電肯驛國際客服專線04-2206-1608洽詢。</p>\n    <p>&nbsp;</p>\n</ol>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>【2023年世界卡高爾夫優惠擊球預約規範】</p>\n<ol class=\"cubre-m-list\">\n    <li>本優惠價格依照4人一組方式計算，包含果嶺費、桿弟費、球車費、保險費之1人擊球優惠價，如因擊球人數不足4人所產生之差額，需於現場依照實際人數支付。牌價如有變動將依球場現場公告為準。</li>\n    <li>本優惠限貴賓本人使用，同一人如符合多項活動資格或持有多張指定銀行信用卡，該優惠使用仍以一人計算，且不得與球場提供之優惠合併使用。</li>\n    <li>預約時，如需付費限使用指定銀行信用卡支付（依優惠內容及活動規範公告為準），並取得預約編號，該預約才算完成；如未收到預約編號需再重新預約。</li>\n    <li>預約後即視同瞭解、承認並同意遵守本優惠之活動規範與注意事項，參與之高爾夫球俱樂部保留拒絕接受預訂之權利。</li>\n    <li>請於預訂日期依時抵達各球場，並出示預約之信用卡、預約編號、有照之身份證件（身份證、駕照或健保卡任一）供服務人員確認後方可擊球，逾時則無法使用，且將視同已使用本優惠，不得要求退款。</li>\n    <li>變更及取消：</li>\n    <ol class=\"cubre-m-list -bracket\">\n        <li>若欲取消或變更球場預訂行程，須於預訂擊球日期的前二個工作天16:00前（不含擊球當日及例假日）通知各球場與「肯驛國際」客服中心辦理，球場不提供取消服務。</li>\n        <li>如未依規定於前二個工作天16:00前取消或變更，已收取之費用將不退還，且將視同已使用本優惠1次。</li>\n        <li>惟若預訂擊球日期異動，其更改後之預訂日期仍須符合三個工作天前（不含擊球當日及例假日）來電預約之規定。</li>\n        <li>同一人如有三次未依規定取消之紀錄，本優惠配合之高爾夫球場及「肯驛國際」客服中心有拒絕接受預約之權利。</li>\n    </ol>\n    <li>本優惠僅適用於高爾夫活動，使用俱樂部的其他休閒設施時不享受優惠。本優惠並未將高爾夫俱樂部的貴賓資格授予參與者。</li>\n    <li>本優惠不得與球場提供之優惠合併使用（包含球隊預約、擊球券及貴賓證等）,且不適用於參加任何高爾夫比賽、交流比賽或其它推廣活動，其他未盡事項依球場規定為準。</li>\n    <li>本優惠不適用於農曆春節期間及特殊節日，包括勞動節、補班日或其他各種國定連續假日等節日，詳細定義依各活動公告為主。</li>\n    <li>本優惠不可轉讓、不可兌換現金，亦不得與其他優惠合併使用。</li>\n    <li>本優惠服務係由「肯驛國際」提供；如對本優惠及服務有任何爭議，或所有服務事項，由「肯驛國際」及提供優惠之供應商負責處理。</li>\n    <li>「肯驛國際」保留隨時修改、變更或終止本活動之權利，無須事先通知。</li>\n    <li>本活動優惠方案，限活動期間使用完畢，未使用視同放棄權利，恕無法遞延、轉讓、折現或替換為其他物品或任何其他費用。</li>\n</ol>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>【2023年世界卡龍騰貴賓室預約規範】</p>\n<ol class=\"cubre-m-list\">\n    <li>預約方式：</li>\n    <ol class=\"cubre-m-list -square\">\n        <li>預約專線：04-2206-1608</li>\n        <li>預約網站：https://www.freeliving.com.tw/event/cathaybk/world/login.aspx</li>\n    </ol>\n    <li>龍騰卡會員進入貴賓室/餐廳(含機場貴賓室、高鐵休息室及指定機場餐廳，以下簡稱「貴賓室/餐廳」) 每人次扣抵1點龍騰出行1點會員卡，可免費使用龍騰會貴賓室乙次，若權益次數扣抵完畢後，恕無法免費提供貴賓室/餐廳服務。</li>\n    <li>申請完成後由肯驛國際股份有限公司於24小時內發送簡訊通知16碼龍騰卡號至持卡人手機；持卡人需下載『龍騰出行APP』，依簡訊16碼龍騰卡號當作帳號登入使用。</li>\n    <li>持卡人須出示有效的龍騰卡(為『龍騰出行APP』虛擬卡及二維條碼畫面)及登機證方可進入貴賓室。</li>\n    <li>龍騰卡會籍效期自發卡日起一年，逾會籍有效期限恕無法使用。</li>\n    <li>龍騰卡採記名制申請，不得轉讓、轉借他人使用；非本人不當使用可能構成偽造文書或詐欺。龍騰卡非付款卡，亦不得作為信用證明。</li>\n    <li>同日同一機場，使用同一貴賓室需間隔2個小時；使用同一間或不同餐廳皆需間隔5個小時。</li>\n    <li>貴賓室服務說明：</li>\n    <ol class=\"cubre-m-list -square\">\n        <li>持卡人及其同行賓客必須遵守各貴賓室所頒定之使用規則，使用權有時會因貴賓室場所擁擠而受到限制，是否限制進入將由各貴賓室全權決定。攜伴兒童進入除非貴賓室另有規定，否則2歲（含）以上將視同成人收費。</li>\n        <li>為維護持卡人使用貴賓室的權益及避免擁擠，貴賓室保留實行最長停留時間為2小時的規定權利，並可要求延長停留旅客續刷卡(每次刷卡可延長休息2小時)</li>\n    </ol>\n    <li>龍騰卡提供的貴賓室/餐廳服務，依當地機場實際提供的服務時間和內容為準，如需要使用額外收費的服務，須由持卡人於現場支付該費用予貴賓室/餐廳工作人員。</li>\n    <li>持卡人在享受龍騰卡貴賓室/餐廳候機服務時，必須遵守當地機場貴賓室/餐廳的相關管理規定。所有飲料(含酒精飲料)免費提供與否、各項設備的提供及收費標準因每個貴賓室/餐廳而異，由各貴賓室/餐廳自行決定，因所產生的費用由貴賓直接付款給貴賓室/餐廳服務人員(詳情請見個別貴賓室/餐廳規定)。</li>\n    <li>貴賓室/餐廳服務人員保留拒絕任何舉止或衣著不宜之持卡人及其同行賓客進入貴賓室/餐廳之權利。服務人員可能會邀請有前述情形者離開貴賓室/餐廳。龍騰出行所屬(或代理)公司對於貴賓及其同行賓客因前述情形而被服務人員拒絕進入貴賓室/餐廳所產生之直接與間接損失概不負責。龍騰卡所屬(或代理)公司不負責貴賓及其同行賓客因延誤登機所產生的直接或間接損失。貴賓及其賓客若與貴賓室/餐廳服務人員發生任何爭議，龍騰出行所屬(或代理)公司不負任何責任。</li>\n    <li>各國機場/高鐵的貴賓室/餐廳所在位置、設施提供、營業時間、使用限時及相關規定皆不同，欲使用前建議先至『龍騰出行APP』、官網或肯驛客服專線查詢龍騰出行最新適用貴賓室/餐廳。\n    本項優惠或服務係由特約廠商肯驛國際股份有限公司直接提供予貴賓，龍騰出行所屬(或代理)公司保留隨時修改之權利。</li>\n    <p>為免疑義，特此聲明：本活動綜上所述優惠為國泰世華銀行指定持卡人所享有，優惠相關之所有商品及／或服務，則由「肯驛國際」提供，本優惠不得轉讓，僅對所示優惠有效，不得與其他優惠合併使用，亦不適用禮券支付、購買禮券、兌現或轉換其他商品。據此，持卡人瞭解、承認並同意：持卡人若依據優惠購買任何商品及／或服務，即構成持卡人與「肯驛國際」之間的合約，與國泰世華銀行一概無涉。持卡人若使用或有意使用上述優惠的任何商品及／或服務，即表示持卡人瞭解、承認並同意下列事項：\n    </p>\n    <p>    （a）持卡人依據上述優惠購買或有意購買的任何商品及／或服務，若有任何相關的索賠、申訴或爭議情事（統稱「要求」），須由持卡人直接洽詢「肯驛國際」俾利解決，不得向國泰世華銀行提出任何要求。    </p>\n    <p>（b）在不違反上述原則的情況下，針對優惠提供的商品及／或服務，如有使用或意圖使用商品及／或服務的行為造成或衍生任何人體傷害、死亡、不實陳述、傷害或疏失，概不由國泰世華銀行針對任何相關的（直接、間接或其他）損失、傷害、支出或要求向任何人負責。</p>\n</ol>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+                                    "Link Type": "{BDDD7950-259D-47D8-BC36-BC6A25600347}",
+                                    "Link": "http://www.youfirst.com.tw/CATHAYUNITEDBANK/",
+                                    "Link Text": "預約網站",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "8ee80171-19b2-4d3d-8451-11247e6a890d",
+                                    "ItemName": "Copy of SimpleGraphicTabItemLv2 2"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "2022年度滿額獻禮/鑽石貴賓尊榮禮遇",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n<p>消費達檻享機場接送、美饌饗宴、高爾夫擊球等貴賓禮遇及小樹點(信用卡)回饋</p>\n<p><span style=\"color: #ff0000;\">溫馨提醒：預約滿載相關資訊公告。</span></p>\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "注意事項",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">2022年度滿額獻禮/鑽石貴賓尊榮禮遇</p>\n</div>\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\"><span style=\"color: #ff0000;\">溫馨提醒：機場接送預約已接近滿載，近期全台機場接送預約使用需求急速增加，如預約滿載將不再接受任何預約，預約成功與否需視廠商服務量能實際狀況而定，建議透過專屬網站預約且儘早安排，所有注意事項及服務滿載狀況請詳肯驛國際預約網頁說明，恕無法更換其他贈品替代或延期使用或折讓現金。</span></p>\n<p class=\"cubre-a-blockTitle -textSub\">&nbsp;</p>\n<p class=\"cubre-a-blockTitle -textSub\">刷卡滿額享回饋</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>2022年正附卡累積一般消費達檻享貴賓禮遇及回饋：\n</p>\n<ol class=\"cubre-m-list\">\n    <li>刷達NT$30萬，或鑽石VIP世界卡卡友，享年度2次貴賓禮遇。</li>\n    <li>刷達NT$60萬，再享2次貴賓禮遇。</li>\n    <li>刷達NT$150萬，再享10,000點小樹點(信用卡)。</li>\n</ol>\n<p>【禮遇項目】：\n</p>\n<ol class=\"cubre-m-list -bracket\">\n    <li>免費單趟機場國際線接或送。</li>\n    <li>免費單人美饌饗宴。</li>\n    <li>高爾夫擊球優惠價乙次。</li>\n    <li>免費龍騰貴賓室乙次。(龍騰會員1點會員卡)</li>\n</ol>\n<ol class=\"cubre-m-list -square\">\n    <li>貴賓禮遇預約網站<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.youfirst.com.tw/Cathaybank/AirPort/index.aspx\" target=\"_blank\">www.youfirst.com.tw/Cathaybank/AirPort/index.aspx</a></li>\n    <li>預約專線 04-2206-1608 (每日00:00~24:00)。</li>\n    <li>世界卡消費達檻享貴賓禮遇資格將發送簡訊通知；鑽石貴賓資格請洽理專。</li>\n    <li><span style=\"color: #00b050;\"><strong>使用服務期間：2022/1/1~2023/6/30(須於2023/6/27前預約完成)。</strong></span></li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">【機場接送】</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>可享指定區域至下列機場國際線單趟免費接或送服務。</p>\n<ol class=\"cubre-m-list -square\">\n    <li>台北松山機場</li>\n    <li>桃園國際機場</li>\n    <li>台中國際機場</li>\n    <li>高雄國際機場(小港機場)</li>\n</ol>\n<p class=\"cubre-u-note\">(免費機場接送禮遇限定服務區域，詳細服務適用條件與限制依官網公告為準)</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">【美饌饗宴、高爾夫擊球優惠價】</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p><span style=\"color: #e36c09;\"><strong>詳細優惠內容及限制條件詳「2023年度滿額獻禮/鑽石貴賓尊榮禮遇」。</strong></span></p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<div class=\"cubre-o-block__component\">\n<table class=\"cubre-m-commonTable\">\n    <thead>\n    </thead>\n    <tbody>\n    </tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>【2022年度滿額禮貴賓禮遇共通規範】</p>\n<ol class=\"cubre-m-list\">\n    <li>使用服務期間：2022/1/1~2023/6/30(須於2023/6/27前預約完成)。</li>\n    <li>適用於鑽石貴賓持有效本行世界卡正卡，其前一月與本行往來近三個月平均往來資產餘額達等值NT$3,000萬(含)以上者或2022年度一般消費刷卡滿NT$30萬之持卡人，年度累積消費係以「消費日」於2022/1/1~2022/12/31世界卡之正附卡合併一般消費為計算，一般消費不包含:信用卡相關利息及費用(包含但不限於利息/年費/掛失費/預借現金手續費/違約金/國外交易手續費/調閱簽帳單手續費、補發帳單手續費等非消費款項)、預借現金、帳單分期、單筆消費分期(刷卡樂分期)、通信貸款、餘額代償金額及經本行公告除外之專案、稅款、學費、公用事業費用(包含但不限於中華電信電話/網路通訊/影音服務...等相關費用及附加費)、路邊停車費、公務機關各項費用、透過繳費平台(如公務機關信用卡繳費平台，含公務機關/國營事業/公立醫療院所等、電子化繳費稅處理平台、醫指付、本行CUBE網銀或CUBE App線上繳費服務)繳納之費用、保費、代扣基金、悠遊卡加值、一卡通加值、icash加值、便利超商消費、透過聯合信用卡處理中心小額支付平台之特約商店之消費 (如便利超商、連鎖速食店、停車費等)、全聯福利中心消費、eTag儲值/eTag智慧停車費代扣繳、遠東SOGO百貨貴賓廳之消費金額、國壽不動產租金代收、COSTCO店內(包含Costco線上購物及Costco加油站)之VISA金融卡消費、及其他經本行公告排除之項目。分期付款以活動期間內已請款入帳金額計算；如有退貨交易將予以扣除。亞洲萬里通世界卡消費不計入年度累積消費金額。回饋期間如遇本行調整小樹點(信用卡)計算方式，將改以等值之點數或品項贈送。</li>\n    <li>持卡人刷卡消費符合後第二個月起方享有年度貴賓禮遇次數，倘符合消費資格客戶本行將透過簡訊通知。(舉例說明：於2022/1/1~2022/4/30期間累計消費滿NT$30萬，將可於2022年6月起享有2次貴賓禮遇資格；於2022/1/1~2022/6/30期間累計消費滿NT$60萬，將可於2022年8月起再享2次貴賓禮遇資格)。</li>\n    <li>符合資格者每年度可享最高4次貴賓禮遇，不限定類別，可混合使用，惟總使用次數為4次，舉例說明：4次可選擇機場接送、美饌饗宴、高爾夫優惠擊球、龍騰貴賓室各1次，或2次美饌饗宴與2次高爾夫優惠擊球。於同一用餐時間預約使用2次免費單人美饌饗宴，亦算已使用2次優惠。</li>\n    <li>正附卡消費金額、次數及使用權益次數合併計算，持卡人須為接送服務搭乘乘客或美饌用餐者之一，附卡人如欲使用如同正卡人之權益須經由正卡人預約，且其使用次數須扣減所屬正卡得使用次數。</li>\n    <li>小樹點(信用卡)回饋僅贈予正卡持卡人，將以手機簡訊通知，本行預計將自2022/3/25起，陸續回饋小樹點(信用卡)，如未收到須於2023/3/31前來電本行客服中心反應，逾期恕不受理並視同放棄贈送資格。</li>\n    <li>持卡人於小樹點(信用卡)回饋時，須持有符合獲贈資格之有效世界卡，且回饋時仍為有效世界卡，且上一期無逾期未繳款之紀錄，若有終止信用卡、掛失不補發、到期不續卡、遭本行停止使用信用卡權利、延滯繳款、或違反本行信用卡契約等情事，即自動喪失獲贈資格。</li>\n    <li>本行保留對活動贈品以其他同等價值贈品替代之權利。活動期間倘因不可歸責本行之事由，本行得變更或終止活動，並於本行網站公告。</li>\n</ol>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>【2022年世界卡免費機場接送服務規範】</p>\n<ol class=\"cubre-m-list\">\n    <li>免費機場接送區域：</li>\n    <ol class=\"cubre-m-list -square\">\n        <li>松山機場：接送區域限於台北市、新北市、基隆市、桃園市、新竹縣市。</li>\n        <li>桃園國際機場：接送區域限於宜蘭縣、台北市、新北市、桃園市、基隆市、新竹縣市、苗栗縣市、台中市、彰化縣市、南投縣市、花蓮縣市。</li>\n        <li>台中國際機場：接送區域限於新竹縣市、苗栗縣市、台中市、彰化縣市、南投縣市、雲林縣、嘉義縣市。</li>\n        <li>高雄國際航空站(原小港機場)：接送區域限於台中市、彰化縣市、南投縣市、雲林縣、嘉義縣市、台南市、高雄市、屏東縣市、台東縣市。</li>\n    </ol>\n    <li>偏遠特定地區：持卡人指定之接送地點若為偏遠特定地區，須酌收偏遠地區加價費用(價格詳見<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.youfirst.com.tw/Cathaybank/AirPort/card.aspx\" target=\"_blank\">機場接送預約網頁</a>偏遠特定地區加價)。</li>\n    <li>接或送地點：由持卡人本人指定單一定點接或送服務，不提供停靠加點服務。</li>\n    <li>預約時間：便於車輛調度，機場接送持卡人請於三個工作天前(不含預約日及乘車日當天)，春節及連續假日須七個工作天前(不含預約日及乘車日當天)來電預約。連續假日指含週六、日達3天(含)以上之假期。</li>\n    <li>變更/取消時間：須於原約定時間前24小時，來電服務專線變更或取消。24小時內預約接送資料無法變更；24小時內取消者視同已使用本服務，持卡人仍須支付費用。若異動日期提前者仍須符合三個工作天前來電異動，否則視同使用(春節期間須七個工作天)。未經24小時服務專線變更或取消者，視同使用該服務權益乙次。</li>\n    <li>若須取消已預約之行程請於原預約時間前24小時來電通知，若未能於24小時前通知預約中心則視同服務已使用，費用不予以退還。</li>\n    <li>農曆春節時段或連續假期期間機場接送價格，不分區域依優惠價加收NT$200，且須於7個工作天前預約。</li>\n    <li>預約之送機或接機服務時間為夜間23：00~06：00時段者，須加收「夜間服務費用」NT$200。</li>\n    <li>接送車輛：提供四人座轎車接送服務，持卡人於預約前請斟酌同行人數及行李數，如人數或行李數超出乘載須升等七人座車另酌收升車費NT$300。</li>\n    <li>送機待時：依預約時間到達持卡人指定地點，送機案件最長等候時間為30分鐘，超過30分鐘，則司機無法繼續等候，且視同使用乙次服務，不予退費，如須等候30分以上，每小時酌收待時費NT$300。</li>\n    <li>接機待時：接機案件最長等候時間為60分鐘，若會超過60分鐘請來電通知，亦會產生待時費用(等候60分以上，每小時酌收待時費NT$300，若超過60分鐘，仍無法與使用人聯繫，則視同此預約案件成立，不予退費)。*接機預約時間以航空公司公佈班機抵達時間為準。</li>\n    <li>班機提早或延誤：接機服務如遇班機提早抵達，則依持卡人原預約時間提供服務，若班機延後則「肯驛國際U.First」依機場公告之抵達時間提供服務，但若延後抵達之時間較原訂抵達時間已逾四小時(含)抵達台灣則視同持卡人取消該次接機服務並保留權益。</li>\n    <li>舉牌服務：若須舉牌服務另加收NT$200舉牌費。</li>\n    <li>乘客保險：服務車輛均投保NT$500萬乘客險。</li>\n    <li>同行人數：除限定持卡人本人使用外，如行李加上同行親友未超過車輛所乘之範圍內，皆可一同搭乘，但以一車為限不會沿途接送其他客人，若持卡人要求，5公里內每增加一停靠站需加收NT$200以順路為原則，超過5公里每公里加收NT$50。(一車限定人數依交通法規規定，客服中心保留接受同行人數之權利)</li>\n    <li>現場認證：限持卡人本人使用，並須出示本人信用卡及身分證明文件供司機認證；如現場無法提供以上文件，則以訂價8折收費。</li>\n    <li>行李裝載：為確保行車安全，車內空間僅限乘坐貴賓，所有行李(包含手提行李)皆必須放置後車廂，放置重要文件、護照、錢包等貴重物品之小肩包，在不影響行車安全下可隨身攜帶，惟最終承載量須以不妨害行車安全為前提，機場接送客服中心有最終決定派車權。</li>\n    <li>特殊行李說明：</li>\n    <ol class=\"cubre-m-list -bracket\">\n        <li>基於法令規定，法律明文規定禁止載運之違禁品，如毒品等，恕不接受預約，如遇持卡人自行攜帶，途中如發生執法人員欄檢所發生之刑責將由持卡人自行負責。</li>\n        <li>基於行車安全考量，如遇承載行李超出車輛可承載範圍而影響行車安全，「肯驛國際」將有權拒絕載運。</li>\n        <li>如有特殊行李請於預約時先行告知，如未事先告知，造成當天無法完成接送服務，將視同持卡人已使用乙次服務，持卡人仍須支付費用。</li>\n        <li>特殊行李載運規範未盡事宜，將依「肯驛國際」規範為準。</li>\n    </ol>\n    <li>兒童安全座椅加價：</li>\n    <ol class=\"cubre-m-list -bracket\">\n        <li>因應政府「小型車附載幼童安全乘坐實施及宣導辦法」規範，12歲以下兒童乘坐小客車，須繫安全帶或使用安全座椅(增高座墊)乘坐。預約機場接送服務如有幼童同行，持卡人應於預約時主動告知。如須使用兒童安全座椅(增高座墊)設備，除機場接送優惠價之外，每張兒童座椅(增高座墊)須另加收NT$300。</li>\n        <li>兒童安全座椅(增高座墊)規格有二種：幼童型(1-4歲)／兒童增高坐墊(4-12歲)，請持卡人於預約時告知所須規格。因車型限制，每車最多限預約二張(含)安全座椅(增高座墊)，若預約二張(含)安全座椅(增高座墊)須指定七人座車，並收車型加價NT$300。</li>\n    </ol>\n    <li>為維護後續乘客之權益及車內清潔，嚴禁於車內抽煙、嚼檳榔，持卡人若因上述情事或車內飲食，導致車輛毀損、髒亂或殘留異味，須由持卡人賠償相關修繕、清潔及營業損失費用。</li>\n    <li>其他注意事項：</li>\n    <ol class=\"cubre-m-list -bracket\">\n        <li>持卡人須於登機前2小時到達機場，辦理登機手續，請持卡人自行預留車程時間。</li>\n        <li>車輛無法進入狹小巷弄及地下停車場。</li>\n        <li>詳細規定及限制條件，所有活動注意事項請洽<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.youfirst.com.tw/Cathaybank/AirPort/card.aspx\" target=\"_blank\">機場接送預約網頁</a>說明。</li>\n    </ol>\n    <li>本活動所述優惠為國泰世華銀行世界卡持卡人所享有，優惠相關之所有服務，則由「肯驛國際」提供。僅提供持卡人接或送機服務，其他如搭乘飛機訂位等相關事項概與國泰世華銀行與肯驛國際無涉。優惠提供期間倘因不可歸責本行之事宜，本行得變更或終止活動，並於本行網站公告。</li>\n</ol>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>【鑽石貴賓世界卡免費機場接送服務規範】</p>\n<ol class=\"cubre-m-list\">\n    <li>接送車種：提供高級進口轎車及7人座車為主。</li>\n    <li>指定區域至以下機場國際線免費區域：</li>\n    <ol class=\"cubre-m-list -square\">\n        <li>松山機場：接送區域限於台北市、新北市、基隆市、桃園市、新竹縣市。</li>\n        <li>桃園國際機場：接送區域限於宜蘭縣、台北市、新北市、桃園市、基隆市、新竹縣市、苗栗縣市、台中市、彰化縣市、南投縣市、花蓮縣市。</li>\n        <li>清泉崗國際機場：接送區域限於新竹縣市、苗栗縣市、台中市、彰化縣市、南投縣市、雲林縣、嘉義縣市。</li>\n        <li>高雄國際航空站（原小港機場）： 接送區域台中市、彰化縣市、南投縣市、雲林縣、嘉義縣市、台南市、高雄市、屏東縣市、台東縣市。</li>\n    </ol>\n    <li>預約時間：機場接送預約請於乘車日之指定使用時間的48小時前(含週六、日)事先預約，以便於車輛調度；如遇行政院人事行政總處規定之3天（含）以上之連續假日，則須於5個工作天前預約（不含預約當日及乘車當日，且不含行政院人事行政總處規定之假日及國定假日）。<br />\n    【舉例】<br />\n    *平日：2022/07/20 18:00使用本服務，最晚預約時間為2022/7/18 17:59:59前。</li>\n    <li>變更／取消時間：須於原約定時間前24小時，來電服務專線變更或取消。24小時內預約接送資料無法變更；24小時內取消者視同已使用本服務，持卡人仍須支付費用。若異動日期提前者仍須符合48小時前(含週六、日)來電異動，否則視同使用。(春節期間須五個工作天)。未經24小時服務專線變更或取消者，視同使用該服務權益乙次。</li>\n    <li>接機待時：若持卡人已確認班機延誤，請立即致電通知服務中心，以免持卡人之權益受損。接機等候時間為飛機實際到達時間或持卡人約定時間起90分鐘內，若服務人員確認班機已抵達但又無法連絡到持卡人時，服務人員得於該班機實際到達時間起算起等待90分鐘後逕行離開，並視同持卡人已使用過該單趟服務；若服務人員接獲持卡人通知並繼續等待且完成服務者，則持卡人應自第91分鐘起，每超過1小時支付待時費用300元 (八人座及賓士轎車同)，不足1小時以1小時計算。</li>\n    <li>送機待時：車輛依與乘客約定時間到達乘客指定地點，乘客如逾約定送機時間30分鐘以上且聯絡不到乘客本人時，服務人員及車輛得逕自離開，並視同乘客已使用該單趟服務；若服務人員接獲乘客通知並繼續等待且完成服務者，則乘客應自第31分鐘起，每超過1小時支付待時費用300元 (八人座及賓士轎車同)，不足1小時以1小時計算。</li>\n    <li>逾時補償：接送機人員以及車輛未依與持卡人約定時間到達接送地點逾時30分鐘以上，且經持卡人與服務中心確認車輛無法在指定時間到達時，持卡人有權先以其他交通工具先行接駁，持卡人就所支出之交通費用，可憑證明之發票或收據，請求服務提供廠商依照實際費用補償。* 接機預約時間以航空公司公佈班機抵達時間為準。</li>\n    <li>接機服務如遇班機提早抵達，則依持卡人原預約時間提供服務，若班機延後則依機場公告之抵達時間提供服務，但若延後抵達之時間較原訂抵達時間已逾四小時(含) 則視同持卡人取消該次接機服務並不予向持卡人取當次費用。</li>\n    <li>乘客保險：服務車輛均投保300萬乘客險。</li>\n    <li>同行人數：除限定持卡人本人使用外，如行李加上同行家人或友人未超過車輛所乘之範圍內，皆可一同搭乘，但以1車為限。(1車限定人數依交通法規規定，客服中心保留接受同行人數之權利)。</li>\n    <li>行李裝載：為確保行車安全，車內空間僅限乘坐貴賓，所有行李(包含手提行李)皆必須放置後車廂，放置重要文件、護照、錢包&hellip;等貴重物品之小肩包，在不影響行車安全下可隨身攜帶，惟最終承載量須以不妨害行車安全為前提，機場接送客服中心有最終決定派車權。</li>\n    <li>兒童安全座椅加價：</li>\n    <ol class=\"cubre-m-list -square\">\n        <li>因應政府『小型車附載幼童安全乘坐實施及宣導辦法』規範，12歲以下兒童乘坐小客車，須繫安全帶或使用安全座椅(增高座墊)乘坐。預約機場接送服務如有幼童同行，持卡人應於預約時主動告知。如須使用兒童安全座椅(增高座墊)設備，除機場接送優惠價之外，每張兒童座椅(增高座墊)須另加收新臺幣300。</li>\n        <li>兒童安全座椅(增高座墊)規格有二種：幼童型(1-4歲)／兒童增高坐墊(4~12歲)，請持卡人於預約時告知所須規格。因車型限制，每車最多限預約2張(含)安全座椅(增高座墊)。</li>\n    </ol>\n    <li>其他注意事項：</li>\n    <ol class=\"cubre-m-list -square\">\n        <li>持卡人須於登機前2小時到達機場，辦理登機手續，請持卡人自行預留車程時間。</li>\n        <li>車輛無法進入狹小巷弄及地下停車場。</li>\n        <li>國泰世華銀行之特約廠商/國泰世華銀行僅提供持卡人接或送機服務，其他如搭乘飛機訂位等相關事項概與國泰世華銀行之特約廠商/國泰世華銀行無關。</li>\n    </ol>\n</ol>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>【2022年世界卡免費美饌饗宴預約規範】</p>\n<ol class=\"cubre-m-list\">\n    <li>持卡人須於使用日期之3個工作天前(不含使用當日及例假日)經由預約專線訂位；預約用餐日期須為預約當日起60天內之優惠適用日；平、假日定義依飯店公告為準。</li>\n    <li>持卡人預約成功後會收到訂位成功簡訊，須於指定預約日期準時抵達各飯店/餐廳，並於現場出示預約刷卡之信用卡、有照之身分證件(身分證、駕照或健保卡任一)及告知預約編號，以供現場服務人員確認後，方可用餐。逾時則無法使用且恕不保留座位，且將視同已使用本優惠。</li>\n    <li>本優惠限國泰世華世界卡持卡人本人預約及使用，本優惠不得轉讓，僅對所示優惠有效，不可兌換現金，也不得與其他優惠合併使用。本優惠及服務係由「肯驛國際」所提供，持卡人對所提供之優惠及服務有任何爭議，或所有交易相關事項，由「肯驛國際」及參與優惠之商家負責處理。</li>\n    <li>每次預約至多8人成行，除享免費客戶外同行親友將以原餐價向指定持卡人計收餐費。優惠價依照各飯店現場公告的成人定價計算。若刷卡交易無法完成，則供應商客服中心將主動通知持卡人取消該預約服務。</li>\n    <li>本優惠不接受持卡人未經預約直接到飯店/餐廳現場使用本優惠。如遇非持卡人本人使用該優惠者，「肯驛國際」有權依照原價向持卡人請求支付差額。</li>\n    <li>因飯店/餐廳現場席次有限，如遇該飯店/餐廳訂位額滿，「肯驛國際」可協助改訂其他日期或其他飯店/餐廳。持卡人預約之後，如遇飯店/餐廳臨時通知客滿、包場或因其他因素而無法供餐，「肯驛國際」客服人員會主動連絡持卡人協助更改至其他日期。</li>\n    <li>變更及取消：持卡人若不能如期前往所預訂之飯店/餐廳用餐，須於使用日之前2個工作日16：00前(不含使用當日及例假日)透過預約專線完成取消或變更預約，各飯店/餐廳述不提供相關取消服務，如未依規範時間內完成取消或變更預約，預訂費用將不予退還並視同使用本優惠。此外，若預訂日期異動，其更改後的預定日期仍須符合2個工作天前(不含使用當日及例假日)來電異動。</li>\n    <li>若持卡人現場臨時增加人數，需依飯店/餐廳現場用餐情況得協助安排座位，不保證可增加用餐人數，但新增之同行貴賓則無法享有本活動優惠。若持卡人現場臨時減少人數，且未於用餐前2個工作日16:00前(不含使用當日及例假日)通知肯驛國際客服中心，預訂費用將不予退還並視同使用本優惠。</li>\n    <li>本優惠不受理預約兒童餐，且不適用於飲料、酒類、服務費、外帶、外燴。本優惠不含飯店/餐廳免費停車服務，持卡人需依飯店/餐廳現場規定支付停車費用。</li>\n    <li>本優惠不適用於農曆春節期間(除夕至初五)及特殊節日，包括情人節、勞動節、母親節、父親節、聖誕夜及聖誕節、跨年或其他各種國定連續假日(國定假日定義依人事行政局公告為準)，詳細定義依各飯店公告為主。</li>\n    <li>本活動所述優惠為國泰世華銀行世界卡持卡人所享有，優惠相關之所有服務，則由「肯驛國際」提供。優惠提供期間倘因不可歸責本行之事宜，本行得變更或終止活動，並於本行網站公告。</li>\n</ol>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>【2022年世界卡高爾夫優惠擊球預約規範】</p>\n<ol class=\"cubre-m-list\">\n    <li>本優惠價格依照4人一組方式計算，包含果嶺費、桿弟費、球車費、保險費之1人擊球優惠價，如因擊球人數不足4人所產生之差額，需於現場依照實際人數支付。牌價如有變動將依球場現場公告為準。</li>\n    <li>本優惠限貴賓本人使用，同一人如符合多項活動資格或持有多張指定銀行信用卡，該優惠使用仍以一人計算，且不得與球場提供之優惠合併使用。</li>\n    <li>預約時，如需付費限使用指定銀行信用卡支付（依優惠內容及活動規範公告為準），並取得預約編號，該預約才算完成；如未收到預約編號需再重新預約。</li>\n    <li>預約後即視同瞭解、承認並同意遵守本優惠之活動規範與注意事項，參與之高爾夫球俱樂部保留拒絕接受預訂之權利。</li>\n    <li>請於預訂日期依時抵達各球場，並出示預約之信用卡、預約編號、有照之身份證件（身份證、駕照或健保卡任一）供服務人員確認後方可擊球，逾時則無法使用，且將視同已使用本優惠，不得要求退款。</li>\n    <li>變更及取消：</li>\n    <ol class=\"cubre-m-list -bracket\">\n        <li>若欲取消或變更球場預訂行程，須於預訂擊球日期的前二個工作天16:00前（不含擊球當日及例假日）通知各球場與「肯驛國際」客服中心辦理，球場不提供取消服務。</li>\n        <li>如未依規定於前二個工作天16:00前取消或變更，已收取之費用將不退還，且將視同已使用本優惠1次。</li>\n        <li>惟若預訂擊球日期異動，其更改後之預訂日期仍須符合三個工作天前（不含擊球當日及例假日）來電預約之規定。</li>\n        <li>同一人如有三次未依規定取消之紀錄，本優惠配合之高爾夫球場及「肯驛國際」客服中心有拒絕接受預約之權利。</li>\n    </ol>\n    <li>本優惠僅適用於高爾夫活動，使用俱樂部的其他休閒設施時不享受優惠。本優惠並未將高爾夫俱樂部的貴賓資格授予參與者。</li>\n    <li>本優惠不得與球場提供之優惠合併使用（包含球隊預約、擊球券及貴賓證等）,且不適用於參加任何高爾夫比賽、交流比賽或其它推廣活動，其他未盡事項依球場規定為準。</li>\n    <li>本優惠不適用於農曆春節期間及特殊節日，包括勞動節、補班日或其他各種國定連續假日等節日，詳細定義依各活動公告為主。</li>\n    <li>本優惠不可轉讓、不可兌換現金，亦不得與其他優惠合併使用。</li>\n    <li>本優惠服務係由「肯驛國際」提供；如對本優惠及服務有任何爭議，或所有服務事項，由「肯驛國際」及提供優惠之供應商負責處理。</li>\n    <li>「肯驛國際」保留隨時修改、變更或終止本活動之權利，無須事先通知。</li>\n    <li>本活動優惠方案，限活動期間使用完畢，未使用視同放棄權利，恕無法遞延、轉讓、折現或替換為其他物品或任何其他費用。</li>\n</ol>\n</div>\n</div>\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>【2022年世界卡龍騰貴賓室預約規範】</p>\n<ol class=\"cubre-m-list\">\n    <li>預約方式：</li>\n    <ol class=\"cubre-m-list -square\">\n        <li>預約專線：04-2206-1608</li>\n        <li>預約網站：https://www.freeliving.com.tw/event/cathaybk/world/login.aspx</li>\n    </ol>\n    <li>龍騰卡會員進入貴賓室/餐廳(含機場貴賓室、高鐵休息室及指定機場餐廳，以下簡稱「貴賓室/餐廳」) 每人次扣抵1點龍騰出行1點會員卡，可免費使用龍騰會貴賓室乙次，若權益次數扣抵完畢後，恕無法免費提供貴賓室/餐廳服務。</li>\n    <li>申請完成後由肯驛國際股份有限公司於24小時內發送簡訊通知16碼龍騰卡號至持卡人手機；持卡人需下載『龍騰出行APP』，依簡訊16碼龍騰卡號當作帳號登入使用。</li>\n    <li>持卡人須出示有效的龍騰卡(為『龍騰出行APP』虛擬卡及二維條碼畫面)及登機證方可進入貴賓室。</li>\n    <li>龍騰卡會籍效期自發卡日起一年，逾會籍有效期限恕無法使用。</li>\n    <li>龍騰卡採記名制申請，不得轉讓、轉借他人使用；非本人不當使用可能構成偽造文書或詐欺。龍騰卡非付款卡，亦不得作為信用證明。</li>\n    <li>同日同一機場，使用同一貴賓室需間隔2個小時；使用同一間或不同餐廳皆需間隔5個小時。</li>\n    <li>貴賓室服務說明：</li>\n    <ol class=\"cubre-m-list -square\">\n        <li>持卡人及其同行賓客必須遵守各貴賓室所頒定之使用規則，使用權有時會因貴賓室場所擁擠而受到限制，是否限制進入將由各貴賓室全權決定。攜伴兒童進入除非貴賓室另有規定，否則2歲（含）以上將視同成人收費。</li>\n        <li>為維護持卡人使用貴賓室的權益及避免擁擠，貴賓室保留實行最長停留時間為2小時的規定權利，並可要求延長停留旅客續刷卡(每次刷卡可延長休息2小時)</li>\n    </ol>\n    <li>龍騰卡提供的貴賓室/餐廳服務，依當地機場實際提供的服務時間和內容為準，如需要使用額外收費的服務，須由持卡人於現場支付該費用予貴賓室/餐廳工作人員。</li>\n    <li>持卡人在享受龍騰卡貴賓室/餐廳候機服務時，必須遵守當地機場貴賓室/餐廳的相關管理規定。所有飲料(含酒精飲料)免費提供與否、各項設備的提供及收費標準因每個貴賓室/餐廳而異，由各貴賓室/餐廳自行決定，因所產生的費用由貴賓直接付款給貴賓室/餐廳服務人員(詳情請見個別貴賓室/餐廳規定)。</li>\n    <li>貴賓室/餐廳服務人員保留拒絕任何舉止或衣著不宜之持卡人及其同行賓客進入貴賓室/餐廳之權利。服務人員可能會邀請有前述情形者離開貴賓室/餐廳。龍騰出行所屬(或代理)公司對於貴賓及其同行賓客因前述情形而被服務人員拒絕進入貴賓室/餐廳所產生之直接與間接損失概不負責。龍騰卡所屬(或代理)公司不負責貴賓及其同行賓客因延誤登機所產生的直接或間接損失。貴賓及其賓客若與貴賓室/餐廳服務人員發生任何爭議，龍騰出行所屬(或代理)公司不負任何責任。</li>\n    <li>各國機場/高鐵的貴賓室/餐廳所在位置、設施提供、營業時間、使用限時及相關規定皆不同，欲使用前建議先至『龍騰出行APP』、官網或肯驛客服專線查詢龍騰出行最新適用貴賓室/餐廳。\n    本項優惠或服務係由特約廠商肯驛國際股份有限公司直接提供予貴賓，龍騰出行所屬(或代理)公司保留隨時修改之權利。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+                                    "Link Type": "{BDDD7950-259D-47D8-BC36-BC6A25600347}",
+                                    "Link": "http://www.youfirst.com.tw/CATHAYUNITEDBANK/",
+                                    "Link Text": "預約網站",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "43114716-6a96-4d5c-8f96-cd07803cd5d3",
+                                    "ItemName": "SimpleGraphicTabItemLv2 2"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/c6befba524774e28a8163754d2df4226?v=2",
+                                    "Title": "2020、2021年度滿額獻禮/鑽石貴賓世界卡卡友禮遇",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n★貼心服務★ 開放延長至<span style=\"color: #e36c09;\"><strong>2023/6/30前</strong></span>使用完畢(須於2023/6/27前預約完成)。\n<p><span style=\"color: #ff0000;\">溫馨提醒：預約滿載相關資訊公告。</span></p>\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "展延公告",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n</div>\n<!-- 如無副標，請包含.cubre-o-block__subTitle 做移除 -->\n<div class=\"cubre-o-block__subTitle\">\n<p>★貼心服務★ 2020、2021年度滿額獻禮/鑽石貴賓世界卡卡友禮遇開放延長至<span style=\"color: #e36c09;\"><strong>2023/6/30前</strong></span>使用完畢(須於2023/6/27前預約完成)。</p>\n<ol class=\"cubre-m-list\"><br />\n    <p>◆預約網站<a rel=\"noopener noreferrer\" class=\"cubre-a-link\" href=\"https://www.youfirst.com.tw/Cathaybank/AirPort/index.aspx\" target=\"_blank\">www.youfirst.com.tw/Cathaybank/AirPort/index.aspx</a>。</p>\n    <p>◆機場接送/美饌饗宴預約專線 04-2206-1608(每日00:00~24:00)。</p>\n    <p>◆頂級飯店住宿預約專線 04-2206-8030(每日09:00~21:00)。</p>\n    <br />\n    <p class=\"cubre-a-blockTitle -textSub\"><span style=\"color: #ff0000;\">溫馨提醒：機場接送預約已接近滿載，近期全台機場接送預約使用需求急速增加，如預約滿載將不再接受任何預約，預約成功與否需視廠商服務量能實際狀況而定，建議透過專屬網站預約且儘早安排，所有注意事項及服務滿載狀況請詳肯驛國際預約網頁說明，恕無法更換其他贈品替代或延期使用或折讓現金。</span></p>\n</ol>\n<br />\n<h4><span style=\"color: #00b050;\">【免費頂級飯店住宿禮遇】</span></h4>\n<p>2021年累積一般消費達NT$150萬，享年度1次頂級飯店平日住宿禮遇</p>\n<p>2023年度適用飯店及房型如下，須於2023/6/27前預約完成</p>\n</div>\n</div>\n</div>\n<p>&nbsp;</p>\n<div class=\"cubre-o-block__component\">\n<table class=\"cubre-m-commonTable\">\n    <thead>\n        <tr>\n            <th>地區</th>\n            <th>&nbsp;飯店</th>\n            <th>房型</th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">台北</td>\n            <td class=\"tar\" style=\"text-align: left;\">&nbsp;北投大地酒店</td>\n            <td class=\"tar\" style=\"text-align: left;\"><span style=\"background-color: #ffffff; color: #565656;\">楓林客房(一泊一食)</span></td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">南投</td>\n            <td class=\"tar\" style=\"text-align: left;\">&nbsp;雲品溫泉酒店</td>\n            <td class=\"tar\" style=\"text-align: left;\">經典山景房(一泊二食)</td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">高雄</td>\n            <td class=\"tar\" style=\"text-align: left;\">&nbsp;H2O水京棧國際酒店</td>\n            <td class=\"tar\" style=\"text-align: left;\">尊爵親子房(一泊二食)</td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">屏東</td>\n            <td class=\"tar\" style=\"text-align: left;\">&nbsp;墾丁凱撒大飯店</td>\n            <td class=\"tar\" style=\"text-align: left;\">花園客房(一泊二食)</td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">宜蘭</td>\n            <td class=\"tar\" style=\"text-align: left;\">&nbsp;礁溪老爺酒店</td>\n            <td class=\"tar\" style=\"text-align: left;\">洋式標準套房(一泊二食)</td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">花蓮<br />\n            </td>\n            <td class=\"tar\" style=\"text-align: left;\">&nbsp;秧悦美地度假酒店</td>\n            <td class=\"tar\" style=\"text-align: left;\">迷迭香尊貴客房(一泊一食)<br />\n            </td>\n        </tr>\n        <tr>\n            <td class=\"tar\" style=\"text-align: left;\">台東</td>\n            <td class=\"tar\" style=\"text-align: left;\">&nbsp;知本老爺酒店</td>\n            <td class=\"tar\" style=\"text-align: left;\">豪華客房(一泊二食)</td>\n        </tr>\n    </tbody>\n</table>\n</div>\n<p>雲品溫泉酒店通知事項：</p>\n<p>2023/3/5至3/19，飯店將執行重敲工程，飯店不對外營業、不開放預約。</p>\n<p>2023/3/20至6月底，飯店仍有零星工程，該期間施工不影響住房、用餐及設施使用。</p>\n<p>&nbsp;</p>",
+                                    "Link Type": "{BDDD7950-259D-47D8-BC36-BC6A25600347}",
+                                    "Link": "http://www.youfirst.com.tw/CATHAYUNITEDBANK/",
+                                    "Link Text": "預約網站",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "da1b797c-4b1c-49f3-ad32-f91d53b09ffc",
+                                    "ItemName": "SimpleGraphicTabItemLv2 3"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "2020免費機場接送禮遇",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n2020年正附卡累積一般消費達NT$30萬，指定區域至以下機場國際線免費機場接或送禮遇2次，開放延長至<span style=\"color: #e36c09;\"><strong>2023/6/30前</strong></span>使用完畢。\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">2020免費機場接送禮遇</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>2020年正附卡累積一般消費達NT$30萬，指定區域至以下機場國際線免費機場接或送禮遇2次。</p>\n<p>(預約當次須使用世界卡刷國外機票或國外團費且付款成功者)</p>\n<p><span class=\"cubre-u-stress -og\">★貼心服務★</span> 2020年度指定國際機場免費接送權益，開放延長至<span style=\"color: #e36c09;\"><strong>2023/6/30前</strong></span>使用完畢(須於2023/6/27前預約完成)。</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<!-------------------------------------- 注意事項 start -------------------------------------->\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<!-------------------------------------- 內容 start -------------------------------------->\n<!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>使用服務期間：2020年度指定國際機場免費接送權益，開放延長至<span style=\"color: #e36c09;\"><strong>2023/6/30前</strong></span>使用完畢(須於2023/6/27前預約完成)。</li>\n    <li>適用於2020年度一般消費刷卡滿NT$30萬之持卡人，並限定使用世界卡刷當次國外機票或團費並付款成功者；購買國際線團體行程請提供開票時間、信用卡卡號、刷卡日期及金額，以供客服人員查詢活動資格。</li>\n    <li>年度累積消費係以「消費日」於2020/1/1-2020/12/31世界卡之正附卡合併一般消費為計算，一般消費不含：不包含信用卡相關利息及費用（包含但不限於利息／年費／掛失費／預借現金手續費／違約金／國外交易手續費／調閱簽帳單手續費、補發帳單手續費等非消費款項）、預借現金、帳單分期、單筆消費分期（刷卡樂分期）、通信貸款、餘額代償金額及經本行公告除外之專案、稅款、學費、公用事業費用（包含但不限於中華電信電話／網路通訊／影音服務等相關費用及附加費）、路邊停車費、公務機關各項費用、透過繳費平台（如公務機關信用卡繳費平台，含公務機關／國營事業／公立醫療院所等、電子化繳費稅處理平台、醫指付、MyBill線上繳費）繳納之費用、保費、代扣基金、悠遊卡加值、一卡通加值、icash加值、便利超商消費、透過聯合信用卡處理中心小額支付平台之特約商店之消費（如便利超商、連鎖速食店、停車費等）、全聯福利中心消費、eTag儲值／eTag智慧停車費代扣繳、遠東SOGO百貨貴賓廳購買SOGO禮券之消費金額、國壽不動產租金代收、2020振興三倍券紙本券線上預購、其他經本行公告排除之項目。分期付款以活動期間內已請款入帳金額計算；如有退貨交易將予以扣除。亞洲萬里通世界卡消費不計入年度累積消費金額。</li>\n    <li>持卡人刷卡消費符合後第二個月起方享有免費機場接送禮遇，倘符合消費資格客戶本行將透過帳單訊息及簡訊通知。(說明：於2020/1/1~2020/4/30期間累計消費符合消費滿NT$30萬元資格，將可於2020/6起享有2趟免費機場接或送禮遇)。</li>\n    <li>正附卡消費金額、次數及使用權益次數合併計算，持卡人須為接送服務搭乘乘客之一，附卡人如欲使用如同正卡人之權益須經由正卡人預約，且其使用次數須扣減所屬正卡得使用次數。</li>\n    <li>免費機場接送區域：\n    <ol class=\"cubre-m-list -disc\">\n        <li>松山機場：接送區域限於台北市、新北市、基隆市、桃園市、新竹縣市。</li>\n        <li>桃園國際機場： 接送區域限於宜蘭縣、台北市、新北市、桃園市、基隆市、新竹縣市、苗栗縣市、台中市、彰化縣市、南投縣市、花蓮縣市。</li>\n        <li>清泉崗國際機場：接送區域限於新竹縣市、苗栗縣市、台中市、彰化縣市、南投縣市、雲林縣、嘉義縣市。</li>\n        <li>高雄國際航空站（原小港機場）: 接送區域台中市、彰化縣市、南投縣市、雲林縣、嘉義縣市、台南市、高雄市、屏東縣市、台東縣市。</li>\n    </ol>\n    -</li>\n</ol>\n<p>2020年世界卡免費機場接送服務規範</p>\n<ol class=\"cubre-m-list\">\n    <li>使用服務期間：2020年度指定國際機場免費接送權益，開放延長至2022/12/31前使用完畢(須於2022/12/22前預約完成)。</li>\n    <li>刷卡日期須於預約接機/送機日期前3個月內且限本人搭乘，並須出示該卡供司機確認，未出示信用卡者，視同自費預約。</li>\n    <li>使用次數：活動期間享最高2次特定地區國際線免費接機或送機服務。</li>\n    <li>偏遠特定地區：持卡人指定之接送地點若為偏遠特定地區，須酌收偏遠地區加價費用(價格詳見世界卡預約網頁偏遠特定地區加價)。</li>\n    <li>接或送地點：由持卡人本人指定單一定點接或送服務，不提供停靠加點服務。</li>\n    <li>預約時間：便於車輛調度，機場接送持卡人請於三個工作天前(不含預約日及乘車日當天)，春節及連續假日須七個工作天前(不含預約日及乘車日當天)來電預約。連續假日指含週六、日達3天(含)以上之假期。</li>\n    <li>變更/取消時間：須於原約定時間前24小時，來電服務專線變更或取消。24小時內預約接送資料無法變更；24小時內取消者視同已使用本服務，持卡人仍須支付費用。若異動日期提前者仍須符合三個工作天前來電異動，否則視同使用。(春節期間須七個工作天)。未經24小時服務專線變更或取消者，視同使用該服務權益乙次。</li>\n    <li>若須取消已預約之行程請於原預約時間前24小時來電通知，若未能於24小時前通知預約中心則視同服務已使用，費用不予以退還。</li>\n    <li>農曆春節時段或連續假期期間機場接送價格，不分區域依優惠價加收NT$200，且須於7個工作天前預約。</li>\n    <li>預約之送機或接機服務時間為夜間23：00~06：00時段者，須加收『夜間服務費用』NT$200。</li>\n    <li>接送車輛：提供國產四人座轎車接送服務，持卡人於預約前請斟酌同行人數及行李數，如人數或行李數超出乘載須升等七人座車另酌收升車費NT$300。</li>\n    <li>送機待時：依預約時間到達持卡人指定地點，送機案件最長等候時間為30分鐘，超過30分鐘，則司機無法繼續等候，且視同使用乙次服務，不予退費，如須等候30分以上，每小時酌收待時費300元。</li>\n    <li>接機待時：接機案件最長等候時間為60分鐘，若會超過60分鐘請來電通知，亦會產生待時費用(等候60分以上，每小時酌收待時費300元，若超過60分鐘，仍無法與使用人聯繫，則視同此預約案件成立，不予退費)。*接機預約時間以航空公司公佈班機抵達時間為準。</li>\n    <li>班機提早或延誤：接機服務如遇班機提早抵達，則依持卡人原預約時間提供服務，若班機延後則「肯驛國際U.First」依機場公告之抵達時間提供服務，但若延後抵達之時間較原訂抵達時間已逾四小時(含)抵達台灣則視同持卡人取消該次接機服務並保留權益。</li>\n    <li>舉牌服務：若須舉牌服務另加收NT$200舉牌費。</li>\n    <li>乘客保險：服務車輛均投保NT$500萬乘客險。</li>\n    <li>同行人數：除限定持卡人本人使用外，如行李加上同行親友未超過車輛所乘之範圍內，皆可一同搭乘，但以一車為限不會沿途接送其他客人，若持卡人要求，5公里內每增加一停靠站需加收200元(以順路為原則)，超過5公里每公里加收50元。(一車限定人數依交通法規規定，客服中心保留接受同行人數之權利)</li>\n    <li>現場認證：限持卡人本人使用，並須出示本人信用卡及身分證明文件供司機認證；如現場無法提供以上文件，則以訂價8折收費。</li>\n    <li>行李裝載：為確保行車安全，車內空間僅限乘坐貴賓，所有行李(包含手提行李)皆必須放置後車廂，放置重要文件、護照、錢包&hellip;等貴重物品之小肩包，在不影響行車安全下可隨身攜帶，惟最終承載量須以不妨害行車安全為前提，機場接送客服中心有最終決定派車權。有詳細規定及限制條件，所有活動注意事項請洽世界卡預約網頁說明。<br />\n    ＊特殊行李說明：\n    <ol class=\"cubre-m-list -disc\">\n        <li>基於法令規定，法律明文規定禁止載運之違禁品，如毒品等，恕不接受預約，如遇持卡人自行攜帶，    途中如發生執法人員欄檢所發生之刑責將由持卡人自行負責．</li>\n        <li>基於行車安全考量，如遇承載行李超出車輛可承載範圍而影響行車安全，「肯驛國際」將有權拒絕載運．</li>\n        <li>如有特殊行李請於預約時先行告知，如未事先告知，造成當天無法完成接送服務，將視同持卡人已使用乙次服務，持卡人仍須支付費用．</li>\n        <li>特殊行李載運規範未盡事宜，將依「肯驛國際」客服中心規範為準。</li>\n        <li>為維護後續乘客之權益及車內清潔，嚴禁於車內抽煙、嚼檳榔，持卡人若因上述情事或車內飲食，導致車輛毀損、髒亂或殘留異味，須由持卡人賠償相關修繕、清潔及營業損失費用。    </li>\n    </ol>\n    </li>\n    <li>兒童安全座椅加價：本服務如有幼童同行，持卡人應於預約時主動告。使用兒童安全座椅，每座須另加收NT$300元。</li>\n    <li>注意事項：\n    <ol class=\"cubre-m-list -disc\">\n        <li>持卡人須於登機前2小時到達機場，辦理登機手續，請持卡人自行預留車程時間。</li>\n        <li>車輛無法進入狹小巷弄及地下停車場。</li>\n        <li>本行僅提供持卡人接或送機服務，其他如搭乘飛機訂位等相關事項概與國泰世華銀行之本行無關。優惠提供期間倘因不可歸責本行之事宜，本行得變更或終止活動，並於本行網站公告。</li>\n    </ol>\n    </li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 內容 end -------------------------------------->\n</div>\n</div>\n<!-------------------------------------- 注意事項 end -------------------------------------->\n</div>\n</div>\n</div>",
+                                    "Link Type": "",
+                                    "Link Text": "",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "86d43e4d-510e-4036-b549-5f6678c92fd1",
+                                    "ItemName": "SimpleGraphicTabItemLv2 7"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "麗晶精品黑卡禮遇",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n    <!-- richtext 欄位 -->\n    單日消費累計滿NT$ 50萬或年消費累計滿NT$100萬，即可享申辦麗晶精品黑卡禮遇。\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">麗晶精品</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>優惠期間: 2023/1/1~12/31<br />\n持世界卡單日消費累計滿NT$ 50萬或年消費累計滿NT$100萬，即可享申辦麗晶精品黑卡禮遇</p>\n</div>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<!-------------------------------------- 注意事項 start -------------------------------------->\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<!-------------------------------------- 內容 start -------------------------------------->\n<!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>國泰世華世界卡持卡人於消費當日需成功申辦麗晶精品會員，即可開始累積計算麗晶精品消費金額。亞洲萬里通世界卡不適用本優惠。</li>\n    <li>每位麗晶精品黑卡會員每月可享四次麗晶精品會員貴賓室午茶服務，並享購物獨家優惠以及台北晶華酒店訂房及餐飲專屬禮遇；一年內累計消費金額滿NT$120萬，即可延續一年會籍。</li>\n    <li>本優惠不得與其他優惠合併使用。</li>\n    <li>麗晶精品保留核發贈品、核對身分及更改活動內容之權利。</li>\n    <li>若有未盡事項以麗晶精品說明為準。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 內容 end -------------------------------------->\n</div>\n</div>\n<!-------------------------------------- 注意事項 end -------------------------------------->\n</div>\n</div>\n</div>",
+                                    "Link Type": "",
+                                    "Link Text": "",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "a7f88a1d-25df-4ac0-9cee-129954791663",
+                                    "ItemName": "SimpleGraphicTabItemLv2 4"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "瑪黑家居",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n    <!-- richtext 欄位 -->\n    單筆消費滿NT$3,000(含)以上，現折NT$200。\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n    <!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n    <div class=\"cubre-o-block__textArea\">\n        <!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n        <div class=\"cubre-o-block__title\">\n            <p class=\"cubre-a-blockTitle -textInside\">瑪黑家居官網</p>\n        </div>\n    </div>\n    <div class=\"cubre-o-block__wrap\">\n        <!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n        <div class=\"cubre-o-block__component\">\n            <div class=\"cubre-o-textContent\">\n                <!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n                <p>優惠期間:2022/1/1~2023/3/31<br>\n單筆消費滿NT$3,000(含)以上，現折NT$200。(於結帳輸入專屬折扣碼「<span class=\"cubre-u-stress -og\">MCA200</span>」，不限使用次數)</p>\n\n            </div>\n        </div>\n    </div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n    <div class=\"cubre-o-block__wrap\">\n        <div class=\"cubre-o-block__component\">\n            <!-------------------------------------- 注意事項 start -------------------------------------->\n            <div class=\"cubre-m-notice\" data-notice=\"\">\n                <div class=\"cubre-m-notice__title\" data-notice-btn=\"\">注意事項</div>\n                <div class=\"cubre-m-notice__content\" data-notice-content=\"\">\n                    <!-------------------------------------- 內容 start -------------------------------------->\n                    <!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n                    <div class=\"cubre-o-block -textInside\">\n                        <div class=\"cubre-o-block__wrap\">\n                            <!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n                            <div class=\"cubre-o-block__component\">\n                                <div class=\"cubre-o-textContent\">\n                                    <!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n                                    <p>官網</p>\n                                    <ol class=\"cubre-m-list\">\n                                        <li>本優惠需加入瑪黑網站會員方得享有，本優惠不適用特惠組與部分商品，不得折抵現金與退款。官網購物連結 https://www.storemarais.com/。</li>\n                                        <li>折扣碼使用期限為 2022/1/1 00:00- 2023/3/31 23:59。</li>\n                                        <li>可併用瑪黑網站其他優惠，但如有其他折扣碼則僅可擇一使用。</li>\n                                        <li>如有指定商品不適用折扣碼優惠，以購物車內顯示為準。</li>\n                                        <li>生日禮之購物金為出貨後10日，由系統自動匯入瑪黑會員帳戶內。</li>\n                                        <li>如有退換貨，則依瑪黑家居選物網站公告規定為準。</li>\n                                        <li>瑪黑家居選物保留活動修改權利，若有未盡事項以瑪黑家居選物說明為準。</li>\n                                        <li>世界卡持卡人、財富管理貴賓須使用本行世界卡、信用卡方可享受優惠。</li>\n                                        <li>本行將於世界卡持卡人、財富管理貴賓生日當月前寄送生日卡。</li>\n                                        <li>優惠提供期間倘因不可歸責本行之事宜，本行得變更或終止活動，並於本行網站公告。</li>\n                                    </ol>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                    <!-------------------------------------- 內容 end -------------------------------------->\n                </div>\n            </div>\n            <!-------------------------------------- 注意事項 end -------------------------------------->\n        </div>\n    </div>\n</div>\n\n",
+                                    "Link Type": "",
+                                    "Link Text": "",
+                                    "Rejection": "",
+                                    "ItemId": "b80af87a-615e-4a09-add2-224d3becc617",
+                                    "ItemName": "SimpleGraphicTabItemLv2 5"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "和逸飯店、慕軒飯店",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n    <!-- richtext 欄位 -->\n    合格消費(住房及餐飲)累計滿NT$1萬(含稅+服務費)之發票，即可申辦榮耀會員禮遇。\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n    <!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n    <div class=\"cubre-o-block__textArea\">\n        <!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n        <div class=\"cubre-o-block__title\">\n            <p class=\"cubre-a-blockTitle -textInside\">和逸飯店、慕軒飯店</p>\n        </div>\n    </div>\n    <div class=\"cubre-o-block__wrap\">\n        <!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n        <div class=\"cubre-o-block__component\">\n            <div class=\"cubre-o-textContent\">\n                <!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n                <p>優惠期間:2022/4/1~12/31<br>\n世界卡於當館櫃檯持結帳實體世界卡片及單日合格消費(住房及餐飲)累計滿NT$1萬(含稅+服務費)之發票，即可申辦榮耀會員禮遇(有效期限1年)。</p>\n                <p class=\"cubre-u-note\"><span class=\"cubre-u-stress -og\">*參與本活動需事先加入AMAZZING CLUB會員，方可進行申請活動。</span></p>\n            </div>\n        </div>\n    </div>\n</div>\n\n\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n    <div class=\"cubre-o-block__wrap\">\n        <div class=\"cubre-o-block__component\">\n            <!-------------------------------------- 注意事項 start -------------------------------------->\n            <div class=\"cubre-m-notice\" data-notice=\"\">\n                <div class=\"cubre-m-notice__title\" data-notice-btn=\"\">注意事項</div>\n                <div class=\"cubre-m-notice__content\" data-notice-content=\"\">\n                    <!-------------------------------------- 內容 start -------------------------------------->\n                    <!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n                    <div class=\"cubre-o-block -textInside\">\n                        <div class=\"cubre-o-block__wrap\">\n                            <!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n                            <div class=\"cubre-o-block__component\">\n                                <div class=\"cubre-o-textContent\">\n                                    <!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n                                    <ol class=\"cubre-m-list\">\n                                        <li>參與本活動需事先加入AMAZZING CLUB會員，方可進行申請活動。</li>\n                                        <li>本活動限當日消費之電子發票證明聯正本，恕不跨日及跨館累計且限當日申請。若非開立各館別之發票，則不得參加本活動。申請需出示消費之電子發票證明聯正本、銷貨明細、同卡號之信用卡與簽單正本，影本無效，請妥善保存，遺失或毀損恕無法申請。如使用數位載具登錄發票，則需攜帶銷貨明細方可參加。消費結帳請提供會員編號或電子信箱。</li>\n                                        <li>合格之特定消費包括：房租費用、加價升等房型之費用、提前入住與延遲退房之費用、加人加床及額外加購之早餐等商品、19人（含）以下之會議/宴會餐飲等商品。合格消費之預訂管道為會員官網、電話、電子郵件或於飯店現場直接預訂並提供會員編號，皆可享有會員禮遇。於和逸飯店、慕軒飯店官網及其他第三方平台機構之訂房與訂席等消費，恕不列入合格消費範圍內。</li>\n                                        <li>上述會員權益將視現場狀況彈性調整，詳細AMAZZING CLUB會員禮遇項目，請依AMAZZING CLUB會員網站(www.amazzingclub.com)現行有效之會員條款記載規定為準。</li>\n                                        <li>不得與其他優惠併用，且不得要求折抵現金。</li>\n                                        <li>其他未盡事宜，以和逸飯店、慕軒飯店解釋為準。欲了解更多活動詳情，請洽現場服務人員。</li>\n                                        <li>本活動仍須遵循會員條款，AMAZZING CLUB保有活動內容調整之權利，恕不另行通知。</li>\n                                    </ol>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                    <!-------------------------------------- 內容 end -------------------------------------->\n                </div>\n            </div>\n            <!-------------------------------------- 注意事項 end -------------------------------------->\n        </div>\n    </div>\n</div>\n",
+                                    "Link Type": "",
+                                    "Link Text": "",
+                                    "Rejection": "",
+                                    "ItemId": "27d14d30-c3cb-43d0-8b69-de35463fe9fc",
+                                    "ItemName": "SimpleGraphicTabItemLv2 6"
+                                }
+                            ]
+                        },
+                        {
+                            "Tab": "生日禮",
+                            "ItemId": "a631d708-408b-4fc7-86a2-5e423b4cf679",
+                            "ItemName": "SimpleGraphicTabItemLv1 3",
+                            "children": [
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/c6befba524774e28a8163754d2df4226?v=2",
+                                    "Title": "財富管理貴賓生日加碼禮遇",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n鑽石VIP貴賓生日當月，世界卡刷國內百貨、全球餐飲消費，除既有權益回饋外加碼10%(回饋上限2,000點)。\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">鑽石VIP貴賓生日加碼禮遇</p>\n<p class=\"cubre-a-blockTitle -textInside\">&nbsp;</p>\n</div>\n<!-- 如無副標，請包含.cubre-o-block__subTitle 做移除 -->\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">活動期間：2023/1/1~2023/12/31</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>鑽石VIP貴賓生日當月，世界卡刷國內百貨、全球餐飲消費，除既有權益回饋外加碼10%(回饋上限2,000點)。</p>\n</div>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<!-------------------------------------- 注意事項 start -------------------------------------->\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<!-------------------------------------- 內容 start -------------------------------------->\n<!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>與本行往來資產維持平均三個月NT$3,000萬(含)以上即可自次月6日起享有一年鑽石VIP權益。</li>\n    <li>亞洲萬里通聯名卡世界卡不適用且消費恕不計入。回饋期間如遇本行調整小樹點(信用卡)計算方式，將改以等值之點數或品項贈送。</li>\n    <li>本活動係以符合資格之世界卡正附卡消費合併計算，消費金額計算限「鑽石VIP貴賓生日當月內且商店於次月15天內請款入帳之國內百貨及全球餐飲指定商店消費」，分期付款以活動期間內已請款入帳金額計算；如有退貨交易將予以扣除。</li>\n    <p><b class=\"cubre-u-stress\">「國內百貨」</b>：太平洋百貨、新光三越、遠東百貨、微風廣場、誠品、環球購物中心、Citylink、BELLAVITA 、統一時代台北、 101、ATT 4 FUN、明曜百貨、京站、美麗華、大葉高島屋、遠企購物中心、比漾廣場、大江國際購物中心、中友百貨、廣三SOGO 、 TigerCity 、勤美誠品綠園道、金典綠園道、大魯閣新時代、耐斯廣場、南紡購物中心、德安百貨、夢時代、大立百貨、漢神百貨、漢神巨蛋、三井OUTLET 、禮客、義大世界購物廣場、華泰名品城、義享天地、麗寶OUTLET...等國內各大百貨。</p>\n    <p><span style=\"color: #00b050;\">「國內百貨」不適用消費項目包括：百貨店中櫃、購買禮券、商品券及菸類商品、LINE Pay、驛站、轉運站商場、誠品線上購物、誠品書局等之刷卡消費。\n    舉例說明百貨店中櫃：係以刷卡簽單上之特店名稱認定，不包含店中櫃，非以發票上列示之商家名稱為依據。例如：台北101之APPLE STORE為百貨公司店中櫃，簽單上之特店名稱為：APPLE STORE，故不符合「國內百貨」指定消費回饋。</span></p>\n    <p><b class=\"cubre-u-stress\">「全球餐飲」</b>認列之餐廳，不包含餐券/住宿券/飯店/酒店/旅館/KTV/商場(如家樂福、車站商場、機場美食街)所設立之餐廳、夜總會、菸酒販賣商以及透過小額支付收費之連鎖速食店(如：麥當勞、肯德基...)。若符合上述條件後仍有疑義，再依收單機構所設定登錄之餐廳分類代碼(MCC code為5811、5812、5813、5814、5462)為判斷依據。倘因該特約商店登錄於收單機構之代碼與其營業項目不相符，導致未能正確判斷，消費則不列入本回饋計算。</p>\n    <li>持卡人於小樹點(信用卡)回饋時，須持有符合獲贈資格之有效世界卡，且回饋時仍為本行財富管理VIP貴賓，且上一期無逾期未繳款之紀錄，若有終止信用卡、掛失不補發、到期不續卡、遭本行停止使用信用卡權利、延滯繳款、或違反本行信用卡契約等情事，即自動喪失獲贈資格。</li>\n    <li>小樹點(信用卡)回饋僅贈予世界卡正卡持卡人，將以手機簡訊通知回饋，本行預計將自生日月份之次次月起，陸續回饋小樹點(信用卡)，如未收到須於2024/3/31前來電本行客服中心反應，逾期恕不受理並視同放棄贈送資格。</li>\n    <li>本行保留對活動贈品以其他同等價值贈品替代之權利。活動期間倘因不可歸責本行之事由，本行得變更或終止活動，並於本行網站公告。</li>\n    <li>詳細活動辦法依本行及各商戶公告為主。凡參與本活動，即視同承認及接受本活動注意事項及相關規定，本行及各商戶保有隨時修正、暫停或終止本活動之權利，若有未盡事宜，悉依本行及各商戶之相關公告辦理；本行及各商戶保留最終解釋及決定權利。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 內容 end -------------------------------------->\n</div>\n</div>\n<!-------------------------------------- 注意事項 end -------------------------------------->\n</div>\n</div>\n</div>",
+                                    "Link Type": "",
+                                    "Link Text": "",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "b78ad8c5-a2d7-46e9-8be4-a690a4448fea",
+                                    "ItemName": "SimpleGraphicTabItemLv2"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "亞曼尼精品美妝",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n持生日EDM或簡訊，享頂級「黑曜岩奢寵生日禮」乙份(價值$3,583，限生日當月及次月內使用，正、附卡合併領取乙次為限)\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">亞曼尼精品美妝</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>優惠期間: 2023/1/1~2023/12/31<br />\n持生日EDM或簡訊，享頂級「黑曜岩奢寵生日禮」乙份(價值$3,583，限生日當月及次月內使用，正、附卡合併領取乙次為限)。</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項\n</div>\n<div class=\"cubre-m-notice__content\">\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<ol class=\"cubre-m-list\">\n    <p>1.於世界卡正卡持卡人生日前月寄送生日簡訊，兌換時須憑簡訊或EDM生日函與使用世界卡實體卡，並提供可證明正卡持卡人本人證件確認生日資訊。</p>\n    <p>2.回櫃領取生日禮後，完成綁訂亞曼尼美妝官方LINE與指定專屬美妝顧問，即可於下次回櫃時享有以下服務二擇一，為確保服務品質，以下服務需事先與專屬美妝顧問預約時段並於45天內完成體驗：</p>\n    <p>(1) 專屬訂製修眉服務。</p>\n    <p>(2) 黑曜岩奢寵手部護理。</p>\n    <p>3.生日獻禮須於生日當月及次月內兌換。</p>\n    <p>4.世界卡正附卡合併計算領取一次為限。亞洲萬里通世界卡不適用。</p>\n    <p>5.亞曼尼美妝保有更改活動權利。若有未盡事項以廠商說明為準。贈品以現場實物為準主，如遇生日贈禮兌換完畢，亞曼尼美妝得以其他品項替代。</p>\n    <p>6.優惠提供期間倘因不可歸責本行之事宜，本行得變更或終止活動，並於本行網站公告。</p>\n</ol>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+                                    "Link Type": "{BDDD7950-259D-47D8-BC36-BC6A25600347}",
+                                    "Link": "https://www.giorgioarmanibeauty.com.tw/Cathay_birthday_gift.html",
+                                    "Link Text": "品牌網站",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "75a00b46-241a-46ff-afc5-711612948da3",
+                                    "ItemName": "SimpleGraphicTabItemLv2 2"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "La Prairie萊珀妮",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n持生日EDM或簡訊，享貴賓尊寵禮「奢華美容護理30分鐘」及「魚子經典兩件禮」乙份\n(限生日當月及次月內使用，正、附卡可分別領取乙次為限)\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">La Prairie萊珀妮</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>La Prairie萊珀妮來自瑞士奢華保養，追求永恆無盡之美。以尖端萃取科技為基礎，融合瑞士精準美學，將高效珍稀保養成分&mdash;魚子、鉑金、黃金，蛻變成返齡保養藝術傑作，提供不同凡響的專屬奢華體驗。</p>\n<p>優惠期間：2023/1/1~2023/12/31</p>\n<p>世界卡持卡人本人憑手機簡訊或EDM、生日證明證件及國泰世華世界卡可至La Prairie櫃位兌換以下專屬禮遇：</p>\n&nbsp;\n<p><span style=\"color: #00b050;\"><strong>奢華尊寵禮</strong></span></p>\n<p>持卡至櫃點將提供La Prairie萊珀妮「魚子經典兩件禮」乙份與「萊珀妮奢華美容護理-眼部加強版30分鐘」乙次 (奢華美容護理採預約制)</p>\n<p>&nbsp;</p>\n<p><strong><span style=\"color: #00b050;\">尊寵升級禮</span></strong></p>\n<p>兌換尊寵禮時，持該卡不限金額消費，即享「奢華美容護理60分鐘」乙次</p>\n<p>&nbsp;</p>\n<p><span style=\"color: #00b050;\"><strong>卡友消費禮</strong></span></p>\n<p>持該卡消費金額達NT$18,000，即可獲「魚子美顏奢華三件禮」乙份</p>\n<p>&nbsp;</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<ol class=\"cubre-m-list\">\n    <p>1.本活動限國泰世華世界卡持卡人本人使用，正卡和附卡權益分開計算。</p>\n    <p>2.貴賓生日獻禮使用後，將由專櫃人員協助登記顧客肌膚資訊。</p>\n    <p>3.貴賓生日獻禮：</p>\n    <p>(1)國泰世華世界卡持卡人須於生日當月至生日次月月底前兌換貴賓生日獻禮，112年12月壽星可兌換至113年1月31日。每卡限兌換乙次，且逾期無法兌換使用。</p>\n    <p>(2)貴賓生日獻禮採預約制，持卡人須於使用前七日致電或親臨La Prairie萊珀妮營業地點預約，持卡人如欲取消，需於3日前告知。 (部分期間如母親節、百貨公司週年慶，不提供預約和兌換服務，並以La Prairie萊珀妮營業地點公告為準，且應載明於相關公告)。</p>\n    <p>(3)正卡持卡人須持「國泰世華世界卡」、「生日禮簡訊或EDM」和「生日證明文件」兌換，生日禮簡訊或EDM以截圖或轉發方式無效。</p>\n    <p>    <span style=\"color: #e36c09;\">附卡持卡人</span>須持「國泰世華世界卡」、<span style=\"color: #e36c09;\">由正卡持卡人截圖或轉發之</span>「生日禮簡訊或EDM」和<span style=\"color: #e36c09;\">附卡持卡人</span>「生日證明文件」兌換。</p>\n    <p>4.「La Prairie奢華美容護理30分鐘」及「La Prairie奢華美容護理60分鐘」限女性使用，男性持卡人可轉讓給女性使用，須本人攜帶證件陪同前往，任何消費需使用世界卡方可享有活動優惠。</p>\n    <p>5.本活動各項優惠不得折現或轉換成其他商品，各項贈禮如遇兌換完畢，La Prairie應以等值贈禮替代，且不得向國泰世華世界卡收取任何費用。</p>\n    <p>6.本活動僅限全臺15個La Prairie櫃點(如下)使用，不適用於海外櫃點及電商平台：</p>\n    <table class=\"cubre-m-commonTable\">\n        <thead>\n            <tr>\n                <th>La Prairie櫃點&nbsp;</th>\n                <th>預約專線</th>\n                <th>地址</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>台北SOGO忠孝館</td>\n                <td>(02)8771-6309</td>\n                <td>台北市大安區忠孝東路四段45號1樓</td>\n            </tr>\n            <tr>\n                <td>台北SOGO敦化館</td>\n                <td>(02)2781-4509</td>\n                <td>台北市大安區敦化南路1段246號B1</td>\n            </tr>\n            <tr>\n                <td>台北SOGO復興館</td>\n                <td>(02)8772-1651</td>\n                <td>台北市大安區忠孝東路三段300號B1</td>\n            </tr>\n            <tr>\n                <td>台北新光三越A4館</td>\n                <td>(02)2723-2313</td>\n                <td>台北市信義區松高路19號1樓</td>\n            </tr>\n            <tr>\n                <td>台北新光三越A8館</td>\n                <td>(02)8789-6516</td>\n                <td>台北市信義區松高路12號1樓</td>\n            </tr>\n            <tr>\n                <td>台北微風信義<br />\n                </td>\n                <td>(02)2758-3606</td>\n                <td>台北市信義區忠孝東路5段68號2樓</td>\n            </tr>\n            <tr>\n                <td>台北SOGO天母館</td>\n                <td>(02)2836-6728</td>\n                <td>&nbsp;台北市士林區中山北路六段77號1樓</td>\n            </tr>\n            <tr>\n                <td>板橋大遠百</td>\n                <td>(02)2956-0511</td>\n                <td>&nbsp;新北市板橋區新站路28號1樓</td>\n            </tr>\n            <tr>\n                <td>新竹SOGO巨城館</td>\n                <td>(03)535-2355&nbsp;</td>\n                <td>&nbsp;新竹市東區中央路239號1樓</td>\n            </tr>\n            <tr>\n                <td>遠東SOGO中壢館</td>\n                <td>(03)425-1135</td>\n                <td>&nbsp;桃園市中壢區元化路357號1樓</td>\n            </tr>\n            <tr>\n                <td>台中新光三越</td>\n                <td>(04)2258-1772&nbsp;</td>\n                <td>&nbsp;台中市西屯區臺灣大道三段301號1樓</td>\n            </tr>\n            <tr>\n                <td>台中廣三SOGO</td>\n                <td>(04)2328-3727</td>\n                <td>&nbsp;台中市西區臺灣大道二段459號1樓</td>\n            </tr>\n            <tr>\n                <td>台南新光三越西門店</td>\n                <td>&nbsp;(06)303-0028</td>\n                <td>&nbsp;台南市中西區西門路一段658號G樓</td>\n            </tr>\n            <tr>\n                <td>高雄漢神百貨</td>\n                <td>&nbsp;(07)215-3218&nbsp;</td>\n                <td>&nbsp;高雄市前金區成功一路266-1號1樓</td>\n            </tr>\n            <tr>\n                <td>高雄漢神巨蛋百貨</td>\n                <td>&nbsp;(07)554-7373&nbsp;</td>\n                <td>&nbsp;高雄市左營區博愛二路 777 號1樓</td>\n            </tr>\n        </tbody>\n    </table>\n    <p>7.詳細優惠內容及限制請依本行官網公告為準，優惠提供期間倘因不可歸責於本行之事由，本行得變更或終止優惠內容，並於本行網站公告。凡參與本活動，即視同承認及接受本活動注意事項及相關規定，本行及各商戶保有隨時修正、暫停或終止本活動之權利，若有未盡事宜，悉依本行及各商戶之相關公告辦理；本行及各商戶保留最終解釋及決定權利。\n    </p>\n    <p>&nbsp;</p>\n</ol>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+                                    "Link Type": "{BDDD7950-259D-47D8-BC36-BC6A25600347}",
+                                    "Link": "https://www.laprairieevent.com.tw/",
+                                    "Link Text": "品牌網站",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "fc5d2841-17bd-435e-bc2a-936b09f98b4d",
+                                    "ItemName": "SimpleGraphicTabItemLv2 3"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "Bobbi Brown",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n持生日賀卡、EDM或簡訊畫面，享免費彩妝課程1次，預約成功並出席享預約禮1份。\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">Bobbi Brown</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>持生日賀卡、EDM或簡訊畫面，享免費彩妝課程1次，預約成功並出席享預約禮1份</p>\n<p>注意事項：</p>\n<p>1.持本行生日賀卡、EDM或簡訊畫面至Bobbi Brown享免費彩妝課程1次,須先預約。預約成功並出席可享預約禮1份，課程及預約禮依各月活動主題及廠商庫存為準。</p>\n<p>2.使用期間：2023/1/1~2024/3/31止。折扣優惠每人限使用一次，恕不得與其他優惠合併使用。</p>\n<p>3.專案價格及專屬優惠以各廠商實際提供之金額為準；如所提供之商品或服務有爭議時，均應由Bobbi Brown全權處理及負相關法律上之責任，概與本行無涉。</p>\n</div>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n</div>\n</div>\n</div>",
+                                    "Link Type": "{BDDD7950-259D-47D8-BC36-BC6A25600347}",
+                                    "Link": "https://reurl.cc/ymgkxM ",
+                                    "Link Text": "品牌網站",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "a6e4016f-2d1c-4723-8d01-9d426af78fa0",
+                                    "ItemName": "SimpleGraphicTabItemLv2 4"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "官網購物尊享優惠",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n京盛宇：官網購物商品88折。<br />\n昇恆昌宅配網：輸入優惠碼享購物優惠。\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">京盛宇</p>\n</div>\n<div class=\"cubre-o-block__subTitle\">\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>京盛宇官網購物商品88折。(於結帳輸入專屬折扣碼「<span class=\"cubre-u-stress -og\" style=\"color: #e36c09;\">CUB2023</span>」限用乙次，限同一京盛宇會員帳戶單次使用，本優惠不適用特惠組與部分商品)</p>\n<p><a rel=\"noopener noreferrer\" href=\"https://www.jsy-tea.com\" target=\"_blank\">品牌網站</a></p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">昇恆昌宅配網</p>\n</div>\n<div class=\"cubre-o-block__subTitle\">\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>昇恆昌宅配網，輸入優惠碼「<span style=\"color: #e36c09;\">ZCABK23</span>」官網購物滿 8 千折 4百。</p>\n<p><a rel=\"noopener noreferrer\" href=\"https://everri.ch/zKsd8Nm\" target=\"_blank\">品牌網站</a></p>\n</div>\n</div>\n</div>\n</div>\n<br />\n<br />\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>京盛宇注意事項</p>\n<p>1.活動期間2023/1/1~2024/3/31專屬折扣碼CUB2023限使用乙次，本優惠需加入京盛宇官網會員方得享有，本優惠限同一京盛宇會員帳戶單次使用，本優惠不適用特惠組與部分商品，不得折抵現金與退款。</p>\n<p>2.世界卡持卡人、財富管理貴賓須使用本行世界卡、信用卡方可享受優惠。</p>\n<p>3.本行將於世界卡持卡人、財富管理貴賓生日當月前寄送生日卡。</p>\n<p>4.本優惠不適用項目依京盛宇規定為準。</p>\n<p>5.若有未盡事項以京盛宇說明為準。</p>\n<p>6.優惠提供期間倘因不可歸責本行之事宜，本行得變更或終止活動，並於本行網站公告。</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>昇恆昌宅配網注意事項</p>\n<p>1.本優惠折扣碼限於【昇恆昌宅配網】使用，限【昇恆昌宅配網】供預訂 之商品，甲方實體賣場不適用。</p>\n<p>2.客戶可於甲方昇恆昌宅配網 (https://www.everrichtohome.com/tw)註冊為會員後，單筆訂單消費滿新臺幣（下同）8,000元時使用，即可折抵400元，限折扣乙次不累折，相關規定依該網站說明為準。</p>\n<p>3.精選商家生日專屬禮遇使用期間：2023/1/1~2024/3/31止。折扣優惠每人限使用一次，恕不得與其他優惠合併使用。專案價格及專屬優惠以各廠商實際提供之金額為準；如所提供之商品或服務有爭議時，均應由昇恆昌股份有限公司全權處理及負相關法律上之責任，概與本行無涉。</p>\n</div>\n</div>\n</div>\n</div>",
+                                    "Link Type": "",
+                                    "Link Text": "",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "93214f41-e96c-4b14-9f2b-e7d0c58671c2",
+                                    "ItemName": "SimpleGraphicTabItemLv2 5"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "登琪爾SPA",
+                                    "Description": "<p>◆生日優惠：持生日EDM或簡訊，享30分鐘深層按摩$990起，再加贈30分鐘\n(限生日當月及次月內使用，正、附卡合併計算領取乙次為限)</p>\n<p>◆年度優惠</p>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">登琪爾SPA</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>優惠期間:2023/1/1~12/31<br />\n<span class=\"cubre-u-stress -og\">生日獻禮</span><br />\n世界卡持卡人持生日EDM或簡訊於生日當月及次月內預約，至全台適用館別並於現場刷國泰世華世界卡享下列優惠：</p>\n<ol class=\"cubre-m-list\">\n    <li>享體驗深層肌肉放鬆按摩30分鐘優惠價(SPA NT$990，瑞泉養生莊所NT$1,280)，再免費加贈深層肌肉放鬆按摩30分鐘(原價SPA NT$1,800，瑞泉養生莊所NT$2,400)，包含內容：</li>\n    <ol class=\"cubre-m-list -bracket\">\n        <li>寧心洗塵茶。</li>\n        <li>暖身休憩桑拿30 min</li>\n        <li>深層肌肉放鬆按摩60min(包含優惠價30min+贈送30min)</li>\n        <li>原型花草茶、時令水果及輕纖點心。</li>\n    </ol>\n    <li>深層肌肉放鬆按摩 60min親友同行價Spa $2,520/莊所$3,360(原價SPA$3,600，莊所$4,800)</li>\n    <li><a href=\"https://reurl.cc/x9K2Ke\">登琪爾購物官網</a>，結帳輸入折扣碼「cathay100」，即可享100元購物金折抵優惠(活動期間內每人限用乙次)。</li>\n</ol>\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<span class=\"cubre-u-stress -og\">年度優惠</span><br />\n<ol class=\"cubre-m-list\">\n    <li>登琪爾瑞泉養生莊所</li>\n    <ol class=\"cubre-m-list -bracket\">\n        <li>首次體驗：任選 60 分鐘以上，享5折優惠乙次。</li>\n        <li>年度優惠：任選 60 分鐘以上，享9折優惠。</li>\n    </ol>\n    <li>「Spa 」及「Spa別館」系列</li>\n    <ol class=\"cubre-m-list -bracket\">\n        <li>首次體驗：任選 60 分鐘以上，享5折優惠乙次。</li>\n        <li>年度優惠：任選 60 分鐘以上，每次享85折優惠。</li>\n    </ol>\n    <p class=\"cubre-u-note\">*以上皆包含寧心洗塵禮、暖身休憩、頂級沐浴備品、原形花草茶、新鮮水果、\n    專屬HomeSpa保養諮詢等。</p>\n    <p>\n    </p>\n    <li>年度餐飲優惠Wellness樂善莊 用餐享88折優惠。</li>\n</ol>\n<p>&nbsp;</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cubre-m-notice__title\">注意事項<span style=\"font-size: 12px;\"></span></div>\n<p> <span class=\"cubre-u-stress -og\">生日獻禮</span></p>\n<ol class=\"cubre-m-list\">\n    <li>本行將於世界卡正卡持卡人生日前月寄送生日賀卡，兌換時須憑生日EDM或簡訊與使用世界卡實體卡，並提供可證明正卡持卡人本人證件確認生日資訊。(亞洲萬里通聯名卡世界卡不適用)</li>\n    <li>生日獻禮須於生日當月及次月內兌換。</li>\n    <li>正附卡合併計算領取一次為限。</li>\n</ol>\n<div class=\"cubre-o-block -textInside\">\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<p> <span class=\"cubre-u-stress -og\">生日獻禮/年度優惠</span></p>\n<ol class=\"cubre-m-list\">\n    <li>須使用國泰世華世界卡消費方可享優惠。(亞洲萬里通聯名卡世界卡不適用)。</li>\n    <li>登琪爾採預約制，為維護持卡人權益，請於使用前五日致電登琪爾各分館進行預約。</li>\n    <li>登琪爾保留該優惠活動最終解釋權。</li>\n    <li>適用館別：瑞泉養生莊所、敦化館、桃園館、台中館、彰化館、台南館。</li>\n</ol>\n<br />\n<p>登琪爾全台可使用之分館地址：</p>\n<p>&nbsp;</p>\n<table class=\"cubre-m-commonTable\">\n    <thead>\n        <tr>\n            <th>&nbsp;分館</th>\n            <th>地址</th>\n            <th>電話</th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td>瑞泉養生莊所</td>\n            <td>台北市北投區振興街1號B1</td>\n            <td>(02) 2826-1233&nbsp;</td>\n        </tr>\n        <tr>\n            <td>台北敦化館</td>\n            <td>台北市敦化南路一段225號B1</td>\n            <td>(02) 8773-1800</td>\n        </tr>\n        <tr>\n            <td>桃園藝文館</td>\n            <td>桃園市藝文一街38號</td>\n            <td>(03) 263-9858</td>\n        </tr>\n        <tr>\n            <td>台中旗艦館</td>\n            <td>台中市南屯區大富街8號&nbsp;</td>\n            <td>(04) 2251-2068</td>\n        </tr>\n        <tr>\n            <td>彰化活力館</td>\n            <td>彰化市自強路338號</td>\n            <td>(04) 726-6868</td>\n        </tr>\n        <tr>\n            <td rowspan=\"2\">台南民生館<br />\n            </td>\n            <td>台南市中西區民生路一段151號<br />\n            </td>\n            <td>(06)223-3300<br />\n            </td>\n        </tr>\n    </tbody>\n</table>\n</div>\n</div>\n</div>\n</div>",
+                                    "Link Type": "",
+                                    "Link Text": "",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "aa36bad0-6361-45f1-b87f-ae04634485d5",
+                                    "ItemName": "SimpleGraphicTabItemLv2 7"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "東森自然美生技美學中心",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n世界卡享生日優惠及年度優惠\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">東森自然美生技美學中心</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>優惠期間:2023/1/1~2023/12/31</p>\n<p><span style=\"color: #00b050;\"><strong>生日優惠</strong></span></p>\n<p>享臉部或身體護理買1送1課程二選一 <span style=\"color: #e36c09;\">(限生日當月內使用，正、附卡可分別領取乙次為限)</span>\n</p>\n<p><strong><span style=\"color: #00b050;\">年度優惠</span></strong></p>\n<p>享免費體驗臉部或身體護理課程二選一，另贈溫控代謝護理20分鐘(價值$1,100)，需搭配&nbsp;60&nbsp;分鐘臉部或身體課程使用&nbsp;<span style=\"color: #e36c09;\">(限正卡使用乙次)&nbsp;</span></p>\n<p>◆臉部: 童妍水光極能活護瞬效護理60分鐘(價值$3,000 ) &nbsp;</p>\n<p>◆身體: 循環促進身體按摩60分鐘(價值$3,000 ) &nbsp;</p>\n</div>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<!-------------------------------------- 注意事項 start -------------------------------------->\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<!-------------------------------------- 內容 start -------------------------------------->\n<!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <p>1.本行將於世界卡正卡持卡人生日前月寄送生日賀卡，兌換時須憑生日EDM或簡訊與使用世界卡實體卡，並提供可證明之證件確認生日資訊。</p>\n    <p>2.本優惠專案限國泰世華世界卡持卡人本人使用。亞洲萬里通世界卡不適用。</p>\n    <p>3.指定「直營門市」各項療程採預約制，為維護持卡人權益，請於使用前10日致電各「直營門市」進行預約。</p>\n    <p>4.請於結帳前告知使用國泰世華世界卡優惠，本優惠行動支付(手機信用卡)不適用。</p>\n    <p>5.若有未盡事項以東森自然美指定「直營門市」說明為準。</p>\n    <p>6.優惠提供期間倘因不可歸責本行之事宜，本行得變更或終止活動，並於本行網站公告。</p>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 內容 end -------------------------------------->\n</div>\n</div>\n<!-------------------------------------- 注意事項 end -------------------------------------->\n</div>\n</div>\n</div>",
+                                    "Link Type": "{BDDD7950-259D-47D8-BC36-BC6A25600347}",
+                                    "Link": "https://www.nblife.com.tw/",
+                                    "Link Text": "品牌網站",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "2700a522-ffb9-47da-8c72-b7b21192956c",
+                                    "ItemName": "SimpleGraphicTabItemLv2 41"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "Sisley尊寵生日獻禮",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n貴賓本人於兌換時出示簡訊畫面，憑實體信用卡及可證明本人之證件至Sisley指定專櫃，完成Sisley Line官方帳號綁定，及專業肌膚諮詢並留下相關個人資料，由現場專櫃人員確認，即可獲得LINE兌換券。\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">生日貴賓尊寵禮遇</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>2023 世界卡Sisley尊寵生日獻禮於Sisley生日兌換頁面填妥指定資訊，收到Sisley發出簡訊並點擊連結加入Sisley官方LINE帳號好友，完成步驟後方得兌換。(限生日當月及次月內使用，正、附卡可分別領取乙次為限)</p>\n<p><span style=\"color: #ff0000;\">*活動連結於2023/1/1起生效</span> <a class=\"cubre-a-link\" href=\"https://www.sisley-paris.com/zh-TW/mcwc-birthday.html\">兌換生日禮</a>。</p>\n</div>\n</div>\n</div>\n</div>",
+                                    "Link Type": "",
+                                    "Link Text": "",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "fb7ba519-b0c3-4de7-a699-1a7f71a7f7e4",
+                                    "ItemName": "SimpleGraphicTabItemLv2 9"
+                                }
+                            ]
+                        },
+                        {
+                            "Tab": "貴賓禮",
+                            "Rejection": "",
+                            "ItemId": "0aced76c-96bb-4c3d-a725-48eadc4fc359",
+                            "ItemName": "SimpleGraphicTabItemLv1 4",
+                            "children": [
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "財富管理鑽石VIP貴賓晉升加碼禮遇",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n財富管理鑽石VIP貴賓新升等後第2至4個月內，世界卡刷一般消費，除既有權益回饋外，享加碼10%回饋。(回饋上限1,000點。)\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "注意事項",
+                                    "Notice Content": "<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<p>活動期間：2023/1/1~2023/12/31</p>\n<ol class=\"cubre-m-list\">\n    <li>【貴賓資格】財富管理鑽石VIP：與本行往來資產維持平均三個月NT$3,000萬（含）以上之自然人。 符合上述貴賓資格者且首次新升等為鑽石VIP（過去一年內未曾為鑽石VIP），即符合晉升加碼禮遇。</li>\n    <li><span class=\"cubre-u-stress -og\">亞洲萬里通聯名卡世界卡不適用且消費恕不計入。回饋期間如遇本行調整小樹點(信用卡)計算方式，將改以等值之點數或品項贈送。</span></li>\n    <li>本活動係以符合資格之世界卡正附卡消費合併計算，消費金額計算限「新升等財富管理鑽石VIP貴賓第2至4個月內且商店於第5個月15天內請款入帳之一般消費」，<span class=\"cubre-u-stress -og\">一般消費不包含:信用卡相關利息及費用(包含但不限於利息/年費/掛失費/預借現金手續費/違約金/國外交易手續費/調閱簽帳單手續費、補發帳單手續費等非消費款項)、預借現金、帳單分期、單筆消費分期(刷卡樂分期)、通信貸款、餘額代償金額及經本行公告除外之專案、稅款、學費、公用事業費用(包含但不限於中華電信電話/網路通訊/影音服務...等相關費用及附加費)、路邊停車費、公務機關各項費用、透過繳費平台(如公務機關信用卡繳費平台，含公務機關/國營事業/公立醫療院所等、電子化繳費稅處理平台、醫指付、本行網路銀行或網路銀行App線上繳費服務)繳納之費用、保費、代扣基金、悠遊卡加值、一卡通加值、icash加值、便利超商消費、透過聯合信用卡處理中心小額支付平台之特約商店之消費 (如便利超商、連鎖速食店、停車費等)、全聯福利中心消費、eTag儲值/eTag智慧停車費代扣繳、遠東SOGO百貨貴賓廳之消費金額、國壽不動產租金代收、COSTCO店內(包含Costco線上購物及Costco加油站)之VISA金融卡消費、未經主管機關核准之境外投資交易平台(包括但不限於eToro)、及其他經本行公告排除之項目。分期付款以活動期間內已請款入帳金額計算；如有退貨交易將予以扣除。</span></li>\n    <li>持卡人於小樹點(信用卡)回饋時，須持有符合獲贈資格之有效世界卡，且回饋時仍為本行財富管理VIP貴賓，且上一期無逾期未繳款之紀錄，若有終止信用卡、掛失不補發、到期不續卡、遭本行停止使用信用卡權利、延滯繳款、或違反本行信用卡契約等情事，即自動喪失獲贈資格。</li>\n    <li>小樹點(信用卡)回饋僅贈予世界卡正卡持卡人，將以手機簡訊通知回饋，本行預計將自新升等後第6個月起，陸續回饋小樹點(信用卡)，如未收到須於2024/7/31前來電本行客服中心反應，逾期恕不受理並視同放棄贈送資格。</li>\n    <li>本行保留對活動贈品以其他同等價值贈品替代之權利。活動期間倘因不可歸責本行之事由，本行得變更或終止活動，並於本行網站公告。</li>\n</ol>\n</div>\n</div>\n</div>",
+                                    "Link Type": "",
+                                    "Link": "",
+                                    "Link Text": "",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "2bcf9ef0-b3a2-49de-a964-d857d80edbbd",
+                                    "ItemName": "SimpleGraphicTabItemLv2 2"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "老協珍官網優惠",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n全館不限商品滿NT$1,000（含）以上，現折NT$100。\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">老協珍官網優惠</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p><span style=\"color: #00b050;\"><strong>年度優惠</strong></span>：全館不限商品滿千折百，專屬折扣碼「CUBVIP2023」每人限用乙次，不累折，不得折抵現金與退款。</p>\n<p>活動期間：2023/1/1~2024/3/31</p>\n<p><span style=\"color: #00b050;\"><strong>母親節優惠</strong></span>：全館不限商品滿千折百，專屬折扣碼「CUBHMD2023」每人限用乙次，不累折，不得折抵現金與退款。</p>\n<p>活動期間：2023/4/1~2023/5/31</p>\n<p>&nbsp;</p>\n<p>&lt;年度優惠&gt;</p>\n<p>1.活動期間2023/1/1~2024/3/31老協珍官網購物全館不限商品滿千折百專屬折扣碼CUBVIP2023每人限用乙次，不累折，不得折抵現金與退款。</p>\n<p>2.世界卡持卡人、財富管理貴賓須使用本行世界卡、信用卡方可享受優惠。</p>\n<p>3.本優惠不適用項目依老協珍規定為準。</p>\n<p>4.若有未盡事項以老協珍說明為準。</p>\n<p>5.優惠提供期間倘因不可歸責本行之事宜，本行得變更或終止活動，並於本行網站公告。</p>\n<p>&nbsp;</p>\n<p>&lt;母親節優惠&gt;</p>\n<p>1.活動期間2023/4/1~2023/5/31老協珍官網購物全館不限商品滿千折百專屬折扣碼CUBHMD2023每人限用乙次，不累折，不得折抵現金與退款。</p>\n<p>2.世界卡持卡人、財富管理貴賓須使用本行世界卡、信用卡方可享受優惠。</p>\n<p>3.本優惠不適用項目依老協珍規定為準。</p>\n<p>4.若有未盡事項以老協珍說明為準。</p>\n<p>5.優惠提供期間倘因不可歸責本行之事宜，本行得變更或終止活動，並於本行網站公告。</p>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 內容 end -------------------------------------->\n<!-------------------------------------- 注意事項 end -------------------------------------->",
+                                    "Link Type": "{BDDD7950-259D-47D8-BC36-BC6A25600347}",
+                                    "Link": "https://lxz.com.tw/?utm_source=CUB&utm_medium=referral&utm_campaign=2023",
+                                    "Link Text": "品牌網站",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "7d6a318e-aef1-4b51-9c8a-768239b7f55f",
+                                    "ItemName": "SimpleGraphicTabItemLv2 3"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "加佳酒PLUS9官網優惠",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n輸入優惠碼「CUBHBD23」，官網購物滿 3 千折 3 百，加贈紅利500點。\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">加佳酒PLUS9</p>\n<p>輸入優惠碼「CUBHBD23」，官網購物滿 3 千折 3 百，加贈紅利500點</p>\n<p>&nbsp;</p>\n<p>注意事項</p>\n<p>1.單筆訂單消費滿新臺幣3,000元使用優惠碼，即可折抵300元，使用期限至113年3月31日 ，限折扣乙次不累折，並另外加贈會員消費紅利點數500點，相關規定依加佳酒網站說明為準。</p>\n<p>2.使用期間：2023/1/1~2024/3/31止。折扣優惠每人限使用一次，恕不得與其他優惠合併使用。</p>\n<p>3.專案價格及專屬優惠以各廠商實際提供之金額為準；如所提供之商品或服務有爭議時，均應由加佳酒PLUS9全權處理及負相關法律上之責任，概與本行無涉。</p>\n</div>\n</div>\n</div>",
+                                    "Link Type": "{BDDD7950-259D-47D8-BC36-BC6A25600347}",
+                                    "Link": "https://www.plus9.tw/ ",
+                                    "Link Text": "品牌網站",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "02172efc-bb95-402c-8152-9120e3f7a9ee",
+                                    "ItemName": "SimpleGraphicTabItemLv2 6"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "瑪黑家居",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n世界卡享官網購物年度、生日優惠、實體門市購物及用餐優惠。\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">瑪黑家居</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>◆<span style=\"color: #00b050;\">瑪黑家居官網購物</span>「年度優惠」：優惠碼滿3千折2百（不限次數），折扣碼「MMA200」。</p>\n<p>優惠期間:2023/1/1~2024/3/31</p>\n<p>◆<span style=\"color: #00b050;\">瑪黑家居官網購物</span>「生日優惠」：優惠碼限用一次, 全站滿1500 享 95折，折扣碼「CABR95」。</p>\n<p>優惠期間:2023/1/1~2024/3/31</p>\n<p>◆<span style=\"color: #00b050;\">實體門市</span>購物優惠享結帳95折優惠。 </p>\n<p>◆<span style=\"color: #00b050;\">瑪黑餐酒</span></p>\n<p>- 平日用餐9折優惠。</p>\n<p>- 生日禮：壽星當月用餐贈特製飲品一杯，同桌貴賓可享特調飲品5折優惠。（訂位時請註明慶生目的）</p>\n<p>◆<span style=\"color: #00b050;\">柏林茶館</span></p>\n<p>- 平日用餐9折優惠。</p>\n<p>- 生日禮：壽星當月用餐贈巴斯克乳酪蛋糕（訂位時請註明慶生目的，需三天前預訂)。</p>\n<p>優惠期間:2023/1/1~12/31</p>\n<p><a rel=\"noopener noreferrer\" href=\"https://stmrs.co/marais_BK\" target=\"_blank\">品牌網站</a></p>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<!-------------------------------------- 注意事項 start -------------------------------------->\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<!-------------------------------------- 內容 start -------------------------------------->\n<!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<ol class=\"cubre-m-list\">\n    <p>&lt;瑪黑網站購物&gt;</p>\n    <p>1.\t本優惠需加入瑪黑網站會員方得享有，本優惠不適用特惠組與部分商品，不得折抵現金與退款。<a rel=\"noopener noreferrer\" href=\"https://stmrs.co/marais_BK\" target=\"_blank\">官網購物連結</a> https://stmrs.co/marais_BK。</p>\n    <p>2.\t折扣碼使用期限為 2023/1/1 00:00- 2024/3/31 23:59。</p>\n    <p>3.\t可併用瑪黑網站其他優惠，但如有其他折扣碼則僅可擇一使用。</p>\n    <p>4.\t如有指定商品不適用折扣碼優惠，以購物車內顯示為準。</p>\n    <p>5.\t如有退換貨，則依瑪黑家居選物網站公告規定為準。</p>\n    <p>6.\t瑪黑家居選物保留活動修改權利，若有未盡事項以瑪黑家居選物說明為準。</p>\n    <p>7.\t世界卡持卡人須使用本行世界卡、信用卡方可享受優惠。</p>\n    <p>8.\t本行將於世界卡持卡人生日當月前寄送生日卡。</p>\n    <p>9.\t優惠提供期間倘因不可歸責本行之事宜，本行得變更或終止活動，並於本行網站公告。</p>\n    <p>&lt;實體門市、用餐優惠&gt;</p>\n    <p>1.\t<a rel=\"noopener noreferrer\" href=\"https://www.storemarais.com/showroom\" target=\"_blank\">實體門市及餐廳資訊</a>：https://www.storemarais.com/showroom。</p>\n    <p>2.\t實體門市使用世界卡消費享95折可與瑪黑家居VIP折扣及檔期優惠併用，但不可與特定優惠併用，詳細以門市公告解釋為主。</p>\n    <p>3.\t用餐生日禮須提供可證明世界卡持卡人本人證件確認生日資訊。</p>\n    <p>4.\t用餐優惠不適用假日、國定假日、連續假期或餐廳特定活動期間，用餐前請先以電話預約及確認相關優惠限制(包含但不限於優惠適用人數、詳細優惠內容、活動限制及不適用期間)，若有新增修改等未盡事項以飯店餐廳說明公告為準。</p>\n    <p>5.\t用餐優惠每次限12人(含)以下享優惠，如用餐人數超出12人，則計算價格較低之12套為優惠計算標準，即為12人享折扣優惠且第13人起以原價計算，即第13人起不享折扣優惠。</p>\n    <p>6.\t用餐優惠限世界卡持卡人本人刷卡使用，每人至少點一道餐點，每卡每日限使用乙次優惠，恕不得與其他優惠同時併用，且不得要求折抵現金、退款或轉讓。</p>\n    <p>7.\t每次每桌僅限使用乙張卡，拆單或併桌消費不適用。主卡及附卡不可合併使用，即主卡及附卡在「同一餐廳、同一餐期」無法以拆桌、拆單之結帳方式同時享有優惠。</p>\n    <p>8.\t用餐優惠之折扣以原價計算，並須另依原價支付10%服務費。</p>\n    <p>9.\t用餐優惠專案僅限內用單點及套餐，不適用禮券、 商業午餐、特價商品、禮盒餐劵、桌菜、外帶、外賣商品、宴會廳、會議、喜宴、客房餐飲服務、大型宴會、年菜、包廂(不論用餐人數多寡皆無法適用)、春酒尾牙、特殊專案活動及12人(含)以上團體及非餐飲之其他消費等恕不適用。</p>\n    <p>10.若餐廳有基本低消費限制，請依餐廳規定為準。</p>\n    <p>11.請於結帳前告知使用信用卡優惠。本優惠手機信用卡(行動支付)不適用。</p>\n    <p>12.瑪黑家居選物、瑪黑餐酒、柏林茶館保留活動修改權利，若有未盡事項以廠商說明為準。</p>\n    <p>13.優惠提供期間倘因不可歸責本行之事宜，本行得變更或終止活動，並於本行網站公告。</p>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 內容 end -------------------------------------->\n</div>\n</div>\n<!-------------------------------------- 注意事項 end -------------------------------------->\n</div>\n</div>\n</div>\n</div>",
+                                    "Link Type": "{BDDD7950-259D-47D8-BC36-BC6A25600347}",
+                                    "Link": "https://stmrs.co/marais_BK",
+                                    "Link Text": "品牌網站",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "dd5d7a4f-14da-4826-996c-6e0b58e3b348",
+                                    "ItemName": "SimpleGraphicTabItemLv2 8"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "GQ SHOP官網優惠",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n世界卡享年度優惠及生日優惠\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">GQ SHOP官網優惠</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>1.年度優惠：享9折優惠 (需使用專屬折扣碼「<span style=\"color: #e36c09;\"><strong>CUB2023</strong></span>」) <a rel=\"noopener noreferrer\" href=\"http://bit.ly/3VTd9ff\" target=\"_blank\">品牌網站</a></p>\n<p>2.生日優惠：壽星享85折優惠 (專屬折扣碼「<span style=\"color: #e36c09;\"><strong>HBCUB2023</strong></span>」限用乙次，不累折) <a rel=\"noopener noreferrer\" href=\"http://bit.ly/3BiJ2We\" target=\"_blank\">品牌網站</a></p>\n<p>&nbsp;</p>\n<p>注意事項</p>\n<p>1.活動期間2023/1/1~2023/12/31，9折優惠折扣碼CUB2023不限使用次數，生日優惠專屬折扣碼HBCUB2023活動期間內限使用乙次，優惠折扣碼均不得折抵現金與退款。</p>\n<p>2.須使用本行世界卡方可享受優惠。</p>\n<p>3.生日函將於世界卡持卡人生日當月前寄送。</p>\n<p>4.本優惠不適用項目依GQ SHOP規定為準。</p>\n<p>5.若有未盡事項以GQ SHOP說明為準。</p>\n<p>6.優惠提供期間倘因不可歸責本行之事宜，本行得變更或終止活動，並於本行網站公告。</p>\n</div>\n</div>\n</div>\n</div>",
+                                    "Link Type": "",
+                                    "Link Text": "",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "1194445d-04ca-4f57-81c4-29bbe36912e1",
+                                    "ItemName": "SimpleGraphicTabItemLv2 7"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "台北文華東方酒店芳療中心禮遇",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n    <!-- richtext 欄位 -->\n世界卡貴賓享任一芳療療程9折優惠，2人(含持卡人本人)以內享芳療中心折扣優惠\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">台北文華東方酒店芳療中心禮遇</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>優惠期間:2023/1/1~12/31<br />\n世界卡貴賓享任一芳療療程9折優惠，2人(含持卡人本人)以內享芳療中心折扣優惠</p>\n</div>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<!-------------------------------------- 注意事項 start -------------------------------------->\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<!-------------------------------------- 內容 start -------------------------------------->\n<!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p><span class=\"cubre-u-stress -og\">台北文華東方酒店</span></p>\n<ol class=\"cubre-m-list\">\n    <li>本優惠專案採預約制，請於使用2日前以電話預約及確認相關優惠限制。</li>\n    <li>本優惠專案一僅限芳療療程，恕不適用芳療中心其他產品及芳療禮劵銷售。</li>\n    <li>本優惠專案限世界卡本人刷卡使用（亞洲萬里通聯名卡世界卡不適用），限2人（含持卡人本人）以內享芳療中心折扣優惠。</li>\n    <li>本優惠專案之芳療中心折扣以原價計算，並須另依原價支付10%服務費。</li>\n    <li>本優惠專案恕不得與其他優惠、抵用券等同時併用，且不得要求折抵現金、退款或轉讓。</li>\n    <li>請於結帳前告知使用信用卡優惠，本優惠手機信用卡(行動支付)不適用。</li>\n    <li>台北文華東方酒店擔保提供活動內容符合消費者保護法、免責聲明及相關法規，其他未盡事宜，以台北文華東方酒店規定為準。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 內容 end -------------------------------------->\n</div>\n</div>\n<!-------------------------------------- 注意事項 end -------------------------------------->\n</div>\n</div>\n</div>",
+                                    "Link Type": "",
+                                    "Link Text": "",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "2a8a95ec-4beb-4a3a-8832-593935d7b52d",
+                                    "ItemName": "SimpleGraphicTabItemLv2 5"
+                                }
+                            ]
+                        },
+                        {
+                            "Tab": "小樹點(信用卡)禮遇",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "21f5f4c1-c0cc-4ce5-9d97-829ada2cf8c1",
+                            "ItemName": "SimpleGraphicTabItemLv1 2",
+                            "children": [
+                                {
+                                    "Enable Big Card": "",
+                                    "Display Mode": "{6F3DD4A0-F4F2-499A-AD43-19505761E673}",
+                                    "PC Image Alt": "",
+                                    "PC Image": "https://www.cathaybk.com.tw/cathaybk/-/media/e0694742857f46e98e93e421bfb2a0ee?v=1",
+                                    "Mobile Image Alt": "",
+                                    "Mobile Image": "https://www.cathaybk.com.tw/cathaybk/-/media/a642b47536244908928881eb18fbb192?v=1",
+                                    "Title": "尊榮禮遇兌換",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n    <!-- richtext 欄位 -->\n    世界卡尊享小樹點(信用卡)兌換8大高爾夫球場、9大頂級飯店優惠。\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">世界卡 尊榮禮遇兌換專區</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>活動期間：即日起～2022/12/31<br />\n世界卡尊享小樹點(信用卡)兌換揚昇、桃園、老爺關西等8大高爾夫球場，苗栗泰安觀止、日月潭雲品溫泉酒店、華泰瑞苑墾丁賓館、宜蘭力麗威斯汀、花蓮秧悅美地、花蓮理想大地、高雄H2O水京棧、雲林華山觀止、台南晶英酒店等9大頂級飯店一泊一食或二食，以及附駕司機尊榮包車服務，讓您與家人摯友的歡聚時光更顯獨特自在，世界卡全心相伴豐盛體驗。</p>\n<p><a rel=\"noopener noreferrer\" href=\"https://www.freeliving.com.tw/EVENT/cathaybk/reward/index.aspx\" target=\"_blank\">立即兌換</a></p>\n<p>※亞洲萬里通聯名卡世界卡不適用。</p>\n</div>\n</div>\n</div>\n</div>",
+                                    "Link Type 1": "{722CB235-048F-400C-96FE-6028AA713D0E}",
+                                    "Link 1": "https://www.freeliving.com.tw/EVENT/cathaybk/reward/index.aspx",
+                                    "Link Text 1": "立即兌換",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "8654fa32-7ea4-4d80-9846-84ccc91d700e",
+                                    "ItemName": "PuzzleImageItem 1"
+                                },
+                                {
+                                    "Display Mode": "",
+                                    "PC Image Alt": "",
+                                    "PC Image": "https://www.cathaybk.com.tw",
+                                    "Mobile Image Alt": "",
+                                    "Mobile Image": "https://www.cathaybk.com.tw",
+                                    "Title": "小樹點(信用卡)回饋",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n     <font _mstmutation=\"1\" _msthash=\"46540\" _msttexthash=\"439402522\">國內消費享0.6%小樹點(信用卡)回饋。</font><br/>\n    <font _mstmutation=\"1\" _msthash=\"46540\" _msttexthash=\"439402522\">海外消費單筆滿NT$500享0.9%小樹點(信用卡)回饋。</font>\n</div>",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">優惠期間 2022/1/1~2022/12/31</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<ol class=\"cubre-m-list -disc\">\n    <li>國內消費享0.6%小樹點(信用卡)回饋。</li>\n    <li>海外消費單筆滿NT$500享0.9%小樹點(信用卡)回饋。</li>\n</ol>\n<p class=\"cubre-u-note\">*詳細點數轉換說明請參閱<a class=\"cubre-a-link\" href=\"https://www.cathaybk.com.tw/cathaybk/personal/news/announcement/2021/0412AnnounceInfo/\">信用卡紅利點數轉換「小樹點(信用卡)」公告</a>。</p>\n</div>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<!-------------------------------------- 注意事項 start -------------------------------------->\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<!-------------------------------------- 內容 start -------------------------------------->\n<!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<ol class=\"cubre-m-list\">\n    <li>持卡人海外刷卡消費2021/6/27起以當期帳單消費贈送0.6%小樹點(信用卡)回饋，及次期帳單贈送差額方式回饋。</li>\n    <li>本回饋優惠不包含信用卡相關利息及費用（包含但不限於利息／年費／掛失費／預借現金手續費／違約金／國外交易手續費／調閱簽帳單手續費、補發帳單手續費等非消費款項）、預借現金、帳單分期、單筆消費分期（刷卡樂分期）、通信貸款、餘額代償金額及經本行公告除外之專案、稅款、學費、公用事業費用（包含但不限於中華電信電話／網路通訊／影音服務等相關費用及附加費）、路邊停車費、公務機關各項費用、透過繳費平台（如公務機關信用卡繳費平台，含公務機關／國營事業／公立醫療院所等、電子化繳費稅處理平台、醫指付、本行CUBE網銀或CUBE App線上繳費服務）繳納之費用、代繳國泰人壽「躉繳／投資型／利率變動型年金」保單、代扣基金、悠遊卡加值、一卡通加值、icash加值、便利超商消費、透過聯合信用卡處理中心小額支付平台之特約商店之消費（如便利超商、連鎖速食店、停車費等）、全聯福利中心消費、eTag儲值／eTag智慧停車費代扣繳、遠東SOGO百貨貴賓廳之消費金額、國壽不動產租金代收、COSTCO店內（包含Costco線上購物及Costco加油站）之VISA金融卡消費、其他經本行公告排除之項目。若代繳國泰人壽「傳統型壽險」保費 (不含躉繳) ，2021/6/27起以當期帳單消費贈送0.3%小樹點(信用卡)回饋。</li>\n    <li>世界卡享哩程兌換，哩程兌換細節依本行「小樹點(信用卡)」兌換辦法辦理。</li>\n    <li>世界卡2021/6/27起將僅適用小樹點(信用卡)回饋方案。</li>\n    <li>亞洲萬里通世界卡不適用本優惠。</li>\n    <li>本行保留變更及修改之權利。優惠提供期間倘因不可歸責本行之事宜，本行得變更或終止活動，並於本行網站公告。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 內容 end -------------------------------------->\n</div>\n</div>\n<!-------------------------------------- 注意事項 end -------------------------------------->\n</div>\n</div>\n</div>",
+                                    "Link Type 1": "",
+                                    "Link Text 1": "",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "c1a41cc8-0cae-4bee-9c8a-12e597cffa2b",
+                                    "ItemName": "PuzzleImageItem 2"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "尊榮禮遇兌換",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\n<!-- richtext 欄位 -->\n世界卡尊享小樹點(信用卡)兌換高爾夫球場、頂級飯店及附駕司機尊榮包車優惠。\n</div>",
+                                    "Tag": "",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<!-- 如無任何文字，請包含.cubre-o-block__textArea 做移除 -->\n<div class=\"cubre-o-block__textArea\">\n<!-- 如無標題，請包含.cubre-o-block__title 做移除 -->\n<div class=\"cubre-o-block__title\">\n<p class=\"cubre-a-blockTitle -textInside\">世界卡 尊榮禮遇兌換專區</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<!-- 詳細文字使用請參考：A1-6 richtext欄位 -->\n<p>活動期間：即日起～2023/12/31<br />\n世界卡尊享小樹點(信用卡)兌換美麗華、揚昇、桃園、老爺關西等高爾夫球場，苗栗泰安觀止、日月潭雲品溫泉酒店、華泰瑞苑墾丁賓館、花蓮秧悅美地、花蓮理想大地、高雄H2O水京棧、台南晶英酒店等頂級飯店一泊一食或二食，以及附駕司機尊榮包車服務，讓您與家人摯友的歡聚時光更顯獨特自在，世界卡全心相伴豐盛體驗。</p>\n<p><a rel=\"noopener noreferrer\" href=\"https://www.freeliving.com.tw/EVENT/cathaybk/reward/index.aspx\" target=\"_blank\">立即兌換</a></p>\n<p>※亞洲萬里通聯名卡世界卡不適用。</p>\n</div>\n</div>\n</div>\n</div>",
+                                    "Link Type": "{BDDD7950-259D-47D8-BC36-BC6A25600347}",
+                                    "Link": "https://www.freeliving.com.tw/EVENT/cathaybk/reward/index.aspx",
+                                    "Link Text": "立即兌換",
+                                    "Deletion": "0",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "Previous state": "{8D976253-B885-453B-BD25-054E0CB6A29A}",
+                                    "ItemId": "6da5942e-a94b-4fdb-bd3a-b4d757f1103c",
+                                    "ItemName": "Copy of SimpleGraphicTabItemLv2 1"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/65b085fcff734014be9a67c093217d3c?v=2",
+                                    "Title": "小樹點(信用卡)回饋",
+                                    "Description": "<div class=\"cubre-o-textContent -sm\">\r\n     <font _mstmutation=\"1\" _msthash=\"46540\" _msttexthash=\"439402522\">國內消費享0.6%小樹點(信用卡)回饋。</font><br/>\r\n    <font _mstmutation=\"1\" _msthash=\"46540\" _msttexthash=\"439402522\">海外消費單筆滿NT$500享0.9%小樹點(信用卡)回饋。</font>\r\n</div>",
+                                    "Tag": "",
+                                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                                    "Notice Title": "詳細說明",
+                                    "Notice Content": "<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__textArea\">\n<div class=\"cubre-o-block__subTitle\">\n<p class=\"cubre-a-blockTitle -textSub\">優惠期間 2023/1/1~2023/12/31</p>\n</div>\n</div>\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<ol class=\"cubre-m-list -disc\">\n    <li>國內消費享0.6%小樹點(信用卡)回饋。</li>\n    <li>海外消費單筆滿NT$500享0.9%小樹點(信用卡)回饋。</li>\n</ol>\n<p class=\"cubre-u-note\">*詳細點數轉換說明請參閱<a class=\"cubre-a-link\" href=\"https://www.cathaybk.com.tw/cathaybk/personal/news/announcement/2021/0412AnnounceInfo/\">信用卡紅利點數轉換「小樹點(信用卡)」公告</a>。</p>\n</div>\n</div>\n</div>\n</div>\n<!-- 段落之間上間距預設100px，若與上方元件為同一段落，需加上.-cling修改上間距，或手動選擇將上間距改為30px -->\n<div class=\"cubre-o-block\">\n<div class=\"cubre-o-block__wrap\">\n<div class=\"cubre-o-block__component\">\n<!-------------------------------------- 注意事項 start -------------------------------------->\n<div class=\"cubre-m-notice\">\n<div class=\"cubre-m-notice__title\">注意事項</div>\n<div class=\"cubre-m-notice__content\">\n<!-------------------------------------- 內容 start -------------------------------------->\n<!-- 內容程式碼請參考：C1-4-3-A 開合內元件 -->\n<div class=\"cubre-o-block -textInside\">\n<div class=\"cubre-o-block__wrap\">\n<!-- 如無文字內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent\">\n<ol class=\"cubre-m-list\">\n    <li>「海外消費」定義係指交易地點非臺灣或交易幣別非台幣之一般交易。</li>\n    <li>持卡人海外刷卡消費2021/6/27起以當期帳單消費贈送0.6%小樹點(信用卡)回饋，及次期帳單贈送差額方式回饋。</li>\n    <li>本回饋優惠不包含信用卡相關利息及費用（包含但不限於利息／年費／掛失費／預借現金手續費／違約金／國外交易手續費／調閱簽帳單手續費、補發帳單手續費等非消費款項）、預借現金、帳單分期、單筆消費分期（刷卡樂分期）、通信貸款、餘額代償金額及經本行公告除外之專案、稅款、學費、公用事業費用（包含但不限於中華電信電話／網路通訊／影音服務等相關費用及附加費）、路邊停車費、公務機關各項費用、透過繳費平台（如公務機關信用卡繳費平台，含公務機關／國營事業／公立醫療院所等、電子化繳費稅處理平台、醫指付、本行網路銀行或網路銀行App線上繳費服務）繳納之費用、代繳國泰人壽「躉繳／投資型／利率變動型年金」保單、代扣基金、悠遊卡加值、一卡通加值、icash加值、便利超商消費、透過聯合信用卡處理中心小額支付平台之特約商店之消費（如便利超商、連鎖速食店、停車費等）、全聯福利中心消費、eTag儲值／eTag智慧停車費代扣繳、遠東SOGO百貨貴賓廳之消費金額、國壽不動產租金代收、COSTCO店內（包含Costco線上購物及Costco加油站）之VISA金融卡消費、未經主管機關核准之境外投資交易平台(包括但不限於eToro)、其他經本行公告排除之項目。若代繳國泰人壽「傳統型壽險」保費 (不含躉繳) ，2021/6/27起以當期帳單消費贈送0.3%小樹點(信用卡)回饋。</li>\n    <li>世界卡享哩程兌換，哩程兌換細節依本行「小樹點(信用卡)」兌換辦法辦理。</li>\n    <li>世界卡2021/6/27起將僅適用小樹點(信用卡)回饋方案。</li>\n    <li>亞洲萬里通世界卡不適用本優惠。</li>\n    <li>本行保留變更及修改之權利。優惠提供期間倘因不可歸責本行之事宜，本行得變更或終止活動，並於本行網站公告。</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n<!-------------------------------------- 內容 end -------------------------------------->\n</div>\n</div>\n<!-------------------------------------- 注意事項 end -------------------------------------->\n</div>\n</div>\n</div>",
+                                    "Link Type": "",
+                                    "Link": "",
+                                    "Link Text": "",
+                                    "Deletion": "0",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "Previous state": "{68FE7487-F5EA-49C1-8A10-B4850956F157}",
+                                    "ItemId": "e655f306-1535-477c-b4ea-52812be8c9b6",
+                                    "ItemName": "SimpleGraphicTabItemLv2 1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Anchor Key": "blockname03",
+                    "Main Title": "專屬優惠 包山包海",
+                    "Main Subtitle": "美食旅遊頂級享受 有世界卡就夠了",
+                    "Notice Type 1": "",
+                    "Notice Title 1": "",
+                    "Notice Content 1": "",
+                    "Rejection": "0",
+                    "Advertising": "0",
+                    "ItemId": "176ebe29-e897-4e70-8a21-c1deac4bdffc",
+                    "ItemName": "Store Discount",
+                    "children": [
+                        {
+                            "Discount Type": "美饌饗宴",
+                            "Rejection": "0",
+                            "ItemId": "c5396d0a-c229-4ef3-b06b-e1a720c797a8",
+                            "ItemName": "Discount Type 1",
+                            "children": [
+                                {
+                                    "Discount Tag": "北部",
+                                    "Store Info": "{DA9CF2F4-5CAF-4BEB-B81D-D97ED594A10A}|{A9460F62-02E5-45D6-AAB3-B49C7DF897FB}|{830DAAC5-7751-4661-A546-16212AADBCC9}|{D3A10F2E-6DA5-460C-B03C-9CFE4ED89206}|{591E7559-7E56-4662-95F2-46F50F9D6A8A}|{D73480CC-4BE1-4D59-B224-7DAE221FBBC4}|{FF6BE111-6DC0-41F9-91F4-016EC7DAE580}|{4EDAB33E-5772-417D-964F-E41F34B2A11D}|{7D562A22-0092-4938-9713-1C2165992C9A}|{F77EF183-2DB9-4FBE-A4FF-3FC6BEB4AB36}|{EA4646B5-C8F1-4928-A752-8D45AD0E2C6A}|{8EC7CF43-C400-41F7-88DD-F72874650C9F}|{B62454B1-D277-465A-9157-7AC731748B16}|{B7364E6E-4311-4275-BA80-7FADDC29BD67}|{16E39252-BD94-4BF2-81A4-3B407D7C6D87}|{BCF26D31-85BF-4396-A09A-F1939BD4B997}|{5646F360-AE50-4648-82D3-5A153399733F}|{9D2F1661-092F-4573-BDEB-DF8923EDC09F}|{7EAAD787-1E64-4449-B189-7A4DAA61418F}|{2E81972E-2AD9-408B-8A7E-EAB3FC9AD8AA}|{D1F1DA8D-8804-488E-8210-B18514C29E37}|{08AA25D9-5842-4D91-BE8F-6D6BCE568107}|{35D8120F-1642-44F3-B6DB-88296D14F5C7}|{64A9E620-6C88-4EF8-A9A2-AD69063F0389}|{687792A0-4A29-48DD-A9BE-B78F7EFF5470}|{66C5E17B-B10F-44E8-90D6-DE446A256AEF}|{5433C9E2-83C5-4147-BE6D-8EDE4AA4B849}|{A63F500C-D432-4ABA-AEB4-F5815A62983A}|{59D7338C-8700-4AFC-A1F8-1781E90CA465}|{4EDAD151-3318-4B37-A760-4187251EB7E6}|{448F9F47-01A5-4F8D-8584-A9548DD25165}|{4FC9DBB6-4041-438F-8FD4-437630BE32A4}|{458275F9-8488-4077-986C-BE7FE404A1DB}|{94AA2012-ECF5-4091-B7B2-25218C517F3C}|{12FCABA1-4A82-4EE4-95B9-3AC984A385FB}|{C5195FF3-C3E5-46FF-9B57-7E9E23A542CE}",
+                                    "Communication ID": "",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "1308c698-5fd5-49c5-a5a3-ba23ae0180a8",
+                                    "ItemName": "Discount Tag 2"
+                                },
+                                {
+                                    "Discount Tag": "中北部",
+                                    "Store Info": "{12FCABA1-4A82-4EE4-95B9-3AC984A385FB}|{64A9E620-6C88-4EF8-A9A2-AD69063F0389}|{687792A0-4A29-48DD-A9BE-B78F7EFF5470}|{66C5E17B-B10F-44E8-90D6-DE446A256AEF}|{5433C9E2-83C5-4147-BE6D-8EDE4AA4B849}|{A63F500C-D432-4ABA-AEB4-F5815A62983A}",
+                                    "Rejection": "",
+                                    "ItemId": "3db53eeb-4408-4f57-92d1-26e4095fe4d6",
+                                    "ItemName": "Discount Tag 3"
+                                },
+                                {
+                                    "Discount Tag": "南部",
+                                    "Store Info": "{4EDAD151-3318-4B37-A760-4187251EB7E6}|{59D7338C-8700-4AFC-A1F8-1781E90CA465}|{448F9F47-01A5-4F8D-8584-A9548DD25165}|{4FC9DBB6-4041-438F-8FD4-437630BE32A4}|{C5195FF3-C3E5-46FF-9B57-7E9E23A542CE}",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "69b82be1-9405-426a-a5bd-10556bae8237",
+                                    "ItemName": "Discount Tag 4"
+                                },
+                                {
+                                    "Discount Tag": "東部",
+                                    "Store Info": "{458275F9-8488-4077-986C-BE7FE404A1DB}",
+                                    "Rejection": "",
+                                    "ItemId": "7944d716-a4c3-4a75-83df-3ecb78cce178",
+                                    "ItemName": "Discount Tag 5"
+                                },
+                                {
+                                    "Discount Tag": "全台分店",
+                                    "Store Info": "{94AA2012-ECF5-4091-B7B2-25218C517F3C}",
+                                    "Rejection": "",
+                                    "ItemId": "70ca8e20-f95b-4b77-9917-4d9568c18e4c",
+                                    "ItemName": "Discount Tag 6"
+                                }
+                            ]
+                        },
+                        {
+                            "Discount Type": "旅遊交通",
+                            "Rejection": "0",
+                            "Advertising": "0",
+                            "ItemId": "818a2715-d833-4d71-9c4f-5d8c609a3f29",
+                            "ItemName": "Discount Type 2",
+                            "children": [
+                                {
+                                    "Discount Tag": "機場",
+                                    "Store Info": "{41408E64-EDB1-4DB0-A84F-8963272465A3}|{D199413F-1619-4937-84F6-A78B31CCABF1}|{AE262CFB-59B2-48D8-9B0C-7A452DBA10EE}|{7D4BF23C-D2CB-4EA4-A4F8-5522F01FD5E8}|{4B730266-B9FD-4CC6-9C96-1A845DC95F0E}|{AA473745-C85C-4753-8658-AA00D7BF0B27}|{184A87E0-073D-4602-ACB2-08219D159F5F}|{7634ED5F-FE2F-4195-AEB2-9AA6EC56CFCD}|{CDDF2D6C-B152-4278-9278-5EB174091DFB}|{D6A5F03D-F222-4F5C-B55F-E329AF6768A0}",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "8e55e149-6959-47bd-a332-d196c203083d",
+                                    "ItemName": "Discount Tag 2"
+                                },
+                                {
+                                    "Discount Tag": "海外購物",
+                                    "Store Info": "{AA473745-C85C-4753-8658-AA00D7BF0B27}",
+                                    "Rejection": "",
+                                    "ItemId": "a17d1019-98be-459e-87ee-b3bcd4facfe5",
+                                    "ItemName": "Discount Tag 3"
+                                },
+                                {
+                                    "Discount Tag": "旅遊",
+                                    "Store Info": "{4B730266-B9FD-4CC6-9C96-1A845DC95F0E}|{7D4BF23C-D2CB-4EA4-A4F8-5522F01FD5E8}|{184A87E0-073D-4602-ACB2-08219D159F5F}",
+                                    "Rejection": "",
+                                    "ItemId": "d028bdc9-32ad-417c-8727-a3a3458cc56f",
+                                    "ItemName": "Discount Tag 4"
+                                },
+                                {
+                                    "Discount Tag": "保險",
+                                    "Store Info": "{7634ED5F-FE2F-4195-AEB2-9AA6EC56CFCD}|{AE262CFB-59B2-48D8-9B0C-7A452DBA10EE}",
+                                    "Rejection": "",
+                                    "ItemId": "2290b92d-c883-4a98-957e-79387579b786",
+                                    "ItemName": "Discount Tag 5"
+                                },
+                                {
+                                    "Discount Tag": "救援",
+                                    "Store Info": "{D6A5F03D-F222-4F5C-B55F-E329AF6768A0}",
+                                    "Rejection": "",
+                                    "ItemId": "edf4ea71-a4ec-4dcd-a2ed-bd723185ad9b",
+                                    "ItemName": "Discount Tag 6"
+                                }
+                            ]
+                        },
+                        {
+                            "Discount Type": "飯店住宿",
+                            "ItemId": "66ed18c7-6dd6-4c54-a205-4712c988ae48",
+                            "ItemName": "Discount Type 3",
+                            "children": [
+                                {
+                                    "Discount Tag": "北部",
+                                    "Store Info": "{BD90B786-F156-4547-8E45-27A5952C6B44}|{B83F5685-D281-45D5-B4BB-DC805D246D0C}|{A394D6C0-ED11-49C4-AD1D-C4DA0501A52F}|{C58410DF-5628-456B-8664-B71303EB8C2B}|{CB5B5CD3-2CBF-4489-810F-60295D3B0B43}|{A40B8802-4AEC-460F-A16C-0219046C2467}|{47500E84-7403-4A4B-A435-C78F1842F1C4}|{D73FE133-9804-4BB2-88D1-11C5C2C2812B}|{CF99CD6C-FCA0-44E4-A34F-E2349E3D4D0D}|{9A6F17E9-273A-41CC-8822-E34474820678}|{0C9E9A85-0F75-4320-8BF3-6F184D89D2B8}|{BC0E694B-E45D-4CAC-A5DD-6A41199448BA}|{6B8A0971-8379-45FE-90D9-FE557D49925F}|{69D83FFE-C604-47A9-B404-3371B11F01AE}|{2D42647F-667E-49F3-B915-AE6D14C95940}",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "7bfdfe42-2e2e-4084-b445-b7a38ccf7ddc",
+                                    "ItemName": "Discount Tag 2"
+                                },
+                                {
+                                    "Discount Tag": "南部",
+                                    "Store Info": "{CF99CD6C-FCA0-44E4-A34F-E2349E3D4D0D}|{A394D6C0-ED11-49C4-AD1D-C4DA0501A52F}|{C58410DF-5628-456B-8664-B71303EB8C2B}|{9A6F17E9-273A-41CC-8822-E34474820678}|{0C9E9A85-0F75-4320-8BF3-6F184D89D2B8}|{BF2183A6-6695-475A-A0B2-E006467388AF}",
+                                    "Rejection": "",
+                                    "ItemId": "9e05d386-dd72-4dd3-baa7-4f8ee20f76ea",
+                                    "ItemName": "Discount Tag 4"
+                                },
+                                {
+                                    "Discount Tag": "東部",
+                                    "Store Info": "{BC0E694B-E45D-4CAC-A5DD-6A41199448BA}|{7B428964-8394-46ED-890E-03D457FA757C}|{6B8A0971-8379-45FE-90D9-FE557D49925F}|{69D83FFE-C604-47A9-B404-3371B11F01AE}|{2D42647F-667E-49F3-B915-AE6D14C95940}",
+                                    "Rejection": "0",
+                                    "ItemId": "c9f8ce86-9511-407d-a280-be1940f63372",
+                                    "ItemName": "Discount Tag 5"
+                                }
+                            ]
+                        },
+                        {
+                            "Discount Type": "運動生活",
+                            "Rejection": "0",
+                            "ItemId": "f59400f0-fc4a-46d0-ab65-9b56a168a7af",
+                            "ItemName": "Discount Type 4",
+                            "children": [
+                                {
+                                    "Discount Tag": "高爾夫",
+                                    "Store Info": "{8958730A-5A36-4337-B3DB-8C769E234E6F}|{1DDA19DB-0453-4B24-A1E4-EA8B5D90453E}|{AEB786E3-F45D-419E-AA42-A6A3A152BC48}|{253AE04A-D6F5-45A1-A5BA-8581F0DF76D8}|{FA48203F-1022-4A1E-A4DC-CBDAF3E83A0F}|{63F98F97-E882-40A2-BF4B-1531A90737C2}|{678289BB-6D0A-403B-9423-3E05887E0F2D}|{3B02F866-AEBE-44BD-AABE-95BE2038F843}|{0006184D-E3C9-44EB-80B9-DD30FDCFD807}|{CED8DC08-09F8-4BC1-AB5B-71A08EF0763C}|{C891E949-719C-49D1-AD12-CB7773999B7F}",
+                                    "Rejection": "0",
+                                    "Advertising": "0",
+                                    "ItemId": "f12d5623-130f-4d42-b1f8-32565633e3ed",
+                                    "ItemName": "Discount Tag 3"
+                                },
+                                {
+                                    "Discount Tag": "健身",
+                                    "Store Info": "{87D1B961-71CA-4C89-9A39-9E9A653F101B}",
+                                    "ItemId": "36c6f788-097c-4ccd-a950-ec234ba4730c",
+                                    "ItemName": "Discount Tag 2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Anchor Key": "blockname07",
+                    "Main Title": "CUBE App卡友服務",
+                    "Main Subtitle": "即時折抵消費",
+                    "Major Button Link": "https://www.cathaybk.com.tw/cathaybk/promo/event/ebanking/product/APP-WEB/index.html",
+                    "Major Button Text": "馬上下載App",
+                    "Minor Button Link": "https://www.cathaybk.com.tw/cathaybk/personal/event/overview/#category=Credit%20Card&filter=text",
+                    "Minor Button Text": "更多點數兌換",
+                    "Notice Type": "{E62C3483-917A-47C4-BB26-FC3FCE747CEE}",
+                    "Notice Title": "注意事項",
+                    "Notice Content": "<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<ol class=\"cubre-m-list\">\n <li>小樹點(信用卡)價值為每1點等值新台幣1元，各折抵/兌換通路使用規則依各活動網頁或合作商店公告為準。</li>\n <li>於商店消費欲使用小樹點(信用卡)折抵當次消費金額者，請事先告知結帳人員或依線上購物訂購網頁說明操作。</li>\n <li>本行保留變更或終止本活動之權利，並保留同意持卡人參加本活動與否之權利。</li>\n <li>優惠提供期間倘因不可歸責於本行之事由，本行得變更或終止活動內容，並於本行網站上公告。</li>\n</ol>\n</div>\n</div>",
+                    "Rejection": "",
+                    "ItemId": "a8967864-03b7-464e-87de-78ab48afba1c",
+                    "ItemName": "PictureStep2",
+                    "children": [
+                        {
+                            "Tab Text": "如何切換權益",
+                            "Rejection": "0",
+                            "ItemId": "3de16a54-5748-481d-8e67-329895bd2f9e",
+                            "ItemName": "PictureStep Tab 1",
+                            "children": [
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/4028c278a2f449d4b415fc0a68a7522d?v=1",
+                                    "Title": "點選CUBE權益方案",
+                                    "Description": "",
+                                    "Rejection": "0",
+                                    "ItemId": "befa8942-6147-4c19-b162-fd8e4ee8d2b7",
+                                    "ItemName": "PictureStep Item 1"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/ae794543df9f4da0ad48ae0cb78e7aa7?v=1",
+                                    "Title": "選擇方案",
+                                    "Description": "",
+                                    "Rejection": "0",
+                                    "ItemId": "2a00f663-322e-4798-8cb4-080df0c022c3",
+                                    "ItemName": "PictureStep Item 2"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/a83e0843642c4bd788189494b4d82f77?v=1",
+                                    "Title": "點切換此方案",
+                                    "Description": "",
+                                    "Rejection": "0",
+                                    "ItemId": "8f0ddd05-609c-4ef1-bb2b-072ed7d8bb83",
+                                    "ItemName": "PictureStep Item 3"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/238397db1e02438a8797bfd06e30da95?v=1",
+                                    "Title": "切換完成",
+                                    "Description": "",
+                                    "Rejection": "0",
+                                    "ItemId": "a8f9e2ef-4509-4e7e-9463-68cd66700e7d",
+                                    "ItemName": "PictureStep Item 4"
+                                }
+                            ]
+                        },
+                        {
+                            "Tab Text": "如何領取回饋加碼",
+                            "Rejection": "0",
+                            "ItemId": "7fcb62d8-6b4e-4611-917c-c8d386b13b38",
+                            "ItemName": "PictureStep Tab 2",
+                            "children": [
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/df936486795043169acc03ae00397eae?v=1",
+                                    "Title": "點選CUBE卡權益方案",
+                                    "Description": "",
+                                    "Rejection": "0",
+                                    "ItemId": "b2486a17-30bf-4fb3-8e12-0fb0a3900d1e",
+                                    "ItemName": "PictureStep Item 1"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/24d90109fc79474d96ddc0f524bad2f9?v=1",
+                                    "Title": "馬上領取CUBE回饋加碼",
+                                    "Description": "",
+                                    "Rejection": "0",
+                                    "ItemId": "2b29514e-cab4-4c2c-9af2-099b17318a81",
+                                    "ItemName": "PictureStep Item 2"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/28a149d22f3f40f58585934e45c9b7c8?v=1",
+                                    "Title": "領取優惠活動",
+                                    "Description": "",
+                                    "Rejection": "0",
+                                    "ItemId": "c65af3e3-be28-425b-b2df-b27951780b5a",
+                                    "ItemName": "PictureStep Item 3"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/a75c743ca7de48d4a2c9f04693003189?v=1",
+                                    "Title": "領取成功",
+                                    "Description": "",
+                                    "Rejection": "0",
+                                    "ItemId": "acd193c8-b77c-4268-8473-95ab3ac5994f",
+                                    "ItemName": "PictureStep Item 4"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/d0bb6b6e6d684cd4b8eea7ebdf92617c?v=1",
+                                    "Title": "查看活動回饋明細",
+                                    "Description": "",
+                                    "Rejection": "0",
+                                    "ItemId": "16eb1a1b-0f25-46ec-b25d-a7cb11eac8ca",
+                                    "ItemName": "PictureStep Item 5"
+                                }
+                            ]
+                        },
+                        {
+                            "Tab Text": "即時折抵消費",
+                            "Rejection": "0",
+                            "ItemId": "cf47db21-58d6-408e-9fdb-db0e6fc0db2d",
+                            "ItemName": "PictureStep Tab 3",
+                            "children": [
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/1cc699e7fa574537af3261a855d21921?v=1",
+                                    "Title": "點選CUBE卡權益方案",
+                                    "Description": "",
+                                    "Rejection": "0",
+                                    "ItemId": "e489e7af-1261-4291-a27e-181330ec569a",
+                                    "ItemName": "PictureStep Item 1"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/3054ffa5a742487283b0c6463986e1fb?v=2",
+                                    "Title": "點選點數折抵",
+                                    "Description": "",
+                                    "Rejection": "0",
+                                    "ItemId": "376f611d-6b7b-40f2-9645-4870cbc38e1e",
+                                    "ItemName": "PictureStep Item 2"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/eefc60461bdd4dc18de383f08d3b361d?v=2",
+                                    "Title": "選擇一筆消費",
+                                    "Description": "",
+                                    "Rejection": "0",
+                                    "ItemId": "94dd2f6d-c8b7-4ca1-98b1-f4bc1642228c",
+                                    "ItemName": "PictureStep Item 3"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/e7580276b288428489557a3d22b9dda9?v=2",
+                                    "Title": "進行點數折抵",
+                                    "Description": "",
+                                    "Rejection": "0",
+                                    "ItemId": "1fb907bb-ce76-41d5-9197-03daa18e88a5",
+                                    "ItemName": "PictureStep Item 4"
+                                },
+                                {
+                                    "Image Alt": "",
+                                    "Image": "https://www.cathaybk.com.tw/cathaybk/-/media/0c4939e5668a4da8a8a1ac71b50cc07f?v=2",
+                                    "Title": "折抵完成",
+                                    "Description": "",
+                                    "Rejection": "0",
+                                    "ItemId": "8cd9f052-4bcf-4719-bf48-ce5bc77f4482",
+                                    "ItemName": "PictureStep Item 5"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Anchor Key": "blockname06",
+                    "Main Title": "卡片申辦資訊",
+                    "Main Subtitle": "豐富尊榮禮遇 享受用卡時光",
+                    "Description": "貴賓頂級享受 遨遊全世界",
+                    "Credit Card Image 1 Alt": "",
+                    "Credit Card Image 1": "https://www.cathaybk.com.tw/cathaybk/-/media/3fb00ebc43804ab1afa6cc2e9f1c8fe1?v=1",
+                    "Credit Card Image 2 Alt": "",
+                    "Credit Card Image 2": "https://www.cathaybk.com.tw",
+                    "Credit Card Image 3 Alt": "",
+                    "Credit Card Image 3": "https://www.cathaybk.com.tw",
+                    "White Button Text": "加辦附卡",
+                    "White Button Link": "https://www.cathaybk.com.tw/eservice/supplementarycard/IdCheckS1",
+                    "Rejection": "",
+                    "ItemId": "834a9872-4b5d-4ec5-8d34-5777e031df77",
+                    "ItemName": "Credit Card Apply Info",
+                    "children": {
+                        "Category Name": "卡片基本資訊",
+                        "ItemId": "35820b3e-c2b2-4b9c-b9d7-5b7e8637d11e",
+                        "ItemName": "Category Name 1",
+                        "children": [
+                            {
+                                "Title": "卡面介紹",
+                                "Context": "<div class=\"cubre-o-block__component\">\n<table class=\"cubre-m-commonTable\">\n    <tbody>\n        <tr>\n            <th class=\"greenHead\">全新卡面</th>\n            <th class=\"greenHead\">原卡面</th>\n        </tr>\n        <tr>\n            <td class=\"tac\" style=\"text-align: center;\"><img alt=\"\" width=\"50%\" src=\"-/media/10f4cff16274443c8c3ab274e38d1fb5.png?sc_lang=en&amp;hash=8A60665B0A3DF373F5BD1F1E2DE1F88D\" /><br />\n            </td>\n            <td class=\"tac\" style=\"text-align: center;\"><img alt=\"\"  width=\"50%\" src=\"-/media/9006752280b54c81b2f990421a6a614e.png?sc_lang=en&amp;hash=24121DB7DE86933C703890533E0C8789\" /></td>\n        </tr>\n    </tbody>\n</table> \n</div>\n",
+                                "Rejection": "",
+                                "ItemId": "35510493-793d-405b-ac5b-fe5036fd29b8",
+                                "ItemName": "Copy of Apply Info"
+                            },
+                            {
+                                "Title": "辦卡資格",
+                                "Context": "<div class=\"cubre-o-block__wrap\">\n<!-- 如無richtext內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<!-- richtext 欄位 -->\n<ol class=\"cubre-m-list\">\n    <li>成年人可申請正卡。附卡申請人需為正卡申請人之父母、兄弟姊妹、配偶、配偶之父母或年滿15歲之子女。</li>\n    <li>附卡申請人為未成年人，須法定代理人(即父母/監護人)共同簽名同意。</li>\n    <li>現職需滿一年且年收入達NT$200萬。</li>\n</ol>\n</div>\n</div>\n</div>",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "a30da98e-4333-4100-943a-8c126b0c8b06",
+                                "ItemName": "Apply Info 1"
+                            },
+                            {
+                                "Title": "申辦方式",
+                                "Context": "<div class=\"cubre-o-block -textInside\">\n    <div class=\"cubre-o-block__wrap\">\n        <div class=\"cubre-o-block__component\">\n            \n\n<div class=\"cubre-o-textContent \">\n    \n                                                    <ol class=\"cubre-m-list\">\n                                                        <li>已為本行信用卡/活存(儲)帳戶之客戶，立即線上申辦，免簽名寄回。</li>\n                                                        <li>未與本行有業務往來者:\n                                                            <ol class=\"cubre-m-list -bracket\">\n                                                                <li>線上申辦\n                                                                 <ol class=\"cubre-m-list -disc\">\n                                                                 <li>具有他行信用卡，立即線上申辦，免簽名寄回。</li>\n                                                                 <li>非上述者，線上完成資料填寫後，請列印簽名檢附申請文件寄回本行申請。</li>\n                                                                 </ol>\n\n                                                                   </li>\n                                                                <li>臨櫃申辦<br>\n                                                                    需備妥身分證正、反面影本及扣繳憑單或近三個月薪資入帳存摺之內頁及封面影本，至鄰近分行辦理。\n                                                                </li>\n                                                            </ol>\n                                                        </li>\n                                                    </ol>\n                                                \n</div>\n\n        </div>\n        <!-- 如無連結，請包含.cubre-o-block__action 做移除 -->\n        <div class=\"cubre-o-block__action\">\n            \n\n\n\n<div class=\"cubre-o-action -ver\">\n    <!-- 按鈕包含.cubre-o-action__item 唯一個單位 -->\n    <div class=\"cubre-o-action__item\">\n        \n\n\n\n<!-- 有三種icon可選擇：\n    內連src=\"/common/images/icon/link/arrow.svg\"，\n    外連src=\"/common/images/icon/link/link-out.svg\"，\n    錨點src=\"/common/images/icon/link/anchor.svg\"\n-->\n<!-- 功能有兩種：內外連、頁面錨點(需搭配錨點元件) -->\n<a class=\"cubre-a-iconLink \" href=\"https://www.cathaybk.com.tw/cathaybk/locations/\">\n    <span class=\"cubre-a-iconLink__text\">查詢分行據點</span>\n    <img class=\"cubre-a-iconLink__img\" src=\"-/media/F96E3F7DE0144871903BBF7667C1ACB5.ashx\" alt=\"\">\n    <img class=\"cubre-a-iconLink__img -hover\" src=\"-/media/D3091FD6BF9241719AEE41EEA545A707.ashx\" alt=\"\">\n</a>\n\n    </div>\n    </div>\n\n        </div>\n        </div>\n</div>",
+                                "Rejection": "",
+                                "ItemId": "36ed36e2-9002-4458-b13f-c9cd9955a56c",
+                                "ItemName": "Apply Info 2"
+                            },
+                            {
+                                "Title": "年費說明",
+                                "Context": "<div class=\"cubre-o-block__wrap\">\n        <!-- 如無richtext內容，請包含.cubre-o-block__component 做移除 -->\n        <div class=\"cubre-o-block__component\">\n            \n\n<div class=\"cubre-o-textContent \">\n    <!-- richtext 欄位 -->\n    \n                                                    <ol class=\"cubre-m-list\">\n                                                        <li>正卡年費 NT$20,000、附卡免年費</li>\n                                                        <li>免年費條件：\n                                                            <ol class=\"cubre-m-list -bracket\">\n                                                                <li>首年度<br>\n                                                                    正卡人首次申辦世界卡且於本行近三個月平均往來資產達 NT$300 萬元(含)以上且於當月份專案名單內。每戶限回饋一次。\n                                                                </li>\n                                                                <li>次年度起<br>\n                                                                    正、附卡累計年消費達 NT$80 萬(含)以上者，可享次年免年費。<br>\n                                                                    正、附卡累計年消費達 NT$40 萬(含)以上者，可享次年年費 5 折優惠。\n                                                                </li>\n                                                            </ol>\n                                                        </li>\n                                                    </ol>\n                                                \n</div>\n\n        </div>\n        </div>",
+                                "ItemId": "ed09642f-112b-4b9d-819f-480e1b4571cb",
+                                "ItemName": "Apply Info 3"
+                            },
+                            {
+                                "Title": "提醒事項",
+                                "Context": "<div class=\"cubre-o-block__wrap\">\n<!-- 如無richtext內容，請包含.cubre-o-block__component 做移除 -->\n<div class=\"cubre-o-block__component\">\n<div class=\"cubre-o-textContent \">\n<!-- richtext 欄位 -->\n<ol class=\"cubre-m-list\">\n    <p>持卡人於網路商店購物時，應注意是否為跨境交易。凡特約商店所在地登記為國外者或交易(含辦理退款)之貨幣非為新臺幣者，交易須收取國外交易手續費，相關費用依信用卡約定條款第十六條國外交易授權結匯辦理，請參閱本行信用卡約定條款約定。<span style=\"color: #ff0000;\">註：網頁以「tw」為網域名稱者，或於我國有設立分公司者，並非當然屬於我國境內特約商店，持卡人仍須注意是否為跨境交易。</span></p>\n</ol>\n</div>\n</div>\n</div>",
+                                "Communication ID": "業聯單：0080411113724",
+                                "Rejection": "0",
+                                "Advertising": "0",
+                                "ItemId": "4e322e4e-a376-4fee-be55-656b237d4622",
+                                "ItemName": "Copy of Apply Info 3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Anchor Key": "blockname07",
+                    "Title": "你可能想知道...",
+                    "QA": "{1D17BABA-1FC1-4BB0-8EAA-9B4F87E6697B}|{D5350DE4-ACC7-4CF5-AD41-7B06F8316E54}|{71A9A84C-8A12-4B62-A07D-E572E6857298}",
+                    "ItemId": "72d3c827-cde5-4457-8e44-5fb13b5ee0eb",
+                    "ItemName": "FAQ"
+                },
+                {
+                    "Main Title": "推薦卡片",
+                    "Credit Cards Info": "{FFABFAA6-29DF-4370-8172-8451463649D7}|{10A9341C-F2C3-4D46-A976-EF3443EFEEE6}|{E07955FC-4CF6-4DDC-B45B-8E9982520971}|{0E94E258-C604-4A9D-9B10-26FA68B9C507}|{15FB5B11-2F90-46F0-8CBB-65148B89C77F}",
+                    "Rejection": "0",
+                    "ItemId": "b52836d1-0c0d-46ec-9182-423fef9d253a",
+                    "ItemName": "Card List"
+                }
+            ]
+        }
+    ]
+}

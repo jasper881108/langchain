@@ -49,7 +49,7 @@ if __name__ == '__main__':
     parser.add_argument('--top_k', type=int, default=5)
     parser.add_argument('--knowledge_len', type=int, default=128)
     parser.add_argument('--cuda', type=bool, default=True)
-    parser.add_argument('--model', type=str, default='chatglm', choices=['gpt-3.5-turbo', 'gpt-4', 'chatglm', 'vicuna', 'chatglm-sft-lora', 'chatglm-ppo-lora-delta', 'chatglm-dpo-lora-delta' ])
+    parser.add_argument('--model', type=str, default='gpt-4', choices=['gpt-3.5-turbo', 'gpt-4', 'chatglm', 'vicuna', 'chatglm-sft-lora', 'chatglm-ppo-lora-delta', 'chatglm-dpo-lora-delta' ])
     parser.add_argument('--public_embedding', type=bool, default=False)
     parser.add_argument('--threshold', type=float, default=0.5)
     parser.add_argument('--question_n', type=int, default=1)

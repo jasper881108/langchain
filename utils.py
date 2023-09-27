@@ -4,7 +4,7 @@ from langchain.document_loaders import TextLoader
 from vectorstores import LAB_FAISS
 from embeddings import LabOpenAIEmbeddings, LabHuggingFaceEmbeddings
 
-def read_and_process_knowledge_to_langchain_docs(knowledge_file_path, separator = "\n",chunk_size=64, chunk_overlap=0):
+def read_and_process_knowledge_to_langchain_docs(knowledge_file_path, separator = "\n",chunk_size=128, chunk_overlap=0):
     documents = TextLoader(knowledge_file_path).load()
     text_splitter = CharacterTextSplitter(separator = separator,chunk_size=chunk_size, chunk_overlap=chunk_overlap)
     docs = text_splitter.split_documents(documents)
@@ -41,3 +41,8 @@ def initial_or_read_langchain_database_faiss(documents, embedding_function, db_p
 
     return vectordb
 
+def read_and_make_knowlegde_to_url(knowledge_file_path, url_file_path, separator = "\n"):
+    knowledge =  open(knowledge_file_path, "r").read().split(separator)
+    url =  open(url_file_path, "r").read().split(separator)
+    
+    return dict(zip(knowledge,url))
